@@ -1,0 +1,602 @@
+[
+  {
+    "id": "nl-hub",
+    "title": "Nintendo Life — Hub",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-deku",
+    "title": "Nintendo Life — Deku",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-great-deku-tree-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-dodongo",
+    "title": "Nintendo Life — Dodongo",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-dodongo-cavern-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-jabu",
+    "title": "Nintendo Life — Jabu",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-lord-jabu-jabu-belly-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-forest",
+    "title": "Nintendo Life — Forest",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-forest-temple-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-fire",
+    "title": "Nintendo Life — Fire",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-fire-temple-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-ice",
+    "title": "Nintendo Life — Ice",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-ice-cavern-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-water",
+    "title": "Nintendo Life — Water",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-water-temple-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-well",
+    "title": "Nintendo Life — Well",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-bottom-of-the-well-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-shadow",
+    "title": "Nintendo Life — Shadow",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-shadow-temple-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-spirit",
+    "title": "Nintendo Life — Spirit",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-spirit-temple-walkthrough-twinrova-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-castle-final",
+    "title": "Nintendo Life — Castle Final",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-inside-ganondorfs-castle-walkthrough-final-dungeon-last-boss-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-proving",
+    "title": "Nintendo Life — Proving",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-gerudo-training-grounds-walkthrough-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-hall",
+    "title": "Nintendo Life — Hall",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-biggoron",
+    "title": "Nintendo Life — Biggoron",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-biggeron-sword-trading-sequence-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-fishing",
+    "title": "Nintendo Life — Fishing",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-fishing-guide-rewards-secrets-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-masks",
+    "title": "Nintendo Life — Masks",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-happy-mask-shop-quest-mask-of-truth-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-castle",
+    "title": "Nintendo Life — Castle",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-hyrule-castle-walkthrough-weird-egg-wake-up-cucco-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-woods",
+    "title": "Nintendo Life — Woods",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-lost-woods-path-guide-maze-directions-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-zora",
+    "title": "Nintendo Life — Zora",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-zora-river-zora-domain-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-fairies",
+    "title": "Nintendo Life — Fairies",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-great-fairy-fountain-locations-all-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-scarecrow",
+    "title": "Nintendo Life — Scarecrow",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-scarecrows-song-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-storms",
+    "title": "Nintendo Life — Storms",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-song-of-storms-change-weather-music-man-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-sun",
+    "title": "Nintendo Life — Sun",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-suns-song-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-epona",
+    "title": "Nintendo Life — Epona",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-horse-epona-how-to-get-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-cuccos",
+    "title": "Nintendo Life — Cuccos",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-cucco-locations-kakariko-village-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-treasure",
+    "title": "Nintendo Life — Treasure",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-treasure-chest-game-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-fortress",
+    "title": "Nintendo Life — Fortress",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-gerudo-fortress-apprentice-carpenters-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-desert",
+    "title": "Nintendo Life — Desert",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-mirage-desert-path-cross-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-arrows",
+    "title": "Nintendo Life — Arrows",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-bow-arrow-fire-ice-light-arrows-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-scale",
+    "title": "Nintendo Life — Scale",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-golden-scale-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-loach",
+    "title": "Nintendo Life — Loach",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-hylian-loach-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "nl-skull-rewards",
+    "title": "Nintendo Life — Skull Rewards",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-gold-skulltula-locations-rewards-switch-2",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-kokiri",
+    "title": "ZeldaCentral remake — Kokiri",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/kokiri-forest/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-deku",
+    "title": "ZeldaCentral remake — Deku",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/great-deku-tree/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-dodongo",
+    "title": "ZeldaCentral remake — Dodongo",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/dodongo-cavern/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-jabu",
+    "title": "ZeldaCentral remake — Jabu",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/lord-jabu-jabus-belly/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-time",
+    "title": "ZeldaCentral remake — Time",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/temple-of-time/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-forest",
+    "title": "ZeldaCentral remake — Forest",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/forest-temple/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-fire",
+    "title": "ZeldaCentral remake — Fire",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/fire-temple/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-ice",
+    "title": "ZeldaCentral remake — Ice",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ice-cavern/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-water",
+    "title": "ZeldaCentral remake — Water",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/water-temple/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-well",
+    "title": "ZeldaCentral remake — Well",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/bottom-of-the-well/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-shadow",
+    "title": "ZeldaCentral remake — Shadow",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/shadow-temple/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-spirit",
+    "title": "ZeldaCentral remake — Spirit",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/spirit-temple/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-fortress",
+    "title": "ZeldaCentral remake — Fortress",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/gerudo-fortress/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-proving",
+    "title": "ZeldaCentral remake — Proving",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/gerudo-proving-grounds/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-castle",
+    "title": "ZeldaCentral remake — Castle",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ganondorfs-castle/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-final",
+    "title": "ZeldaCentral remake — Final",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ganondorf-and-ganon/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-upgrades",
+    "title": "ZeldaCentral remake — Upgrades",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/equipment-upgrades/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-checklist",
+    "title": "ZeldaCentral remake — Checklist",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/100-completion-checklist/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-minigames",
+    "title": "ZeldaCentral remake — Minigames",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/mini-games/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-nocturne",
+    "title": "ZeldaCentral remake — Nocturne",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/nocturne-of-shadow/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zc-maps",
+    "title": "ZeldaCentral remake — Maps",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/maps/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "qf-beans",
+    "title": "QuestFern remake — Beans",
+    "url": "https://questfern.com/oot/guides/magic-beans/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "qf-castle",
+    "title": "QuestFern remake — Castle",
+    "url": "https://questfern.com/oot/guides/ganons-castle-walkthrough/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "qf-fairies",
+    "title": "QuestFern remake — Fairies",
+    "url": "https://questfern.com/oot/guides/great-fairy-fountains/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "qf-fortress",
+    "title": "QuestFern remake — Fortress",
+    "url": "https://questfern.com/oot/guides/gerudo-fortress/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "qf-hall",
+    "title": "QuestFern remake — Hall",
+    "url": "https://questfern.com/oot/guides/hall-of-fallen-foes/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "qf-minigames",
+    "title": "QuestFern remake — Minigames",
+    "url": "https://questfern.com/oot/guides/side-quests/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "qf-poes",
+    "title": "QuestFern remake — Poes",
+    "url": "https://questfern.com/oot/guides/big-poes/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "qf-shadow",
+    "title": "QuestFern remake — Shadow",
+    "url": "https://questfern.com/oot/guides/shadow-temple-walkthrough/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "qf-spirit",
+    "title": "QuestFern remake — Spirit",
+    "url": "https://questfern.com/oot/guides/spirit-temple-walkthrough/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "raider-biggoron",
+    "title": "Raider King — Biggoron",
+    "url": "https://raiderking.com/ocarina-of-time-remake-biggoron-sword-trading-sequence-walkthrough/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "raider-fire",
+    "title": "Raider King — Fire",
+    "url": "https://raiderking.com/ocarina-of-time-remake-fire-temple-walkthrough/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "raider-forest",
+    "title": "Raider King — Forest",
+    "url": "https://raiderking.com/ocarina-of-time-remake-forest-temple-walkthrough/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "raider-spirit",
+    "title": "Raider King — Spirit",
+    "url": "https://raiderking.com/ocarina-of-time-remake-spirit-temple-walkthrough/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "raider-water",
+    "title": "Raider King — Water",
+    "url": "https://raiderking.com/ocarina-of-time-remake-water-temple-walkthrough/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "lilly-water",
+    "title": "Lilly Hyrule — remake Water Temple",
+    "url": "https://lillyhyrule.com/zelda-walkthroughs-guides/ocarina-of-time-remake/ocarina-of-time-remake-water-temple/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "vgc-bottles",
+    "title": "VGC — all five remake bottles",
+    "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-empty-bottle-locations/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "vgc-proving",
+    "title": "VGC — remake Proving Grounds",
+    "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-full-gerudo-proving-grounds-walkthrough/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zx-bottles",
+    "title": "Zelda Xtreme — remake bottles and Poe rewards",
+    "url": "https://www.zeldaxtreme.com/ocarina-of-time-remake/bottles/",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "rpg-route",
+    "title": "RPG Site — remake minimalist 100% route",
+    "url": "https://www.rpgsite.net/guide/21671-the-legend-zelda-ocarina-time-remake-minimalist-100-walkthrough-all-items-gold-skulltula-tokens-heart-pieces",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "completion-checklist",
+    "title": "Nintendo Everything — remake completion checklist",
+    "url": "https://nintendoeverything.com/zelda-ocarina-of-time-100-percent-completion-guide",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  },
+  {
+    "id": "zsr-remake",
+    "title": "ZeldaSpeedRuns — remake differences",
+    "url": "https://www.zsr.gg/oot2026/general/remake-changes",
+    "accessed": "2026-11-23",
+    "edition": "Nintendo Switch 2 remake",
+    "kind": "walkthrough"
+  }
+]

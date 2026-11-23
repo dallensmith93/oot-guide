@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.netlify/
+node_modules/
+.env
+.env.*
+test-results/
+playwright-report/
+*.log

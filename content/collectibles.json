@@ -1,0 +1,2622 @@
+[
+  {
+    "id": "gs-001",
+    "type": "skulltula",
+    "number": 1,
+    "name": "Shop soil",
+    "region": "Kokiri Forest",
+    "sublocation": "Shop soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bottled Bug"
+    ],
+    "suggestedStage": "child-forest",
+    "instructions": "Release a bug into the soil behind the shop; defeat the emerging spider.",
+    "sourceIds": [
+      "c-vgc-kokiri"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-002",
+    "type": "skulltula",
+    "number": 2,
+    "name": "Twins' House branch",
+    "region": "Kokiri Forest",
+    "sublocation": "Twins' House branch",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "adult-forest",
+    "instructions": "Aim above the southeast Twins' House at its rear branch; Hookshot the spider and token.",
+    "sourceIds": [
+      "c-vgc-kokiri"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-003",
+    "type": "skulltula",
+    "number": 3,
+    "name": "Know-It-All Brothers' house",
+    "region": "Kokiri Forest",
+    "sublocation": "Know-It-All Brothers' house",
+    "age": "Child",
+    "time": "Night",
+    "requires": [],
+    "suggestedStage": "child-forest",
+    "instructions": "Circle behind the southwest house; kill the wall spider and jump to its token.",
+    "sourceIds": [
+      "c-vgc-kokiri"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-004",
+    "type": "skulltula",
+    "number": 4,
+    "name": "Compass alcove",
+    "region": "Deku Tree",
+    "sublocation": "Compass alcove",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Slingshot"
+    ],
+    "suggestedStage": "deku",
+    "instructions": "Raise the compass-room platforms with the switch; cross left and collect the south-wall spider.",
+    "sourceIds": [
+      "c-vgc-deku"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-005",
+    "type": "skulltula",
+    "number": 5,
+    "name": "Basement vines",
+    "region": "Deku Tree",
+    "sublocation": "Basement vines",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Slingshot"
+    ],
+    "suggestedStage": "deku",
+    "instructions": "After breaking the central web, turn around. Shoot the spider on the exit vines, then climb for its token.",
+    "sourceIds": [
+      "c-vgc-deku"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-006",
+    "type": "skulltula",
+    "number": 6,
+    "name": "Basement grate",
+    "region": "Deku Tree",
+    "sublocation": "Basement grate",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Slingshot"
+    ],
+    "suggestedStage": "deku",
+    "instructions": "In the basement stream room, inspect the northern bars beside the torch and web; shoot and collect the spider.",
+    "sourceIds": [
+      "c-vgc-deku"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-007",
+    "type": "skulltula",
+    "number": 7,
+    "name": "Gohma Larva annex",
+    "region": "Deku Tree",
+    "sublocation": "Gohma Larva annex",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Deku Stick",
+      "Slingshot"
+    ],
+    "suggestedStage": "deku",
+    "instructions": "In the three-larva room, burn the left web with a lit stick. Follow the short passage; shoot the vine spider and climb.",
+    "sourceIds": [
+      "c-vgc-deku"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-008",
+    "type": "skulltula",
+    "number": 8,
+    "name": "Kokiri approach tree",
+    "region": "Hyrule Field",
+    "sublocation": "Kokiri approach tree",
+    "age": "Either",
+    "time": "Any",
+    "requires": [],
+    "suggestedStage": "castle",
+    "instructions": "Roll into the isolated tree west of the Kokiri exit, beside the stream; kill the fallen spider.",
+    "sourceIds": [
+      "c-vgc-field"
+    ],
+    "verification": "source-conflict",
+    "note": "Tree location is corroborated; RPG Site calls its spawn nocturnal while Nintendo Life/VGC do not. Visit at night if absent."
+  },
+  {
+    "id": "gs-009",
+    "type": "skulltula",
+    "number": 9,
+    "name": "Southeast marsh grotto crate",
+    "region": "Hyrule Field",
+    "sublocation": "Southeast marsh grotto crate",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Child grotto cleared"
+    ],
+    "suggestedStage": "adult-field",
+    "instructions": "First bomb this marsh grotto and kill its ordinary spider as a child. Return as an adult; break the crate for the gold spider.",
+    "sourceIds": [
+      "c-vgc-field"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-010",
+    "type": "skulltula",
+    "number": 10,
+    "name": "Southern woodland grotto",
+    "region": "Hyrule Field",
+    "sublocation": "Southern woodland grotto",
+    "age": "Either",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Boomerang or Hookshot"
+    ],
+    "suggestedStage": "child-cleanup",
+    "instructions": "Bomb the cracked ground among trees near Lake Hylia's entrance. Defeat the large spider inside; retrieve the high gold token.",
+    "sourceIds": [
+      "c-vgc-field"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-011",
+    "type": "skulltula",
+    "number": 11,
+    "name": "Entrance guardhouse crate",
+    "region": "Market",
+    "sublocation": "Entrance guardhouse crate",
+    "age": "Child",
+    "time": "Any",
+    "requires": [],
+    "suggestedStage": "castle",
+    "instructions": "Enter the pot-filled house right of the town drawbridge. Roll through the rattling rear crate; kill its spider.",
+    "sourceIds": [
+      "c-vgc-castle"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-012",
+    "type": "skulltula",
+    "number": 12,
+    "name": "Garden tree",
+    "region": "Hyrule Castle",
+    "sublocation": "Garden tree",
+    "age": "Child",
+    "time": "Night",
+    "requires": [],
+    "suggestedStage": "castle",
+    "instructions": "Past the guards near the hedge maze and vine-covered building, roll into the garden tree at night.",
+    "sourceIds": [
+      "c-vgc-castle"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-013",
+    "type": "skulltula",
+    "number": 13,
+    "name": "Storms grotto",
+    "region": "Hyrule Castle",
+    "sublocation": "Storms grotto",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Song of Storms",
+      "Boomerang"
+    ],
+    "suggestedStage": "child-return",
+    "instructions": "Return near Talon's former sleeping spot by the moat. Play Storms beside the corner tree's colored plant; descend and collect the spider.",
+    "sourceIds": [
+      "c-vgc-castle"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-014",
+    "type": "skulltula",
+    "number": 14,
+    "name": "Building site",
+    "region": "Kakariko Village",
+    "sublocation": "Building site",
+    "age": "Child",
+    "time": "Night",
+    "requires": [],
+    "suggestedStage": "kakariko-child",
+    "instructions": "At night circle the central construction site. Climb its low structure to kill and collect the gold spider.",
+    "sourceIds": [
+      "c-vgc-kakariko"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-015",
+    "type": "skulltula",
+    "number": 15,
+    "name": "Skulltula House doorway",
+    "region": "Kakariko Village",
+    "sublocation": "Skulltula House doorway",
+    "age": "Child",
+    "time": "Night",
+    "requires": [],
+    "suggestedStage": "kakariko-child",
+    "instructions": "At night inspect the wall directly beside the House of Skulltula entrance; kill its low spider.",
+    "sourceIds": [
+      "c-vgc-kakariko"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-016",
+    "type": "skulltula",
+    "number": 16,
+    "name": "Central tree",
+    "region": "Kakariko Village",
+    "sublocation": "Central tree",
+    "age": "Child",
+    "time": "Night",
+    "requires": [],
+    "suggestedStage": "kakariko-child",
+    "instructions": "Roll into the village's lone central tree at night; kill the fallen spider and touch its token.",
+    "sourceIds": [
+      "c-vgc-kakariko"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-017",
+    "type": "skulltula",
+    "number": 17,
+    "name": "Watchtower ladder",
+    "region": "Kakariko Village",
+    "sublocation": "Watchtower ladder",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Slingshot"
+    ],
+    "suggestedStage": "kakariko-child",
+    "instructions": "Shoot the gold spider on the watchtower ladder at night, then climb the ladder to the token.",
+    "sourceIds": [
+      "c-vgc-kakariko"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-018",
+    "type": "skulltula",
+    "number": 18,
+    "name": "Mountain-gate house",
+    "region": "Kakariko Village",
+    "sublocation": "Mountain-gate house",
+    "age": "Child",
+    "time": "Night",
+    "requires": [],
+    "suggestedStage": "kakariko-child",
+    "instructions": "At night walk behind the northwest house closest to the Death Mountain gate; collect its wall spider.",
+    "sourceIds": [
+      "c-vgc-kakariko"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-019",
+    "type": "skulltula",
+    "number": 19,
+    "name": "Cliff beside Impa's roof",
+    "region": "Kakariko Village",
+    "sublocation": "Cliff beside Impa's roof",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "adult-kakariko",
+    "instructions": "Hookshot the vines left of Impa's house, jump onto its roof, then Hookshot the spider on the adjoining cliff.",
+    "sourceIds": [
+      "c-nl-gs"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-020",
+    "type": "skulltula",
+    "number": 20,
+    "name": "West soil",
+    "region": "Graveyard",
+    "sublocation": "West soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bottled Bug"
+    ],
+    "suggestedStage": "kakariko-child",
+    "instructions": "Release a bug into the soil on the west side of the graveyard; kill the emerging spider.",
+    "sourceIds": [
+      "c-vgc-kakariko"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-021",
+    "type": "skulltula",
+    "number": 21,
+    "name": "Behind Dampé's hut",
+    "region": "Graveyard",
+    "sublocation": "Behind Dampé's hut",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "child-cleanup",
+    "instructions": "At night walk behind Dampé's home. Boomerang the spider on the wall and retrieve its token.",
+    "sourceIds": [
+      "c-vgc-kakariko"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-022",
+    "type": "skulltula",
+    "number": 22,
+    "name": "Entrance building window",
+    "region": "Lon Lon Ranch",
+    "sublocation": "Entrance building window",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "child-cleanup",
+    "instructions": "At night face the left entrance building's high window; use the Boomerang on the spider and token.",
+    "sourceIds": [
+      "c-vgc-ranch"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-023",
+    "type": "skulltula",
+    "number": 23,
+    "name": "Ruined storage building vines",
+    "region": "Lon Lon Ranch",
+    "sublocation": "Ruined storage building vines",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "child-cleanup",
+    "instructions": "Enter the ruined storage building at night, where the heart-piece crawlspace lies. Boomerang the spider high on the interior vines.",
+    "sourceIds": [
+      "c-vgc-ranch"
+    ],
+    "verification": "source-conflict",
+    "note": "Sources disagree about the ruined building compass direction; use the heart-piece storage building landmark."
+  },
+  {
+    "id": "gs-024",
+    "type": "skulltula",
+    "number": 24,
+    "name": "Garden tree",
+    "region": "Lon Lon Ranch",
+    "sublocation": "Garden tree",
+    "age": "Child",
+    "time": "Any",
+    "requires": [],
+    "suggestedStage": "ranch-child",
+    "instructions": "From the entrance take the left path behind the buildings; roll into the thin garden tree.",
+    "sourceIds": [
+      "c-vgc-ranch"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-025",
+    "type": "skulltula",
+    "number": 25,
+    "name": "Cow-bank soil",
+    "region": "Gerudo Valley",
+    "sublocation": "Cow-bank soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bottled Bug",
+      "Cucco"
+    ],
+    "suggestedStage": "child-valley",
+    "instructions": "Glide down with the entrance Cucco to the riverbank beside the Gerudo and cow. Release a bug into its soil.",
+    "sourceIds": [
+      "c-vgc-gerudo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-026",
+    "type": "skulltula",
+    "number": 26,
+    "name": "First wooden bridge underside",
+    "region": "Gerudo Valley",
+    "sublocation": "First wooden bridge underside",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "child-valley",
+    "instructions": "At night look underneath the first small wooden bridge after entering the valley. Boomerang the wall spider and token.",
+    "sourceIds": [
+      "c-vgc-gerudo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-027",
+    "type": "skulltula",
+    "number": 27,
+    "name": "Tent rear wall",
+    "region": "Gerudo Valley",
+    "sublocation": "Tent rear wall",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Longshot"
+    ],
+    "suggestedStage": "adult-gerudo",
+    "instructions": "Cross the broken bridge; at night check the rock wall behind the carpenters' tent and Longshot its spider.",
+    "sourceIds": [
+      "c-vgc-gerudo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-028",
+    "type": "skulltula",
+    "number": 28,
+    "name": "Rock arch",
+    "region": "Gerudo Valley",
+    "sublocation": "Rock arch",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Longshot"
+    ],
+    "suggestedStage": "adult-gerudo",
+    "instructions": "At night look under the rock arch south of the tent; Longshot the spider overhead.",
+    "sourceIds": [
+      "c-vgc-gerudo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-029",
+    "type": "skulltula",
+    "number": 29,
+    "name": "Laboratory soil",
+    "region": "Lake Hylia",
+    "sublocation": "Laboratory soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bottled Bug"
+    ],
+    "suggestedStage": "lake-child",
+    "instructions": "Release a bottled bug into the soil beside the Lakeside Laboratory; kill the emerging spider.",
+    "sourceIds": [
+      "c-vgc-lake"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-030",
+    "type": "skulltula",
+    "number": 30,
+    "name": "Southern crawlspace",
+    "region": "Lake Hylia",
+    "sublocation": "Southern crawlspace",
+    "age": "Child",
+    "time": "Any",
+    "requires": [],
+    "suggestedStage": "lake-child",
+    "instructions": "Swim to the southwest lake shore's tiny land outcrop. Crawl through its cliff tunnel to reach the gold spider.",
+    "sourceIds": [
+      "c-vgc-lake"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-031",
+    "type": "skulltula",
+    "number": 31,
+    "name": "Laboratory exterior",
+    "region": "Lake Hylia",
+    "sublocation": "Laboratory exterior",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "lake-child",
+    "instructions": "At night stand on the bridge beside the laboratory. Boomerang the spider on the building's side and retrieve its token.",
+    "sourceIds": [
+      "c-vgc-lake"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-032",
+    "type": "skulltula",
+    "number": 32,
+    "name": "Central tree crown",
+    "region": "Lake Hylia",
+    "sublocation": "Central tree crown",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Longshot"
+    ],
+    "suggestedStage": "adult-lake",
+    "instructions": "After Water Temple, Longshot to the central island tree's upper vines at night; collect the spider above.",
+    "sourceIds": [
+      "c-vgc-lake"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-033",
+    "type": "skulltula",
+    "number": 33,
+    "name": "Two-left-turn soil",
+    "region": "Lost Woods",
+    "sublocation": "Two-left-turn soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bottled Bug"
+    ],
+    "suggestedStage": "child-forest",
+    "instructions": "From the woods entrance take left, left. Release a bug into the soil in this clearing.",
+    "sourceIds": [
+      "c-vgc-kokiri"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-034",
+    "type": "skulltula",
+    "number": 34,
+    "name": "Business Scrub clearing soil",
+    "region": "Lost Woods",
+    "sublocation": "Business Scrub clearing soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bottled Bug"
+    ],
+    "suggestedStage": "child-forest",
+    "instructions": "Take right, left, right, left, left from the entrance. Release a bug into the soil near the two scrubs.",
+    "sourceIds": [
+      "c-vgc-kokiri"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-035",
+    "type": "skulltula",
+    "number": 35,
+    "name": "Bean clearing ledge",
+    "region": "Lost Woods",
+    "sublocation": "Bean clearing ledge",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Planted Lost Woods bean"
+    ],
+    "suggestedStage": "adult-forest",
+    "instructions": "Return to the right-left-right-left-left clearing at night. Ride its previously planted bean to the high ledge spider.",
+    "sourceIds": [
+      "c-vgc-kokiri"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-036",
+    "type": "skulltula",
+    "number": 36,
+    "name": "Cavern entrance soil",
+    "region": "Death Mountain Trail",
+    "sublocation": "Cavern entrance soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bottled Bug"
+    ],
+    "suggestedStage": "mountain-child",
+    "instructions": "Release a bug into the soil immediately outside Dodongo's Cavern; kill the emerging spider.",
+    "sourceIds": [
+      "c-vgc-mountain"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-037",
+    "type": "skulltula",
+    "number": 37,
+    "name": "Lower cracked wall",
+    "region": "Death Mountain Trail",
+    "sublocation": "Lower cracked wall",
+    "age": "Either",
+    "time": "Any",
+    "requires": [
+      "Bombs"
+    ],
+    "suggestedStage": "mountain-child",
+    "instructions": "Bomb the cracked trail wall above Kakariko; kill the revealed spider and climb to its token.",
+    "sourceIds": [
+      "c-vgc-mountain"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-038",
+    "type": "skulltula",
+    "number": 38,
+    "name": "Summit Hammer boulder",
+    "region": "Death Mountain Trail",
+    "sublocation": "Summit Hammer boulder",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Megaton Hammer"
+    ],
+    "suggestedStage": "post-fire",
+    "instructions": "Below Biggoron's summit area, smash the dark boulder on the left with the Hammer; collect the spider.",
+    "sourceIds": [
+      "c-vgc-mountain"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-039",
+    "type": "skulltula",
+    "number": 39,
+    "name": "Goron entrance Hammer boulder",
+    "region": "Death Mountain Trail",
+    "sublocation": "Goron entrance Hammer boulder",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Megaton Hammer"
+    ],
+    "suggestedStage": "post-fire",
+    "instructions": "Smash the dark boulder outside Goron City's entrance with the Hammer; kill the spider behind it.",
+    "sourceIds": [
+      "c-vgc-mountain"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-040",
+    "type": "skulltula",
+    "number": 40,
+    "name": "East corridor hidden chamber",
+    "region": "Dodongo's Cavern",
+    "sublocation": "East corridor hidden chamber",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs or Baby Dodongo"
+    ],
+    "suggestedStage": "dodongo",
+    "instructions": "In the southeast Baby Dodongo corridor, explode a bomb or dying Baby Dodongo beside the cracked wall; collect the side-room spider.",
+    "sourceIds": [
+      "c-vgc-dodongo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-041",
+    "type": "skulltula",
+    "number": 41,
+    "name": "Bomb stairs rear vines",
+    "region": "Dodongo's Cavern",
+    "sublocation": "Bomb stairs rear vines",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Slingshot"
+    ],
+    "suggestedStage": "dodongo",
+    "instructions": "Lower the giant bomb stairs, climb them, and circle behind their top. Shoot the vine spider and climb to its token.",
+    "sourceIds": [
+      "c-vgc-dodongo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-042",
+    "type": "skulltula",
+    "number": 42,
+    "name": "Two-Dodongo circular room",
+    "region": "Dodongo's Cavern",
+    "sublocation": "Two-Dodongo circular room",
+    "age": "Child",
+    "time": "Any",
+    "requires": [],
+    "suggestedStage": "dodongo",
+    "instructions": "Before bombing the giant skull's eyes, inspect the round room with two Dodongos. Walk behind its central pillar for the spider.",
+    "sourceIds": [
+      "c-vgc-dodongo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-043",
+    "type": "skulltula",
+    "number": 43,
+    "name": "Skull-mouth block loop",
+    "region": "Dodongo's Cavern",
+    "sublocation": "Skull-mouth block loop",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs"
+    ],
+    "suggestedStage": "dodongo",
+    "instructions": "Beyond the opened skull mouth, follow the block-pushing loop. Bomb the optional wall and defeat the Armos to reach the spider.",
+    "sourceIds": [
+      "c-vgc-dodongo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-044",
+    "type": "skulltula",
+    "number": 44,
+    "name": "Scarecrow corridor ledge",
+    "region": "Dodongo's Cavern",
+    "sublocation": "Scarecrow corridor ledge",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Scarecrow's Song",
+      "Hookshot"
+    ],
+    "suggestedStage": "adult-mountain",
+    "instructions": "Return to the southeast Baby Dodongo corridor. At the high balcony's summon swirl, play Scarecrow's Song and Hookshot up.",
+    "sourceIds": [
+      "c-vgc-dodongo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-045",
+    "type": "skulltula",
+    "number": 45,
+    "name": "Boulder-room crate",
+    "region": "Goron City",
+    "sublocation": "Boulder-room crate",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs"
+    ],
+    "suggestedStage": "mountain-child",
+    "instructions": "Bomb through the western boulder room to its two rear chests. Roll through the wooden crate to expose the spider.",
+    "sourceIds": [
+      "c-vgc-mountain"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-046",
+    "type": "skulltula",
+    "number": 46,
+    "name": "Ceiling by entrance",
+    "region": "Goron City",
+    "sublocation": "Ceiling by entrance",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "adult-mountain",
+    "instructions": "From the city entrance move north, turn around, and aim up. Hookshot the gold spider on the ceiling.",
+    "sourceIds": [
+      "c-vgc-mountain"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-047",
+    "type": "skulltula",
+    "number": 47,
+    "name": "Summit entrance crates",
+    "region": "Death Mountain Crater",
+    "sublocation": "Summit entrance crates",
+    "age": "Child",
+    "time": "Any",
+    "requires": [],
+    "suggestedStage": "mountain-child",
+    "instructions": "Enter from the summit at full health. Dash left and break the crates for a spider; leave before the heat kills you.",
+    "sourceIds": [
+      "c-vgc-crater"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-048",
+    "type": "skulltula",
+    "number": 48,
+    "name": "Warp-pad soil",
+    "region": "Death Mountain Crater",
+    "sublocation": "Warp-pad soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bolero of Fire",
+      "Bottled Bug"
+    ],
+    "suggestedStage": "child-crater",
+    "instructions": "Warp into the crater as a child. Release a bug into the soil next to the pad; kill the spider and warp away promptly.",
+    "sourceIds": [
+      "c-vgc-crater"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-049",
+    "type": "skulltula",
+    "number": 49,
+    "name": "Bean-seller soil",
+    "region": "Zora River",
+    "sublocation": "Bean-seller soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bottled Bug"
+    ],
+    "suggestedStage": "zora-child",
+    "instructions": "Release a bug into the soft soil beside the Magic Bean seller; collect the emerging spider.",
+    "sourceIds": [
+      "c-vgc-zora"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-050",
+    "type": "skulltula",
+    "number": 50,
+    "name": "Waterfall lower platform",
+    "region": "Zora River",
+    "sublocation": "Waterfall lower platform",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "post-jabu",
+    "instructions": "At night descend below the waterfall approach to Domain. Boomerang the spider on the side of the lower rock platform.",
+    "sourceIds": [
+      "c-vgc-zora"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-051",
+    "type": "skulltula",
+    "number": 51,
+    "name": "Bean-route high cliff",
+    "region": "Zora River",
+    "sublocation": "Bean-route high cliff",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Planted River bean",
+      "Hookshot"
+    ],
+    "suggestedStage": "adult-zora",
+    "instructions": "At night ride the river-entrance bean to the high island by the grotto and Gossip Stone; Hookshot the nearby cliff spider.",
+    "sourceIds": [
+      "c-rpg-gs"
+    ],
+    "verification": "source-conflict",
+    "note": "VGC requires the planted bean; Nintendo Life only lists Hookshot. This route uses the confirmed bean approach."
+  },
+  {
+    "id": "gs-052",
+    "type": "skulltula",
+    "number": 52,
+    "name": "Final bridge wall",
+    "region": "Zora River",
+    "sublocation": "Final bridge wall",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "adult-zora",
+    "instructions": "Cross the last bridge before Domain at night. Look high on the rock wall and Hookshot the spider.",
+    "sourceIds": [
+      "c-vgc-zora"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-053",
+    "type": "skulltula",
+    "number": 53,
+    "name": "Frozen waterfall ledge",
+    "region": "Zora's Domain",
+    "sublocation": "Frozen waterfall ledge",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "adult-zora",
+    "instructions": "Stand on the former diving-game ledge near King Zora; face the wall above the frozen waterfall and Hookshot its spider.",
+    "sourceIds": [
+      "c-vgc-zora"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-054",
+    "type": "skulltula",
+    "number": 54,
+    "name": "Southern thin tree",
+    "region": "Zora's Fountain",
+    "sublocation": "Southern thin tree",
+    "age": "Child",
+    "time": "Any",
+    "requires": [],
+    "suggestedStage": "zora-child",
+    "instructions": "On the southern shore, roll into the thin tree and kill the spider that falls out.",
+    "sourceIds": [
+      "c-vgc-zora"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-055",
+    "type": "skulltula",
+    "number": 55,
+    "name": "Jabu-side cliff",
+    "region": "Zora's Fountain",
+    "sublocation": "Jabu-side cliff",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "post-jabu",
+    "instructions": "At night climb the ruins south of Jabu-Jabu. Face the adjoining cliff and Boomerang its gold spider and token.",
+    "sourceIds": [
+      "c-vgc-zora"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-056",
+    "type": "skulltula",
+    "number": 56,
+    "name": "Silver-boulder cave",
+    "region": "Zora's Fountain",
+    "sublocation": "Silver-boulder cave",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Silver Gauntlets",
+      "Lenses of Truth",
+      "Longshot"
+    ],
+    "suggestedStage": "late-cleanup",
+    "instructions": "Lift the southeast silver boulder beside the Fairy Fountain. Descend, use the Lenses past invisible enemies, and climb to the high spider.",
+    "sourceIds": [
+      "c-vgc-zora"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-057",
+    "type": "skulltula",
+    "number": 57,
+    "name": "Water-switch vines",
+    "region": "Jabu-Jabu's Belly",
+    "sublocation": "Water-switch vines",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Slingshot"
+    ],
+    "suggestedStage": "jabu",
+    "instructions": "Raise the water in the switch room. Opposite the Dungeon Map chest, shoot the vine spider and climb to its token.",
+    "sourceIds": [
+      "c-vgc-jabu"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-058",
+    "type": "skulltula",
+    "number": 58,
+    "name": "Post-tentacle north wall",
+    "region": "Jabu-Jabu's Belly",
+    "sublocation": "Post-tentacle north wall",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "jabu",
+    "instructions": "After clearing the tentacles, drop through the newly open hole. Boomerang the gold spider on the north wall.",
+    "sourceIds": [
+      "c-vgc-jabu"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-059",
+    "type": "skulltula",
+    "number": 59,
+    "name": "Northwest tunnel ceiling",
+    "region": "Jabu-Jabu's Belly",
+    "sublocation": "Northwest tunnel ceiling",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "jabu",
+    "instructions": "From that landing, follow the exit path and look up at the northwest tunnel's ceiling. Boomerang its separate spider and token.",
+    "sourceIds": [
+      "c-vgc-jabu"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-060",
+    "type": "skulltula",
+    "number": 60,
+    "name": "Pre-boss vine platforms",
+    "region": "Jabu-Jabu's Belly",
+    "sublocation": "Pre-boss vine platforms",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "jabu",
+    "instructions": "In the final switch room before Barinade, inspect the high vine platforms; Boomerang the gold spider before entering the boss door.",
+    "sourceIds": [
+      "c-vgc-jabu"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-061",
+    "type": "skulltula",
+    "number": 61,
+    "name": "Ruined building wall",
+    "region": "Ganon's Castle Exterior",
+    "sublocation": "Ruined building wall",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "final-castle",
+    "instructions": "At night enter the former castle grounds. Take the right-hand path; face back toward the ruined building and Hookshot its spider.",
+    "sourceIds": [
+      "c-vgc-castle"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-062",
+    "type": "skulltula",
+    "number": 62,
+    "name": "East maze wall",
+    "region": "Sacred Forest Grove",
+    "sublocation": "East maze wall",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "adult-forest",
+    "instructions": "Climb the ladder from the Moblin maze to its upper walkway at night; Hookshot the spider on the east wall.",
+    "sourceIds": [
+      "c-vgc-kokiri"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-063",
+    "type": "skulltula",
+    "number": 63,
+    "name": "Entrance courtyard vines",
+    "region": "Forest Temple",
+    "sublocation": "Entrance courtyard vines",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "forest-temple",
+    "instructions": "In the entrance Wolfos courtyard, climb the right-hand vines. Hookshot the gold spider high on the wall.",
+    "sourceIds": [
+      "c-vgc-forest"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-064",
+    "type": "skulltula",
+    "number": 64,
+    "name": "Main hall north wall",
+    "region": "Forest Temple",
+    "sublocation": "Main hall north wall",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "forest-temple",
+    "instructions": "In the four-torch main hall, face the north wall beside the door; Hookshot its spider and token.",
+    "sourceIds": [
+      "c-vgc-forest"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-065",
+    "type": "skulltula",
+    "number": 65,
+    "name": "Northwest balcony wall",
+    "region": "Forest Temple",
+    "sublocation": "Northwest balcony wall",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "forest-temple",
+    "instructions": "After the Boss Key route drops you onto the northwest courtyard balcony, inspect the wall beside its southern ledge; Hookshot the spider.",
+    "sourceIds": [
+      "c-vgc-forest"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-066",
+    "type": "skulltula",
+    "number": 66,
+    "name": "Northeast Scarecrow balcony",
+    "region": "Forest Temple",
+    "sublocation": "Northeast Scarecrow balcony",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Scarecrow's Song",
+      "Hookshot"
+    ],
+    "suggestedStage": "forest-temple",
+    "instructions": "In the northeast stream courtyard, push down the shortcut block. Turn around, summon Pierre above, and Hookshot to the spider's ledge.",
+    "sourceIds": [
+      "c-vgc-forest"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-067",
+    "type": "skulltula",
+    "number": 67,
+    "name": "Rotating basement alcove",
+    "region": "Forest Temple",
+    "sublocation": "Rotating basement alcove",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "forest-temple",
+    "instructions": "Rotate the pre-boss basement walls until the southern green-pot alcove opens; kill the gold spider there.",
+    "sourceIds": [
+      "c-vgc-forest"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-068",
+    "type": "skulltula",
+    "number": 68,
+    "name": "Lava hall Time Block room",
+    "region": "Fire Temple",
+    "sublocation": "Lava hall Time Block room",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Song of Time",
+      "Hookshot"
+    ],
+    "suggestedStage": "fire-temple",
+    "instructions": "In the large eastern lava hall, use the northwest lift and move the blue block with Song of Time; enter the tile side room.",
+    "sourceIds": [
+      "c-vgc-fire"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-069",
+    "type": "skulltula",
+    "number": 69,
+    "name": "Northeast boulder-maze wall",
+    "region": "Fire Temple",
+    "sublocation": "Northeast boulder-maze wall",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Hookshot"
+    ],
+    "suggestedStage": "fire-temple",
+    "instructions": "On the rolling-boulder maze's lower floor, bomb the northeast cracked wall; retrieve the hidden spider token.",
+    "sourceIds": [
+      "c-vgc-fire"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-070",
+    "type": "skulltula",
+    "number": 70,
+    "name": "Scarecrow elevator chamber",
+    "region": "Fire Temple",
+    "sublocation": "Scarecrow elevator chamber",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Scarecrow's Song",
+      "Hookshot"
+    ],
+    "suggestedStage": "fire-temple",
+    "instructions": "At the upper boulder-maze ledge after the flame chase, summon Pierre. Hookshot across, ride the elevator, and collect the tower spider.",
+    "sourceIds": [
+      "c-vgc-fire"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-071",
+    "type": "skulltula",
+    "number": 71,
+    "name": "Upper tower wall",
+    "region": "Fire Temple",
+    "sublocation": "Upper tower wall",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Scarecrow's Song",
+      "Hookshot"
+    ],
+    "suggestedStage": "fire-temple",
+    "instructions": "Continue from the Scarecrow tower to the next upper room near the Hammer route; Hookshot the high-wall spider before dropping.",
+    "sourceIds": [
+      "c-vgc-fire"
+    ],
+    "verification": "source-conflict",
+    "note": "VGC/RPG Site place this beyond the Scarecrow elevator; Nintendo Life describes the fifth-floor Hammer room. Inspect the adjoining upper rooms before dropping."
+  },
+  {
+    "id": "gs-072",
+    "type": "skulltula",
+    "number": 72,
+    "name": "Hammer-opened first-floor room",
+    "region": "Fire Temple",
+    "sublocation": "Hammer-opened first-floor room",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Megaton Hammer",
+      "Hookshot"
+    ],
+    "suggestedStage": "fire-temple",
+    "instructions": "After obtaining the Hammer, clear the blocks into the northwest first-floor side room. Survive the tiles, kill the Like Like, and collect its spider.",
+    "sourceIds": [
+      "c-vgc-fire"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-073",
+    "type": "skulltula",
+    "number": 73,
+    "name": "Spinning blade wall",
+    "region": "Ice Cavern",
+    "sublocation": "Spinning blade wall",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot"
+    ],
+    "suggestedStage": "ice-cavern",
+    "instructions": "In the spinning-blade silver-rupee room, look high on the southwest wall; Hookshot the spider and token.",
+    "sourceIds": [
+      "c-vgc-ice"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-074",
+    "type": "skulltula",
+    "number": 74,
+    "name": "Compass chamber wall",
+    "region": "Ice Cavern",
+    "sublocation": "Compass chamber wall",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Blue Fire",
+      "Hookshot"
+    ],
+    "suggestedStage": "ice-cavern",
+    "instructions": "Melt the eastern red-ice passage. In the compass chamber, aim northwest above the chest for the wall spider.",
+    "sourceIds": [
+      "c-vgc-ice"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-075",
+    "type": "skulltula",
+    "number": 75,
+    "name": "Sliding block ceiling",
+    "region": "Ice Cavern",
+    "sublocation": "Sliding block ceiling",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Blue Fire",
+      "Hookshot"
+    ],
+    "suggestedStage": "ice-cavern",
+    "instructions": "In the large sliding-ice-block puzzle room, look at the ceiling near the entrance; Hookshot the gold spider.",
+    "sourceIds": [
+      "c-vgc-ice"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-076",
+    "type": "skulltula",
+    "number": 76,
+    "name": "Laboratory submerged crate",
+    "region": "Lake Hylia",
+    "sublocation": "Laboratory submerged crate",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Iron Boots",
+      "Hookshot"
+    ],
+    "suggestedStage": "adult-lake",
+    "instructions": "Sink in the laboratory tank with Iron Boots. Roll through the bottom crate; Hookshot the released spider and token, then surface.",
+    "sourceIds": [
+      "c-vgc-lake"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-077",
+    "type": "skulltula",
+    "number": 77,
+    "name": "Central-shaft basement",
+    "region": "Water Temple",
+    "sublocation": "Central-shaft basement",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Iron Boots",
+      "Hookshot"
+    ],
+    "suggestedStage": "water-temple",
+    "instructions": "Raise water so the central shaft's block floats. Put on Iron Boots, enter the revealed bottom passage, and follow it to the spider chamber.",
+    "sourceIds": [
+      "c-vgc-water"
+    ],
+    "verification": "source-conflict",
+    "note": "Water-level wording differs: RPG Site says middle/green; VGC says highest. The operative prerequisite is a floating central block exposing the shaft below."
+  },
+  {
+    "id": "gs-078",
+    "type": "skulltula",
+    "number": 78,
+    "name": "Central column top",
+    "region": "Water Temple",
+    "sublocation": "Central column top",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Longshot"
+    ],
+    "suggestedStage": "water-temple",
+    "instructions": "Return inside the central column after acquiring Longshot. Grapple upward to its highest ceiling area; collect the gold spider.",
+    "sourceIds": [
+      "c-vgc-water"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-079",
+    "type": "skulltula",
+    "number": 79,
+    "name": "Middle-level east cracked wall",
+    "region": "Water Temple",
+    "sublocation": "Middle-level east cracked wall",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Iron Boots",
+      "Bombs",
+      "Hookshot"
+    ],
+    "suggestedStage": "water-temple",
+    "instructions": "Set water to level 2 (green). Enter the blue-lit east passage, surface, and bomb the cracked wall for the spider.",
+    "sourceIds": [
+      "c-vgc-water"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-080",
+    "type": "skulltula",
+    "number": 80,
+    "name": "Whirlpool river wall",
+    "region": "Water Temple",
+    "sublocation": "Whirlpool river wall",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Iron Boots",
+      "Longshot"
+    ],
+    "suggestedStage": "water-temple",
+    "instructions": "After Dark Link and Longshot, descend to the whirlpool river. Stop midway, equip Iron Boots for stability, and retrieve the wall spider.",
+    "sourceIds": [
+      "c-vgc-water"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-081",
+    "type": "skulltula",
+    "number": 81,
+    "name": "Boss Key boulder-waterfall tunnel",
+    "region": "Water Temple",
+    "sublocation": "Boss Key boulder-waterfall tunnel",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Iron Boots",
+      "Longshot"
+    ],
+    "suggestedStage": "water-temple",
+    "instructions": "On the northern Boss Key route, inspect the waterfall tunnel where boulders fall. Aim behind the cascade for the hidden spider.",
+    "sourceIds": [
+      "c-vgc-water"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-082",
+    "type": "skulltula",
+    "number": 82,
+    "name": "Eastern Like Like chamber",
+    "region": "Bottom of the Well",
+    "sublocation": "Eastern Like Like chamber",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Lenses of Truth",
+      "Boomerang"
+    ],
+    "suggestedStage": "well",
+    "instructions": "Use the Lenses along the northeast passage to avoid invisible pits. Continue into the eastern Like Like chamber and Boomerang its spider.",
+    "sourceIds": [
+      "c-vgc-well"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-083",
+    "type": "skulltula",
+    "number": 83,
+    "name": "Central locked room west",
+    "region": "Bottom of the Well",
+    "sublocation": "Central locked room west",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Small Key",
+      "Lenses of Truth",
+      "Boomerang"
+    ],
+    "suggestedStage": "well",
+    "instructions": "Reveal an alcove key with the Lenses around the outer corridor; unlock the western central room and collect its spider.",
+    "sourceIds": [
+      "c-vgc-well"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-084",
+    "type": "skulltula",
+    "number": 84,
+    "name": "Second central room",
+    "region": "Bottom of the Well",
+    "sublocation": "Second central room",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Small Key",
+      "Deku Stick",
+      "Boomerang"
+    ],
+    "suggestedStage": "well",
+    "instructions": "In the western coffin chamber, light the coffin torch for a small key. Unlock the other central door and Boomerang its spider.",
+    "sourceIds": [
+      "c-nl-gs"
+    ],
+    "verification": "source-conflict",
+    "note": "Unresolved source conflict: Nintendo Life describes a coffin key opening a second central room; VGC calls the token itself hidden in a coffin. Check both while sweeping this chamber."
+  },
+  {
+    "id": "gs-085",
+    "type": "skulltula",
+    "number": 85,
+    "name": "Western skull-pot room",
+    "region": "Shadow Temple",
+    "sublocation": "Western skull-pot room",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Longshot"
+    ],
+    "suggestedStage": "shadow-temple",
+    "instructions": "In the far-west room with three skull pots, throw bombs into all three. Collect the gold spider exposed when they break.",
+    "sourceIds": [
+      "c-vgc-shadow"
+    ],
+    "verification": "source-conflict",
+    "note": "Nintendo Life calls this an octagonal-room floor token; VGC and RPG Site specify breaking all three skull pots. Follow the latter two and inspect the floor afterward."
+  },
+  {
+    "id": "gs-086",
+    "type": "skulltula",
+    "number": 86,
+    "name": "Invisible-scythe side room",
+    "region": "Shadow Temple",
+    "sublocation": "Invisible-scythe side room",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Lenses of Truth",
+      "Longshot"
+    ],
+    "suggestedStage": "shadow-temple",
+    "instructions": "On B3 follow the invisible-scythe route southeast. Defeat the Like Like and Keese to unlock the side room; collect its spider.",
+    "sourceIds": [
+      "c-vgc-shadow"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-087",
+    "type": "skulltula",
+    "number": 87,
+    "name": "Fan corridor gap",
+    "region": "Shadow Temple",
+    "sublocation": "Fan corridor gap",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Longshot"
+    ],
+    "suggestedStage": "shadow-temple",
+    "instructions": "In the eastern B3 fan corridor, Hookshot over the gap, then turn around and aim below the platforms for the spider.",
+    "sourceIds": [
+      "c-vgc-shadow"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-088",
+    "type": "skulltula",
+    "number": 88,
+    "name": "Falling spike tops",
+    "region": "Shadow Temple",
+    "sublocation": "Falling spike tops",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Lenses of Truth",
+      "Longshot"
+    ],
+    "suggestedStage": "shadow-temple",
+    "instructions": "Reveal and push the block under the falling spikes. Climb it, circle the upper ledge, and collect the spider atop the traps.",
+    "sourceIds": [
+      "c-vgc-shadow"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-089",
+    "type": "skulltula",
+    "number": 89,
+    "name": "Boat-side Scarecrow ledge",
+    "region": "Shadow Temple",
+    "sublocation": "Boat-side Scarecrow ledge",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Scarecrow's Song",
+      "Longshot"
+    ],
+    "suggestedStage": "shadow-temple",
+    "instructions": "Before boarding the ship, move the block on the left to open the shortcut. Summon Pierre and Longshot up to the spider.",
+    "sourceIds": [
+      "c-vgc-shadow"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-090",
+    "type": "skulltula",
+    "number": 90,
+    "name": "Archery far target",
+    "region": "Gerudo Fortress",
+    "sublocation": "Archery far target",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Gerudo Token",
+      "Longshot"
+    ],
+    "suggestedStage": "gerudo-archery",
+    "instructions": "At night walk to the archery range's far target; inspect its rear and Longshot the gold spider.",
+    "sourceIds": [
+      "c-nl-gs"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-091",
+    "type": "skulltula",
+    "number": 91,
+    "name": "High east wall",
+    "region": "Gerudo Fortress",
+    "sublocation": "High east wall",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Longshot"
+    ],
+    "suggestedStage": "adult-gerudo",
+    "instructions": "At night climb the fortress exterior rooftops. Face the high eastern wall and Longshot its gold spider.",
+    "sourceIds": [
+      "c-nl-gs"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-092",
+    "type": "skulltula",
+    "number": 92,
+    "name": "Shelter basement",
+    "region": "Mirage Desert",
+    "sublocation": "Shelter basement",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Gerudo Token",
+      "Longshot"
+    ],
+    "suggestedStage": "wasteland",
+    "instructions": "Follow the desert flags to the stone shelter. Descend its ladder and retrieve the spider on the basement wall.",
+    "sourceIds": [
+      "c-nl-gs"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-093",
+    "type": "skulltula",
+    "number": 93,
+    "name": "Temple entrance soil",
+    "region": "Desert Colossus",
+    "sublocation": "Temple entrance soil",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Requiem of Spirit",
+      "Bottled Bug"
+    ],
+    "suggestedStage": "spirit-child",
+    "instructions": "Warp here as a child; release a bug into the soil beside Spirit Temple's steps and kill the spider.",
+    "sourceIds": [
+      "c-vgc-gerudo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-094",
+    "type": "skulltula",
+    "number": 94,
+    "name": "Bean-route rock",
+    "region": "Desert Colossus",
+    "sublocation": "Bean-route rock",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Planted Colossus bean"
+    ],
+    "suggestedStage": "spirit-adult",
+    "instructions": "Ride the temple-entrance bean at night; step onto the large rock along its route and kill the spider.",
+    "sourceIds": [
+      "c-vgc-gerudo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-095",
+    "type": "skulltula",
+    "number": 95,
+    "name": "Northern bird cliff",
+    "region": "Desert Colossus",
+    "sublocation": "Northern bird cliff",
+    "age": "Adult",
+    "time": "Night",
+    "requires": [
+      "Longshot"
+    ],
+    "suggestedStage": "wasteland",
+    "instructions": "At night inspect the northern cliff near the temple entrance where birds circle; Longshot the gold spider on the wall.",
+    "sourceIds": [
+      "c-vgc-gerudo"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-096",
+    "type": "skulltula",
+    "number": 96,
+    "name": "Child grating room",
+    "region": "Spirit Temple",
+    "sublocation": "Child grating room",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "spirit-child",
+    "instructions": "Crawl into the child wing and take the right-hand door. Boomerang the spider on the room's high grating.",
+    "sourceIds": [
+      "c-vgc-spirit"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-097",
+    "type": "skulltula",
+    "number": 97,
+    "name": "Statue ground-floor rear",
+    "region": "Spirit Temple",
+    "sublocation": "Statue ground-floor rear",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "spirit-child",
+    "instructions": "In the giant-statue chamber, go to the northeast ground-floor corner behind its right side. Collect the gold spider hidden there.",
+    "sourceIds": [
+      "c-vgc-spirit"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-098",
+    "type": "skulltula",
+    "number": 98,
+    "name": "Child Iron Knuckle hallway",
+    "region": "Spirit Temple",
+    "sublocation": "Child Iron Knuckle hallway",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Boomerang"
+    ],
+    "suggestedStage": "spirit-child",
+    "instructions": "After the sunlight/block puzzle, enter the hallway before Iron Knuckle. Turn around and Boomerang the spider above the door.",
+    "sourceIds": [
+      "c-vgc-spirit"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-099",
+    "type": "skulltula",
+    "number": 99,
+    "name": "Adult boulder-room Time Block",
+    "region": "Spirit Temple",
+    "sublocation": "Adult boulder-room Time Block",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Song of Time",
+      "Silver Gauntlets",
+      "Longshot"
+    ],
+    "suggestedStage": "spirit-adult",
+    "instructions": "In the rolling-boulder silver-rupee room, remove the blue alcove block with Song of Time; retrieve the gold spider behind it.",
+    "sourceIds": [
+      "c-vgc-spirit"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "gs-100",
+    "type": "skulltula",
+    "number": 100,
+    "name": "Statue Scarecrow balcony",
+    "region": "Spirit Temple",
+    "sublocation": "Statue Scarecrow balcony",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Scarecrow's Song",
+      "Longshot",
+      "Silver Gauntlets"
+    ],
+    "suggestedStage": "spirit-adult",
+    "instructions": "From the statue hall's high northwest ledge, summon Pierre above the statue's left side. Longshot across to the final spider.",
+    "sourceIds": [
+      "c-vgc-spirit"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-001",
+    "type": "heart-piece",
+    "number": 1,
+    "name": "Storage crawlspace",
+    "region": "Lon Lon Ranch",
+    "sublocation": "Storage crawlspace",
+    "age": "Child",
+    "time": "Any",
+    "requires": [],
+    "suggestedStage": "ranch-child",
+    "instructions": "Enter the rear ruined storage building. Move the blocking crates, crawl through the low rear opening, and collect the heart piece.",
+    "sourceIds": [
+      "c-keen-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-002",
+    "type": "heart-piece",
+    "number": 2,
+    "name": "Saria's Song Skull Kid",
+    "region": "Lost Woods",
+    "sublocation": "Saria's Song Skull Kid",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Saria's Song"
+    ],
+    "suggestedStage": "child-forest",
+    "instructions": "From the woods entrance go left. Stand on the empty stump opposite Skull Kid and play Saria's Song.",
+    "sourceIds": [
+      "c-keen-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-003",
+    "type": "heart-piece",
+    "number": 3,
+    "name": "Skull Kids' memory game",
+    "region": "Lost Woods",
+    "sublocation": "Skull Kids' memory game",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Ocarina"
+    ],
+    "suggestedStage": "child-forest",
+    "instructions": "Take the first right in the woods and drop to the two Skull Kids. Stand on their empty stump; repeat all three rounds.",
+    "sourceIds": [
+      "c-keen-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-004",
+    "type": "heart-piece",
+    "number": 4,
+    "name": "Roof behind Impa's house",
+    "region": "Kakariko Village",
+    "sublocation": "Roof behind Impa's house",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Owl summit ride"
+    ],
+    "suggestedStage": "mountain-child",
+    "instructions": "Accept the summit owl's ride to Impa's roof. Drop carefully onto the lower roof behind the house beside the cow pen.",
+    "sourceIds": [
+      "c-keen-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-005",
+    "type": "heart-piece",
+    "number": 5,
+    "name": "Windmill upper walkway",
+    "region": "Kakariko Village",
+    "sublocation": "Windmill upper walkway",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot",
+      "Dampé first race"
+    ],
+    "suggestedStage": "adult-kakariko",
+    "instructions": "After winning Hookshot, follow Dampé's exit into the windmill. Ride the rotating platform and jump to the heart-piece ledge.",
+    "sourceIds": [
+      "c-keen-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-006",
+    "type": "heart-piece",
+    "number": 6,
+    "name": "Rooftop man's gift",
+    "region": "Kakariko Village",
+    "sublocation": "Rooftop man's gift",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Cucco"
+    ],
+    "suggestedStage": "kakariko-child",
+    "instructions": "Glide a Cucco over the windmill-side fence, climb the ladders, and use the upper Cucco to land by the rooftop man. Speak to him.",
+    "sourceIds": [
+      "c-keen-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-007",
+    "type": "heart-piece",
+    "number": 7,
+    "name": "50-token reward",
+    "region": "Kakariko Village",
+    "sublocation": "50-token reward",
+    "age": "Either",
+    "time": "Any",
+    "requires": [
+      "50 Gold Skulltula Tokens"
+    ],
+    "suggestedStage": "token-rewards",
+    "instructions": "At 50 collected tokens, enter the House of Skulltula and speak to the last freed son for the heart piece.",
+    "sourceIds": [
+      "c-quest-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-008",
+    "type": "heart-piece",
+    "number": 8,
+    "name": "Rear-right grave chest",
+    "region": "Graveyard",
+    "sublocation": "Rear-right grave chest",
+    "age": "Child",
+    "time": "Night",
+    "requires": [],
+    "suggestedStage": "kakariko-child",
+    "instructions": "Pull the loose tombstone at the rear right of the graveyard. Descend and open the chest; no Sun's Song is required.",
+    "sourceIds": [
+      "c-quest-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-009",
+    "type": "heart-piece",
+    "number": 9,
+    "name": "Dampé's digging tour",
+    "region": "Graveyard",
+    "sublocation": "Dampé's digging tour",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Rupees"
+    ],
+    "suggestedStage": "kakariko-child",
+    "instructions": "Pay Dampé 10 rupees per dig on soil patches. Keep a reserve for extra digging fees; accept the piece when uncovered.",
+    "sourceIds": [
+      "c-quest-hp"
+    ],
+    "verification": "source-conflict",
+    "note": "Digging fees vary; keep rupees for surcharges. No guaranteed dig spot is verified."
+  },
+  {
+    "id": "hp-010",
+    "type": "heart-piece",
+    "number": 10,
+    "name": "Bean-raised platform",
+    "region": "Graveyard",
+    "sublocation": "Bean-raised platform",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Planted Graveyard bean"
+    ],
+    "suggestedStage": "adult-kakariko",
+    "instructions": "Ride the bean planted on the graveyard's west side in childhood. Step onto the raised stone platform and collect the piece.",
+    "sourceIds": [
+      "c-quest-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-011",
+    "type": "heart-piece",
+    "number": 11,
+    "name": "Dampé's second race",
+    "region": "Graveyard",
+    "sublocation": "Dampé's second race",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot",
+      "Dampé first race"
+    ],
+    "suggestedStage": "adult-kakariko",
+    "instructions": "Return to Dampé's grave after winning Hookshot. Race again, avoid flames, and reach the finish in under one minute.",
+    "sourceIds": [
+      "c-quest-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-012",
+    "type": "heart-piece",
+    "number": 12,
+    "name": "Central pillar via grotto Cucco",
+    "region": "Zora River",
+    "sublocation": "Central pillar via grotto Cucco",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Cucco"
+    ],
+    "suggestedStage": "zora-child",
+    "instructions": "Climb the central island's vines, bomb its grotto, and bring the Cucco out using the exit flower. Glide from the high island to the pillar.",
+    "sourceIds": [
+      "c-link-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-013",
+    "type": "heart-piece",
+    "number": 13,
+    "name": "Waterfall ledge",
+    "region": "Zora River",
+    "sublocation": "Waterfall ledge",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Cucco"
+    ],
+    "suggestedStage": "zora-child",
+    "instructions": "Carry the entrance Cucco upstream to the highest waterfall approach. Turn toward the isolated ledge and glide to its heart piece.",
+    "sourceIds": [
+      "c-rpg-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-014",
+    "type": "heart-piece",
+    "number": 14,
+    "name": "Storms for frogs",
+    "region": "Zora River",
+    "sublocation": "Storms for frogs",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Song of Storms"
+    ],
+    "suggestedStage": "child-return",
+    "instructions": "At the frog pond midway upriver, present the Ocarina and play Song of Storms; accept the heart piece.",
+    "sourceIds": [
+      "c-rpg-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-015",
+    "type": "heart-piece",
+    "number": 15,
+    "name": "Frog concert",
+    "region": "Zora River",
+    "sublocation": "Frog concert",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Zelda's Lullaby",
+      "Saria's Song",
+      "Epona's Song",
+      "Sun's Song",
+      "Song of Time"
+    ],
+    "suggestedStage": "child-return",
+    "instructions": "Play the five listed songs to grow all frogs. Complete their butterfly-button concert, pressing the note for the highlighted frog promptly.",
+    "sourceIds": [
+      "c-rpg-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-016",
+    "type": "heart-piece",
+    "number": 16,
+    "name": "Five-torch chest",
+    "region": "Zora's Domain",
+    "sublocation": "Five-torch chest",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Deku Sticks"
+    ],
+    "suggestedStage": "zora-child",
+    "instructions": "Light a stick at the throne-room torch. Light the stair torch, then the shop/pool torches and two behind the waterfall; open the spawned chest.",
+    "sourceIds": [
+      "c-rpg-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-017",
+    "type": "heart-piece",
+    "number": 17,
+    "name": "Ice-floe piece",
+    "region": "Zora's Fountain",
+    "sublocation": "Ice-floe piece",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [],
+    "suggestedStage": "ice-cavern",
+    "instructions": "On the way to Ice Cavern, jump across the floating ice, branching onto the floe holding the heart piece.",
+    "sourceIds": [
+      "c-rpg-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-018",
+    "type": "heart-piece",
+    "number": 18,
+    "name": "Pool bottom",
+    "region": "Zora's Fountain",
+    "sublocation": "Pool bottom",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Iron Boots"
+    ],
+    "suggestedStage": "ice-cavern",
+    "instructions": "After Ice Cavern, equip Iron Boots in the fountain pool. Sink to the piece surrounded by green rupees; remove boots to surface.",
+    "sourceIds": [
+      "c-rpg-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-019",
+    "type": "heart-piece",
+    "number": 19,
+    "name": "Waterfall chamber",
+    "region": "Gerudo Valley",
+    "sublocation": "Waterfall chamber",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Cucco"
+    ],
+    "suggestedStage": "child-valley",
+    "instructions": "Glide to the lower cow-side riverbank with the Cucco. Walk behind the large waterfall and climb the newly added stone steps to the piece.",
+    "sourceIds": [
+      "c-vgc-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-020",
+    "type": "heart-piece",
+    "number": 20,
+    "name": "Canyon ledge chest",
+    "region": "Gerudo Valley",
+    "sublocation": "Canyon ledge chest",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Cucco"
+    ],
+    "suggestedStage": "child-valley",
+    "instructions": "At the entrance bridge, locate the narrow opposite ledge with a chest. Carry the Cucco across the gap and open the chest.",
+    "sourceIds": [
+      "c-vgc-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-021",
+    "type": "heart-piece",
+    "number": 21,
+    "name": "Child fishing prize",
+    "region": "Lake Hylia",
+    "sublocation": "Child fishing prize",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Fishing fee"
+    ],
+    "suggestedStage": "lake-child",
+    "instructions": "Rent a rod, catch a large fish with the normal lure, keep it, and ask the owner to measure it. Target at least 60 cm.",
+    "sourceIds": [
+      "c-nl-fishing"
+    ],
+    "verification": "source-conflict",
+    "note": "Published thresholds conflict: VGC says over 50 cm; RPG Site says at least 55 cm; Nintendo Life obtained its prize with 59 cm. A 60 cm target clears all reported figures."
+  },
+  {
+    "id": "hp-022",
+    "type": "heart-piece",
+    "number": 22,
+    "name": "Laboratory tower roof",
+    "region": "Lake Hylia",
+    "sublocation": "Laboratory tower roof",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Planted Lake Hylia bean"
+    ],
+    "suggestedStage": "adult-lake",
+    "instructions": "Ride the bean planted beside the laboratory as a child. Jump onto the tower balcony and climb to the rooftop heart piece.",
+    "sourceIds": [
+      "c-vgc-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-023",
+    "type": "heart-piece",
+    "number": 23,
+    "name": "Laboratory diving test",
+    "region": "Lake Hylia",
+    "sublocation": "Laboratory diving test",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Golden Scale"
+    ],
+    "suggestedStage": "adult-lake",
+    "instructions": "With Golden Scale, dive to the bottom of the laboratory tank without Iron Boots. Surface and speak to the scientist for the piece.",
+    "sourceIds": [
+      "c-vgc-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-024",
+    "type": "heart-piece",
+    "number": 24,
+    "name": "Ledge above Dodongo",
+    "region": "Death Mountain Trail",
+    "sublocation": "Ledge above Dodongo",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Planted Dodongo entrance bean"
+    ],
+    "suggestedStage": "adult-mountain",
+    "instructions": "Ride the bean planted beside Dodongo's Cavern as a child. Jump from its platform to the ledge above the entrance.",
+    "sourceIds": [
+      "c-vgc-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-025",
+    "type": "heart-piece",
+    "number": 25,
+    "name": "Spinning Goron pot",
+    "region": "Goron City",
+    "sublocation": "Spinning Goron pot",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Deku Stick"
+    ],
+    "suggestedStage": "mountain-child",
+    "instructions": "Light the lowest-floor torches from Darunia's flame. Throw a bomb into the central pot from above; collect its reward below.",
+    "sourceIds": [
+      "c-nl-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-026",
+    "type": "heart-piece",
+    "number": 26,
+    "name": "Bean-route high rock",
+    "region": "Death Mountain Crater",
+    "sublocation": "Bean-route high rock",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Planted Crater bean",
+      "Goron Tunic"
+    ],
+    "suggestedStage": "post-fire",
+    "instructions": "Warp in as a child and plant a bean by the Fire Temple pad. Return as adult; ride it and jump onto the tall central rock.",
+    "sourceIds": [
+      "c-link-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-027",
+    "type": "heart-piece",
+    "number": 27,
+    "name": "Climbable-net alcove",
+    "region": "Death Mountain Crater",
+    "sublocation": "Climbable-net alcove",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Goron Tunic",
+      "Hookshot"
+    ],
+    "suggestedStage": "post-fire",
+    "instructions": "Near the summit-side crater entrance, face the central lava. Climb down the hanging grating to the lower alcove and collect the piece.",
+    "sourceIds": [
+      "c-link-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-028",
+    "type": "heart-piece",
+    "number": 28,
+    "name": "Business Scrub purchase",
+    "region": "Death Mountain Crater",
+    "sublocation": "Business Scrub purchase",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Shield",
+      "100 rupees"
+    ],
+    "suggestedStage": "mountain-child",
+    "instructions": "From the summit entrance go left and drop to the Scrub's lower ledge. Reflect its shot, talk, and buy the piece for 100 rupees; leave promptly.",
+    "sourceIds": [
+      "c-link-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-029",
+    "type": "heart-piece",
+    "number": 29,
+    "name": "Richard the dog",
+    "region": "Market",
+    "sublocation": "Richard the dog",
+    "age": "Child",
+    "time": "Night",
+    "requires": [],
+    "suggestedStage": "ranch-market-child",
+    "instructions": "At night find the alley white dogs. Lead one to Richard's owner by the market entrance; try another if rejected.",
+    "sourceIds": [
+      "c-nl-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-030",
+    "type": "heart-piece",
+    "number": 30,
+    "name": "Treasure Chest Shop",
+    "region": "Market",
+    "sublocation": "Treasure Chest Shop",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Lenses of Truth",
+      "Rupees"
+    ],
+    "suggestedStage": "child-return",
+    "instructions": "Enter the back-alley Chest Shop at night. Use the Lenses to choose the key chest in all five rooms, then open the final prize chest.",
+    "sourceIds": [
+      "c-nl-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-031",
+    "type": "heart-piece",
+    "number": 31,
+    "name": "Bombchu Bowling prize",
+    "region": "Market",
+    "sublocation": "Bombchu Bowling prize",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "King Dodongo defeated",
+      "Rupees"
+    ],
+    "suggestedStage": "ranch-market-child",
+    "instructions": "Play Bombchu Bowling after Dodongo's Cavern. Win the match offering the heart piece by sending Bombchus into each target past the obstacles.",
+    "sourceIds": [
+      "c-nl-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-032",
+    "type": "heart-piece",
+    "number": 32,
+    "name": "Highest rooftop chest",
+    "region": "Gerudo Fortress",
+    "sublocation": "Highest rooftop chest",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Scarecrow's Song",
+      "Hookshot"
+    ],
+    "suggestedStage": "post-spirit-gerudo",
+    "instructions": "Reach the fortress's uppermost rooftop. Summon Pierre across the gap, Hookshot to his ledge, and open the large chest.",
+    "sourceIds": [
+      "c-nl-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-033",
+    "type": "heart-piece",
+    "number": 33,
+    "name": "Horseback archery prize",
+    "region": "Gerudo Fortress",
+    "sublocation": "Horseback archery prize",
+    "age": "Adult",
+    "time": "Day",
+    "requires": [
+      "Gerudo Token",
+      "Epona",
+      "Fairy Bow"
+    ],
+    "suggestedStage": "gerudo-archery",
+    "instructions": "Enter horseback archery with Epona after gaining Gerudo access. Shoot pots and bullseyes; target 1000 points for the heart-piece reward.",
+    "sourceIds": [
+      "c-link-hp"
+    ],
+    "verification": "source-conflict",
+    "note": "Threshold disputed (700/750/1000); 1000 clears all reported figures. Ask the attendant."
+  },
+  {
+    "id": "hp-034",
+    "type": "heart-piece",
+    "number": 34,
+    "name": "Bean-route stone arch",
+    "region": "Desert Colossus",
+    "sublocation": "Bean-route stone arch",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Planted Colossus bean",
+      "Requiem of Spirit"
+    ],
+    "suggestedStage": "spirit-adult",
+    "instructions": "Ride the bean planted outside Spirit Temple as a child. Near the route's end, jump onto the stone arch holding the heart piece.",
+    "sourceIds": [
+      "c-nl-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-035",
+    "type": "heart-piece",
+    "number": 35,
+    "name": "Chest from the past",
+    "region": "Hyrule Field",
+    "sublocation": "Chest from the past",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Adult canyon Fairy Thought read"
+    ],
+    "suggestedStage": "child-return",
+    "instructions": "First inspect the empty chest under the rock overhang near Gerudo Valley as an adult and read its Fairy Thought. Return as a child and open it.",
+    "sourceIds": [
+      "c-quest-hp"
+    ],
+    "verification": "remake-source"
+  },
+  {
+    "id": "hp-036",
+    "type": "heart-piece",
+    "number": 36,
+    "name": "Moat Scrub password",
+    "region": "Hyrule Field",
+    "sublocation": "Moat Scrub password",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Adult moat Fairy Thought read",
+      "Bombs",
+      "Shield",
+      "100 rupees"
+    ],
+    "suggestedStage": "child-return",
+    "instructions": "As adult, read the Fairy Thought on the tree right of the castle drawbridge. As child, bomb the nearby crack, reflect the Scrub's shot, and give 'Sell something, will ya?' to buy the piece for 100 rupees.",
+    "sourceIds": [
+      "c-nl-password"
+    ],
+    "verification": "remake-source"
+  }
+]

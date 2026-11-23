@@ -1,0 +1,759 @@
+[
+  {
+    "id": "grotto-01",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 1,
+    "name": "Beehive hole by Skulltula House",
+    "region": "Kakariko Village",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Boomerang"
+    ],
+    "section": "r12",
+    "instructions": "Beside the House of Skulltula near the graveyard path, bomb the cracked ground and descend. Knock the hanging beehives down with the Boomerang for rupees; inspect the Gossip Stone.",
+    "sourceIds": [
+      "g-nexzy-01"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-02",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 2,
+    "name": "Potion Shop rear yard",
+    "region": "Kakariko Village",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Cucco"
+    ],
+    "section": "r05",
+    "instructions": "Carry a Cucco over the fence behind the Potion Shop, walk by Granny's steps, and drop into the open hole. Open the blue-rupee chest and inspect the Gossip Stone.",
+    "sourceIds": [
+      "g-nexzy-02"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-03",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 3,
+    "name": "Rear-right Heart Piece grave",
+    "region": "Graveyard",
+    "age": "Child",
+    "time": "Night",
+    "requires": [],
+    "section": "r05",
+    "instructions": "At night pull the last tombstone in the rear-right row. Descend to the chest containing hp-008; this visit does not award a second heart piece.",
+    "sourceIds": [
+      "g-nexzy-03"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.",
+    "sharedObjectiveIds": [
+      "hp-008"
+    ]
+  },
+  {
+    "id": "grotto-04",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 4,
+    "name": "ReDead shield grave",
+    "region": "Graveyard",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Sun's Song"
+    ],
+    "section": "r05",
+    "instructions": "From the Heart Piece grave, inspect the same row a few graves left. Pull the stone at night, freeze the ReDead with Sun's Song, defeat it, and open the shield chest.",
+    "sourceIds": [
+      "g-nexzy-04"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-05",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 5,
+    "name": "Flowered fairy grave",
+    "region": "Graveyard",
+    "age": "Child",
+    "time": "Night",
+    "requires": [
+      "Bombs"
+    ],
+    "section": "r12",
+    "instructions": "In the front row, pull the second grave from the left, marked by flowers. Bomb the cracked wall below to enter the healing fairy chamber.",
+    "sourceIds": [
+      "g-nexzy-05"
+    ],
+    "verification": "reported-remake",
+    "note": "Grave-row identification differs between sources. Use the flowered front-row grave and check for the cracked inner wall; exact grave mapping remains provisional."
+  },
+  {
+    "id": "grotto-06",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 6,
+    "name": "Kakariko farm ReDead hole",
+    "region": "Hyrule Field",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Song of Storms",
+      "Sun's Song"
+    ],
+    "section": "r14",
+    "instructions": "Leave Kakariko and check the crop plot ahead-right. Play Storms at the leafy marker and descend. Use Sun's Song to freeze the two ReDeads, defeat both, and open the purple-rupee chest.",
+    "sourceIds": [
+      "g-nexzy-06"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-07",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 7,
+    "name": "West moat Tektite pool",
+    "region": "Hyrule Field",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Song of Storms",
+      "Iron Boots"
+    ],
+    "section": "r26",
+    "instructions": "West of Castle Town, cross the little river to the grass along the north moat bank. Play Storms at its leafy marker. Defeat the Blue Tektite; sink with Iron Boots to break the rupee crates.",
+    "sourceIds": [
+      "g-nexzy-07"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-08",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 8,
+    "name": "East moat password Scrub",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Adult Fairy Thought read",
+      "100 rupees"
+    ],
+    "section": "r17",
+    "instructions": "Right of the castle drawbridge near the moat tower, bomb the ground and descend. After reading the nearby adult Fairy Thought, return as child to buy hp-036 from the password Scrub.",
+    "sourceIds": [
+      "g-password"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.",
+    "sharedObjectiveIds": [
+      "hp-036"
+    ]
+  },
+  {
+    "id": "grotto-09",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 9,
+    "name": "Ranch northeast fairy hole",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs"
+    ],
+    "section": "r12",
+    "instructions": "Outside Lon Lon Ranch's northeast corner, inspect the grass for cracked ground. Bomb it and descend to the fairy pool; replenish health and bottle a fairy if useful.",
+    "sourceIds": [
+      "g-nexzy-09"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-10",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 10,
+    "name": "Gerudo approach cow cave",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Din's Fire"
+    ],
+    "section": "r12",
+    "instructions": "Climb the sandy slope north of the Gerudo Valley entrance. Bomb the brown rock ringed by gray stones. Burn the cave webs with Din's Fire; inspect the cow, Gossip Stone and supply pots.",
+    "sourceIds": [
+      "g-nexzy-10"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-11",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 11,
+    "name": "Southern woodland spider hole",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Boomerang"
+    ],
+    "section": "r12",
+    "instructions": "In the woods south of Lon Lon Ranch, west of the Lake Hylia approach near the large Peahat, bomb the cracked ground. Retrieve gs-010 inside; mark its core token separately.",
+    "sourceIds": [
+      "g-nexzy-11"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.",
+    "sharedObjectiveIds": [
+      "gs-010"
+    ]
+  },
+  {
+    "id": "grotto-12",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 12,
+    "name": "Southeast marsh time-pair cave",
+    "region": "Hyrule Field",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Child ordinary spider defeated"
+    ],
+    "section": "r14",
+    "instructions": "Bomb the hole on the east side of the southeast marsh. Defeat its ordinary spider during childhood; return as adult and break the crate for gs-009. Read the Fairy Thought and inspect the Gossip Stone.",
+    "sourceIds": [
+      "g-nexzy-list"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.",
+    "sharedObjectiveIds": [
+      "gs-009"
+    ]
+  },
+  {
+    "id": "grotto-13",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 13,
+    "name": "Eastern rupee hole",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs"
+    ],
+    "section": "r12",
+    "instructions": "Between the Kokiri Forest and Zora River entrances, inspect the field's east boundary for cracked ground. Bomb it, descend, and collect the loose blue and green rupees beside the Gossip Stone.",
+    "sourceIds": [
+      "g-nexzy-list"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-14",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 14,
+    "name": "Moat-tree Storms cave",
+    "region": "Hyrule Castle",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Song of Storms",
+      "Bombs",
+      "Boomerang"
+    ],
+    "section": "r17",
+    "instructions": "Sneak through the castle garden, climb the west vines, cross the moat and reach the tree near Talon's former spot. Play Storms at its marker, descend, bomb the inner obstruction if present, and retrieve gs-013.",
+    "sourceIds": [
+      "g-nexzy-14"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.",
+    "sharedObjectiveIds": [
+      "gs-013"
+    ]
+  },
+  {
+    "id": "grotto-15",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 15,
+    "name": "Southeast Scrub shop",
+    "region": "Lon Lon Ranch",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Shield"
+    ],
+    "section": "r12",
+    "instructions": "Outside the racetrack in the southeast corner near the large rock, bomb the cracked ground. Defeat the three Business Scrubs to inspect their ammunition and magic shop offers; purchases are repeatable supplies.",
+    "sourceIds": [
+      "g-nexzy-15"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-16",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 16,
+    "name": "Lost Woods slope Storms cave",
+    "region": "Kokiri Forest",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Song of Storms",
+      "Shield"
+    ],
+    "section": "r17",
+    "instructions": "Come down from the Lost Woods and turn right toward the nearby Gossip Stone. Play Storms at the leafy marker. Inside, reflect nuts at the three Scrubs in order 2, 3, 1; open the green-rupee chest.",
+    "sourceIds": [
+      "g-nexzy-16"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-17",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 17,
+    "name": "Goron-shortcut bug cave",
+    "region": "Lost Woods",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Bottle"
+    ],
+    "section": "r12",
+    "instructions": "From the woods entrance go right, then left to the Goron City shortcut. Bomb the adjacent boulder, descend, and cut the bushes to catch bugs in a bottle.",
+    "sourceIds": [
+      "g-nexzy-17"
+    ],
+    "verification": "unconfirmed-remake",
+    "note": "QuestFern explicitly marks this location as not yet confirmed in its remake research; treat the directions and contents as provisional. Do not assume an older-game location proves it."
+  },
+  {
+    "id": "grotto-18",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 18,
+    "name": "Forest Stage",
+    "region": "Lost Woods",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Skull Mask",
+      "Mask of Truth"
+    ],
+    "section": "r12",
+    "instructions": "Take right, left, right, left, left from the woods entrance. Drop through the tall grass at the clearing's rear. Show Skull Mask and Mask of Truth on separate visits for the stick and nut capacity rewards.",
+    "sourceIds": [
+      "g-nexzy-18"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-19",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 19,
+    "name": "Sacred Grove doorway Scrubs",
+    "region": "Lost Woods",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Shield",
+      "40 rupees"
+    ],
+    "section": "r12",
+    "instructions": "Near the doorway into Sacred Grove, bomb the boulder covering a grotto. Reflect the two Business Scrubs' shots; buy the larger Deku Nut bag for 40 rupees if still needed.",
+    "sourceIds": [
+      "g-nexzy-list"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-20",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 20,
+    "name": "Entrance Wolfos Storms hole",
+    "region": "Sacred Grove",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Song of Storms"
+    ],
+    "section": "r15",
+    "instructions": "Before entering the maze, play Storms beside the right-hand wall's leafy plant. Defeat both Wolfos, striking their backs after they attack, then open the purple-rupee chest.",
+    "sourceIds": [
+      "g-nexzy-20"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-21",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 21,
+    "name": "Maze fairy hole",
+    "region": "Sacred Grove",
+    "age": "Child",
+    "time": "Any",
+    "requires": [],
+    "section": "r04",
+    "instructions": "At the maze's far end by the ladder below Saria's stairs, turn back toward the walled grassy courtyard. Walk through its ground-level doorway and drop into the open fairy hole.",
+    "sourceIds": [
+      "g-nexzy-21"
+    ],
+    "verification": "reported-remake",
+    "note": "Sources describe both the far-end ladder and the central walled courtyard; use the open hole inside that courtyard. This is a healing fountain, separate from a Great Fairy reward."
+  },
+  {
+    "id": "grotto-22",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 22,
+    "name": "Saria clearing Time Block cave",
+    "region": "Sacred Grove",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Song of Time"
+    ],
+    "section": "r15",
+    "instructions": "In the southeast of Saria's clearing near the warp pad, bomb the large rock. Below, clear the blue blocks with Song of Time; open the Business Scrub Seed chest beside the Gossip Stone.",
+    "sourceIds": [
+      "g-nexzy-22"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-23",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 23,
+    "name": "Climbing-net cow hole",
+    "region": "Death Mountain Trail",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs"
+    ],
+    "section": "r08",
+    "instructions": "On the ascent beyond the bombable cliff path, inspect the ledge below the climbing net. Bomb the round rock and descend. Inspect the Gossip Stone and cow; milk is available later with Epona's Song and an empty bottle.",
+    "sourceIds": [
+      "g-nexzy-23"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-24",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 24,
+    "name": "Goron-side Baby Dodongo hole",
+    "region": "Death Mountain Trail",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Song of Storms"
+    ],
+    "section": "r18",
+    "instructions": "Exit Goron City onto the trail, move ahead-left toward the cliff edge and play Storms at the leafy plant. Below, avoid the dying Baby Dodongos' explosions while gathering rupees.",
+    "sourceIds": [
+      "g-nexzy-24"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-25",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 25,
+    "name": "Reported lava-tunnel sign challenge",
+    "region": "Goron City",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot"
+    ],
+    "section": "r18",
+    "instructions": "Check the city's side tunnel toward a lava gap; the reported route crosses with Hookshot. Read every sign before cutting any. The reported reward is a purple-rupee chest; exact sign sequence is unverified.",
+    "sourceIds": [
+      "g-quest-list"
+    ],
+    "verification": "unconfirmed-remake",
+    "note": "QuestFern explicitly marks this location as not yet confirmed in its remake research; treat the directions and contents as provisional. Do not assume an older-game location proves it."
+  },
+  {
+    "id": "grotto-26",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 26,
+    "name": "Summit-side seed cave",
+    "region": "Death Mountain Crater",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Goron Tunic"
+    ],
+    "section": "r19",
+    "instructions": "From the summit entrance go straight, then left to the rock-covered hole. Break the cracked rock, descend, inspect the Gossip Stone and open the chest reported to contain a Business Scrub Seed.",
+    "sourceIds": [
+      "g-quest-mountain"
+    ],
+    "verification": "reported-remake",
+    "note": "Source does not identify the covering rock precisely. Use Bombs on a cracked rock; if it is a dark volcanic boulder, use the Hammer already carried on this adult visit."
+  },
+  {
+    "id": "grotto-27",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 27,
+    "name": "Western Hammer cave",
+    "region": "Death Mountain Crater",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Megaton Hammer",
+      "Goron Tunic"
+    ],
+    "section": "r19",
+    "instructions": "On the crater's western plateau, smash the dark volcanic boulder with the Hammer and descend. Defeat the reported pair of lizard warriors to reveal a purple-rupee chest.",
+    "sourceIds": [
+      "g-quest-mountain"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-28",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 28,
+    "name": "Gate-side Storms hole",
+    "region": "Zora River",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Song of Storms"
+    ],
+    "section": "r17",
+    "instructions": "Just beyond the gate from Hyrule Field, check the northwest rocky corner. Play Storms at its leafy marker, descend, inspect the Gossip Stone, and break the supply pots.",
+    "sourceIds": [
+      "g-nexzy-28"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-29",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 29,
+    "name": "High-island fairy hole",
+    "region": "Zora River",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Cucco"
+    ],
+    "section": "r10",
+    "instructions": "Carry a Cucco to glide onto the river's central island, catch its vines and climb to the top. Bomb the large boulder and enter the reported fairy fountain below.",
+    "sourceIds": [
+      "g-nexzy-29"
+    ],
+    "verification": "unconfirmed-remake",
+    "note": "QuestFern explicitly marks this location as not yet confirmed in its remake research; treat the directions and contents as provisional. Do not assume an older-game location proves it."
+  },
+  {
+    "id": "grotto-30",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 30,
+    "name": "Blue-pillar Cucco cave",
+    "region": "Zora River",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs",
+      "Cucco"
+    ],
+    "section": "r10",
+    "instructions": "Reach the high central island, then its southern ledge between two blue-tiled pillars. Bomb the ground if sealed; descend for the Seed chest, Gossip Stone and Cucco. Carry that Cucco out for hp-012.",
+    "sourceIds": [
+      "g-nexzy-30"
+    ],
+    "verification": "reported-remake",
+    "note": "Sources disagree whether this hole starts open or must be bombed. Inspect the ground marker between the blue pillars; bomb a cracked covering if present.",
+    "sharedObjectiveIds": [
+      "hp-012"
+    ]
+  },
+  {
+    "id": "grotto-31",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 31,
+    "name": "North-pool rupee hole",
+    "region": "Zora's Domain",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Bombs"
+    ],
+    "section": "r10",
+    "instructions": "From the pool's west bank, take the stone steps to the northern land patch below the river entrance. Bomb the cracked ground among the bushes and collect the blue rupees below.",
+    "sourceIds": [
+      "g-nexzy-31"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-32",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 32,
+    "name": "Between-bridges torch grave",
+    "region": "Lake Hylia",
+    "age": "Child",
+    "time": "Any",
+    "requires": [
+      "Din's Fire"
+    ],
+    "section": "r12",
+    "instructions": "On the small platform between the wooden bridges near the owl perch, pull the lone gravestone. Light all four underground torches, including the one behind the entrance, with Din's Fire; open the red-rupee chest.",
+    "sourceIds": [
+      "g-nexzy-32"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-33",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 33,
+    "name": "Tent-side Storms cave",
+    "region": "Gerudo Valley",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Song of Storms",
+      "Lenses of Truth"
+    ],
+    "section": "r27",
+    "instructions": "Behind the carpenters' tent, play Storms at the leafy marker. Below, open the visible green-rupee chest; use the Lenses to reveal the red-rupee chest between the right-hand pots.",
+    "sourceIds": [
+      "g-quest-valley"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-34",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 34,
+    "name": "East-bank silver-pillar pool",
+    "region": "Gerudo Valley",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Silver Gauntlets",
+      "Iron Boots"
+    ],
+    "section": "r33",
+    "instructions": "From the Hyrule Field entrance bridge, look left toward the south cliff shelf on the east bank. Lift its heavy pillar, descend, and equip Iron Boots to reach the submerged Business Scrub Seed chest.",
+    "sourceIds": [
+      "g-100p-gauntlets"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-35",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 35,
+    "name": "Central-building pot cave",
+    "region": "Gerudo Fortress",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Hookshot"
+    ],
+    "section": "r27",
+    "instructions": "After Saburo's cell, exit the far door, stun the outdoor guard and go right. Drop down, take the right door, then take the left corridor at the stairs. Descend; defeat the spider and flying pots, and open the red-rupee chest.",
+    "sourceIds": [
+      "g-guru-fortress"
+    ],
+    "verification": "reported-remake",
+    "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice."
+  },
+  {
+    "id": "grotto-36",
+    "type": "optional",
+    "category": "Grotto visits",
+    "number": 36,
+    "name": "Northern silver-pillar encounter",
+    "region": "Desert Colossus",
+    "age": "Adult",
+    "time": "Any",
+    "requires": [
+      "Silver Gauntlets"
+    ],
+    "section": "r30",
+    "instructions": "Northeast of Spirit Temple, inspect the heavy pillar at the northern cliff's foot. Lift it and descend. The reported enemy-clear challenge rewards a purple-rupee chest; its enemy lineup is not independently verified.",
+    "sourceIds": [
+      "g-quest-list"
+    ],
+    "verification": "unconfirmed-remake",
+    "note": "Single catalogue-level report; exact fight and its reward are unverified. This record does not establish a complete official grotto count."
+  }
+]

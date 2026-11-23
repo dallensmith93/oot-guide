@@ -1,0 +1,257 @@
+[
+  {
+    "id": "thought-01",
+    "name": "Field: Kakariko path",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Any",
+    "section": "r05",
+    "requires": [],
+    "instructions": "Inspect the swirl on mossy wall beside tree.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-02",
+    "name": "Field: overturned cart",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Any",
+    "section": "r09",
+    "requires": [],
+    "instructions": "Inspect inside the overturned roadside cart.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-03",
+    "name": "Field: pillar grove",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Any",
+    "section": "r09",
+    "requires": [],
+    "instructions": "Inspect the pillar base in the central grove.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-04",
+    "name": "Field: river grotto",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Any",
+    "section": "r12",
+    "requires": [],
+    "instructions": "Bomb riverbank grotto; inspect its wall.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-05",
+    "name": "Field: night camp",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Hyrule Field",
+    "age": "Child",
+    "time": "Night",
+    "section": "r12",
+    "requires": [],
+    "instructions": "Inspect rock behind cliffside barrels and bench.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-06",
+    "name": "Royal tomb: poison room",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Graveyard",
+    "age": "Child",
+    "time": "Any",
+    "section": "r05",
+    "requires": [],
+    "instructions": "Inspect broken pillar beyond poison pools.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-07",
+    "name": "Trail: night wall",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Death Mountain Trail",
+    "age": "Child",
+    "time": "Night",
+    "section": "r08",
+    "requires": [],
+    "instructions": "Leaving Goron City, inspect the left rock wall.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-08",
+    "name": "River: dark alcove",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Zora River",
+    "age": "Child",
+    "time": "Any",
+    "section": "r10",
+    "requires": [],
+    "instructions": "Inspect cliff alcove upstream, beside loose rock.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-09",
+    "name": "Forest: blue hall",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Forest Temple",
+    "age": "Adult",
+    "time": "Any",
+    "section": "r15",
+    "requires": [],
+    "instructions": "Inspect wall beside stairs on blue-carpeted 3F.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-10",
+    "name": "Fire: hammer passage",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Fire Temple",
+    "age": "Adult",
+    "time": "Any",
+    "section": "r18",
+    "requires": [],
+    "instructions": "After Hammer, inspect 5F passage-end wall.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-11",
+    "name": "Ice: thawed passage",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Ice Cavern",
+    "age": "Adult",
+    "time": "Any",
+    "section": "r20",
+    "requires": [],
+    "instructions": "Melt red ice; inspect wall ahead.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-12",
+    "name": "Water: fog room",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Water Temple",
+    "age": "Adult",
+    "time": "Any",
+    "section": "r21",
+    "requires": [],
+    "instructions": "Inspect low wall in foggy 1F room.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-13",
+    "name": "Shadow: barred cells",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Shadow Temple",
+    "age": "Adult",
+    "time": "Any",
+    "section": "r25",
+    "requires": [],
+    "instructions": "Inspect cracked wall by prison bars.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-14",
+    "name": "Field: castle tree password",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Hyrule Field",
+    "age": "Adult",
+    "time": "Night",
+    "section": "r14",
+    "requires": [],
+    "instructions": "Inspect castle-front tree; remember password for child scrub.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  },
+  {
+    "id": "thought-15",
+    "name": "Field: valley nook memory",
+    "type": "optional",
+    "category": "Fairy Thoughts",
+    "region": "Hyrule Field",
+    "age": "Adult",
+    "time": "Any",
+    "section": "r14",
+    "requires": [],
+    "instructions": "Inspect wall by red-rock nook chest near valley; return child.",
+    "optional": true,
+    "sources": [
+      "fairy-thoughts"
+    ],
+    "note": "Source-listed location; exhaustive Thought total remains disputed."
+  }
+]

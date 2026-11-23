@@ -1,0 +1,273 @@
+[
+  {
+    "id": "g-quest-list",
+    "title": "QuestFern: 36 reported remake grottos",
+    "url": "https://questfern.com/oot/guides/secret-grottos/",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": "Its introduction says 10 entries remain unconfirmed, but only three table rows are actually labeled Reportedly. Treat the full list as provisional, not a verified official total."
+  },
+  {
+    "id": "g-nexzy-list",
+    "title": "Nexzy: grotto catalogue",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/guide/all-grotto-locations",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": "Counts 37, including Damp?'s grave; this catalogue follows QuestFern's 36-hole convention excluding Damp? and the Royal Family Tomb. Different counting conventions remain possible."
+  },
+  {
+    "id": "g-quest-forest",
+    "title": "QuestFern: Lost Woods and Sacred Grove",
+    "url": "https://questfern.com/oot/guides/lost-woods/",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-quest-mountain",
+    "title": "QuestFern: Goron City and Death Mountain",
+    "url": "https://questfern.com/oot/guides/goron-city/",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-quest-river",
+    "title": "QuestFern: Zora River",
+    "url": "https://questfern.com/oot/guides/zora-river/",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-quest-valley",
+    "title": "QuestFern: Gerudo Valley",
+    "url": "https://questfern.com/oot/guides/gerudo-valley/",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-guru-fortress",
+    "title": "Gamer Guru: Gerudo Fortress grotto",
+    "url": "https://www.gamerguruguides.com/guides/ocarina-of-time-remake-walkthrough-part-20",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-100p-gauntlets",
+    "title": "100% Guides: Silver Gauntlets grotto",
+    "url": "https://www.100pguides.com/guides/zelda-ocarina-of-time-remake-walkthrough-part-22-spirit-temple-adult",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-01",
+    "title": "Nexzy: Beehive hole by Skulltula House",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-kv-skulltula-house",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-02",
+    "title": "Nexzy: Potion Shop rear yard",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-kv-potion-shop",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-03",
+    "title": "Nexzy: Rear-right Heart Piece grave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-kg-heart-piece",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-04",
+    "title": "Nexzy: ReDead shield grave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-kg-redead",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-05",
+    "title": "Nexzy: Flowered fairy grave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-kg-fairy",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-06",
+    "title": "Nexzy: Kakariko farm ReDead hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-hf-kakariko-redeads",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-07",
+    "title": "Nexzy: West moat Tektite pool",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-hf-tektite",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-09",
+    "title": "Nexzy: Ranch northeast fairy hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-hf-fairy",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-10",
+    "title": "Nexzy: Gerudo approach cow cave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-hf-gerudo-cow",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-11",
+    "title": "Nexzy: Southern woodland spider hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-hf-forest-skulltula",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-14",
+    "title": "Nexzy: Moat-tree Storms cave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-hc-tree",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-15",
+    "title": "Nexzy: Southeast Scrub shop",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-llr-scrubs",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-16",
+    "title": "Nexzy: Lost Woods slope Storms cave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-kf-storms",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-17",
+    "title": "Nexzy: Goron-shortcut bug cave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-lw-goron-shortcut",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-18",
+    "title": "Nexzy: Forest Stage",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-lw-forest-stage",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-20",
+    "title": "Nexzy: Entrance Wolfos Storms hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-sfm-wolfos",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-21",
+    "title": "Nexzy: Maze fairy hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-sfm-fairy",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-22",
+    "title": "Nexzy: Saria clearing Time Block cave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-sfm-song-of-time",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-23",
+    "title": "Nexzy: Climbing-net cow hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-dmt-cow",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-24",
+    "title": "Nexzy: Goron-side Baby Dodongo hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-dmt-dodongos",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-28",
+    "title": "Nexzy: Gate-side Storms hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-zr-storms",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-29",
+    "title": "Nexzy: High-island fairy hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-zr-fairy",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-30",
+    "title": "Nexzy: Blue-pillar Cucco cave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-zr-cliff",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-31",
+    "title": "Nexzy: North-pool rupee hole",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-zd-rupees",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-nexzy-32",
+    "title": "Nexzy: Between-bridges torch grave",
+    "url": "https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-lh-torches",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake",
+    "note": ""
+  },
+  {
+    "id": "g-password",
+    "title": "Nintendo Life: moat Business Scrub password",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-business-scrub-password-switch-2",
+    "accessed": "2026-11-23",
+    "scope": "Nintendo Switch 2 remake"
+  }
+]

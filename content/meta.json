@@ -1,0 +1,70 @@
+{
+  "title": "The Hero's Ledger",
+  "subtitle": "Ocarina of Time · Nintendo Switch 2 remake",
+  "version": "1.0.0",
+  "gameVersion": "1.1.1",
+  "researchDate": "2026-11-23",
+  "standard": [
+    "For the native Nintendo Switch 2 remake released November 5, 2026. Research date: November 23, 2026. Nintendo's latest listed update at research time is 1.1.1 (November 5); it adds ZELDA NOTES support and fixes unspecified issues. Check your title-screen version after updating. This companion is independent of Nintendo.",
+    "Remake-specific sources confirm 100 Gold Skulltulas, 36 Pieces of Heart, eight boss Heart Containers and five bottles. Expected maximum hearts = 3 starting hearts + 8 containers + floor(36/4) = 20. Songs include the player-composed Scarecrow Song, for 13 in this checklist. Earlier-version collectible routes are not interchangeable with this remake.",
+    "Core progress includes individual permanent collectibles, inventory and upgrades, story rewards, named quests, unique minigame rewards, and Hall clear rewards. Each unique core objective has equal weight: checked core IDs / all core IDs × 100, rounded to a whole percent. Shared objectives use the same ID in every view. Browser checks are self-reported and never inspect a game save. Chest sweeps, aggregate audits, temporary objects and duplicate activity reminders are additional checks, outside the core denominator.",
+    "This checklist percentage describes the published objectives only. It is not proof that your game is exhaustive. Known research conflicts and incomplete manifests are disclosed under Sources and Version Information and relevant route steps; a fully checked list cannot resolve those gaps. Expected totals follow the route; actual totals count only checked IDs, without assuming that you remembered to mark associated rewards.",
+    "Threads of Time is the in-game illustrated quest log. ZELDA NOTES adds tracking and records on a compatible smart device. Its progress is distinct from this website. Research does not establish a complete official weighting formula for Notes' percentage, so this guide does not reproduce or promise equality with it. Phone records, Gossip Quests and time medals are treated separately from base-game completion.",
+    "Additional one-time experiences include source-listed Fairy Thoughts and optional conversations or unusual fishing catches. Repeatable money, refills, seed summons and minigame replays do not inflate core progress. Hall rematch clears and the three gauntlet trophies belong to the base-game ledger; app-only master time medals are an optional challenge layer. Temporary trade-object checks are also kept outside the core denominator; the permanent quest reward supplies the core completion flag.",
+    "Temporary acquisitions are historical checks: trade objects replace one another, bottle contents are expendable, and upgrade tiers share inventory slots. Masks and equipment shortcuts are not a requirement to wear everything simultaneously. Purchasing the Giant's Knife before Biggoron's Sword records an otherwise replaced weapon; it is not a reason to discard the final sword. Keep temporary gear and historical acquisition checks separate from the final retained inventory.",
+    "Main-route objectives use the base game alone. ZELDA NOTES needs a compatible smart device, Nintendo Account and internet; Nintendo states no Nintendo Switch Online membership is needed. Amiibo require separately purchased figures. Young Link/Young Zelda figures advertised for 2027 unlock retro-style masks and are not available launch-day base-game requirements. No paid DLC or additional difficulty mode is asserted without a verified source.",
+    "Planning estimate: 40–60 hours for an efficient normal-player completion attempt, allowing puzzle reading and minigame retries; 60–80 hours for a first-time player or extensive Hall practice. These are editorial estimates, not timings measured for this route. App master medals and exhaustive optional dialogue can extend that substantially. Expert speedrun targets are a separate activity."
+  ],
+  "controls": [
+    {
+      "title": "Read the game's control cards",
+      "text": "Press Plus, open System, and inspect Controls and Special Actions. Options can change jump and ocarina layouts. The physical-button reference below comes from remake control-card reporting and gameplay evidence (VULKK and How To Video Game). Nintendo's public material verifies the action changes, but a complete official web button chart was not located; your in-game cards are authoritative."
+    },
+    {
+      "title": "Movement and combat",
+      "text": "Default: left stick moves; right stick rotates the camera; X jumps; Y attacks; A handles context actions and rolls, and holding A dashes. ZL targets and raises the equipped shield. B puts an item away. Jump then attack performs a jump attack; the game also supports a classic targeted jump attack. Do not run off ledges expecting the original game's auto-jump."
+    },
+    {
+      "title": "Quick items and equipment",
+      "text": "ZR uses the selected item. Hold L or R for quick selection. Directional left opens the ocarina; right calls Navi; up toggles the assigned accessory; down toggles boots. Plus opens the menu; Minus opens map/quest information. Check changed Options settings before using a button sequence."
+    },
+    {
+      "title": "Playing songs",
+      "text": "Use the on-screen note prompts for your selected layout; do not translate N64 C-buttons. The game supports normal two-handed and classic one-handed ocarina layouts. Optional humming or instrument microphone input is officially supported; button input remains the reliable default. No physical ocarina, microphone accessory or phone is required for the route."
+    },
+    {
+      "title": "Saving and retries",
+      "text": "Use the game's System save interface and pay attention to its save indicator before closing. This guide does not assume emulator Suspend Points or rewind: those belong to the N64 app. No unverified save/reload travel shortcut or autosave manipulation is required. Make a manual save before the finale and before experimenting with optional challenges."
+    }
+  ],
+  "warnings": [
+    "Version matters: the N64 Forest Stage/Poacher's Saw warning and the old Jabu map/Ruto warning are not established remake missables. Do not treat older guides as proof. This itinerary still collects child rewards and dungeon maps during the appropriate visit for efficient routing.",
+    "Reported bug, not an officially confirmed universal missable: players report Epona's Song may fail to be taught after acquiring the Ocarina of Time. Learn it from Malon during the early ranch visit as this route directs. Nintendo's 1.1.1 notes do not identify a fix by name.",
+    "Timed trading: clear the intended path before taking perishables and avoid warp songs during deliveries unless the remake's current behavior has been directly confirmed. This conservative route uses ordinary travel. Keep one empty bottle when the next step requires bugs, fish or Blue Fire.",
+    "Some completion sources disagree on changed collectible rooms and thresholds. The specific entries preserve those conflicts. They are genuine verification limits, not extra collectibles: never count both proposed rooms as two tokens.",
+    "Historical weapons and temporary quest objects cannot all be retained at once. Buy the Giant's Knife before the final Biggoron reward if recording that purchase. Protect expensive shields and tunics from equipment-eating enemies and replace any lost equipment before the final audit.",
+    "Export your checklist before clearing browser data or moving to a new hostname. In-game progress and this companion are independent; reloading an older game save does not roll back browser checkboxes."
+  ],
+  "tips": [
+    "Dash across clear paths, stop short of jumps, and line up the camera before crossing narrow platforms. Use lock-on and shield for consistent combat; target the exposed weak point rather than spending attacks during invulnerability.",
+    "Use warp songs after learning them. Collect beans, bug tokens and nearby rewards together; the route schedules child returns after adult-only clues rather than sending you back for each individual item.",
+    "Keep rupees for fairy donations, permanent bags and minigame prizes. Refill from nearby pots and chests during ordinary travel. Stop replaying a minigame once its unique rewards are checked; repeated money prizes are not new completion.",
+    "Inspect maps and chest markers during each dungeon sweep, and use quick equipment selection in the Water Temple. Do not copy the original six-key route: remake layouts and rewards have changed.",
+    "Use Sun's Song to meet scheduled outdoor night requirements. The remake's day/night cycle continues in towns; do not rely on the original game's frozen-town timing. Complete a timed local activity promptly after setting the desired hour.",
+    "No advanced speedrun glitch is required. Practical optimization here means combining errands and using reliable tools, not a mathematically optimal or frame-tested speedrun route."
+  ],
+  "limitations": [
+    "No console playthrough was performed. Verification uses the linked remake-specific written guides and reported gameplay evidence.",
+    "A complete official physical-button chart was not located online. Button labels are attributed to remake control-card reporting; Nintendo confirms the mechanics.",
+    "Fairy Thought totals conflict: a dedicated guide enumerates 15 while a community map advertises 19. Source-listed entries are included as additional activities; this is not a verified exhaustive Thought inventory.",
+    "The exact official weighting and full event list of ZELDA NOTES completion are unresolved. App-only records and future amiibo masks do not count toward this browser's base-game percentage.",
+    "The 36-grotto catalogue uses a stated counting convention; several locations remain reported rather than independently verified. In particular grotto-17, grotto-25, grotto-29 and grotto-36 retain explicit uncertainty. Complete all-chest and all-84-statue manifests also require further independent verification."
+  ],
+  "cleanup": [
+    "Before the finale, review every unchecked core objective below. Confirm 100 Skulltulas, 36 heart pieces and eight boss containers for 20 hearts; check the retained inventory and all six Great Fairy rewards separately.",
+    "Resolve any Verification note against your observed game before marking its objective. A checked counter cannot settle a disputed location or certify the unpublished chest/Thought manifest.",
+    "Route 40 contains the final battle and ending-save notes. Route 41 contains the Hall of Fallen Foes and postgame audit. The three Hall gauntlets and app-only time medals have different completion standards.",
+    "Make a manual game save, export browser progress, and retain both backups before the final sequence. The website checklist and console save do not synchronize."
+  ],
+  "startingHearts": 3
+}

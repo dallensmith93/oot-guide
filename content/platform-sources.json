@@ -1,0 +1,68 @@
+[
+  {
+    "id": "nintendo-product",
+    "title": "Nintendo: Ocarina of Time for Switch 2 — release and features",
+    "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+    "scope": "Official release, microphone option, remake extras, future amiibo"
+  },
+  {
+    "id": "nintendo-update",
+    "title": "Nintendo: software update history, version 1.1.1",
+    "url": "https://www.nintendo.com/en-gb/Support/Purchases-Subscriptions/Games/How-to-Update-The-Legend-of-Zelda-Ocarina-of-Time-3235369.html",
+    "scope": "Latest listed patch at research date"
+  },
+  {
+    "id": "nintendo-developer3",
+    "title": "Nintendo Ask the Developer, Part 3",
+    "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-3/",
+    "scope": "Manual jump, dash, camera, Water Temple changes and quest tapestry"
+  },
+  {
+    "id": "nintendo-notes",
+    "title": "Nintendo: ZELDA NOTES",
+    "url": "https://www.nintendo.com/en-gb/Games/Smart-device-games/ZELDA-NOTES-2790439.html",
+    "scope": "Optional connected app requirements and features"
+  },
+  {
+    "id": "nintendo-amiibo",
+    "title": "Nintendo Support: using amiibo in Ocarina of Time",
+    "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/71861/~/how-to-use-amiibo-figures-%28the-legend-of-zelda%3A-ocarina-of-time%29",
+    "scope": "Optional figure scans; separate from base-game completion"
+  },
+  {
+    "id": "controls-vulkk",
+    "title": "VULKK: remake control cards and special actions",
+    "url": "https://vulkk.com/2026/11/06/the-legend-of-zelda-ocarina-of-time-controls-guide/",
+    "scope": "Physical-button chart; secondary gameplay reporting"
+  },
+  {
+    "id": "controls-shield",
+    "title": "How To Video Game: shield input with recorded remake gameplay",
+    "url": "https://howtovideogame.com/ocarina-of-time-remake-use-shield/",
+    "scope": "ZL shield/target and Y attack"
+  },
+  {
+    "id": "fairy-thoughts",
+    "title": "GameClubz: 15 source-listed Fairy Thoughts",
+    "url": "https://www.gameclubz.com/zelda-ocarina-of-time-remake-fairy-thoughts/",
+    "scope": "Locations, incomplete-total warning retained"
+  },
+  {
+    "id": "scrub-seeds",
+    "title": "Zelda Central: remake Business Scrubs and 13 seed chests",
+    "url": "https://zeldacentral.com/games/ocarina-of-time-remake/business-scrubs/",
+    "scope": "New consumable and source-listed seed chests"
+  },
+  {
+    "id": "notes-community-count",
+    "title": "Community map announcement: claims 19 Fairy Thoughts",
+    "url": "https://www.reddit.com/r/yuzu/comments/1xxcj55/ocarina_atlas_v200_100_autotracking_live/",
+    "scope": "Conflicting total only; not proof of collectible locations"
+  },
+  {
+    "id": "epona-report",
+    "title": "Player report with gameplay links: Malon song-teaching issue (unconfirmed scope)",
+    "url": "https://www.reddit.com/r/OcarinaOfTime/comments/1xvwihm/i_cant_learn_eponas_song_its_not_giving_me_the/",
+    "scope": "Reported bug only; not an official statement of permanent missability"
+  }
+]
