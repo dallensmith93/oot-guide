@@ -490,11 +490,12 @@ window.GUIDE = {
         "zelda-lullaby",
         "gs-008",
         "gs-011",
-        "gs-012"
+        "gs-012",
+        "hp-029"
       ],
       "expected": {
         "gs": 7,
-        "hp": 0,
+        "hp": 1,
         "boss": 1,
         "hearts": 4
       },
@@ -577,15 +578,15 @@ window.GUIDE = {
         "stick-bag-1",
         "grotto-21",
         "gs-001",
-        "hp-002",
         "gs-003",
         "hp-003",
+        "hp-002",
         "gs-033",
         "gs-034"
       ],
       "expected": {
         "gs": 11,
-        "hp": 2,
+        "hp": 3,
         "boss": 1,
         "hearts": 4
       },
@@ -694,18 +695,18 @@ window.GUIDE = {
         "grotto-03",
         "grotto-04",
         "hp-006",
+        "gs-020",
         "hp-008",
         "hp-009",
-        "gs-014",
-        "gs-015",
         "gs-016",
+        "gs-015",
+        "gs-014",
         "gs-017",
-        "gs-018",
-        "gs-020"
+        "gs-018"
       ],
       "expected": {
         "gs": 17,
-        "hp": 5,
+        "hp": 6,
         "boss": 1,
         "hearts": 5
       },
@@ -767,11 +768,12 @@ window.GUIDE = {
       "number": 6,
       "objectiveIds": [
         "goron-bracelet",
-        "goron-woods-shortcut"
+        "goron-woods-shortcut",
+        "hp-025"
       ],
       "expected": {
         "gs": 17,
-        "hp": 5,
+        "hp": 7,
         "boss": 1,
         "hearts": 5
       },
@@ -900,7 +902,7 @@ window.GUIDE = {
       ],
       "expected": {
         "gs": 21,
-        "hp": 5,
+        "hp": 7,
         "boss": 2,
         "hearts": 6
       },
@@ -970,17 +972,16 @@ window.GUIDE = {
         "dins-fire",
         "thought-07",
         "grotto-23",
-        "hp-004",
-        "hp-025",
-        "hp-028",
+        "gs-045",
         "gs-036",
         "gs-037",
-        "gs-045",
-        "gs-047"
+        "gs-047",
+        "hp-028",
+        "hp-004"
       ],
       "expected": {
         "gs": 25,
-        "hp": 8,
+        "hp": 9,
         "boss": 2,
         "hearts": 7
       },
@@ -1109,7 +1110,6 @@ window.GUIDE = {
         "thought-03",
         "hp-001",
         "gs-024",
-        "hp-029",
         "hp-031"
       ],
       "expected": {
@@ -1213,18 +1213,17 @@ window.GUIDE = {
         "grotto-29",
         "grotto-30",
         "grotto-31",
+        "gs-049",
         "hp-012",
         "hp-013",
-        "hp-016",
-        "hp-021",
         "gs-029",
         "gs-030",
-        "gs-049",
+        "hp-016",
         "gs-054"
       ],
       "expected": {
         "gs": 30,
-        "hp": 15,
+        "hp": 14,
         "boss": 2,
         "hearts": 8
       },
@@ -1340,7 +1339,7 @@ window.GUIDE = {
       ],
       "expected": {
         "gs": 34,
-        "hp": 15,
+        "hp": 14,
         "boss": 3,
         "hearts": 9
       },
@@ -1610,17 +1609,18 @@ window.GUIDE = {
         "grotto-18",
         "grotto-19",
         "grotto-32",
-        "gs-010",
-        "hp-019",
-        "hp-020",
-        "gs-021",
+        "gs-055",
+        "gs-050",
+        "gs-031",
         "gs-022",
         "gs-023",
-        "gs-025",
+        "gs-021",
+        "gs-010",
         "gs-026",
-        "gs-031",
-        "gs-050",
-        "gs-055"
+        "hp-019",
+        "hp-020",
+        "gs-025",
+        "hp-021"
       ],
       "expected": {
         "gs": 43,
@@ -1854,15 +1854,13 @@ window.GUIDE = {
         "grotto-06",
         "grotto-12",
         "hp-005",
-        "hp-010",
-        "hp-011",
-        "gs-019"
+        "hp-011"
       ],
       "expected": {
-        "gs": 44,
-        "hp": 20,
+        "gs": 43,
+        "hp": 19,
         "boss": 3,
-        "hearts": 11
+        "hearts": 10
       },
       "episode": "ep08",
       "episodeNumber": 8
@@ -2024,7 +2022,6 @@ window.GUIDE = {
         "grotto-20",
         "grotto-22",
         "gs-002",
-        "gs-035",
         "gs-062",
         "gs-063",
         "gs-064",
@@ -2033,10 +2030,10 @@ window.GUIDE = {
         "gs-067"
       ],
       "expected": {
-        "gs": 52,
-        "hp": 20,
+        "gs": 50,
+        "hp": 19,
         "boss": 4,
-        "hearts": 12
+        "hearts": 11
       },
       "episode": "ep09",
       "episodeNumber": 9
@@ -2198,15 +2195,15 @@ window.GUIDE = {
         "well-complete",
         "chests-well",
         "business-scrub-seed",
-        "gs-082",
         "gs-083",
-        "gs-084"
+        "gs-084",
+        "gs-082"
       ],
       "expected": {
-        "gs": 55,
-        "hp": 20,
+        "gs": 53,
+        "hp": 19,
         "boss": 4,
-        "hearts": 12
+        "hearts": 11
       },
       "episode": "ep10",
       "episodeNumber": 10
@@ -2297,16 +2294,16 @@ window.GUIDE = {
         "grotto-14",
         "grotto-16",
         "grotto-28",
+        "hp-036",
+        "hp-035",
+        "hp-030",
         "gs-013",
         "hp-014",
-        "hp-015",
-        "hp-030",
-        "hp-035",
-        "hp-036"
+        "hp-015"
       ],
       "expected": {
-        "gs": 56,
-        "hp": 25,
+        "gs": 54,
+        "hp": 24,
         "boss": 4,
         "hearts": 13
       },
@@ -2518,8 +2515,8 @@ window.GUIDE = {
         "gs-072"
       ],
       "expected": {
-        "gs": 61,
-        "hp": 25,
+        "gs": 59,
+        "hp": 24,
         "boss": 5,
         "hearts": 14
       },
@@ -2573,16 +2570,15 @@ window.GUIDE = {
         "double-magic",
         "grotto-26",
         "grotto-27",
-        "hp-024",
         "hp-027",
+        "hp-024",
         "gs-038",
         "gs-039",
-        "gs-044",
         "gs-046"
       ],
       "expected": {
-        "gs": 65,
-        "hp": 27,
+        "gs": 62,
+        "hp": 26,
         "boss": 5,
         "hearts": 14
       },
@@ -2710,18 +2706,17 @@ window.GUIDE = {
         "zora-tunic",
         "chests-ice",
         "thought-11",
-        "hp-017",
-        "hp-018",
         "gs-051",
         "gs-052",
-        "gs-053",
+        "hp-017",
         "gs-073",
         "gs-074",
-        "gs-075"
+        "gs-075",
+        "hp-018"
       ],
       "expected": {
-        "gs": 71,
-        "hp": 29,
+        "gs": 67,
+        "hp": 28,
         "boss": 5,
         "hearts": 15
       },
@@ -2890,14 +2885,14 @@ window.GUIDE = {
         "chests-water",
         "thought-12",
         "gs-077",
-        "gs-078",
         "gs-079",
+        "gs-078",
         "gs-080",
         "gs-081"
       ],
       "expected": {
-        "gs": 76,
-        "hp": 29,
+        "gs": 72,
+        "hp": 28,
         "boss": 6,
         "hearts": 16
       },
@@ -2990,12 +2985,12 @@ window.GUIDE = {
         "fishing-adult",
         "hp-022",
         "hp-023",
-        "gs-032",
-        "gs-076"
+        "gs-076",
+        "gs-032"
       ],
       "expected": {
-        "gs": 78,
-        "hp": 31,
+        "gs": 74,
+        "hp": 30,
         "boss": 6,
         "hearts": 16
       },
@@ -3158,8 +3153,8 @@ window.GUIDE = {
         "biggoron-sword"
       ],
       "expected": {
-        "gs": 78,
-        "hp": 31,
+        "gs": 74,
+        "hp": 30,
         "boss": 6,
         "hearts": 16
       },
@@ -3232,8 +3227,8 @@ window.GUIDE = {
         "gs-009"
       ],
       "expected": {
-        "gs": 79,
-        "hp": 31,
+        "gs": 75,
+        "hp": 30,
         "boss": 6,
         "hearts": 16
       },
@@ -3397,15 +3392,15 @@ window.GUIDE = {
         "shadow-medallion",
         "chests-shadow",
         "thought-13",
-        "gs-085",
         "gs-086",
-        "gs-087",
         "gs-088",
-        "gs-089"
+        "gs-087",
+        "gs-089",
+        "gs-085"
       ],
       "expected": {
-        "gs": 84,
-        "hp": 31,
+        "gs": 80,
+        "hp": 30,
         "boss": 7,
         "hearts": 17
       },
@@ -3463,6 +3458,11 @@ window.GUIDE = {
       "objectiveIds": [
         "adult-mainland-sweep",
         "grotto-07",
+        "gs-053",
+        "gs-044",
+        "gs-035",
+        "hp-010",
+        "gs-019",
         "gs-061"
       ],
       "expected": {
@@ -3540,13 +3540,15 @@ window.GUIDE = {
         "grotto-35",
         "gs-027",
         "gs-028",
-        "gs-091"
+        "hp-032",
+        "gs-091",
+        "gs-090"
       ],
       "expected": {
-        "gs": 88,
-        "hp": 31,
+        "gs": 89,
+        "hp": 32,
         "boss": 7,
-        "hearts": 17
+        "hearts": 18
       },
       "episode": "ep17",
       "episodeNumber": 17
@@ -3654,10 +3656,10 @@ window.GUIDE = {
         "gs-095"
       ],
       "expected": {
-        "gs": 90,
-        "hp": 31,
+        "gs": 91,
+        "hp": 32,
         "boss": 7,
-        "hearts": 17
+        "hearts": 18
       },
       "episode": "ep17",
       "episodeNumber": 17
@@ -3739,10 +3741,10 @@ window.GUIDE = {
         "gs-098"
       ],
       "expected": {
-        "gs": 95,
-        "hp": 31,
+        "gs": 96,
+        "hp": 32,
         "boss": 7,
-        "hearts": 17
+        "hearts": 18
       },
       "episode": "ep18",
       "episodeNumber": 18
@@ -3904,15 +3906,15 @@ window.GUIDE = {
         "spirit-medallion",
         "chests-spirit",
         "grotto-36",
-        "hp-026",
         "hp-034",
         "gs-094",
         "gs-099",
-        "gs-100"
+        "gs-100",
+        "hp-026"
       ],
       "expected": {
-        "gs": 98,
-        "hp": 33,
+        "gs": 99,
+        "hp": 34,
         "boss": 8,
         "hearts": 19
       },
@@ -4008,8 +4010,8 @@ window.GUIDE = {
         "chests-proving"
       ],
       "expected": {
-        "gs": 98,
-        "hp": 33,
+        "gs": 99,
+        "hp": 34,
         "boss": 8,
         "hearts": 19
       },
@@ -4097,9 +4099,7 @@ window.GUIDE = {
         "quiver-archery",
         "cow-link-house",
         "archery-rewards",
-        "hp-032",
-        "hp-033",
-        "gs-090"
+        "hp-033"
       ],
       "expected": {
         "gs": 99,
@@ -4903,7 +4903,7 @@ window.GUIDE = {
       "number": 2,
       "expected": {
         "gs": 11,
-        "hp": 2,
+        "hp": 3,
         "boss": 1,
         "hearts": 4
       }
@@ -4918,7 +4918,7 @@ window.GUIDE = {
       "number": 3,
       "expected": {
         "gs": 17,
-        "hp": 5,
+        "hp": 7,
         "boss": 1,
         "hearts": 5
       }
@@ -4933,7 +4933,7 @@ window.GUIDE = {
       "number": 4,
       "expected": {
         "gs": 25,
-        "hp": 8,
+        "hp": 9,
         "boss": 2,
         "hearts": 7
       }
@@ -4948,7 +4948,7 @@ window.GUIDE = {
       "number": 5,
       "expected": {
         "gs": 30,
-        "hp": 15,
+        "hp": 14,
         "boss": 2,
         "hearts": 8
       }
@@ -4962,7 +4962,7 @@ window.GUIDE = {
       "number": 6,
       "expected": {
         "gs": 34,
-        "hp": 15,
+        "hp": 14,
         "boss": 3,
         "hearts": 9
       }
@@ -4990,10 +4990,10 @@ window.GUIDE = {
       ],
       "number": 8,
       "expected": {
-        "gs": 44,
-        "hp": 20,
+        "gs": 43,
+        "hp": 19,
         "boss": 3,
-        "hearts": 11
+        "hearts": 10
       }
     },
     {
@@ -5004,10 +5004,10 @@ window.GUIDE = {
       ],
       "number": 9,
       "expected": {
-        "gs": 52,
-        "hp": 20,
+        "gs": 50,
+        "hp": 19,
         "boss": 4,
-        "hearts": 12
+        "hearts": 11
       }
     },
     {
@@ -5019,8 +5019,8 @@ window.GUIDE = {
       ],
       "number": 10,
       "expected": {
-        "gs": 56,
-        "hp": 25,
+        "gs": 54,
+        "hp": 24,
         "boss": 4,
         "hearts": 13
       }
@@ -5034,8 +5034,8 @@ window.GUIDE = {
       ],
       "number": 11,
       "expected": {
-        "gs": 65,
-        "hp": 27,
+        "gs": 62,
+        "hp": 26,
         "boss": 5,
         "hearts": 14
       }
@@ -5048,8 +5048,8 @@ window.GUIDE = {
       ],
       "number": 12,
       "expected": {
-        "gs": 71,
-        "hp": 29,
+        "gs": 67,
+        "hp": 28,
         "boss": 5,
         "hearts": 15
       }
@@ -5062,8 +5062,8 @@ window.GUIDE = {
       ],
       "number": 13,
       "expected": {
-        "gs": 76,
-        "hp": 29,
+        "gs": 72,
+        "hp": 28,
         "boss": 6,
         "hearts": 16
       }
@@ -5077,8 +5077,8 @@ window.GUIDE = {
       ],
       "number": 14,
       "expected": {
-        "gs": 78,
-        "hp": 31,
+        "gs": 74,
+        "hp": 30,
         "boss": 6,
         "hearts": 16
       }
@@ -5091,8 +5091,8 @@ window.GUIDE = {
       ],
       "number": 15,
       "expected": {
-        "gs": 79,
-        "hp": 31,
+        "gs": 75,
+        "hp": 30,
         "boss": 6,
         "hearts": 16
       }
@@ -5121,10 +5121,10 @@ window.GUIDE = {
       ],
       "number": 17,
       "expected": {
-        "gs": 90,
-        "hp": 31,
+        "gs": 91,
+        "hp": 32,
         "boss": 7,
-        "hearts": 17
+        "hearts": 18
       }
     },
     {
@@ -5135,10 +5135,10 @@ window.GUIDE = {
       ],
       "number": 18,
       "expected": {
-        "gs": 95,
-        "hp": 31,
+        "gs": 96,
+        "hp": 32,
         "boss": 7,
-        "hearts": 17
+        "hearts": 18
       }
     },
     {
@@ -5149,8 +5149,8 @@ window.GUIDE = {
       ],
       "number": 19,
       "expected": {
-        "gs": 98,
-        "hp": 33,
+        "gs": 99,
+        "hp": 34,
         "boss": 8,
         "hearts": 19
       }
@@ -5163,8 +5163,8 @@ window.GUIDE = {
       ],
       "number": 20,
       "expected": {
-        "gs": 98,
-        "hp": 33,
+        "gs": 99,
+        "hp": 34,
         "boss": 8,
         "hearts": 19
       }
@@ -5383,6 +5383,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 1,
       "collectionTotal": 8,
+      "catalogueNumber": 1,
       "collectionNumber": 1
     },
     {
@@ -5444,7 +5445,8 @@ window.GUIDE = {
       ],
       "routeNumber": 1,
       "collectionTotal": 100,
-      "collectionNumber": 4
+      "catalogueNumber": 4,
+      "collectionNumber": 1
     },
     {
       "id": "gs-005",
@@ -5470,7 +5472,8 @@ window.GUIDE = {
       ],
       "routeNumber": 2,
       "collectionTotal": 100,
-      "collectionNumber": 5
+      "catalogueNumber": 5,
+      "collectionNumber": 2
     },
     {
       "id": "gs-006",
@@ -5496,7 +5499,8 @@ window.GUIDE = {
       ],
       "routeNumber": 3,
       "collectionTotal": 100,
-      "collectionNumber": 6
+      "catalogueNumber": 6,
+      "collectionNumber": 3
     },
     {
       "id": "gs-007",
@@ -5523,7 +5527,8 @@ window.GUIDE = {
       ],
       "routeNumber": 4,
       "collectionTotal": 100,
-      "collectionNumber": 7
+      "catalogueNumber": 7,
+      "collectionNumber": 4
     },
     {
       "id": "fairy-ocarina",
@@ -5560,6 +5565,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 1,
       "collectionTotal": 5,
+      "catalogueNumber": 1,
       "collectionNumber": 1
     },
     {
@@ -5638,7 +5644,8 @@ window.GUIDE = {
       ],
       "routeNumber": 5,
       "collectionTotal": 100,
-      "collectionNumber": 8
+      "catalogueNumber": 8,
+      "collectionNumber": 5
     },
     {
       "id": "gs-011",
@@ -5662,7 +5669,8 @@ window.GUIDE = {
       ],
       "routeNumber": 6,
       "collectionTotal": 100,
-      "collectionNumber": 11
+      "catalogueNumber": 11,
+      "collectionNumber": 6
     },
     {
       "id": "gs-012",
@@ -5686,7 +5694,33 @@ window.GUIDE = {
       ],
       "routeNumber": 7,
       "collectionTotal": 100,
-      "collectionNumber": 12
+      "catalogueNumber": 12,
+      "collectionNumber": 7
+    },
+    {
+      "id": "hp-029",
+      "type": "hp",
+      "number": 29,
+      "name": "Richard the dog",
+      "region": "Market",
+      "sublocation": "Richard the dog",
+      "age": "Child",
+      "time": "Night",
+      "requires": [],
+      "suggestedStage": "ranch-market-child",
+      "instructions": "At night find the alley white dogs. Lead one to Richard's owner by the market entrance; try another if rejected.",
+      "sourceIds": [
+        "c-nl-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r03",
+      "sources": [
+        "c-nl-hp"
+      ],
+      "routeNumber": 1,
+      "collectionTotal": 36,
+      "catalogueNumber": 29,
+      "collectionNumber": 1
     },
     {
       "id": "saria-song",
@@ -5786,33 +5820,8 @@ window.GUIDE = {
       ],
       "routeNumber": 8,
       "collectionTotal": 100,
-      "collectionNumber": 1
-    },
-    {
-      "id": "hp-002",
-      "type": "hp",
-      "number": 2,
-      "name": "Saria's Song Skull Kid",
-      "region": "Lost Woods",
-      "sublocation": "Saria's Song Skull Kid",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Saria's Song"
-      ],
-      "suggestedStage": "child-forest",
-      "instructions": "From the woods entrance go left. Stand on the empty stump opposite Skull Kid and play Saria's Song.",
-      "sourceIds": [
-        "c-keen-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r04",
-      "sources": [
-        "c-keen-hp"
-      ],
-      "routeNumber": 1,
-      "collectionTotal": 36,
-      "collectionNumber": 2
+      "catalogueNumber": 1,
+      "collectionNumber": 8
     },
     {
       "id": "gs-003",
@@ -5836,7 +5845,8 @@ window.GUIDE = {
       ],
       "routeNumber": 9,
       "collectionTotal": 100,
-      "collectionNumber": 3
+      "catalogueNumber": 3,
+      "collectionNumber": 9
     },
     {
       "id": "hp-003",
@@ -5862,6 +5872,34 @@ window.GUIDE = {
       ],
       "routeNumber": 2,
       "collectionTotal": 36,
+      "catalogueNumber": 3,
+      "collectionNumber": 2
+    },
+    {
+      "id": "hp-002",
+      "type": "hp",
+      "number": 2,
+      "name": "Saria's Song Skull Kid",
+      "region": "Lost Woods",
+      "sublocation": "Saria's Song Skull Kid",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Saria's Song"
+      ],
+      "suggestedStage": "child-forest",
+      "instructions": "From the woods entrance go left. Stand on the empty stump opposite Skull Kid and play Saria's Song.",
+      "sourceIds": [
+        "c-keen-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r04",
+      "sources": [
+        "c-keen-hp"
+      ],
+      "routeNumber": 3,
+      "collectionTotal": 36,
+      "catalogueNumber": 2,
       "collectionNumber": 3
     },
     {
@@ -5888,7 +5926,8 @@ window.GUIDE = {
       ],
       "routeNumber": 10,
       "collectionTotal": 100,
-      "collectionNumber": 33
+      "catalogueNumber": 33,
+      "collectionNumber": 10
     },
     {
       "id": "gs-034",
@@ -5914,7 +5953,8 @@ window.GUIDE = {
       ],
       "routeNumber": 11,
       "collectionTotal": 100,
-      "collectionNumber": 34
+      "catalogueNumber": 34,
+      "collectionNumber": 11
     },
     {
       "id": "bottle-cuccos",
@@ -5935,6 +5975,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 2,
       "collectionTotal": 5,
+      "catalogueNumber": 2,
       "collectionNumber": 2
     },
     {
@@ -6117,9 +6158,37 @@ window.GUIDE = {
       "sources": [
         "c-keen-hp"
       ],
-      "routeNumber": 3,
+      "routeNumber": 4,
       "collectionTotal": 36,
-      "collectionNumber": 6
+      "catalogueNumber": 6,
+      "collectionNumber": 4
+    },
+    {
+      "id": "gs-020",
+      "type": "gs",
+      "number": 20,
+      "name": "West soil",
+      "region": "Graveyard",
+      "sublocation": "West soil",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Bottled Bug"
+      ],
+      "suggestedStage": "kakariko-child",
+      "instructions": "Release a bug into the soil on the west side of the graveyard; kill the emerging spider.",
+      "sourceIds": [
+        "c-vgc-kakariko"
+      ],
+      "verification": "remake-source",
+      "section": "r05",
+      "sources": [
+        "c-vgc-kakariko"
+      ],
+      "routeNumber": 12,
+      "collectionTotal": 100,
+      "catalogueNumber": 20,
+      "collectionNumber": 12
     },
     {
       "id": "hp-008",
@@ -6141,9 +6210,10 @@ window.GUIDE = {
       "sources": [
         "c-quest-hp"
       ],
-      "routeNumber": 4,
+      "routeNumber": 5,
       "collectionTotal": 36,
-      "collectionNumber": 8
+      "catalogueNumber": 8,
+      "collectionNumber": 5
     },
     {
       "id": "hp-009",
@@ -6168,57 +6238,10 @@ window.GUIDE = {
       "sources": [
         "c-quest-hp"
       ],
-      "routeNumber": 5,
+      "routeNumber": 6,
       "collectionTotal": 36,
-      "collectionNumber": 9
-    },
-    {
-      "id": "gs-014",
-      "type": "gs",
-      "number": 14,
-      "name": "Building site",
-      "region": "Kakariko Village",
-      "sublocation": "Building site",
-      "age": "Child",
-      "time": "Night",
-      "requires": [],
-      "suggestedStage": "kakariko-child",
-      "instructions": "At night circle the central construction site. Climb its low structure to kill and collect the gold spider.",
-      "sourceIds": [
-        "c-vgc-kakariko"
-      ],
-      "verification": "remake-source",
-      "section": "r05",
-      "sources": [
-        "c-vgc-kakariko"
-      ],
-      "routeNumber": 12,
-      "collectionTotal": 100,
-      "collectionNumber": 14
-    },
-    {
-      "id": "gs-015",
-      "type": "gs",
-      "number": 15,
-      "name": "Skulltula House doorway",
-      "region": "Kakariko Village",
-      "sublocation": "Skulltula House doorway",
-      "age": "Child",
-      "time": "Night",
-      "requires": [],
-      "suggestedStage": "kakariko-child",
-      "instructions": "At night inspect the wall directly beside the House of Skulltula entrance; kill its low spider.",
-      "sourceIds": [
-        "c-vgc-kakariko"
-      ],
-      "verification": "remake-source",
-      "section": "r05",
-      "sources": [
-        "c-vgc-kakariko"
-      ],
-      "routeNumber": 13,
-      "collectionTotal": 100,
-      "collectionNumber": 15
+      "catalogueNumber": 9,
+      "collectionNumber": 6
     },
     {
       "id": "gs-016",
@@ -6240,9 +6263,60 @@ window.GUIDE = {
       "sources": [
         "c-vgc-kakariko"
       ],
+      "routeNumber": 13,
+      "collectionTotal": 100,
+      "catalogueNumber": 16,
+      "collectionNumber": 13
+    },
+    {
+      "id": "gs-015",
+      "type": "gs",
+      "number": 15,
+      "name": "Skulltula House doorway",
+      "region": "Kakariko Village",
+      "sublocation": "Skulltula House doorway",
+      "age": "Child",
+      "time": "Night",
+      "requires": [],
+      "suggestedStage": "kakariko-child",
+      "instructions": "At night inspect the wall directly beside the House of Skulltula entrance; kill its low spider.",
+      "sourceIds": [
+        "c-vgc-kakariko"
+      ],
+      "verification": "remake-source",
+      "section": "r05",
+      "sources": [
+        "c-vgc-kakariko"
+      ],
       "routeNumber": 14,
       "collectionTotal": 100,
-      "collectionNumber": 16
+      "catalogueNumber": 15,
+      "collectionNumber": 14
+    },
+    {
+      "id": "gs-014",
+      "type": "gs",
+      "number": 14,
+      "name": "Building site",
+      "region": "Kakariko Village",
+      "sublocation": "Building site",
+      "age": "Child",
+      "time": "Night",
+      "requires": [],
+      "suggestedStage": "kakariko-child",
+      "instructions": "At night circle the central construction site. Climb its low structure to kill and collect the gold spider.",
+      "sourceIds": [
+        "c-vgc-kakariko"
+      ],
+      "verification": "remake-source",
+      "section": "r05",
+      "sources": [
+        "c-vgc-kakariko"
+      ],
+      "routeNumber": 15,
+      "collectionTotal": 100,
+      "catalogueNumber": 14,
+      "collectionNumber": 15
     },
     {
       "id": "gs-017",
@@ -6266,9 +6340,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-kakariko"
       ],
-      "routeNumber": 15,
+      "routeNumber": 16,
       "collectionTotal": 100,
-      "collectionNumber": 17
+      "catalogueNumber": 17,
+      "collectionNumber": 16
     },
     {
       "id": "gs-018",
@@ -6290,35 +6365,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-kakariko"
       ],
-      "routeNumber": 16,
-      "collectionTotal": 100,
-      "collectionNumber": 18
-    },
-    {
-      "id": "gs-020",
-      "type": "gs",
-      "number": 20,
-      "name": "West soil",
-      "region": "Graveyard",
-      "sublocation": "West soil",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Bottled Bug"
-      ],
-      "suggestedStage": "kakariko-child",
-      "instructions": "Release a bug into the soil on the west side of the graveyard; kill the emerging spider.",
-      "sourceIds": [
-        "c-vgc-kakariko"
-      ],
-      "verification": "remake-source",
-      "section": "r05",
-      "sources": [
-        "c-vgc-kakariko"
-      ],
       "routeNumber": 17,
       "collectionTotal": 100,
-      "collectionNumber": 20
+      "catalogueNumber": 18,
+      "collectionNumber": 17
     },
     {
       "id": "goron-bracelet",
@@ -6353,6 +6403,34 @@ window.GUIDE = {
       "age": "Child",
       "time": "Any",
       "requires": []
+    },
+    {
+      "id": "hp-025",
+      "type": "hp",
+      "number": 25,
+      "name": "Spinning Goron pot",
+      "region": "Goron City",
+      "sublocation": "Spinning Goron pot",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Goron Bracelet",
+        "Deku Stick"
+      ],
+      "suggestedStage": "mountain-child",
+      "instructions": "Light the lowest-floor torches from Darunia's flame. With the Goron Bracelet, pick up a Bomb Flower and throw it into the spinning pot from above; collect the Heart Piece from its smiling result below.",
+      "sourceIds": [
+        "c-nl-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r06",
+      "sources": [
+        "c-nl-hp"
+      ],
+      "routeNumber": 7,
+      "collectionTotal": 36,
+      "catalogueNumber": 25,
+      "collectionNumber": 7
     },
     {
       "id": "bomb-bag",
@@ -6423,6 +6501,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 2,
       "collectionTotal": 8,
+      "catalogueNumber": 2,
       "collectionNumber": 2
     },
     {
@@ -6484,7 +6563,8 @@ window.GUIDE = {
       ],
       "routeNumber": 18,
       "collectionTotal": 100,
-      "collectionNumber": 40
+      "catalogueNumber": 40,
+      "collectionNumber": 18
     },
     {
       "id": "gs-041",
@@ -6510,7 +6590,8 @@ window.GUIDE = {
       ],
       "routeNumber": 19,
       "collectionTotal": 100,
-      "collectionNumber": 41
+      "catalogueNumber": 41,
+      "collectionNumber": 19
     },
     {
       "id": "gs-042",
@@ -6534,7 +6615,8 @@ window.GUIDE = {
       ],
       "routeNumber": 20,
       "collectionTotal": 100,
-      "collectionNumber": 42
+      "catalogueNumber": 42,
+      "collectionNumber": 20
     },
     {
       "id": "gs-043",
@@ -6560,7 +6642,8 @@ window.GUIDE = {
       ],
       "routeNumber": 21,
       "collectionTotal": 100,
-      "collectionNumber": 43
+      "catalogueNumber": 43,
+      "collectionNumber": 21
     },
     {
       "id": "magic-meter",
@@ -6639,56 +6722,109 @@ window.GUIDE = {
       ]
     },
     {
-      "id": "hp-004",
-      "type": "hp",
-      "number": 4,
-      "name": "Roof behind Impa's house",
-      "region": "Kakariko Village",
-      "sublocation": "Roof behind Impa's house",
+      "id": "gs-045",
+      "type": "gs",
+      "number": 45,
+      "name": "Boulder-room crate",
+      "region": "Goron City",
+      "sublocation": "Boulder-room crate",
       "age": "Child",
       "time": "Any",
       "requires": [
-        "Owl summit ride"
+        "Bombs"
       ],
       "suggestedStage": "mountain-child",
-      "instructions": "Accept the summit owl's ride to Impa's roof. Drop carefully onto the lower roof behind the house beside the cow pen.",
+      "instructions": "Bomb through the western boulder room to its two rear chests. Roll through the wooden crate to expose the spider.",
       "sourceIds": [
-        "c-keen-hp"
+        "c-vgc-mountain"
       ],
       "verification": "remake-source",
       "section": "r08",
       "sources": [
-        "c-keen-hp"
+        "c-vgc-mountain"
       ],
-      "routeNumber": 6,
-      "collectionTotal": 36,
-      "collectionNumber": 4
+      "routeNumber": 22,
+      "collectionTotal": 100,
+      "catalogueNumber": 45,
+      "collectionNumber": 22
     },
     {
-      "id": "hp-025",
-      "type": "hp",
-      "number": 25,
-      "name": "Spinning Goron pot",
-      "region": "Goron City",
-      "sublocation": "Spinning Goron pot",
+      "id": "gs-036",
+      "type": "gs",
+      "number": 36,
+      "name": "Cavern entrance soil",
+      "region": "Death Mountain Trail",
+      "sublocation": "Cavern entrance soil",
       "age": "Child",
       "time": "Any",
       "requires": [
-        "Bombs",
-        "Deku Stick"
+        "Bottled Bug"
       ],
       "suggestedStage": "mountain-child",
-      "instructions": "Light the lowest-floor torches from Darunia's flame. Throw a bomb into the central pot from above; collect its reward below.",
+      "instructions": "Release a bug into the soil immediately outside Dodongo's Cavern; kill the emerging spider.",
       "sourceIds": [
-        "c-nl-hp"
+        "c-vgc-mountain"
       ],
       "verification": "remake-source",
       "section": "r08",
       "sources": [
-        "c-nl-hp"
+        "c-vgc-mountain"
       ],
-      "routeNumber": 7,
-      "collectionTotal": 36,
+      "routeNumber": 23,
+      "collectionTotal": 100,
+      "catalogueNumber": 36,
+      "collectionNumber": 23
+    },
+    {
+      "id": "gs-037",
+      "type": "gs",
+      "number": 37,
+      "name": "Lower cracked wall",
+      "region": "Death Mountain Trail",
+      "sublocation": "Lower cracked wall",
+      "age": "Either",
+      "time": "Any",
+      "requires": [
+        "Bombs"
+      ],
+      "suggestedStage": "mountain-child",
+      "instructions": "Bomb the cracked trail wall above Kakariko; kill the revealed spider and climb to its token.",
+      "sourceIds": [
+        "c-vgc-mountain"
+      ],
+      "verification": "remake-source",
+      "section": "r08",
+      "sources": [
+        "c-vgc-mountain"
+      ],
+      "routeNumber": 24,
+      "collectionTotal": 100,
+      "catalogueNumber": 37,
+      "collectionNumber": 24
+    },
+    {
+      "id": "gs-047",
+      "type": "gs",
+      "number": 47,
+      "name": "Summit entrance crates",
+      "region": "Death Mountain Crater",
+      "sublocation": "Summit entrance crates",
+      "age": "Child",
+      "time": "Any",
+      "requires": [],
+      "suggestedStage": "mountain-child",
+      "instructions": "Enter from the summit at full health. Dash left and break the crates for a spider; leave before the heat kills you.",
+      "sourceIds": [
+        "c-vgc-crater"
+      ],
+      "verification": "remake-source",
+      "section": "r08",
+      "sources": [
+        "c-vgc-crater"
+      ],
+      "routeNumber": 25,
+      "collectionTotal": 100,
+      "catalogueNumber": 47,
       "collectionNumber": 25
     },
     {
@@ -6716,109 +6852,35 @@ window.GUIDE = {
       ],
       "routeNumber": 8,
       "collectionTotal": 36,
-      "collectionNumber": 28
+      "catalogueNumber": 28,
+      "collectionNumber": 8
     },
     {
-      "id": "gs-036",
-      "type": "gs",
-      "number": 36,
-      "name": "Cavern entrance soil",
-      "region": "Death Mountain Trail",
-      "sublocation": "Cavern entrance soil",
+      "id": "hp-004",
+      "type": "hp",
+      "number": 4,
+      "name": "Roof behind Impa's house",
+      "region": "Kakariko Village",
+      "sublocation": "Roof behind Impa's house",
       "age": "Child",
       "time": "Any",
       "requires": [
-        "Bottled Bug"
+        "Owl summit ride"
       ],
       "suggestedStage": "mountain-child",
-      "instructions": "Release a bug into the soil immediately outside Dodongo's Cavern; kill the emerging spider.",
+      "instructions": "Accept the summit owl's ride to Impa's roof. Drop carefully onto the lower roof behind the house beside the cow pen.",
       "sourceIds": [
-        "c-vgc-mountain"
+        "c-keen-hp"
       ],
       "verification": "remake-source",
       "section": "r08",
       "sources": [
-        "c-vgc-mountain"
+        "c-keen-hp"
       ],
-      "routeNumber": 22,
-      "collectionTotal": 100,
-      "collectionNumber": 36
-    },
-    {
-      "id": "gs-037",
-      "type": "gs",
-      "number": 37,
-      "name": "Lower cracked wall",
-      "region": "Death Mountain Trail",
-      "sublocation": "Lower cracked wall",
-      "age": "Either",
-      "time": "Any",
-      "requires": [
-        "Bombs"
-      ],
-      "suggestedStage": "mountain-child",
-      "instructions": "Bomb the cracked trail wall above Kakariko; kill the revealed spider and climb to its token.",
-      "sourceIds": [
-        "c-vgc-mountain"
-      ],
-      "verification": "remake-source",
-      "section": "r08",
-      "sources": [
-        "c-vgc-mountain"
-      ],
-      "routeNumber": 23,
-      "collectionTotal": 100,
-      "collectionNumber": 37
-    },
-    {
-      "id": "gs-045",
-      "type": "gs",
-      "number": 45,
-      "name": "Boulder-room crate",
-      "region": "Goron City",
-      "sublocation": "Boulder-room crate",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Bombs"
-      ],
-      "suggestedStage": "mountain-child",
-      "instructions": "Bomb through the western boulder room to its two rear chests. Roll through the wooden crate to expose the spider.",
-      "sourceIds": [
-        "c-vgc-mountain"
-      ],
-      "verification": "remake-source",
-      "section": "r08",
-      "sources": [
-        "c-vgc-mountain"
-      ],
-      "routeNumber": 24,
-      "collectionTotal": 100,
-      "collectionNumber": 45
-    },
-    {
-      "id": "gs-047",
-      "type": "gs",
-      "number": 47,
-      "name": "Summit entrance crates",
-      "region": "Death Mountain Crater",
-      "sublocation": "Summit entrance crates",
-      "age": "Child",
-      "time": "Any",
-      "requires": [],
-      "suggestedStage": "mountain-child",
-      "instructions": "Enter from the summit at full health. Dash left and break the crates for a spider; leave before the heat kills you.",
-      "sourceIds": [
-        "c-vgc-crater"
-      ],
-      "verification": "remake-source",
-      "section": "r08",
-      "sources": [
-        "c-vgc-crater"
-      ],
-      "routeNumber": 25,
-      "collectionTotal": 100,
-      "collectionNumber": 47
+      "routeNumber": 9,
+      "collectionTotal": 36,
+      "catalogueNumber": 4,
+      "collectionNumber": 9
     },
     {
       "id": "bottle-talon",
@@ -6839,6 +6901,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 3,
       "collectionTotal": 5,
+      "catalogueNumber": 3,
       "collectionNumber": 3
     },
     {
@@ -6985,9 +7048,10 @@ window.GUIDE = {
       "sources": [
         "c-keen-hp"
       ],
-      "routeNumber": 9,
+      "routeNumber": 10,
       "collectionTotal": 36,
-      "collectionNumber": 1
+      "catalogueNumber": 1,
+      "collectionNumber": 10
     },
     {
       "id": "gs-024",
@@ -7011,31 +7075,8 @@ window.GUIDE = {
       ],
       "routeNumber": 26,
       "collectionTotal": 100,
-      "collectionNumber": 24
-    },
-    {
-      "id": "hp-029",
-      "type": "hp",
-      "number": 29,
-      "name": "Richard the dog",
-      "region": "Market",
-      "sublocation": "Richard the dog",
-      "age": "Child",
-      "time": "Night",
-      "requires": [],
-      "suggestedStage": "ranch-market-child",
-      "instructions": "At night find the alley white dogs. Lead one to Richard's owner by the market entrance; try another if rejected.",
-      "sourceIds": [
-        "c-nl-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r09",
-      "sources": [
-        "c-nl-hp"
-      ],
-      "routeNumber": 10,
-      "collectionTotal": 36,
-      "collectionNumber": 29
+      "catalogueNumber": 24,
+      "collectionNumber": 26
     },
     {
       "id": "hp-031",
@@ -7062,7 +7103,8 @@ window.GUIDE = {
       ],
       "routeNumber": 11,
       "collectionTotal": 36,
-      "collectionNumber": 31
+      "catalogueNumber": 31,
+      "collectionNumber": 11
     },
     {
       "id": "silver-scale",
@@ -7101,6 +7143,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 4,
       "collectionTotal": 5,
+      "catalogueNumber": 4,
       "collectionNumber": 4
     },
     {
@@ -7231,6 +7274,33 @@ window.GUIDE = {
       ]
     },
     {
+      "id": "gs-049",
+      "type": "gs",
+      "number": 49,
+      "name": "Bean-seller soil",
+      "region": "Zora River",
+      "sublocation": "Bean-seller soil",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Bottled Bug"
+      ],
+      "suggestedStage": "zora-child",
+      "instructions": "Release a bug into the soft soil beside the Magic Bean seller; collect the emerging spider.",
+      "sourceIds": [
+        "c-vgc-zora"
+      ],
+      "verification": "remake-source",
+      "section": "r10",
+      "sources": [
+        "c-vgc-zora"
+      ],
+      "routeNumber": 27,
+      "collectionTotal": 100,
+      "catalogueNumber": 49,
+      "collectionNumber": 27
+    },
+    {
       "id": "hp-012",
       "type": "hp",
       "number": 12,
@@ -7255,6 +7325,7 @@ window.GUIDE = {
       ],
       "routeNumber": 12,
       "collectionTotal": 36,
+      "catalogueNumber": 12,
       "collectionNumber": 12
     },
     {
@@ -7281,7 +7352,60 @@ window.GUIDE = {
       ],
       "routeNumber": 13,
       "collectionTotal": 36,
+      "catalogueNumber": 13,
       "collectionNumber": 13
+    },
+    {
+      "id": "gs-029",
+      "type": "gs",
+      "number": 29,
+      "name": "Laboratory soil",
+      "region": "Lake Hylia",
+      "sublocation": "Laboratory soil",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Bottled Bug"
+      ],
+      "suggestedStage": "lake-child",
+      "instructions": "Release a bottled bug into the soil beside the Lakeside Laboratory; kill the emerging spider.",
+      "sourceIds": [
+        "c-vgc-lake"
+      ],
+      "verification": "remake-source",
+      "section": "r10",
+      "sources": [
+        "c-vgc-lake"
+      ],
+      "routeNumber": 28,
+      "collectionTotal": 100,
+      "catalogueNumber": 29,
+      "collectionNumber": 28
+    },
+    {
+      "id": "gs-030",
+      "type": "gs",
+      "number": 30,
+      "name": "Southern crawlspace",
+      "region": "Lake Hylia",
+      "sublocation": "Southern crawlspace",
+      "age": "Child",
+      "time": "Any",
+      "requires": [],
+      "suggestedStage": "lake-child",
+      "instructions": "Swim to the southwest lake shore's tiny land outcrop. Crawl through its cliff tunnel to reach the gold spider.",
+      "sourceIds": [
+        "c-vgc-lake"
+      ],
+      "verification": "remake-source",
+      "section": "r10",
+      "sources": [
+        "c-vgc-lake"
+      ],
+      "routeNumber": 29,
+      "collectionTotal": 100,
+      "catalogueNumber": 30,
+      "collectionNumber": 29
     },
     {
       "id": "hp-016",
@@ -7307,110 +7431,8 @@ window.GUIDE = {
       ],
       "routeNumber": 14,
       "collectionTotal": 36,
-      "collectionNumber": 16
-    },
-    {
-      "id": "hp-021",
-      "type": "hp",
-      "number": 21,
-      "name": "Child fishing prize",
-      "region": "Lake Hylia",
-      "sublocation": "Child fishing prize",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Fishing fee"
-      ],
-      "suggestedStage": "lake-child",
-      "instructions": "Rent a rod, catch a large fish with the normal lure, keep it, and ask the owner to measure it. Target at least 60 cm.",
-      "sourceIds": [
-        "c-nl-fishing"
-      ],
-      "verification": "source-conflict",
-      "note": "Published thresholds conflict: VGC says over 50 cm; RPG Site says at least 55 cm; Nintendo Life obtained its prize with 59 cm. A 60 cm target clears all reported figures.",
-      "section": "r10",
-      "sources": [
-        "c-nl-fishing"
-      ],
-      "routeNumber": 15,
-      "collectionTotal": 36,
-      "collectionNumber": 21
-    },
-    {
-      "id": "gs-029",
-      "type": "gs",
-      "number": 29,
-      "name": "Laboratory soil",
-      "region": "Lake Hylia",
-      "sublocation": "Laboratory soil",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Bottled Bug"
-      ],
-      "suggestedStage": "lake-child",
-      "instructions": "Release a bottled bug into the soil beside the Lakeside Laboratory; kill the emerging spider.",
-      "sourceIds": [
-        "c-vgc-lake"
-      ],
-      "verification": "remake-source",
-      "section": "r10",
-      "sources": [
-        "c-vgc-lake"
-      ],
-      "routeNumber": 27,
-      "collectionTotal": 100,
-      "collectionNumber": 29
-    },
-    {
-      "id": "gs-030",
-      "type": "gs",
-      "number": 30,
-      "name": "Southern crawlspace",
-      "region": "Lake Hylia",
-      "sublocation": "Southern crawlspace",
-      "age": "Child",
-      "time": "Any",
-      "requires": [],
-      "suggestedStage": "lake-child",
-      "instructions": "Swim to the southwest lake shore's tiny land outcrop. Crawl through its cliff tunnel to reach the gold spider.",
-      "sourceIds": [
-        "c-vgc-lake"
-      ],
-      "verification": "remake-source",
-      "section": "r10",
-      "sources": [
-        "c-vgc-lake"
-      ],
-      "routeNumber": 28,
-      "collectionTotal": 100,
-      "collectionNumber": 30
-    },
-    {
-      "id": "gs-049",
-      "type": "gs",
-      "number": 49,
-      "name": "Bean-seller soil",
-      "region": "Zora River",
-      "sublocation": "Bean-seller soil",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Bottled Bug"
-      ],
-      "suggestedStage": "zora-child",
-      "instructions": "Release a bug into the soft soil beside the Magic Bean seller; collect the emerging spider.",
-      "sourceIds": [
-        "c-vgc-zora"
-      ],
-      "verification": "remake-source",
-      "section": "r10",
-      "sources": [
-        "c-vgc-zora"
-      ],
-      "routeNumber": 29,
-      "collectionTotal": 100,
-      "collectionNumber": 49
+      "catalogueNumber": 16,
+      "collectionNumber": 14
     },
     {
       "id": "gs-054",
@@ -7434,7 +7456,8 @@ window.GUIDE = {
       ],
       "routeNumber": 30,
       "collectionTotal": 100,
-      "collectionNumber": 54
+      "catalogueNumber": 54,
+      "collectionNumber": 30
     },
     {
       "id": "boomerang",
@@ -7505,6 +7528,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 3,
       "collectionTotal": 8,
+      "catalogueNumber": 3,
       "collectionNumber": 3
     },
     {
@@ -7548,7 +7572,8 @@ window.GUIDE = {
       ],
       "routeNumber": 31,
       "collectionTotal": 100,
-      "collectionNumber": 57
+      "catalogueNumber": 57,
+      "collectionNumber": 31
     },
     {
       "id": "gs-058",
@@ -7574,7 +7599,8 @@ window.GUIDE = {
       ],
       "routeNumber": 32,
       "collectionTotal": 100,
-      "collectionNumber": 58
+      "catalogueNumber": 58,
+      "collectionNumber": 32
     },
     {
       "id": "gs-059",
@@ -7600,7 +7626,8 @@ window.GUIDE = {
       ],
       "routeNumber": 33,
       "collectionTotal": 100,
-      "collectionNumber": 59
+      "catalogueNumber": 59,
+      "collectionNumber": 33
     },
     {
       "id": "gs-060",
@@ -7626,7 +7653,8 @@ window.GUIDE = {
       ],
       "routeNumber": 34,
       "collectionTotal": 100,
-      "collectionNumber": 60
+      "catalogueNumber": 60,
+      "collectionNumber": 34
     },
     {
       "id": "farore-wind",
@@ -8191,109 +8219,85 @@ window.GUIDE = {
       ]
     },
     {
-      "id": "gs-010",
+      "id": "gs-055",
       "type": "gs",
-      "number": 10,
-      "name": "Southern woodland grotto",
-      "region": "Hyrule Field",
-      "sublocation": "Southern woodland grotto",
-      "age": "Either",
-      "time": "Any",
-      "requires": [
-        "Bombs",
-        "Boomerang or Hookshot"
-      ],
-      "suggestedStage": "child-cleanup",
-      "instructions": "Bomb the cracked ground among trees near Lake Hylia's entrance. Defeat the large spider inside; retrieve the high gold token.",
-      "sourceIds": [
-        "c-vgc-field"
-      ],
-      "verification": "remake-source",
-      "section": "r12",
-      "sources": [
-        "c-vgc-field"
-      ],
-      "routeNumber": 35,
-      "collectionTotal": 100,
-      "collectionNumber": 10
-    },
-    {
-      "id": "hp-019",
-      "type": "hp",
-      "number": 19,
-      "name": "Waterfall chamber",
-      "region": "Gerudo Valley",
-      "sublocation": "Waterfall chamber",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Cucco"
-      ],
-      "suggestedStage": "child-valley",
-      "instructions": "Glide to the lower cow-side riverbank with the Cucco. Walk behind the large waterfall and climb the newly added stone steps to the piece.",
-      "sourceIds": [
-        "c-vgc-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r12",
-      "sources": [
-        "c-vgc-hp"
-      ],
-      "routeNumber": 16,
-      "collectionTotal": 36,
-      "collectionNumber": 19
-    },
-    {
-      "id": "hp-020",
-      "type": "hp",
-      "number": 20,
-      "name": "Canyon ledge chest",
-      "region": "Gerudo Valley",
-      "sublocation": "Canyon ledge chest",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Cucco"
-      ],
-      "suggestedStage": "child-valley",
-      "instructions": "At the entrance bridge, locate the narrow opposite ledge with a chest. Carry the Cucco across the gap and open the chest.",
-      "sourceIds": [
-        "c-vgc-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r12",
-      "sources": [
-        "c-vgc-hp"
-      ],
-      "routeNumber": 17,
-      "collectionTotal": 36,
-      "collectionNumber": 20
-    },
-    {
-      "id": "gs-021",
-      "type": "gs",
-      "number": 21,
-      "name": "Behind Dampé's hut",
-      "region": "Graveyard",
-      "sublocation": "Behind Dampé's hut",
+      "number": 55,
+      "name": "Jabu-side cliff",
+      "region": "Zora's Fountain",
+      "sublocation": "Jabu-side cliff",
       "age": "Child",
       "time": "Night",
       "requires": [
         "Boomerang"
       ],
-      "suggestedStage": "child-cleanup",
-      "instructions": "At night walk behind Dampé's home. Boomerang the spider on the wall and retrieve its token.",
+      "suggestedStage": "post-jabu",
+      "instructions": "At night climb the ruins south of Jabu-Jabu. Face the adjoining cliff and Boomerang its gold spider and token.",
       "sourceIds": [
-        "c-vgc-kakariko"
+        "c-vgc-zora"
       ],
       "verification": "remake-source",
       "section": "r12",
       "sources": [
-        "c-vgc-kakariko"
+        "c-vgc-zora"
+      ],
+      "routeNumber": 35,
+      "collectionTotal": 100,
+      "catalogueNumber": 55,
+      "collectionNumber": 35
+    },
+    {
+      "id": "gs-050",
+      "type": "gs",
+      "number": 50,
+      "name": "Waterfall lower platform",
+      "region": "Zora River",
+      "sublocation": "Waterfall lower platform",
+      "age": "Child",
+      "time": "Night",
+      "requires": [
+        "Boomerang"
+      ],
+      "suggestedStage": "post-jabu",
+      "instructions": "At night descend below the waterfall approach to Domain. Boomerang the spider on the side of the lower rock platform.",
+      "sourceIds": [
+        "c-vgc-zora"
+      ],
+      "verification": "remake-source",
+      "section": "r12",
+      "sources": [
+        "c-vgc-zora"
       ],
       "routeNumber": 36,
       "collectionTotal": 100,
-      "collectionNumber": 21
+      "catalogueNumber": 50,
+      "collectionNumber": 36
+    },
+    {
+      "id": "gs-031",
+      "type": "gs",
+      "number": 31,
+      "name": "Laboratory exterior",
+      "region": "Lake Hylia",
+      "sublocation": "Laboratory exterior",
+      "age": "Child",
+      "time": "Night",
+      "requires": [
+        "Boomerang"
+      ],
+      "suggestedStage": "lake-child",
+      "instructions": "At night stand on the bridge beside the laboratory. Boomerang the spider on the building's side and retrieve its token.",
+      "sourceIds": [
+        "c-vgc-lake"
+      ],
+      "verification": "remake-source",
+      "section": "r12",
+      "sources": [
+        "c-vgc-lake"
+      ],
+      "routeNumber": 37,
+      "collectionTotal": 100,
+      "catalogueNumber": 31,
+      "collectionNumber": 37
     },
     {
       "id": "gs-022",
@@ -8317,9 +8321,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-ranch"
       ],
-      "routeNumber": 37,
+      "routeNumber": 38,
       "collectionTotal": 100,
-      "collectionNumber": 22
+      "catalogueNumber": 22,
+      "collectionNumber": 38
     },
     {
       "id": "gs-023",
@@ -8344,9 +8349,146 @@ window.GUIDE = {
       "sources": [
         "c-vgc-ranch"
       ],
-      "routeNumber": 38,
+      "routeNumber": 39,
       "collectionTotal": 100,
-      "collectionNumber": 23
+      "catalogueNumber": 23,
+      "collectionNumber": 39
+    },
+    {
+      "id": "gs-021",
+      "type": "gs",
+      "number": 21,
+      "name": "Behind Dampé's hut",
+      "region": "Graveyard",
+      "sublocation": "Behind Dampé's hut",
+      "age": "Child",
+      "time": "Night",
+      "requires": [
+        "Boomerang"
+      ],
+      "suggestedStage": "child-cleanup",
+      "instructions": "At night walk behind Dampé's home. Boomerang the spider on the wall and retrieve its token.",
+      "sourceIds": [
+        "c-vgc-kakariko"
+      ],
+      "verification": "remake-source",
+      "section": "r12",
+      "sources": [
+        "c-vgc-kakariko"
+      ],
+      "routeNumber": 40,
+      "collectionTotal": 100,
+      "catalogueNumber": 21,
+      "collectionNumber": 40
+    },
+    {
+      "id": "gs-010",
+      "type": "gs",
+      "number": 10,
+      "name": "Southern woodland grotto",
+      "region": "Hyrule Field",
+      "sublocation": "Southern woodland grotto",
+      "age": "Either",
+      "time": "Any",
+      "requires": [
+        "Bombs",
+        "Boomerang or Hookshot"
+      ],
+      "suggestedStage": "child-cleanup",
+      "instructions": "Bomb the cracked ground among trees near Lake Hylia's entrance. Defeat the large spider inside; retrieve the high gold token.",
+      "sourceIds": [
+        "c-vgc-field"
+      ],
+      "verification": "remake-source",
+      "section": "r12",
+      "sources": [
+        "c-vgc-field"
+      ],
+      "routeNumber": 41,
+      "collectionTotal": 100,
+      "catalogueNumber": 10,
+      "collectionNumber": 41
+    },
+    {
+      "id": "gs-026",
+      "type": "gs",
+      "number": 26,
+      "name": "First wooden bridge underside",
+      "region": "Gerudo Valley",
+      "sublocation": "First wooden bridge underside",
+      "age": "Child",
+      "time": "Night",
+      "requires": [
+        "Boomerang"
+      ],
+      "suggestedStage": "child-valley",
+      "instructions": "At night look underneath the first small wooden bridge after entering the valley. Boomerang the wall spider and token.",
+      "sourceIds": [
+        "c-vgc-gerudo"
+      ],
+      "verification": "remake-source",
+      "section": "r12",
+      "sources": [
+        "c-vgc-gerudo"
+      ],
+      "routeNumber": 42,
+      "collectionTotal": 100,
+      "catalogueNumber": 26,
+      "collectionNumber": 42
+    },
+    {
+      "id": "hp-019",
+      "type": "hp",
+      "number": 19,
+      "name": "Waterfall chamber",
+      "region": "Gerudo Valley",
+      "sublocation": "Waterfall chamber",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Cucco"
+      ],
+      "suggestedStage": "child-valley",
+      "instructions": "Glide to the lower cow-side riverbank with the Cucco. Walk behind the large waterfall and climb the newly added stone steps to the piece.",
+      "sourceIds": [
+        "c-vgc-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r12",
+      "sources": [
+        "c-vgc-hp"
+      ],
+      "routeNumber": 15,
+      "collectionTotal": 36,
+      "catalogueNumber": 19,
+      "collectionNumber": 15
+    },
+    {
+      "id": "hp-020",
+      "type": "hp",
+      "number": 20,
+      "name": "Canyon ledge chest",
+      "region": "Gerudo Valley",
+      "sublocation": "Canyon ledge chest",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Cucco"
+      ],
+      "suggestedStage": "child-valley",
+      "instructions": "At the entrance bridge, locate the narrow opposite ledge with a chest. Carry the Cucco across the gap and open the chest.",
+      "sourceIds": [
+        "c-vgc-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r12",
+      "sources": [
+        "c-vgc-hp"
+      ],
+      "routeNumber": 16,
+      "collectionTotal": 36,
+      "catalogueNumber": 20,
+      "collectionNumber": 16
     },
     {
       "id": "gs-025",
@@ -8371,113 +8513,38 @@ window.GUIDE = {
       "sources": [
         "c-vgc-gerudo"
       ],
-      "routeNumber": 39,
-      "collectionTotal": 100,
-      "collectionNumber": 25
-    },
-    {
-      "id": "gs-026",
-      "type": "gs",
-      "number": 26,
-      "name": "First wooden bridge underside",
-      "region": "Gerudo Valley",
-      "sublocation": "First wooden bridge underside",
-      "age": "Child",
-      "time": "Night",
-      "requires": [
-        "Boomerang"
-      ],
-      "suggestedStage": "child-valley",
-      "instructions": "At night look underneath the first small wooden bridge after entering the valley. Boomerang the wall spider and token.",
-      "sourceIds": [
-        "c-vgc-gerudo"
-      ],
-      "verification": "remake-source",
-      "section": "r12",
-      "sources": [
-        "c-vgc-gerudo"
-      ],
-      "routeNumber": 40,
-      "collectionTotal": 100,
-      "collectionNumber": 26
-    },
-    {
-      "id": "gs-031",
-      "type": "gs",
-      "number": 31,
-      "name": "Laboratory exterior",
-      "region": "Lake Hylia",
-      "sublocation": "Laboratory exterior",
-      "age": "Child",
-      "time": "Night",
-      "requires": [
-        "Boomerang"
-      ],
-      "suggestedStage": "lake-child",
-      "instructions": "At night stand on the bridge beside the laboratory. Boomerang the spider on the building's side and retrieve its token.",
-      "sourceIds": [
-        "c-vgc-lake"
-      ],
-      "verification": "remake-source",
-      "section": "r12",
-      "sources": [
-        "c-vgc-lake"
-      ],
-      "routeNumber": 41,
-      "collectionTotal": 100,
-      "collectionNumber": 31
-    },
-    {
-      "id": "gs-050",
-      "type": "gs",
-      "number": 50,
-      "name": "Waterfall lower platform",
-      "region": "Zora River",
-      "sublocation": "Waterfall lower platform",
-      "age": "Child",
-      "time": "Night",
-      "requires": [
-        "Boomerang"
-      ],
-      "suggestedStage": "post-jabu",
-      "instructions": "At night descend below the waterfall approach to Domain. Boomerang the spider on the side of the lower rock platform.",
-      "sourceIds": [
-        "c-vgc-zora"
-      ],
-      "verification": "remake-source",
-      "section": "r12",
-      "sources": [
-        "c-vgc-zora"
-      ],
-      "routeNumber": 42,
-      "collectionTotal": 100,
-      "collectionNumber": 50
-    },
-    {
-      "id": "gs-055",
-      "type": "gs",
-      "number": 55,
-      "name": "Jabu-side cliff",
-      "region": "Zora's Fountain",
-      "sublocation": "Jabu-side cliff",
-      "age": "Child",
-      "time": "Night",
-      "requires": [
-        "Boomerang"
-      ],
-      "suggestedStage": "post-jabu",
-      "instructions": "At night climb the ruins south of Jabu-Jabu. Face the adjoining cliff and Boomerang its gold spider and token.",
-      "sourceIds": [
-        "c-vgc-zora"
-      ],
-      "verification": "remake-source",
-      "section": "r12",
-      "sources": [
-        "c-vgc-zora"
-      ],
       "routeNumber": 43,
       "collectionTotal": 100,
-      "collectionNumber": 55
+      "catalogueNumber": 25,
+      "collectionNumber": 43
+    },
+    {
+      "id": "hp-021",
+      "type": "hp",
+      "number": 21,
+      "name": "Child fishing prize",
+      "region": "Lake Hylia",
+      "sublocation": "Child fishing prize",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Fishing fee"
+      ],
+      "suggestedStage": "lake-child",
+      "instructions": "Rent a rod, catch a large fish with the normal lure, keep it, and ask the owner to measure it. Target at least 60 cm.",
+      "sourceIds": [
+        "c-nl-fishing"
+      ],
+      "verification": "source-conflict",
+      "note": "Published thresholds conflict: VGC says over 50 cm; RPG Site says at least 55 cm; Nintendo Life obtained its prize with 59 cm. A 60 cm target clears all reported figures.",
+      "section": "r12",
+      "sources": [
+        "c-nl-fishing"
+      ],
+      "routeNumber": 17,
+      "collectionTotal": 36,
+      "catalogueNumber": 21,
+      "collectionNumber": 17
     },
     {
       "id": "ocarina-time",
@@ -8775,33 +8842,8 @@ window.GUIDE = {
       ],
       "routeNumber": 18,
       "collectionTotal": 36,
-      "collectionNumber": 5
-    },
-    {
-      "id": "hp-010",
-      "type": "hp",
-      "number": 10,
-      "name": "Bean-raised platform",
-      "region": "Graveyard",
-      "sublocation": "Bean-raised platform",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Planted Graveyard bean"
-      ],
-      "suggestedStage": "adult-kakariko",
-      "instructions": "Ride the bean planted on the graveyard's west side in childhood. Step onto the raised stone platform and collect the piece.",
-      "sourceIds": [
-        "c-quest-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r14",
-      "sources": [
-        "c-quest-hp"
-      ],
-      "routeNumber": 19,
-      "collectionTotal": 36,
-      "collectionNumber": 10
+      "catalogueNumber": 5,
+      "collectionNumber": 18
     },
     {
       "id": "hp-011",
@@ -8826,34 +8868,9 @@ window.GUIDE = {
       "sources": [
         "c-quest-hp"
       ],
-      "routeNumber": 20,
+      "routeNumber": 19,
       "collectionTotal": 36,
-      "collectionNumber": 11
-    },
-    {
-      "id": "gs-019",
-      "type": "gs",
-      "number": 19,
-      "name": "Cliff beside Impa's roof",
-      "region": "Kakariko Village",
-      "sublocation": "Cliff beside Impa's roof",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Hookshot"
-      ],
-      "suggestedStage": "adult-kakariko",
-      "instructions": "Hookshot the vines left of Impa's house, jump onto its roof, then Hookshot the spider on the adjoining cliff.",
-      "sourceIds": [
-        "c-nl-gs"
-      ],
-      "verification": "remake-source",
-      "section": "r14",
-      "sources": [
-        "c-nl-gs"
-      ],
-      "routeNumber": 44,
-      "collectionTotal": 100,
+      "catalogueNumber": 11,
       "collectionNumber": 19
     },
     {
@@ -8965,6 +8982,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 4,
       "collectionTotal": 8,
+      "catalogueNumber": 4,
       "collectionNumber": 4
     },
     {
@@ -9090,35 +9108,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-kokiri"
       ],
-      "routeNumber": 45,
+      "routeNumber": 44,
       "collectionTotal": 100,
-      "collectionNumber": 2
-    },
-    {
-      "id": "gs-035",
-      "type": "gs",
-      "number": 35,
-      "name": "Bean clearing ledge",
-      "region": "Lost Woods",
-      "sublocation": "Bean clearing ledge",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Planted Lost Woods bean"
-      ],
-      "suggestedStage": "adult-forest",
-      "instructions": "Return to the right-left-right-left-left clearing at night. Ride its previously planted bean to the high ledge spider.",
-      "sourceIds": [
-        "c-vgc-kokiri"
-      ],
-      "verification": "remake-source",
-      "section": "r15",
-      "sources": [
-        "c-vgc-kokiri"
-      ],
-      "routeNumber": 46,
-      "collectionTotal": 100,
-      "collectionNumber": 35
+      "catalogueNumber": 2,
+      "collectionNumber": 44
     },
     {
       "id": "gs-062",
@@ -9142,9 +9135,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-kokiri"
       ],
-      "routeNumber": 47,
+      "routeNumber": 45,
       "collectionTotal": 100,
-      "collectionNumber": 62
+      "catalogueNumber": 62,
+      "collectionNumber": 45
     },
     {
       "id": "gs-063",
@@ -9168,9 +9162,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-forest"
       ],
-      "routeNumber": 48,
+      "routeNumber": 46,
       "collectionTotal": 100,
-      "collectionNumber": 63
+      "catalogueNumber": 63,
+      "collectionNumber": 46
     },
     {
       "id": "gs-064",
@@ -9194,9 +9189,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-forest"
       ],
-      "routeNumber": 49,
+      "routeNumber": 47,
       "collectionTotal": 100,
-      "collectionNumber": 64
+      "catalogueNumber": 64,
+      "collectionNumber": 47
     },
     {
       "id": "gs-065",
@@ -9220,9 +9216,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-forest"
       ],
-      "routeNumber": 50,
+      "routeNumber": 48,
       "collectionTotal": 100,
-      "collectionNumber": 65
+      "catalogueNumber": 65,
+      "collectionNumber": 48
     },
     {
       "id": "gs-066",
@@ -9247,9 +9244,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-forest"
       ],
-      "routeNumber": 51,
+      "routeNumber": 49,
       "collectionTotal": 100,
-      "collectionNumber": 66
+      "catalogueNumber": 66,
+      "collectionNumber": 49
     },
     {
       "id": "gs-067",
@@ -9273,9 +9271,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-forest"
       ],
-      "routeNumber": 52,
+      "routeNumber": 50,
       "collectionTotal": 100,
-      "collectionNumber": 67
+      "catalogueNumber": 67,
+      "collectionNumber": 50
     },
     {
       "id": "prelude-light",
@@ -9431,33 +9430,6 @@ window.GUIDE = {
       "requires": []
     },
     {
-      "id": "gs-082",
-      "type": "gs",
-      "number": 82,
-      "name": "Eastern Like Like chamber",
-      "region": "Bottom of the Well",
-      "sublocation": "Eastern Like Like chamber",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Lenses of Truth",
-        "Boomerang"
-      ],
-      "suggestedStage": "well",
-      "instructions": "Use the Lenses along the northeast passage to avoid invisible pits. Continue into the eastern Like Like chamber and Boomerang its spider.",
-      "sourceIds": [
-        "c-vgc-well"
-      ],
-      "verification": "remake-source",
-      "section": "r16",
-      "sources": [
-        "c-vgc-well"
-      ],
-      "routeNumber": 53,
-      "collectionTotal": 100,
-      "collectionNumber": 82
-    },
-    {
       "id": "gs-083",
       "type": "gs",
       "number": 83,
@@ -9481,9 +9453,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-well"
       ],
-      "routeNumber": 54,
+      "routeNumber": 51,
       "collectionTotal": 100,
-      "collectionNumber": 83
+      "catalogueNumber": 83,
+      "collectionNumber": 51
     },
     {
       "id": "gs-084",
@@ -9510,9 +9483,38 @@ window.GUIDE = {
       "sources": [
         "c-nl-gs"
       ],
-      "routeNumber": 55,
+      "routeNumber": 52,
       "collectionTotal": 100,
-      "collectionNumber": 84
+      "catalogueNumber": 84,
+      "collectionNumber": 52
+    },
+    {
+      "id": "gs-082",
+      "type": "gs",
+      "number": 82,
+      "name": "Eastern Like Like chamber",
+      "region": "Bottom of the Well",
+      "sublocation": "Eastern Like Like chamber",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Lenses of Truth",
+        "Boomerang"
+      ],
+      "suggestedStage": "well",
+      "instructions": "Use the Lenses along the northeast passage to avoid invisible pits. Continue into the eastern Like Like chamber and Boomerang its spider.",
+      "sourceIds": [
+        "c-vgc-well"
+      ],
+      "verification": "remake-source",
+      "section": "r16",
+      "sources": [
+        "c-vgc-well"
+      ],
+      "routeNumber": 53,
+      "collectionTotal": 100,
+      "catalogueNumber": 82,
+      "collectionNumber": 53
     },
     {
       "id": "treasure-game-complete",
@@ -9677,6 +9679,91 @@ window.GUIDE = {
       ]
     },
     {
+      "id": "hp-036",
+      "type": "hp",
+      "number": 36,
+      "name": "Moat Scrub password",
+      "region": "Hyrule Field",
+      "sublocation": "Moat Scrub password",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Adult moat Fairy Thought read",
+        "Bombs",
+        "Shield",
+        "100 rupees"
+      ],
+      "suggestedStage": "child-return",
+      "instructions": "As adult, read the Fairy Thought on the tree right of the castle drawbridge. As child, bomb the nearby crack, reflect the Scrub's shot, and give 'Sell something, will ya?' to buy the piece for 100 rupees.",
+      "sourceIds": [
+        "c-nl-password"
+      ],
+      "verification": "remake-source",
+      "section": "r17",
+      "sources": [
+        "c-nl-password"
+      ],
+      "routeNumber": 20,
+      "collectionTotal": 36,
+      "catalogueNumber": 36,
+      "collectionNumber": 20
+    },
+    {
+      "id": "hp-035",
+      "type": "hp",
+      "number": 35,
+      "name": "Chest from the past",
+      "region": "Hyrule Field",
+      "sublocation": "Chest from the past",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Adult canyon Fairy Thought read"
+      ],
+      "suggestedStage": "child-return",
+      "instructions": "First inspect the empty chest under the rock overhang near Gerudo Valley as an adult and read its Fairy Thought. Return as a child and open it.",
+      "sourceIds": [
+        "c-quest-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r17",
+      "sources": [
+        "c-quest-hp"
+      ],
+      "routeNumber": 21,
+      "collectionTotal": 36,
+      "catalogueNumber": 35,
+      "collectionNumber": 21
+    },
+    {
+      "id": "hp-030",
+      "type": "hp",
+      "number": 30,
+      "name": "Treasure Chest Shop",
+      "region": "Market",
+      "sublocation": "Treasure Chest Shop",
+      "age": "Child",
+      "time": "Night",
+      "requires": [
+        "Lenses of Truth",
+        "Rupees"
+      ],
+      "suggestedStage": "child-return",
+      "instructions": "Enter the back-alley Chest Shop at night. Use the Lenses to choose the key chest in all five rooms, then open the final prize chest.",
+      "sourceIds": [
+        "c-nl-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r17",
+      "sources": [
+        "c-nl-hp"
+      ],
+      "routeNumber": 22,
+      "collectionTotal": 36,
+      "catalogueNumber": 30,
+      "collectionNumber": 22
+    },
+    {
       "id": "gs-013",
       "type": "gs",
       "number": 13,
@@ -9699,9 +9786,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-castle"
       ],
-      "routeNumber": 56,
+      "routeNumber": 54,
       "collectionTotal": 100,
-      "collectionNumber": 13
+      "catalogueNumber": 13,
+      "collectionNumber": 54
     },
     {
       "id": "hp-014",
@@ -9725,9 +9813,10 @@ window.GUIDE = {
       "sources": [
         "c-rpg-hp"
       ],
-      "routeNumber": 21,
+      "routeNumber": 23,
       "collectionTotal": 36,
-      "collectionNumber": 14
+      "catalogueNumber": 14,
+      "collectionNumber": 23
     },
     {
       "id": "hp-015",
@@ -9755,91 +9844,10 @@ window.GUIDE = {
       "sources": [
         "c-rpg-hp"
       ],
-      "routeNumber": 22,
-      "collectionTotal": 36,
-      "collectionNumber": 15
-    },
-    {
-      "id": "hp-030",
-      "type": "hp",
-      "number": 30,
-      "name": "Treasure Chest Shop",
-      "region": "Market",
-      "sublocation": "Treasure Chest Shop",
-      "age": "Child",
-      "time": "Night",
-      "requires": [
-        "Lenses of Truth",
-        "Rupees"
-      ],
-      "suggestedStage": "child-return",
-      "instructions": "Enter the back-alley Chest Shop at night. Use the Lenses to choose the key chest in all five rooms, then open the final prize chest.",
-      "sourceIds": [
-        "c-nl-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r17",
-      "sources": [
-        "c-nl-hp"
-      ],
-      "routeNumber": 23,
-      "collectionTotal": 36,
-      "collectionNumber": 30
-    },
-    {
-      "id": "hp-035",
-      "type": "hp",
-      "number": 35,
-      "name": "Chest from the past",
-      "region": "Hyrule Field",
-      "sublocation": "Chest from the past",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Adult canyon Fairy Thought read"
-      ],
-      "suggestedStage": "child-return",
-      "instructions": "First inspect the empty chest under the rock overhang near Gerudo Valley as an adult and read its Fairy Thought. Return as a child and open it.",
-      "sourceIds": [
-        "c-quest-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r17",
-      "sources": [
-        "c-quest-hp"
-      ],
       "routeNumber": 24,
       "collectionTotal": 36,
-      "collectionNumber": 35
-    },
-    {
-      "id": "hp-036",
-      "type": "hp",
-      "number": 36,
-      "name": "Moat Scrub password",
-      "region": "Hyrule Field",
-      "sublocation": "Moat Scrub password",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Adult moat Fairy Thought read",
-        "Bombs",
-        "Shield",
-        "100 rupees"
-      ],
-      "suggestedStage": "child-return",
-      "instructions": "As adult, read the Fairy Thought on the tree right of the castle drawbridge. As child, bomb the nearby crack, reflect the Scrub's shot, and give 'Sell something, will ya?' to buy the piece for 100 rupees.",
-      "sourceIds": [
-        "c-nl-password"
-      ],
-      "verification": "remake-source",
-      "section": "r17",
-      "sources": [
-        "c-nl-password"
-      ],
-      "routeNumber": 25,
-      "collectionTotal": 36,
-      "collectionNumber": 36
+      "catalogueNumber": 15,
+      "collectionNumber": 24
     },
     {
       "id": "quiver-gallery",
@@ -9995,6 +10003,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 5,
       "collectionTotal": 8,
+      "catalogueNumber": 5,
       "collectionNumber": 5
     },
     {
@@ -10122,9 +10131,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-fire"
       ],
-      "routeNumber": 57,
+      "routeNumber": 55,
       "collectionTotal": 100,
-      "collectionNumber": 68
+      "catalogueNumber": 68,
+      "collectionNumber": 55
     },
     {
       "id": "gs-069",
@@ -10149,9 +10159,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-fire"
       ],
-      "routeNumber": 58,
+      "routeNumber": 56,
       "collectionTotal": 100,
-      "collectionNumber": 69
+      "catalogueNumber": 69,
+      "collectionNumber": 56
     },
     {
       "id": "gs-070",
@@ -10176,9 +10187,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-fire"
       ],
-      "routeNumber": 59,
+      "routeNumber": 57,
       "collectionTotal": 100,
-      "collectionNumber": 70
+      "catalogueNumber": 70,
+      "collectionNumber": 57
     },
     {
       "id": "gs-071",
@@ -10204,9 +10216,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-fire"
       ],
-      "routeNumber": 60,
+      "routeNumber": 58,
       "collectionTotal": 100,
-      "collectionNumber": 71
+      "catalogueNumber": 71,
+      "collectionNumber": 58
     },
     {
       "id": "gs-072",
@@ -10231,9 +10244,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-fire"
       ],
-      "routeNumber": 61,
+      "routeNumber": 59,
       "collectionTotal": 100,
-      "collectionNumber": 72
+      "catalogueNumber": 72,
+      "collectionNumber": 59
     },
     {
       "id": "double-magic",
@@ -10302,6 +10316,34 @@ window.GUIDE = {
       ]
     },
     {
+      "id": "hp-027",
+      "type": "hp",
+      "number": 27,
+      "name": "Climbable-net alcove",
+      "region": "Death Mountain Crater",
+      "sublocation": "Climbable-net alcove",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Goron Tunic",
+        "Hookshot"
+      ],
+      "suggestedStage": "post-fire",
+      "instructions": "Near the summit-side crater entrance, face the central lava. Climb down the hanging grating to the lower alcove and collect the piece.",
+      "sourceIds": [
+        "c-link-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r19",
+      "sources": [
+        "c-link-hp"
+      ],
+      "routeNumber": 25,
+      "collectionTotal": 36,
+      "catalogueNumber": 27,
+      "collectionNumber": 25
+    },
+    {
       "id": "hp-024",
       "type": "hp",
       "number": 24,
@@ -10325,34 +10367,8 @@ window.GUIDE = {
       ],
       "routeNumber": 26,
       "collectionTotal": 36,
-      "collectionNumber": 24
-    },
-    {
-      "id": "hp-027",
-      "type": "hp",
-      "number": 27,
-      "name": "Climbable-net alcove",
-      "region": "Death Mountain Crater",
-      "sublocation": "Climbable-net alcove",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Goron Tunic",
-        "Hookshot"
-      ],
-      "suggestedStage": "post-fire",
-      "instructions": "Near the summit-side crater entrance, face the central lava. Climb down the hanging grating to the lower alcove and collect the piece.",
-      "sourceIds": [
-        "c-link-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r19",
-      "sources": [
-        "c-link-hp"
-      ],
-      "routeNumber": 27,
-      "collectionTotal": 36,
-      "collectionNumber": 27
+      "catalogueNumber": 24,
+      "collectionNumber": 26
     },
     {
       "id": "gs-038",
@@ -10376,9 +10392,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-mountain"
       ],
-      "routeNumber": 62,
+      "routeNumber": 60,
       "collectionTotal": 100,
-      "collectionNumber": 38
+      "catalogueNumber": 38,
+      "collectionNumber": 60
     },
     {
       "id": "gs-039",
@@ -10402,36 +10419,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-mountain"
       ],
-      "routeNumber": 63,
+      "routeNumber": 61,
       "collectionTotal": 100,
-      "collectionNumber": 39
-    },
-    {
-      "id": "gs-044",
-      "type": "gs",
-      "number": 44,
-      "name": "Scarecrow corridor ledge",
-      "region": "Dodongo's Cavern",
-      "sublocation": "Scarecrow corridor ledge",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Scarecrow's Song",
-        "Hookshot"
-      ],
-      "suggestedStage": "adult-mountain",
-      "instructions": "Return to the southeast Baby Dodongo corridor. At the high balcony's summon swirl, play Scarecrow's Song and Hookshot up.",
-      "sourceIds": [
-        "c-vgc-dodongo"
-      ],
-      "verification": "remake-source",
-      "section": "r19",
-      "sources": [
-        "c-vgc-dodongo"
-      ],
-      "routeNumber": 64,
-      "collectionTotal": 100,
-      "collectionNumber": 44
+      "catalogueNumber": 39,
+      "collectionNumber": 61
     },
     {
       "id": "gs-046",
@@ -10455,9 +10446,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-mountain"
       ],
-      "routeNumber": 65,
+      "routeNumber": 62,
       "collectionTotal": 100,
-      "collectionNumber": 46
+      "catalogueNumber": 46,
+      "collectionNumber": 62
     },
     {
       "id": "map-ice",
@@ -10586,56 +10578,6 @@ window.GUIDE = {
       "note": "Source-listed location; exhaustive Thought total remains disputed."
     },
     {
-      "id": "hp-017",
-      "type": "hp",
-      "number": 17,
-      "name": "Ice-floe piece",
-      "region": "Zora's Fountain",
-      "sublocation": "Ice-floe piece",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [],
-      "suggestedStage": "ice-cavern",
-      "instructions": "On the way to Ice Cavern, jump across the floating ice, branching onto the floe holding the heart piece.",
-      "sourceIds": [
-        "c-rpg-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r20",
-      "sources": [
-        "c-rpg-hp"
-      ],
-      "routeNumber": 28,
-      "collectionTotal": 36,
-      "collectionNumber": 17
-    },
-    {
-      "id": "hp-018",
-      "type": "hp",
-      "number": 18,
-      "name": "Pool bottom",
-      "region": "Zora's Fountain",
-      "sublocation": "Pool bottom",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Iron Boots"
-      ],
-      "suggestedStage": "ice-cavern",
-      "instructions": "After Ice Cavern, equip Iron Boots in the fountain pool. Sink to the piece surrounded by green rupees; remove boots to surface.",
-      "sourceIds": [
-        "c-rpg-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r20",
-      "sources": [
-        "c-rpg-hp"
-      ],
-      "routeNumber": 29,
-      "collectionTotal": 36,
-      "collectionNumber": 18
-    },
-    {
       "id": "gs-051",
       "type": "gs",
       "number": 51,
@@ -10659,9 +10601,10 @@ window.GUIDE = {
       "sources": [
         "c-rpg-gs"
       ],
-      "routeNumber": 66,
+      "routeNumber": 63,
       "collectionTotal": 100,
-      "collectionNumber": 51
+      "catalogueNumber": 51,
+      "collectionNumber": 63
     },
     {
       "id": "gs-052",
@@ -10685,35 +10628,35 @@ window.GUIDE = {
       "sources": [
         "c-vgc-zora"
       ],
-      "routeNumber": 67,
+      "routeNumber": 64,
       "collectionTotal": 100,
-      "collectionNumber": 52
+      "catalogueNumber": 52,
+      "collectionNumber": 64
     },
     {
-      "id": "gs-053",
-      "type": "gs",
-      "number": 53,
-      "name": "Frozen waterfall ledge",
-      "region": "Zora's Domain",
-      "sublocation": "Frozen waterfall ledge",
+      "id": "hp-017",
+      "type": "hp",
+      "number": 17,
+      "name": "Ice-floe piece",
+      "region": "Zora's Fountain",
+      "sublocation": "Ice-floe piece",
       "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Hookshot"
-      ],
-      "suggestedStage": "adult-zora",
-      "instructions": "Stand on the former diving-game ledge near King Zora; face the wall above the frozen waterfall and Hookshot its spider.",
+      "time": "Any",
+      "requires": [],
+      "suggestedStage": "ice-cavern",
+      "instructions": "On the way to Ice Cavern, jump across the floating ice, branching onto the floe holding the heart piece.",
       "sourceIds": [
-        "c-vgc-zora"
+        "c-rpg-hp"
       ],
       "verification": "remake-source",
       "section": "r20",
       "sources": [
-        "c-vgc-zora"
+        "c-rpg-hp"
       ],
-      "routeNumber": 68,
-      "collectionTotal": 100,
-      "collectionNumber": 53
+      "routeNumber": 27,
+      "collectionTotal": 36,
+      "catalogueNumber": 17,
+      "collectionNumber": 27
     },
     {
       "id": "gs-073",
@@ -10737,9 +10680,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-ice"
       ],
-      "routeNumber": 69,
+      "routeNumber": 65,
       "collectionTotal": 100,
-      "collectionNumber": 73
+      "catalogueNumber": 73,
+      "collectionNumber": 65
     },
     {
       "id": "gs-074",
@@ -10764,9 +10708,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-ice"
       ],
-      "routeNumber": 70,
+      "routeNumber": 66,
       "collectionTotal": 100,
-      "collectionNumber": 74
+      "catalogueNumber": 74,
+      "collectionNumber": 66
     },
     {
       "id": "gs-075",
@@ -10791,9 +10736,37 @@ window.GUIDE = {
       "sources": [
         "c-vgc-ice"
       ],
-      "routeNumber": 71,
+      "routeNumber": 67,
       "collectionTotal": 100,
-      "collectionNumber": 75
+      "catalogueNumber": 75,
+      "collectionNumber": 67
+    },
+    {
+      "id": "hp-018",
+      "type": "hp",
+      "number": 18,
+      "name": "Pool bottom",
+      "region": "Zora's Fountain",
+      "sublocation": "Pool bottom",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Iron Boots"
+      ],
+      "suggestedStage": "ice-cavern",
+      "instructions": "After Ice Cavern, equip Iron Boots in the fountain pool. Sink to the piece surrounded by green rupees; remove boots to surface.",
+      "sourceIds": [
+        "c-rpg-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r20",
+      "sources": [
+        "c-rpg-hp"
+      ],
+      "routeNumber": 28,
+      "collectionTotal": 36,
+      "catalogueNumber": 18,
+      "collectionNumber": 28
     },
     {
       "id": "longshot",
@@ -10896,6 +10869,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 6,
       "collectionTotal": 8,
+      "catalogueNumber": 6,
       "collectionNumber": 6
     },
     {
@@ -10980,35 +10954,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-water"
       ],
-      "routeNumber": 72,
+      "routeNumber": 68,
       "collectionTotal": 100,
-      "collectionNumber": 77
-    },
-    {
-      "id": "gs-078",
-      "type": "gs",
-      "number": 78,
-      "name": "Central column top",
-      "region": "Water Temple",
-      "sublocation": "Central column top",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Longshot"
-      ],
-      "suggestedStage": "water-temple",
-      "instructions": "Return inside the central column after acquiring Longshot. Grapple upward to its highest ceiling area; collect the gold spider.",
-      "sourceIds": [
-        "c-vgc-water"
-      ],
-      "verification": "remake-source",
-      "section": "r21",
-      "sources": [
-        "c-vgc-water"
-      ],
-      "routeNumber": 73,
-      "collectionTotal": 100,
-      "collectionNumber": 78
+      "catalogueNumber": 77,
+      "collectionNumber": 68
     },
     {
       "id": "gs-079",
@@ -11034,9 +10983,37 @@ window.GUIDE = {
       "sources": [
         "c-vgc-water"
       ],
-      "routeNumber": 74,
+      "routeNumber": 69,
       "collectionTotal": 100,
-      "collectionNumber": 79
+      "catalogueNumber": 79,
+      "collectionNumber": 69
+    },
+    {
+      "id": "gs-078",
+      "type": "gs",
+      "number": 78,
+      "name": "Central column top",
+      "region": "Water Temple",
+      "sublocation": "Central column top",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Longshot"
+      ],
+      "suggestedStage": "water-temple",
+      "instructions": "Return inside the central column after acquiring Longshot. Grapple upward to its highest ceiling area; collect the gold spider.",
+      "sourceIds": [
+        "c-vgc-water"
+      ],
+      "verification": "remake-source",
+      "section": "r21",
+      "sources": [
+        "c-vgc-water"
+      ],
+      "routeNumber": 70,
+      "collectionTotal": 100,
+      "catalogueNumber": 78,
+      "collectionNumber": 70
     },
     {
       "id": "gs-080",
@@ -11061,9 +11038,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-water"
       ],
-      "routeNumber": 75,
+      "routeNumber": 71,
       "collectionTotal": 100,
-      "collectionNumber": 80
+      "catalogueNumber": 80,
+      "collectionNumber": 71
     },
     {
       "id": "gs-081",
@@ -11088,9 +11066,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-water"
       ],
-      "routeNumber": 76,
+      "routeNumber": 72,
       "collectionTotal": 100,
-      "collectionNumber": 81
+      "catalogueNumber": 81,
+      "collectionNumber": 72
     },
     {
       "id": "fire-arrows",
@@ -11172,9 +11151,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-hp"
       ],
-      "routeNumber": 30,
+      "routeNumber": 29,
       "collectionTotal": 36,
-      "collectionNumber": 22
+      "catalogueNumber": 22,
+      "collectionNumber": 29
     },
     {
       "id": "hp-023",
@@ -11198,35 +11178,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-hp"
       ],
-      "routeNumber": 31,
+      "routeNumber": 30,
       "collectionTotal": 36,
-      "collectionNumber": 23
-    },
-    {
-      "id": "gs-032",
-      "type": "gs",
-      "number": 32,
-      "name": "Central tree crown",
-      "region": "Lake Hylia",
-      "sublocation": "Central tree crown",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Longshot"
-      ],
-      "suggestedStage": "adult-lake",
-      "instructions": "After Water Temple, Longshot to the central island tree's upper vines at night; collect the spider above.",
-      "sourceIds": [
-        "c-vgc-lake"
-      ],
-      "verification": "remake-source",
-      "section": "r22",
-      "sources": [
-        "c-vgc-lake"
-      ],
-      "routeNumber": 77,
-      "collectionTotal": 100,
-      "collectionNumber": 32
+      "catalogueNumber": 23,
+      "collectionNumber": 30
     },
     {
       "id": "gs-076",
@@ -11251,9 +11206,37 @@ window.GUIDE = {
       "sources": [
         "c-vgc-lake"
       ],
-      "routeNumber": 78,
+      "routeNumber": 73,
       "collectionTotal": 100,
-      "collectionNumber": 76
+      "catalogueNumber": 76,
+      "collectionNumber": 73
+    },
+    {
+      "id": "gs-032",
+      "type": "gs",
+      "number": 32,
+      "name": "Central tree crown",
+      "region": "Lake Hylia",
+      "sublocation": "Central tree crown",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Longshot"
+      ],
+      "suggestedStage": "adult-lake",
+      "instructions": "After Water Temple, Longshot to the central island tree's upper vines at night; collect the spider above.",
+      "sourceIds": [
+        "c-vgc-lake"
+      ],
+      "verification": "remake-source",
+      "section": "r22",
+      "sources": [
+        "c-vgc-lake"
+      ],
+      "routeNumber": 74,
+      "collectionTotal": 100,
+      "catalogueNumber": 32,
+      "collectionNumber": 74
     },
     {
       "id": "odd-mushroom",
@@ -11443,6 +11426,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 5,
       "collectionTotal": 5,
+      "catalogueNumber": 5,
       "collectionNumber": 5
     },
     {
@@ -11486,9 +11470,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-field"
       ],
-      "routeNumber": 79,
+      "routeNumber": 75,
       "collectionTotal": 100,
-      "collectionNumber": 9
+      "catalogueNumber": 9,
+      "collectionNumber": 75
     },
     {
       "id": "nocturne-shadow",
@@ -11599,6 +11584,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 7,
       "collectionTotal": 8,
+      "catalogueNumber": 7,
       "collectionNumber": 7
     },
     {
@@ -11656,6 +11642,117 @@ window.GUIDE = {
       "note": "Source-listed location; exhaustive Thought total remains disputed."
     },
     {
+      "id": "gs-086",
+      "type": "gs",
+      "number": 86,
+      "name": "Invisible-scythe side room",
+      "region": "Shadow Temple",
+      "sublocation": "Invisible-scythe side room",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Lenses of Truth",
+        "Longshot"
+      ],
+      "suggestedStage": "shadow-temple",
+      "instructions": "On B3 follow the invisible-scythe route southeast. Defeat the Like Like and Keese to unlock the side room; collect its spider.",
+      "sourceIds": [
+        "c-vgc-shadow"
+      ],
+      "verification": "remake-source",
+      "section": "r25",
+      "sources": [
+        "c-vgc-shadow"
+      ],
+      "routeNumber": 76,
+      "collectionTotal": 100,
+      "catalogueNumber": 86,
+      "collectionNumber": 76
+    },
+    {
+      "id": "gs-088",
+      "type": "gs",
+      "number": 88,
+      "name": "Falling spike tops",
+      "region": "Shadow Temple",
+      "sublocation": "Falling spike tops",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Lenses of Truth",
+        "Longshot"
+      ],
+      "suggestedStage": "shadow-temple",
+      "instructions": "Reveal and push the block under the falling spikes. Climb it, circle the upper ledge, and collect the spider atop the traps.",
+      "sourceIds": [
+        "c-vgc-shadow"
+      ],
+      "verification": "remake-source",
+      "section": "r25",
+      "sources": [
+        "c-vgc-shadow"
+      ],
+      "routeNumber": 77,
+      "collectionTotal": 100,
+      "catalogueNumber": 88,
+      "collectionNumber": 77
+    },
+    {
+      "id": "gs-087",
+      "type": "gs",
+      "number": 87,
+      "name": "Fan corridor gap",
+      "region": "Shadow Temple",
+      "sublocation": "Fan corridor gap",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Longshot"
+      ],
+      "suggestedStage": "shadow-temple",
+      "instructions": "In the eastern B3 fan corridor, Hookshot over the gap, then turn around and aim below the platforms for the spider.",
+      "sourceIds": [
+        "c-vgc-shadow"
+      ],
+      "verification": "remake-source",
+      "section": "r25",
+      "sources": [
+        "c-vgc-shadow"
+      ],
+      "routeNumber": 78,
+      "collectionTotal": 100,
+      "catalogueNumber": 87,
+      "collectionNumber": 78
+    },
+    {
+      "id": "gs-089",
+      "type": "gs",
+      "number": 89,
+      "name": "Boat-side Scarecrow ledge",
+      "region": "Shadow Temple",
+      "sublocation": "Boat-side Scarecrow ledge",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Scarecrow's Song",
+        "Longshot"
+      ],
+      "suggestedStage": "shadow-temple",
+      "instructions": "Before boarding the ship, move the block on the left to open the shortcut. Summon Pierre and Longshot up to the spider.",
+      "sourceIds": [
+        "c-vgc-shadow"
+      ],
+      "verification": "remake-source",
+      "section": "r25",
+      "sources": [
+        "c-vgc-shadow"
+      ],
+      "routeNumber": 79,
+      "collectionTotal": 100,
+      "catalogueNumber": 89,
+      "collectionNumber": 79
+    },
+    {
       "id": "gs-085",
       "type": "gs",
       "number": 85,
@@ -11681,114 +11778,8 @@ window.GUIDE = {
       ],
       "routeNumber": 80,
       "collectionTotal": 100,
-      "collectionNumber": 85
-    },
-    {
-      "id": "gs-086",
-      "type": "gs",
-      "number": 86,
-      "name": "Invisible-scythe side room",
-      "region": "Shadow Temple",
-      "sublocation": "Invisible-scythe side room",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Lenses of Truth",
-        "Longshot"
-      ],
-      "suggestedStage": "shadow-temple",
-      "instructions": "On B3 follow the invisible-scythe route southeast. Defeat the Like Like and Keese to unlock the side room; collect its spider.",
-      "sourceIds": [
-        "c-vgc-shadow"
-      ],
-      "verification": "remake-source",
-      "section": "r25",
-      "sources": [
-        "c-vgc-shadow"
-      ],
-      "routeNumber": 81,
-      "collectionTotal": 100,
-      "collectionNumber": 86
-    },
-    {
-      "id": "gs-087",
-      "type": "gs",
-      "number": 87,
-      "name": "Fan corridor gap",
-      "region": "Shadow Temple",
-      "sublocation": "Fan corridor gap",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Longshot"
-      ],
-      "suggestedStage": "shadow-temple",
-      "instructions": "In the eastern B3 fan corridor, Hookshot over the gap, then turn around and aim below the platforms for the spider.",
-      "sourceIds": [
-        "c-vgc-shadow"
-      ],
-      "verification": "remake-source",
-      "section": "r25",
-      "sources": [
-        "c-vgc-shadow"
-      ],
-      "routeNumber": 82,
-      "collectionTotal": 100,
-      "collectionNumber": 87
-    },
-    {
-      "id": "gs-088",
-      "type": "gs",
-      "number": 88,
-      "name": "Falling spike tops",
-      "region": "Shadow Temple",
-      "sublocation": "Falling spike tops",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Lenses of Truth",
-        "Longshot"
-      ],
-      "suggestedStage": "shadow-temple",
-      "instructions": "Reveal and push the block under the falling spikes. Climb it, circle the upper ledge, and collect the spider atop the traps.",
-      "sourceIds": [
-        "c-vgc-shadow"
-      ],
-      "verification": "remake-source",
-      "section": "r25",
-      "sources": [
-        "c-vgc-shadow"
-      ],
-      "routeNumber": 83,
-      "collectionTotal": 100,
-      "collectionNumber": 88
-    },
-    {
-      "id": "gs-089",
-      "type": "gs",
-      "number": 89,
-      "name": "Boat-side Scarecrow ledge",
-      "region": "Shadow Temple",
-      "sublocation": "Boat-side Scarecrow ledge",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Scarecrow's Song",
-        "Longshot"
-      ],
-      "suggestedStage": "shadow-temple",
-      "instructions": "Before boarding the ship, move the block on the left to open the shortcut. Summon Pierre and Longshot up to the spider.",
-      "sourceIds": [
-        "c-vgc-shadow"
-      ],
-      "verification": "remake-source",
-      "section": "r25",
-      "sources": [
-        "c-vgc-shadow"
-      ],
-      "routeNumber": 84,
-      "collectionTotal": 100,
-      "collectionNumber": 89
+      "catalogueNumber": 85,
+      "collectionNumber": 80
     },
     {
       "id": "adult-mainland-sweep",
@@ -11833,6 +11824,142 @@ window.GUIDE = {
       ]
     },
     {
+      "id": "gs-053",
+      "type": "gs",
+      "number": 53,
+      "name": "Frozen waterfall ledge",
+      "region": "Zora's Domain",
+      "sublocation": "Frozen waterfall ledge",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Hookshot"
+      ],
+      "suggestedStage": "adult-zora",
+      "instructions": "Stand on the former diving-game ledge near King Zora; face the wall above the frozen waterfall and Hookshot its spider.",
+      "sourceIds": [
+        "c-vgc-zora"
+      ],
+      "verification": "remake-source",
+      "section": "r26",
+      "sources": [
+        "c-vgc-zora"
+      ],
+      "routeNumber": 81,
+      "collectionTotal": 100,
+      "catalogueNumber": 53,
+      "collectionNumber": 81
+    },
+    {
+      "id": "gs-044",
+      "type": "gs",
+      "number": 44,
+      "name": "Scarecrow corridor ledge",
+      "region": "Dodongo's Cavern",
+      "sublocation": "Scarecrow corridor ledge",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Scarecrow's Song",
+        "Hookshot"
+      ],
+      "suggestedStage": "adult-mountain",
+      "instructions": "Return to the southeast Baby Dodongo corridor. At the high balcony's summon swirl, play Scarecrow's Song and Hookshot up.",
+      "sourceIds": [
+        "c-vgc-dodongo"
+      ],
+      "verification": "remake-source",
+      "section": "r26",
+      "sources": [
+        "c-vgc-dodongo"
+      ],
+      "routeNumber": 82,
+      "collectionTotal": 100,
+      "catalogueNumber": 44,
+      "collectionNumber": 82
+    },
+    {
+      "id": "gs-035",
+      "type": "gs",
+      "number": 35,
+      "name": "Bean clearing ledge",
+      "region": "Lost Woods",
+      "sublocation": "Bean clearing ledge",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Planted Lost Woods bean"
+      ],
+      "suggestedStage": "adult-forest",
+      "instructions": "Return to the right-left-right-left-left clearing at night. Ride its previously planted bean to the high ledge spider.",
+      "sourceIds": [
+        "c-vgc-kokiri"
+      ],
+      "verification": "remake-source",
+      "section": "r26",
+      "sources": [
+        "c-vgc-kokiri"
+      ],
+      "routeNumber": 83,
+      "collectionTotal": 100,
+      "catalogueNumber": 35,
+      "collectionNumber": 83
+    },
+    {
+      "id": "hp-010",
+      "type": "hp",
+      "number": 10,
+      "name": "Bean-raised platform",
+      "region": "Graveyard",
+      "sublocation": "Bean-raised platform",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Planted Graveyard bean"
+      ],
+      "suggestedStage": "adult-kakariko",
+      "instructions": "Ride the bean planted on the graveyard's west side in childhood. Step onto the raised stone platform and collect the piece.",
+      "sourceIds": [
+        "c-quest-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r26",
+      "sources": [
+        "c-quest-hp"
+      ],
+      "routeNumber": 31,
+      "collectionTotal": 36,
+      "catalogueNumber": 10,
+      "collectionNumber": 31
+    },
+    {
+      "id": "gs-019",
+      "type": "gs",
+      "number": 19,
+      "name": "Cliff beside Impa's roof",
+      "region": "Kakariko Village",
+      "sublocation": "Cliff beside Impa's roof",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Hookshot"
+      ],
+      "suggestedStage": "adult-kakariko",
+      "instructions": "Hookshot the vines left of Impa's house, jump onto its roof, then Hookshot the spider on the adjoining cliff.",
+      "sourceIds": [
+        "c-nl-gs"
+      ],
+      "verification": "remake-source",
+      "section": "r26",
+      "sources": [
+        "c-nl-gs"
+      ],
+      "routeNumber": 84,
+      "collectionTotal": 100,
+      "catalogueNumber": 19,
+      "collectionNumber": 84
+    },
+    {
       "id": "gs-061",
       "type": "gs",
       "number": 61,
@@ -11856,7 +11983,8 @@ window.GUIDE = {
       ],
       "routeNumber": 85,
       "collectionTotal": 100,
-      "collectionNumber": 61
+      "catalogueNumber": 61,
+      "collectionNumber": 85
     },
     {
       "id": "gerudo-pass",
@@ -11965,7 +12093,8 @@ window.GUIDE = {
       ],
       "routeNumber": 86,
       "collectionTotal": 100,
-      "collectionNumber": 27
+      "catalogueNumber": 27,
+      "collectionNumber": 86
     },
     {
       "id": "gs-028",
@@ -11991,7 +12120,36 @@ window.GUIDE = {
       ],
       "routeNumber": 87,
       "collectionTotal": 100,
-      "collectionNumber": 28
+      "catalogueNumber": 28,
+      "collectionNumber": 87
+    },
+    {
+      "id": "hp-032",
+      "type": "hp",
+      "number": 32,
+      "name": "Highest rooftop chest",
+      "region": "Gerudo Fortress",
+      "sublocation": "Highest rooftop chest",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Scarecrow's Song",
+        "Hookshot"
+      ],
+      "suggestedStage": "post-spirit-gerudo",
+      "instructions": "Reach the fortress's uppermost rooftop. Summon Pierre across the gap, Hookshot to his ledge, and open the large chest.",
+      "sourceIds": [
+        "c-nl-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r27",
+      "sources": [
+        "c-nl-hp"
+      ],
+      "routeNumber": 32,
+      "collectionTotal": 36,
+      "catalogueNumber": 32,
+      "collectionNumber": 32
     },
     {
       "id": "gs-091",
@@ -12017,7 +12175,36 @@ window.GUIDE = {
       ],
       "routeNumber": 88,
       "collectionTotal": 100,
-      "collectionNumber": 91
+      "catalogueNumber": 91,
+      "collectionNumber": 88
+    },
+    {
+      "id": "gs-090",
+      "type": "gs",
+      "number": 90,
+      "name": "Archery far target",
+      "region": "Gerudo Fortress",
+      "sublocation": "Archery far target",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Gerudo Token",
+        "Longshot"
+      ],
+      "suggestedStage": "gerudo-archery",
+      "instructions": "At night walk to the archery range's far target; inspect its rear and Longshot the gold spider.",
+      "sourceIds": [
+        "c-nl-gs"
+      ],
+      "verification": "remake-source",
+      "section": "r27",
+      "sources": [
+        "c-nl-gs"
+      ],
+      "routeNumber": 89,
+      "collectionTotal": 100,
+      "catalogueNumber": 90,
+      "collectionNumber": 89
     },
     {
       "id": "requiem-spirit",
@@ -12123,9 +12310,10 @@ window.GUIDE = {
       "sources": [
         "c-nl-gs"
       ],
-      "routeNumber": 89,
+      "routeNumber": 90,
       "collectionTotal": 100,
-      "collectionNumber": 92
+      "catalogueNumber": 92,
+      "collectionNumber": 90
     },
     {
       "id": "gs-095",
@@ -12149,9 +12337,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-gerudo"
       ],
-      "routeNumber": 90,
+      "routeNumber": 91,
       "collectionTotal": 100,
-      "collectionNumber": 95
+      "catalogueNumber": 95,
+      "collectionNumber": 91
     },
     {
       "id": "silver-gauntlets",
@@ -12216,9 +12405,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-crater"
       ],
-      "routeNumber": 91,
+      "routeNumber": 92,
       "collectionTotal": 100,
-      "collectionNumber": 48
+      "catalogueNumber": 48,
+      "collectionNumber": 92
     },
     {
       "id": "gs-093",
@@ -12243,8 +12433,9 @@ window.GUIDE = {
       "sources": [
         "c-vgc-gerudo"
       ],
-      "routeNumber": 92,
+      "routeNumber": 93,
       "collectionTotal": 100,
+      "catalogueNumber": 93,
       "collectionNumber": 93
     },
     {
@@ -12269,9 +12460,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-spirit"
       ],
-      "routeNumber": 93,
+      "routeNumber": 94,
       "collectionTotal": 100,
-      "collectionNumber": 96
+      "catalogueNumber": 96,
+      "collectionNumber": 94
     },
     {
       "id": "gs-097",
@@ -12295,9 +12487,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-spirit"
       ],
-      "routeNumber": 94,
+      "routeNumber": 95,
       "collectionTotal": 100,
-      "collectionNumber": 97
+      "catalogueNumber": 97,
+      "collectionNumber": 95
     },
     {
       "id": "gs-098",
@@ -12321,9 +12514,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-spirit"
       ],
-      "routeNumber": 95,
+      "routeNumber": 96,
       "collectionTotal": 100,
-      "collectionNumber": 98
+      "catalogueNumber": 98,
+      "collectionNumber": 96
     },
     {
       "id": "mirror-shield",
@@ -12426,6 +12620,7 @@ window.GUIDE = {
       "requires": [],
       "routeNumber": 8,
       "collectionTotal": 8,
+      "catalogueNumber": 8,
       "collectionNumber": 8
     },
     {
@@ -12493,33 +12688,6 @@ window.GUIDE = {
       ]
     },
     {
-      "id": "hp-026",
-      "type": "hp",
-      "number": 26,
-      "name": "Bean-route high rock",
-      "region": "Death Mountain Crater",
-      "sublocation": "Bean-route high rock",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Planted Crater bean",
-        "Goron Tunic"
-      ],
-      "suggestedStage": "post-fire",
-      "instructions": "Warp in as a child and plant a bean by the Fire Temple pad. Return as adult; ride it and jump onto the tall central rock.",
-      "sourceIds": [
-        "c-link-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r30",
-      "sources": [
-        "c-link-hp"
-      ],
-      "routeNumber": 32,
-      "collectionTotal": 36,
-      "collectionNumber": 26
-    },
-    {
       "id": "hp-034",
       "type": "hp",
       "number": 34,
@@ -12544,7 +12712,8 @@ window.GUIDE = {
       ],
       "routeNumber": 33,
       "collectionTotal": 36,
-      "collectionNumber": 34
+      "catalogueNumber": 34,
+      "collectionNumber": 33
     },
     {
       "id": "gs-094",
@@ -12568,9 +12737,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-gerudo"
       ],
-      "routeNumber": 96,
+      "routeNumber": 97,
       "collectionTotal": 100,
-      "collectionNumber": 94
+      "catalogueNumber": 94,
+      "collectionNumber": 97
     },
     {
       "id": "gs-099",
@@ -12596,9 +12766,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-spirit"
       ],
-      "routeNumber": 97,
+      "routeNumber": 98,
       "collectionTotal": 100,
-      "collectionNumber": 99
+      "catalogueNumber": 99,
+      "collectionNumber": 98
     },
     {
       "id": "gs-100",
@@ -12624,9 +12795,38 @@ window.GUIDE = {
       "sources": [
         "c-vgc-spirit"
       ],
-      "routeNumber": 98,
+      "routeNumber": 99,
       "collectionTotal": 100,
-      "collectionNumber": 100
+      "catalogueNumber": 100,
+      "collectionNumber": 99
+    },
+    {
+      "id": "hp-026",
+      "type": "hp",
+      "number": 26,
+      "name": "Bean-route high rock",
+      "region": "Death Mountain Crater",
+      "sublocation": "Bean-route high rock",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Planted Crater bean",
+        "Goron Tunic"
+      ],
+      "suggestedStage": "post-fire",
+      "instructions": "Warp in as a child and plant a bean by the Fire Temple pad. Return as adult; ride it and jump onto the tall central rock.",
+      "sourceIds": [
+        "c-link-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r30",
+      "sources": [
+        "c-link-hp"
+      ],
+      "routeNumber": 34,
+      "collectionTotal": 36,
+      "catalogueNumber": 26,
+      "collectionNumber": 34
     },
     {
       "id": "ice-arrows",
@@ -12746,33 +12946,6 @@ window.GUIDE = {
       "optional": true
     },
     {
-      "id": "hp-032",
-      "type": "hp",
-      "number": 32,
-      "name": "Highest rooftop chest",
-      "region": "Gerudo Fortress",
-      "sublocation": "Highest rooftop chest",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Scarecrow's Song",
-        "Hookshot"
-      ],
-      "suggestedStage": "post-spirit-gerudo",
-      "instructions": "Reach the fortress's uppermost rooftop. Summon Pierre across the gap, Hookshot to his ledge, and open the large chest.",
-      "sourceIds": [
-        "c-nl-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r32",
-      "sources": [
-        "c-nl-hp"
-      ],
-      "routeNumber": 34,
-      "collectionTotal": 36,
-      "collectionNumber": 32
-    },
-    {
       "id": "hp-033",
       "type": "hp",
       "number": 33,
@@ -12799,34 +12972,8 @@ window.GUIDE = {
       ],
       "routeNumber": 35,
       "collectionTotal": 36,
-      "collectionNumber": 33
-    },
-    {
-      "id": "gs-090",
-      "type": "gs",
-      "number": 90,
-      "name": "Archery far target",
-      "region": "Gerudo Fortress",
-      "sublocation": "Archery far target",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Gerudo Token",
-        "Longshot"
-      ],
-      "suggestedStage": "gerudo-archery",
-      "instructions": "At night walk to the archery range's far target; inspect its rear and Longshot the gold spider.",
-      "sourceIds": [
-        "c-nl-gs"
-      ],
-      "verification": "remake-source",
-      "section": "r32",
-      "sources": [
-        "c-nl-gs"
-      ],
-      "routeNumber": 99,
-      "collectionTotal": 100,
-      "collectionNumber": 90
+      "catalogueNumber": 33,
+      "collectionNumber": 35
     },
     {
       "id": "dungeon-audit",
@@ -12901,7 +13048,8 @@ window.GUIDE = {
       ],
       "routeNumber": 100,
       "collectionTotal": 100,
-      "collectionNumber": 56
+      "catalogueNumber": 56,
+      "collectionNumber": 100
     },
     {
       "id": "echo-gem",
@@ -12997,7 +13145,8 @@ window.GUIDE = {
       ],
       "routeNumber": 36,
       "collectionTotal": 36,
-      "collectionNumber": 7
+      "catalogueNumber": 7,
+      "collectionNumber": 36
     },
     {
       "id": "pre-final-audit",

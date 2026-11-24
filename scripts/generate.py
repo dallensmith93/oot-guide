@@ -75,7 +75,16 @@ def build():
         if o.get('section') not in by_section: raise ValueError(f"Missing section for {o['id']}: {o.get('section')}")
     # Immutable public IDs; sort within the itinerary without changing identity.
     order={s['id']:i for i,s in enumerate(sections)}
-    objectives.sort(key=lambda o:(order[o['section']],0 if o['type'] not in ('gs','hp') else 1,o.get('number',0)))
+    pickup_order=read('pickup-order.json')
+    ranks={}
+    for sid,ids in pickup_order.items():
+        actual={o['id'] for o in objectives if o['section']==sid and o['type'] in ('gs','hp')}
+        if len(ids)!=len(set(ids)) or set(ids)!=actual:
+            raise ValueError(f'Pickup order mismatch in {sid}: {set(ids)^actual}')
+        ranks.update({oid:i for i,oid in enumerate(ids)})
+    if any(o['id'] not in ranks for o in objectives if o['type'] in ('gs','hp')):
+        raise ValueError('Every collectible must have an explicit route pickup order')
+    objectives.sort(key=lambda o:(order[o['section']],0 if o['type'] not in ('gs','hp') else 1,ranks.get(o['id'],0)))
     # Stable catalogue numbers and chronological collection positions are distinct.
     totals={t:sum(o['type']==t for o in objectives) for t in ('gs','hp','boss','bottle')}
     positions={t:0 for t in totals}
@@ -84,7 +93,8 @@ def build():
             positions[o['type']]+=1
             o['routeNumber']=positions[o['type']]
             o['collectionTotal']=totals[o['type']]
-            o['collectionNumber']=o.get('number',positions[o['type']])
+            o['catalogueNumber']=o.get('number',positions[o['type']])
+            o['collectionNumber']=positions[o['type']]
     running={'gs':0,'hp':0,'boss':0}
     for i,s in enumerate(sections):
         s['number']=i+1

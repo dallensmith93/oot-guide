@@ -64,3 +64,5 @@ The Markdown exports in `guide/` contain the route, compact playthrough list, ma
 ## Completion scope
 
 The source records contain 100 distinct Gold Skulltulas, 36 Pieces of Heart and eight boss Heart Containers. The route covers story, inventory and remake activities using the cited sources. It has not been tested by playing a console save. See the site's Sources view and [validation-report.md](validation-report.md) for unresolved location conflicts, incomplete exhaustive chest/statue/Thought evidence and the resulting limits on any claim of total completion.
+
+Collectible pickup order is explicit in `content/pickup-order.json`. Each section must list all its Skulltula and Heart Piece IDs exactly once. Visible collectible numbers follow the chronological route; stable IDs and catalogue numbers preserve saved progress and location references.

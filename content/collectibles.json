@@ -347,7 +347,8 @@
     "sourceIds": [
       "c-nl-gs"
     ],
-    "verification": "remake-source"
+    "verification": "remake-source",
+    "section": "r26"
   },
   {
     "id": "gs-020",
@@ -649,7 +650,8 @@
     "sourceIds": [
       "c-vgc-kokiri"
     ],
-    "verification": "remake-source"
+    "verification": "remake-source",
+    "section": "r26"
   },
   {
     "id": "gs-036",
@@ -819,7 +821,8 @@
     "sourceIds": [
       "c-vgc-dodongo"
     ],
-    "verification": "remake-source"
+    "verification": "remake-source",
+    "section": "r26"
   },
   {
     "id": "gs-045",
@@ -991,7 +994,8 @@
     "sourceIds": [
       "c-vgc-zora"
     ],
-    "verification": "remake-source"
+    "verification": "remake-source",
+    "section": "r26"
   },
   {
     "id": "gs-054",
@@ -1722,7 +1726,8 @@
     "sourceIds": [
       "c-nl-gs"
     ],
-    "verification": "remake-source"
+    "verification": "remake-source",
+    "section": "r27"
   },
   {
     "id": "gs-091",
@@ -2106,7 +2111,8 @@
     "sourceIds": [
       "c-quest-hp"
     ],
-    "verification": "remake-source"
+    "verification": "remake-source",
+    "section": "r26"
   },
   {
     "id": "hp-011",
@@ -2320,7 +2326,8 @@
       "c-nl-fishing"
     ],
     "verification": "source-conflict",
-    "note": "Published thresholds conflict: VGC says over 50 cm; RPG Site says at least 55 cm; Nintendo Life obtained its prize with 59 cm. A 60 cm target clears all reported figures."
+    "note": "Published thresholds conflict: VGC says over 50 cm; RPG Site says at least 55 cm; Nintendo Life obtained its prize with 59 cm. A 60 cm target clears all reported figures.",
+    "section": "r12"
   },
   {
     "id": "hp-022",
@@ -2389,15 +2396,16 @@
     "age": "Child",
     "time": "Any",
     "requires": [
-      "Bombs",
+      "Goron Bracelet",
       "Deku Stick"
     ],
     "suggestedStage": "mountain-child",
-    "instructions": "Light the lowest-floor torches from Darunia's flame. Throw a bomb into the central pot from above; collect its reward below.",
+    "instructions": "Light the lowest-floor torches from Darunia's flame. With the Goron Bracelet, pick up a Bomb Flower and throw it into the spinning pot from above; collect the Heart Piece from its smiling result below.",
     "sourceIds": [
       "c-nl-hp"
     ],
-    "verification": "remake-source"
+    "verification": "remake-source",
+    "section": "r06"
   },
   {
     "id": "hp-026",
@@ -2474,7 +2482,8 @@
     "sourceIds": [
       "c-nl-hp"
     ],
-    "verification": "remake-source"
+    "verification": "remake-source",
+    "section": "r03"
   },
   {
     "id": "hp-030",
@@ -2534,7 +2543,8 @@
     "sourceIds": [
       "c-nl-hp"
     ],
-    "verification": "remake-source"
+    "verification": "remake-source",
+    "section": "r27"
   },
   {
     "id": "hp-033",

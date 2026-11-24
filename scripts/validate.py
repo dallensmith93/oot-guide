@@ -25,7 +25,11 @@ def check():
     for typ,n in expected.items():
         rows=[o for o in os if o['type']==typ]
         assert len(rows)==n,(typ,len(rows),n)
+        assert [o['collectionNumber'] for o in rows]==list(range(1,n+1)), 'Collectible display numbers must follow route order'
         if typ!='boss': assert len({o['number'] for o in rows})==n
+    pickup_order=json.loads((ROOT/'content'/'pickup-order.json').read_text(encoding='utf-8'))
+    for sid,ordered_ids in pickup_order.items():
+        assert [o['id'] for o in os if o['section']==sid and o['type'] in ('gs','hp')]==ordered_ids
     assert 3+expected['boss']+expected['hp']//4==20
     for typ,n in [('song',13),('bottle',5),('dungeon-map',10),('compass',10)]:
         assert len([o for o in os if o['type']==typ])==n,(typ,n)

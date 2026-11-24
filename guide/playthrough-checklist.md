@@ -60,7 +60,9 @@ Expected: 4/100 Skulltulas · 0/36 heart pieces · 1/8 boss containers · 4 hear
 
 - [ ] gs-012 — Garden tree
 
-Expected: 7/100 Skulltulas · 0/36 heart pieces · 1/8 boss containers · 4 hearts.
+- [ ] hp-029 — Richard the dog
+
+Expected: 7/100 Skulltulas · 1/36 heart pieces · 1/8 boss containers · 4 hearts.
 
 ## 04. Lost Woods: Saria, target game and stick capacity
 
@@ -74,17 +76,17 @@ Expected: 7/100 Skulltulas · 0/36 heart pieces · 1/8 boss containers · 4 hear
 
 - [ ] gs-001 — Shop soil
 
-- [ ] hp-002 — Saria's Song Skull Kid
-
 - [ ] gs-003 — Know-It-All Brothers' house
 
 - [ ] hp-003 — Skull Kids' memory game
+
+- [ ] hp-002 — Saria's Song Skull Kid
 
 - [ ] gs-033 — Two-left-turn soil
 
 - [ ] gs-034 — Business Scrub clearing soil
 
-Expected: 11/100 Skulltulas · 2/36 heart pieces · 1/8 boss containers · 4 hearts.
+Expected: 11/100 Skulltulas · 3/36 heart pieces · 1/8 boss containers · 4 hearts.
 
 # Episode 03: Village secrets and the Gorons
 
@@ -110,23 +112,23 @@ Expected: 11/100 Skulltulas · 2/36 heart pieces · 1/8 boss containers · 4 hea
 
 - [ ] hp-006 — Rooftop man's gift
 
+- [ ] gs-020 — West soil
+
 - [ ] hp-008 — Rear-right grave chest
 
 - [ ] hp-009 — Dampé's digging tour
 
-- [ ] gs-014 — Building site
+- [ ] gs-016 — Central tree
 
 - [ ] gs-015 — Skulltula House doorway
 
-- [ ] gs-016 — Central tree
+- [ ] gs-014 — Building site
 
 - [ ] gs-017 — Watchtower ladder
 
 - [ ] gs-018 — Mountain-gate house
 
-- [ ] gs-020 — West soil
-
-Expected: 17/100 Skulltulas · 5/36 heart pieces · 1/8 boss containers · 5 hearts.
+Expected: 17/100 Skulltulas · 6/36 heart pieces · 1/8 boss containers · 5 hearts.
 
 ## 06. Goron City: Darunia and the cavern entrance
 
@@ -134,7 +136,9 @@ Expected: 17/100 Skulltulas · 5/36 heart pieces · 1/8 boss containers · 5 hea
 
 - [ ] goron-woods-shortcut — Goron City–Lost Woods shortcut
 
-Expected: 17/100 Skulltulas · 5/36 heart pieces · 1/8 boss containers · 5 hearts.
+- [ ] hp-025 — Spinning Goron pot
+
+Expected: 17/100 Skulltulas · 7/36 heart pieces · 1/8 boss containers · 5 hearts.
 
 # Episode 04: Dodongo Cavern and the summit
 
@@ -160,7 +164,7 @@ Expected: 17/100 Skulltulas · 5/36 heart pieces · 1/8 boss containers · 5 hea
 
 - [ ] gs-043 — Skull-mouth block loop
 
-Expected: 21/100 Skulltulas · 5/36 heart pieces · 2/8 boss containers · 6 hearts.
+Expected: 21/100 Skulltulas · 7/36 heart pieces · 2/8 boss containers · 6 hearts.
 
 ## 08. Death Mountain summit: Din’s Fire and magic
 
@@ -172,21 +176,19 @@ Expected: 21/100 Skulltulas · 5/36 heart pieces · 2/8 boss containers · 6 hea
 
 - [ ] grotto-23 — Climbing-net cow hole
 
-- [ ] hp-004 — Roof behind Impa's house
-
-- [ ] hp-025 — Spinning Goron pot
-
-- [ ] hp-028 — Business Scrub purchase
+- [ ] gs-045 — Boulder-room crate
 
 - [ ] gs-036 — Cavern entrance soil
 
 - [ ] gs-037 — Lower cracked wall
 
-- [ ] gs-045 — Boulder-room crate
-
 - [ ] gs-047 — Summit entrance crates
 
-Expected: 25/100 Skulltulas · 8/36 heart pieces · 2/8 boss containers · 7 hearts.
+- [ ] hp-028 — Business Scrub purchase
+
+- [ ] hp-004 — Roof behind Impa's house
+
+Expected: 25/100 Skulltulas · 9/36 heart pieces · 2/8 boss containers · 7 hearts.
 
 # Episode 05: Ranch games and Zora waters
 
@@ -212,8 +214,6 @@ Expected: 25/100 Skulltulas · 8/36 heart pieces · 2/8 boss containers · 7 hea
 
 - [ ] gs-024 — Garden tree
 
-- [ ] hp-029 — Richard the dog
-
 - [ ] hp-031 — Bombchu Bowling prize
 
 Expected: 26/100 Skulltulas · 11/36 heart pieces · 2/8 boss containers · 7 hearts.
@@ -236,23 +236,21 @@ Expected: 26/100 Skulltulas · 11/36 heart pieces · 2/8 boss containers · 7 he
 
 - [ ] grotto-31 — North-pool rupee hole
 
+- [ ] gs-049 — Bean-seller soil
+
 - [ ] hp-012 — Central pillar via grotto Cucco
 
 - [ ] hp-013 — Waterfall ledge
-
-- [ ] hp-016 — Five-torch chest
-
-- [ ] hp-021 — Child fishing prize
 
 - [ ] gs-029 — Laboratory soil
 
 - [ ] gs-030 — Southern crawlspace
 
-- [ ] gs-049 — Bean-seller soil
+- [ ] hp-016 — Five-torch chest
 
 - [ ] gs-054 — Southern thin tree
 
-Expected: 30/100 Skulltulas · 15/36 heart pieces · 2/8 boss containers · 8 hearts.
+Expected: 30/100 Skulltulas · 14/36 heart pieces · 2/8 boss containers · 8 hearts.
 
 # Episode 06: Inside Jabu-Jabu
 
@@ -276,7 +274,7 @@ Expected: 30/100 Skulltulas · 15/36 heart pieces · 2/8 boss containers · 8 he
 
 - [ ] gs-060 — Pre-boss vine platforms
 
-Expected: 34/100 Skulltulas · 15/36 heart pieces · 3/8 boss containers · 9 hearts.
+Expected: 34/100 Skulltulas · 14/36 heart pieces · 3/8 boss containers · 9 hearts.
 
 # Episode 07: Masks and the Door of Time
 
@@ -334,27 +332,29 @@ Expected: 34/100 Skulltulas · 15/36 heart pieces · 3/8 boss containers · 9 he
 
 - [ ] grotto-32 — Between-bridges torch grave
 
-- [ ] gs-010 — Southern woodland grotto
+- [ ] gs-055 — Jabu-side cliff
 
-- [ ] hp-019 — Waterfall chamber
+- [ ] gs-050 — Waterfall lower platform
 
-- [ ] hp-020 — Canyon ledge chest
-
-- [ ] gs-021 — Behind Dampé's hut
+- [ ] gs-031 — Laboratory exterior
 
 - [ ] gs-022 — Entrance building window
 
 - [ ] gs-023 — Ruined storage building vines
 
-- [ ] gs-025 — Cow-bank soil
+- [ ] gs-021 — Behind Dampé's hut
+
+- [ ] gs-010 — Southern woodland grotto
 
 - [ ] gs-026 — First wooden bridge underside
 
-- [ ] gs-031 — Laboratory exterior
+- [ ] hp-019 — Waterfall chamber
 
-- [ ] gs-050 — Waterfall lower platform
+- [ ] hp-020 — Canyon ledge chest
 
-- [ ] gs-055 — Jabu-side cliff
+- [ ] gs-025 — Cow-bank soil
+
+- [ ] hp-021 — Child fishing prize
 
 Expected: 43/100 Skulltulas · 17/36 heart pieces · 3/8 boss containers · 10 hearts.
 
@@ -396,13 +396,9 @@ Expected: 43/100 Skulltulas · 17/36 heart pieces · 3/8 boss containers · 10 h
 
 - [ ] hp-005 — Windmill upper walkway
 
-- [ ] hp-010 — Bean-raised platform
-
 - [ ] hp-011 — Dampé's second race
 
-- [ ] gs-019 — Cliff beside Impa's roof
-
-Expected: 44/100 Skulltulas · 20/36 heart pieces · 3/8 boss containers · 11 hearts.
+Expected: 43/100 Skulltulas · 19/36 heart pieces · 3/8 boss containers · 10 hearts.
 
 # Episode 09: The Forest Temple
 
@@ -432,8 +428,6 @@ Expected: 44/100 Skulltulas · 20/36 heart pieces · 3/8 boss containers · 11 h
 
 - [ ] gs-002 — Twins' House branch
 
-- [ ] gs-035 — Bean clearing ledge
-
 - [ ] gs-062 — East maze wall
 
 - [ ] gs-063 — Entrance courtyard vines
@@ -446,7 +440,7 @@ Expected: 44/100 Skulltulas · 20/36 heart pieces · 3/8 boss containers · 11 h
 
 - [ ] gs-067 — Rotating basement alcove
 
-Expected: 52/100 Skulltulas · 20/36 heart pieces · 4/8 boss containers · 12 hearts.
+Expected: 50/100 Skulltulas · 19/36 heart pieces · 4/8 boss containers · 11 hearts.
 
 # Episode 10: Back to childhood
 
@@ -468,13 +462,13 @@ Expected: 52/100 Skulltulas · 20/36 heart pieces · 4/8 boss containers · 12 h
 
 - [ ] business-scrub-seed — Business Scrub Seed
 
-- [ ] gs-082 — Eastern Like Like chamber
-
 - [ ] gs-083 — Central locked room west
 
 - [ ] gs-084 — Second central room
 
-Expected: 55/100 Skulltulas · 20/36 heart pieces · 4/8 boss containers · 12 hearts.
+- [ ] gs-082 — Eastern Like Like chamber
+
+Expected: 53/100 Skulltulas · 19/36 heart pieces · 4/8 boss containers · 11 hearts.
 
 ## 17. Child cleanup: storms, frogs and hidden games
 
@@ -492,19 +486,19 @@ Expected: 55/100 Skulltulas · 20/36 heart pieces · 4/8 boss containers · 12 h
 
 - [ ] grotto-28 — Gate-side Storms hole
 
+- [ ] hp-036 — Moat Scrub password
+
+- [ ] hp-035 — Chest from the past
+
+- [ ] hp-030 — Treasure Chest Shop
+
 - [ ] gs-013 — Storms grotto
 
 - [ ] hp-014 — Storms for frogs
 
 - [ ] hp-015 — Frog concert
 
-- [ ] hp-030 — Treasure Chest Shop
-
-- [ ] hp-035 — Chest from the past
-
-- [ ] hp-036 — Moat Scrub password
-
-Expected: 56/100 Skulltulas · 25/36 heart pieces · 4/8 boss containers · 13 hearts.
+Expected: 54/100 Skulltulas · 24/36 heart pieces · 4/8 boss containers · 13 hearts.
 
 # Episode 11: Fire Temple and crater rewards
 
@@ -546,7 +540,7 @@ Expected: 56/100 Skulltulas · 25/36 heart pieces · 4/8 boss containers · 13 h
 
 - [ ] gs-072 — Hammer-opened first-floor room
 
-Expected: 61/100 Skulltulas · 25/36 heart pieces · 5/8 boss containers · 14 hearts.
+Expected: 59/100 Skulltulas · 24/36 heart pieces · 5/8 boss containers · 14 hearts.
 
 ## 19. Crater magic and the adult mountain sweep
 
@@ -556,19 +550,17 @@ Expected: 61/100 Skulltulas · 25/36 heart pieces · 5/8 boss containers · 14 h
 
 - [ ] grotto-27 — Western Hammer cave
 
-- [ ] hp-024 — Ledge above Dodongo
-
 - [ ] hp-027 — Climbable-net alcove
+
+- [ ] hp-024 — Ledge above Dodongo
 
 - [ ] gs-038 — Summit Hammer boulder
 
 - [ ] gs-039 — Goron entrance Hammer boulder
 
-- [ ] gs-044 — Scarecrow corridor ledge
-
 - [ ] gs-046 — Ceiling by entrance
 
-Expected: 65/100 Skulltulas · 27/36 heart pieces · 5/8 boss containers · 14 hearts.
+Expected: 62/100 Skulltulas · 26/36 heart pieces · 5/8 boss containers · 14 hearts.
 
 # Episode 12: The frozen domain
 
@@ -588,15 +580,11 @@ Expected: 65/100 Skulltulas · 27/36 heart pieces · 5/8 boss containers · 14 h
 
 - [ ] thought-11 — Ice: thawed passage
 
-- [ ] hp-017 — Ice-floe piece
-
-- [ ] hp-018 — Pool bottom
-
 - [ ] gs-051 — Bean-route high cliff
 
 - [ ] gs-052 — Final bridge wall
 
-- [ ] gs-053 — Frozen waterfall ledge
+- [ ] hp-017 — Ice-floe piece
 
 - [ ] gs-073 — Spinning blade wall
 
@@ -604,7 +592,9 @@ Expected: 65/100 Skulltulas · 27/36 heart pieces · 5/8 boss containers · 14 h
 
 - [ ] gs-075 — Sliding block ceiling
 
-Expected: 71/100 Skulltulas · 29/36 heart pieces · 5/8 boss containers · 15 hearts.
+- [ ] hp-018 — Pool bottom
+
+Expected: 67/100 Skulltulas · 28/36 heart pieces · 5/8 boss containers · 15 hearts.
 
 # Episode 13: The Water Temple
 
@@ -628,15 +618,15 @@ Expected: 71/100 Skulltulas · 29/36 heart pieces · 5/8 boss containers · 15 h
 
 - [ ] gs-077 — Central-shaft basement
 
-- [ ] gs-078 — Central column top
-
 - [ ] gs-079 — Middle-level east cracked wall
+
+- [ ] gs-078 — Central column top
 
 - [ ] gs-080 — Whirlpool river wall
 
 - [ ] gs-081 — Boss Key boulder-waterfall tunnel
 
-Expected: 76/100 Skulltulas · 29/36 heart pieces · 6/8 boss containers · 16 hearts.
+Expected: 72/100 Skulltulas · 28/36 heart pieces · 6/8 boss containers · 16 hearts.
 
 # Episode 14: Lake rewards and Biggoron's Sword
 
@@ -652,11 +642,11 @@ Expected: 76/100 Skulltulas · 29/36 heart pieces · 6/8 boss containers · 16 h
 
 - [ ] hp-023 — Laboratory diving test
 
-- [ ] gs-032 — Central tree crown
-
 - [ ] gs-076 — Laboratory submerged crate
 
-Expected: 78/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 hearts.
+- [ ] gs-032 — Central tree crown
+
+Expected: 74/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 hearts.
 
 ## 23. Biggoron Sword: finish all timed deliveries together
 
@@ -678,7 +668,7 @@ Expected: 78/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 h
 
 - [ ] biggoron-sword — Biggoron Sword
 
-Expected: 78/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 hearts.
+Expected: 74/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 hearts.
 
 # Episode 15: The Big Poe hunt
 
@@ -690,7 +680,7 @@ Expected: 78/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 h
 
 - [ ] gs-009 — Southeast marsh grotto crate
 
-Expected: 79/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 hearts.
+Expected: 75/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 hearts.
 
 # Episode 16: Shadow Temple and regional cleanup
 
@@ -714,23 +704,33 @@ Expected: 79/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 h
 
 - [ ] thought-13 — Shadow: barred cells
 
-- [ ] gs-085 — Western skull-pot room
-
 - [ ] gs-086 — Invisible-scythe side room
-
-- [ ] gs-087 — Fan corridor gap
 
 - [ ] gs-088 — Falling spike tops
 
+- [ ] gs-087 — Fan corridor gap
+
 - [ ] gs-089 — Boat-side Scarecrow ledge
 
-Expected: 84/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 hearts.
+- [ ] gs-085 — Western skull-pot room
+
+Expected: 80/100 Skulltulas · 30/36 heart pieces · 7/8 boss containers · 17 hearts.
 
 ## 26. Adult regional circuit: Longshot, Hammer and beans
 
 - [ ] adult-mainland-sweep — Adult mainland circuit completed
 
 - [ ] grotto-07 — West moat Tektite pool
+
+- [ ] gs-053 — Frozen waterfall ledge
+
+- [ ] gs-044 — Scarecrow corridor ledge
+
+- [ ] gs-035 — Bean clearing ledge
+
+- [ ] hp-010 — Bean-raised platform
+
+- [ ] gs-019 — Cliff beside Impa's roof
 
 - [ ] gs-061 — Ruined building wall
 
@@ -752,9 +752,13 @@ Expected: 85/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 h
 
 - [ ] gs-028 — Rock arch
 
+- [ ] hp-032 — Highest rooftop chest
+
 - [ ] gs-091 — High east wall
 
-Expected: 88/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 hearts.
+- [ ] gs-090 — Archery far target
+
+Expected: 89/100 Skulltulas · 32/36 heart pieces · 7/8 boss containers · 18 hearts.
 
 ## 28. Mirage Desert and Evil Desert Colossus
 
@@ -770,7 +774,7 @@ Expected: 88/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 h
 
 - [ ] gs-095 — Northern bird cliff
 
-Expected: 90/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 hearts.
+Expected: 91/100 Skulltulas · 32/36 heart pieces · 7/8 boss containers · 18 hearts.
 
 # Episode 18: Child Spirit Temple
 
@@ -790,7 +794,7 @@ Expected: 90/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 h
 
 - [ ] gs-098 — Child Iron Knuckle hallway
 
-Expected: 95/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 hearts.
+Expected: 96/100 Skulltulas · 32/36 heart pieces · 7/8 boss containers · 18 hearts.
 
 # Episode 19: Adult Spirit Temple
 
@@ -812,8 +816,6 @@ Expected: 95/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 h
 
 - [ ] grotto-36 — Northern silver-pillar encounter
 
-- [ ] hp-026 — Bean-route high rock
-
 - [ ] hp-034 — Bean-route stone arch
 
 - [ ] gs-094 — Bean-route rock
@@ -822,7 +824,9 @@ Expected: 95/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 h
 
 - [ ] gs-100 — Statue Scarecrow balcony
 
-Expected: 98/100 Skulltulas · 33/36 heart pieces · 8/8 boss containers · 19 hearts.
+- [ ] hp-026 — Bean-route high rock
+
+Expected: 99/100 Skulltulas · 34/36 heart pieces · 8/8 boss containers · 19 hearts.
 
 # Episode 20: The Gerudo Proving Grounds
 
@@ -834,7 +838,7 @@ Expected: 98/100 Skulltulas · 33/36 heart pieces · 8/8 boss containers · 19 h
 
 - [ ] chests-proving — Proving Grounds chest sweep
 
-Expected: 98/100 Skulltulas · 33/36 heart pieces · 8/8 boss containers · 19 hearts.
+Expected: 99/100 Skulltulas · 34/36 heart pieces · 8/8 boss containers · 19 hearts.
 
 # Episode 21: Horseback challenges
 
@@ -846,11 +850,7 @@ Expected: 98/100 Skulltulas · 33/36 heart pieces · 8/8 boss containers · 19 h
 
 - [ ] archery-rewards — Both unique horseback archery rewards
 
-- [ ] hp-032 — Highest rooftop chest
-
 - [ ] hp-033 — Horseback archery prize
-
-- [ ] gs-090 — Archery far target
 
 Expected: 99/100 Skulltulas · 35/36 heart pieces · 8/8 boss containers · 19 hearts.
 
