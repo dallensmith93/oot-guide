@@ -184,7 +184,7 @@ window.GUIDE = {
           "id": "kokiri-sword",
           "type": "equipment",
           "name": "Kokiri Sword",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Start at Link’s house. Go southwest to the training clearing and stone arch. Follow the dark passage, crawl beneath the slabs, climb the rope ladder and jump to the chest ledge for the Kokiri Sword. Return by the stone steps.",
           "route": "r01",
           "sources": [
             "nl-hub",
@@ -196,7 +196,7 @@ window.GUIDE = {
           "id": "deku-shield",
           "type": "equipment",
           "name": "Deku Shield",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Gather rupees from Mido’s house chests, grass and the village’s ledges. Buy a Deku Shield for 40 rupees at the northeast shop; equip both sword and shield, then show Mido to pass east to the Deku Tree.",
           "route": "r01",
           "sources": [
             "nl-hub",
@@ -208,7 +208,7 @@ window.GUIDE = {
           "id": "deku-sticks",
           "type": "item",
           "name": "Deku Sticks",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Cut the Deku Babas on the way for sticks and nuts. A straight stalk yields a stick; a defeated writhing plant yields nuts. Keep sticks for lighting webs in the dungeon.",
           "route": "r01",
           "sources": [
             "nl-hub",
@@ -220,7 +220,7 @@ window.GUIDE = {
           "id": "deku-nuts",
           "type": "item",
           "name": "Deku Nuts",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Cut the Deku Babas on the way for sticks and nuts. A straight stalk yields a stick; a defeated writhing plant yields nuts. Keep sticks for lighting webs in the dungeon.",
           "route": "r01",
           "sources": [
             "nl-hub",
@@ -283,7 +283,7 @@ window.GUIDE = {
           "id": "slingshot",
           "type": "item",
           "name": "Fairy Slingshot",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Climb the central ramp: open the Map chest beside the vine wall. Shield-reflect the Scrub’s seed in the upper door. Cross the collapsing platform and climb to the Slingshot chest; open the small side-vine chest. Shoot the switch above the exit to lower the escape platform. Target her eye. Fire the Slingshot when the eye changes colour, then strike repeatedly with the sword while she is stunned. Shoot the exposed eye again on the ceiling to interrupt egg laying. Collect the Heart Container before taking the blue warp.",
           "route": "r02",
           "sources": [
             "nl-deku",
@@ -295,7 +295,7 @@ window.GUIDE = {
           "id": "map-deku",
           "type": "dungeon-map",
           "name": "Great Deku Tree Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Climb the central ramp: open the Map chest beside the vine wall. Shield-reflect the Scrub’s seed in the upper door. Cross the collapsing platform and climb to the Slingshot chest; open the small side-vine chest. Shoot the switch above the exit to lower the escape platform. Shoot the spiders off the main vines; climb to 3F. In the west switch room raise the platforms, collect the alcove token, Compass and the small chest through the crawlspace. Relight the exit torch with a stick. Jump from 3F into the centre of the floor web. Collect both basement tokens. Press the torch switch and open the web-covered chest. Carry fire to the south doorway; reflect the Scrub and shoot the eye above the exit. Dive onto the underwater switch to lower the water beneath the rotating log; ride the platform through. Move the next block to the high door. Light both torches, defeat the falling larvae, and burn both webs: the side passage now leads straight to the fourth token, without a Boomerang revisit. Crawl back to the upper basement ledge, push the block down, fetch torch fire and burn the floor web. Reflect the three Scrubs middle, right, left. Enter Gohma’s door. Target her eye. Fire the Slingshot when the eye changes colour, then strike repeatedly with the sword while she is stunned. Shoot the exposed eye again on the ceiling to interrupt egg laying. Collect the Heart Container before taking the blue warp.",
           "route": "r02",
           "sources": [
             "nl-deku",
@@ -307,7 +307,7 @@ window.GUIDE = {
           "id": "compass-deku",
           "type": "compass",
           "name": "Great Deku Tree Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Shoot the spiders off the main vines; climb to 3F. In the west switch room raise the platforms, collect the alcove token, Compass and the small chest through the crawlspace. Relight the exit torch with a stick.",
           "route": "r02",
           "sources": [
             "nl-deku",
@@ -319,7 +319,7 @@ window.GUIDE = {
           "id": "hc-01",
           "type": "boss-container",
           "name": "Queen Gohma Heart Container",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Crawl back to the upper basement ledge, push the block down, fetch torch fire and burn the floor web. Reflect the three Scrubs middle, right, left. Enter Gohma’s door.",
           "route": "r02",
           "sources": [
             "nl-deku",
@@ -331,7 +331,7 @@ window.GUIDE = {
           "id": "kokiri-emerald",
           "type": "story",
           "name": "Kokiri Emerald",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Climb the central ramp: open the Map chest beside the vine wall. Shield-reflect the Scrub’s seed in the upper door. Cross the collapsing platform and climb to the Slingshot chest; open the small side-vine chest. Shoot the switch above the exit to lower the escape platform. Shoot the spiders off the main vines; climb to 3F. In the west switch room raise the platforms, collect the alcove token, Compass and the small chest through the crawlspace. Relight the exit torch with a stick. Jump from 3F into the centre of the floor web. Collect both basement tokens. Press the torch switch and open the web-covered chest. Carry fire to the south doorway; reflect the Scrub and shoot the eye above the exit. Dive onto the underwater switch to lower the water beneath the rotating log; ride the platform through. Move the next block to the high door. Light both torches, defeat the falling larvae, and burn both webs: the side passage now leads straight to the fourth token, without a Boomerang revisit. Crawl back to the upper basement ledge, push the block down, fetch torch fire and burn the floor web. Reflect the three Scrubs middle, right, left. Enter Gohma’s door. Target her eye. Fire the Slingshot when the eye changes colour, then strike repeatedly with the sword while she is stunned. Shoot the exposed eye again on the ceiling to interrupt egg laying. Collect the Heart Container before taking the blue warp.",
           "route": "r02",
           "sources": [
             "nl-deku",
@@ -343,7 +343,7 @@ window.GUIDE = {
           "id": "chests-deku",
           "type": "chest",
           "name": "Great Deku Tree chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Climb the central ramp: open the Map chest beside the vine wall. Shield-reflect the Scrub’s seed in the upper door. Cross the collapsing platform and climb to the Slingshot chest; open the small side-vine chest. Shoot the switch above the exit to lower the escape platform. Shoot the spiders off the main vines; climb to 3F. In the west switch room raise the platforms, collect the alcove token, Compass and the small chest through the crawlspace. Relight the exit torch with a stick. Jump from 3F into the centre of the floor web. Collect both basement tokens. Press the torch switch and open the web-covered chest. Carry fire to the south doorway; reflect the Scrub and shoot the eye above the exit.",
           "route": "r02",
           "sources": [
             "nl-deku",
@@ -415,7 +415,7 @@ window.GUIDE = {
           "id": "fairy-ocarina",
           "type": "item",
           "name": "Fairy Ocarina",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Leave Kokiri Forest west; Saria gives you the Fairy Ocarina. Cross Hyrule Field north to Castle Town. Cross the drawbridge and take the first door on the right. Smash the guardhouse pots for about 20 to 30 rupees when the room is full. Roll into the moving crate for its token.",
           "route": "r03",
           "sources": [
             "nl-castle",
@@ -427,7 +427,7 @@ window.GUIDE = {
           "id": "bottle-potion",
           "type": "bottle",
           "name": "Potion Shop bottle",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In the east Potion Shop accept the borrowed bottle, catch the shop’s crawling bug, and show it to the merchant. You keep the bottle, with Red Potion: this is the remake’s additional bottle.",
           "route": "r03",
           "sources": [
             "nl-castle",
@@ -439,7 +439,7 @@ window.GUIDE = {
           "id": "weird-egg",
           "type": "temporary",
           "name": "Weird Egg and Wake-up Cucco",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Talk to Malon in the market and then by the castle approach to receive the Weird Egg. Climb the vines behind her and bypass the gate along the upper path. Stay outside the guards’ view; cross the moat and use the hatched Cucco to wake Talon at the crates.",
           "route": "r03",
           "sources": [
             "nl-castle",
@@ -451,7 +451,7 @@ window.GUIDE = {
           "id": "zelda-letter",
           "type": "story",
           "name": "Zelda’s Letter",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Move the milk crates to reach the crawlspace. Cross the garden using hedges and moving guards as cover. Speak to Zelda, accept her Letter, then follow Impa to learn Zelda’s Lullaby.",
           "route": "r03",
           "sources": [
             "nl-castle",
@@ -463,7 +463,7 @@ window.GUIDE = {
           "id": "zelda-lullaby",
           "type": "song",
           "name": "Zelda’s Lullaby",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Move the milk crates to reach the crawlspace. Cross the garden using hedges and moving guards as cover. Speak to Zelda, accept her Letter, then follow Impa to learn Zelda’s Lullaby.",
           "route": "r03",
           "sources": [
             "nl-castle",
@@ -528,7 +528,7 @@ window.GUIDE = {
           "id": "saria-song",
           "type": "song",
           "name": "Saria’s Song",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "From the forest entrance, follow right, left, right, left, straight, left, right to the Sacred Grove. Defeat the Wolfos, work through the hedge maze, and meet Saria at the far steps for Saria’s Song. Return to the Lost Woods entrance and take the first left. Play Saria’s Song for the lone Skull Kid’s Heart Piece. Continue left to the bridge overlook and defeat the Business Scrub by reflecting its seed; buy the stick-capacity upgrade for 40 rupees.",
           "route": "r04",
           "sources": [
             "nl-woods",
@@ -540,25 +540,27 @@ window.GUIDE = {
           "id": "seed-bag-1",
           "type": "upgrade",
           "name": "First Deku Seed Bag upgrade",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "From the Kokiri Forest entrance to Lost Woods, take the first right. Shoot the hanging target for the perfect score shown by the game; the documented route calls for three 100-point bullseyes. Talk to the rewarding Deku Scrub. This is the first seed-bag upgrade in this route. See the section warning about the disputed target layout.",
           "route": "r04",
           "sources": [
             "nl-woods",
             "zc-upgrades"
           ],
-          "core": true
+          "core": true,
+          "sublocation": "Lost Woods: hanging-target clearing"
         },
         {
           "id": "stick-bag-1",
           "type": "upgrade",
           "name": "First Deku Stick capacity upgrade",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "From the Lost Woods entrance take left, then left again to the bridge overlook. Deflect the Business Scrub's shot with your shield, approach when it surrenders and pay 40 rupees for the stick-capacity upgrade.",
           "route": "r04",
           "sources": [
             "nl-woods",
             "zc-upgrades"
           ],
-          "core": true
+          "core": true,
+          "sublocation": "Lost Woods: bridge overlook"
         }
       ],
       "sources": [
@@ -623,7 +625,7 @@ window.GUIDE = {
           "id": "bottle-cuccos",
           "type": "bottle",
           "name": "Cucco Lady bottle",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use a Cucco to reach the high blue-roof house and speak to the man for the rooftop Heart Piece before returning the last bird. The Cucco lady awards the third bottle in this route.",
           "route": "r05",
           "sources": [
             "nl-cuccos",
@@ -636,7 +638,7 @@ window.GUIDE = {
           "id": "hylian-shield",
           "type": "equipment",
           "name": "Hylian Shield",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At night pull the marked southeastern graves: take the Hylian Shield from its chest; in the far back-right grave take the relocated Heart Piece. During Dampe’s early-night digging shift, pay at soft-soil spots until he uncovers the Heart Piece; accept extra digging when he finds something hard. Pick up the reward immediately.",
           "route": "r05",
           "sources": [
             "nl-cuccos",
@@ -649,7 +651,7 @@ window.GUIDE = {
           "id": "sun-song",
           "type": "song",
           "name": "Sun’s Song",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At the back of the Graveyard play Zelda’s Lullaby on the Royal Tomb’s Triforce. Defeat the Keese, cross past the ReDeads and read the rear inscription for Sun’s Song. Use Sun’s Song for the village night tokens. Claim the 10-token wallet reward as soon as your checked token count qualifies. Talk to the family to register the House of Skulltula quest, the additional sidequest omitted from some six-quest lists.",
           "route": "r05",
           "sources": [
             "nl-cuccos",
@@ -662,7 +664,7 @@ window.GUIDE = {
           "id": "adult-wallet",
           "type": "upgrade",
           "name": "Adult Wallet: 500 rupees",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use Sun’s Song for the village night tokens. Claim the 10-token wallet reward as soon as your checked token count qualifies. Talk to the family to register the House of Skulltula quest, the additional sidequest omitted from some six-quest lists.",
           "route": "r05",
           "sources": [
             "nl-cuccos",
@@ -734,7 +736,7 @@ window.GUIDE = {
           "id": "goron-bracelet",
           "type": "upgrade",
           "name": "Goron’s Bracelet",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Climb Death Mountain Trail to Goron City. Descend to the lowest floor, play Zelda’s Lullaby at Darunia’s sealed door, then Saria’s Song in front of him to earn the Goron’s Bracelet.",
           "route": "r06",
           "sources": [
             "nl-dodongo",
@@ -746,7 +748,7 @@ window.GUIDE = {
           "id": "goron-woods-shortcut",
           "type": "story",
           "name": "Goron City–Lost Woods shortcut",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Open the Lost Woods shortcut by detonating the Bomb Flowers at its stone blockage. Leave through the upper city exit. Outside, pick up the Bomb Flower by the fence and throw it onto the boulder below to open Dodongo Cavern.",
           "route": "r06",
           "sources": [
             "nl-dodongo",
@@ -807,7 +809,7 @@ window.GUIDE = {
           "id": "bomb-bag",
           "type": "item",
           "name": "Bomb Bag: 20 bombs",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Cross to the Bomb Bag chest. Use the bridge switch to create the main-room shortcut. Bomb the side wall here for the optional chest before dropping bombs into both giant skull eye sockets to open its mouth.",
           "route": "r07",
           "sources": [
             "nl-dodongo",
@@ -819,7 +821,7 @@ window.GUIDE = {
           "id": "map-dodongo",
           "type": "dungeon-map",
           "name": "Dodongo Cavern Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bomb the entrance and western map alcove; open the other main-room rupee chest. Take the southeast passage, use a Baby Dodongo’s explosion on the side wall for the token, weight the switch with an Armos, and defeat both Lizalfos for the new rupee chest. Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase.",
           "route": "r07",
           "sources": [
             "nl-dodongo",
@@ -831,7 +833,7 @@ window.GUIDE = {
           "id": "compass-dodongo",
           "type": "compass",
           "name": "Dodongo Cavern Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase.",
           "route": "r07",
           "sources": [
             "nl-dodongo",
@@ -843,7 +845,7 @@ window.GUIDE = {
           "id": "hc-02",
           "type": "boss-container",
           "name": "King Dodongo Heart Container",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bomb the entrance and western map alcove; open the other main-room rupee chest. Take the southeast passage, use a Baby Dodongo’s explosion on the side wall for the token, weight the switch with an Armos, and defeat both Lizalfos for the new rupee chest. Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase.",
           "route": "r07",
           "sources": [
             "nl-dodongo",
@@ -855,7 +857,7 @@ window.GUIDE = {
           "id": "goron-ruby",
           "type": "story",
           "name": "Goron’s Ruby",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bomb the entrance and western map alcove; open the other main-room rupee chest. Take the southeast passage, use a Baby Dodongo’s explosion on the side wall for the token, weight the switch with an Armos, and defeat both Lizalfos for the new rupee chest. Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase. Climb upstairs, move the inert statue from the ladder and press the switch. Cross the bridge. In the blade-trap room move the block to climb, throw a Bomb Flower onto the cracked upper door, and continue through the eye-switch flame platforms and next Lizalfos encounter. Cross to the Bomb Bag chest. Use the bridge switch to create the main-room shortcut. Bomb the side wall here for the optional chest before dropping bombs into both giant skull eye sockets to open its mouth. Inside the mouth, follow the side corridor round; push the block through the loop and drop it onto the central switch. Open the small chest before bombing the boss-floor crack. Leave the higher Scarecrow-dependent token to r26. When he inhales, throw a bomb into his mouth and strike his lowered head. When he rolls, stand close to the inner lava edge without entering it, let him pass and repeat. Collect the Heart Container and warp.",
           "route": "r07",
           "sources": [
             "nl-dodongo",
@@ -867,7 +869,7 @@ window.GUIDE = {
           "id": "chests-dodongo",
           "type": "chest",
           "name": "Dodongo Cavern accessible chests",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bomb the entrance and western map alcove; open the other main-room rupee chest. Take the southeast passage, use a Baby Dodongo’s explosion on the side wall for the token, weight the switch with an Armos, and defeat both Lizalfos for the new rupee chest. Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase.",
           "route": "r07",
           "sources": [
             "nl-dodongo",
@@ -931,7 +933,7 @@ window.GUIDE = {
           "id": "magic-meter",
           "type": "upgrade",
           "name": "Magic meter",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bomb the summit fountain entrance. Play Zelda’s Lullaby on its Triforce and pay the remake’s 25-rupee offering: receive the magic meter and Din’s Fire.",
           "route": "r08",
           "sources": [
             "nl-fairies",
@@ -944,7 +946,7 @@ window.GUIDE = {
           "id": "dins-fire",
           "type": "item",
           "name": "Din’s Fire",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bomb the summit fountain entrance. Play Zelda’s Lullaby on its Triforce and pay the remake’s 25-rupee offering: receive the magic meter and Din’s Fire.",
           "route": "r08",
           "sources": [
             "nl-fairies",
@@ -1012,7 +1014,7 @@ window.GUIDE = {
           "id": "bottle-talon",
           "type": "bottle",
           "name": "Talon’s milk bottle",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Lon Lon Ranch talk to Malon in the paddock; show the ocarina, copy her tune and play with her again for Epona’s Song and the Malon’s Friend thread. In the house, win Talon’s three-Super-Cucco search for a milk bottle. Super Cuccos hold their heads higher; track the three he throws rather than grabbing random birds.",
           "route": "r09",
           "sources": [
             "nl-epona",
@@ -1025,7 +1027,7 @@ window.GUIDE = {
           "id": "epona-song",
           "type": "song",
           "name": "Epona’s Song",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Lon Lon Ranch talk to Malon in the paddock; show the ocarina, copy her tune and play with her again for Epona’s Song and the Malon’s Friend thread. In the house, win Talon’s three-Super-Cucco search for a milk bottle. Super Cuccos hold their heads higher; track the three he throws rather than grabbing random birds.",
           "route": "r09",
           "sources": [
             "nl-epona",
@@ -1038,7 +1040,7 @@ window.GUIDE = {
           "id": "seed-bag-2",
           "type": "upgrade",
           "name": "Second Deku Seed Bag upgrade: 50",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Castle Town win a perfect round of the basic Shooting Gallery for the next seed-bag upgrade. Keep the reticle at the target’s spawning height and move horizontally; do not chase missed targets.",
           "route": "r09",
           "sources": [
             "nl-epona",
@@ -1051,7 +1053,7 @@ window.GUIDE = {
           "id": "bomb-bag-bowling",
           "type": "upgrade",
           "name": "Bombchu Bowling Bomb Bag upgrade",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Castle Town’s red-door Bombchu Bowling Alley pay 10 rupees per round. Clear all three lane targets using your ten Bombchus; steer toward the glowing target and wait for obstructing Cuccos to move before releasing. The remake’s unique prizes follow successive wins: Bombchus, Bomb Bag, then Heart Piece. Budget at least 30 rupees plus retries. Do not use the old random prize-cycle instructions.",
           "route": "r09",
           "sources": [
             "nl-epona",
@@ -1064,7 +1066,7 @@ window.GUIDE = {
           "id": "bombchus",
           "type": "item",
           "name": "Bombchus",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Castle Town’s red-door Bombchu Bowling Alley pay 10 rupees per round. Clear all three lane targets using your ten Bombchus; steer toward the glowing target and wait for obstructing Cuccos to move before releasing. The remake’s unique prizes follow successive wins: Bombchus, Bomb Bag, then Heart Piece. Budget at least 30 rupees plus retries. Do not use the old random prize-cycle instructions.",
           "route": "r09",
           "sources": [
             "nl-epona",
@@ -1077,7 +1079,7 @@ window.GUIDE = {
           "id": "mask-keaton",
           "type": "mask",
           "name": "Keaton Mask traded",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use the market visit to borrow Keaton Mask, sell it to the Kakariko north gate guard, then repay and borrow Skull Mask. Keep Skull Mask for the Forest Stage before selling it in r12.",
           "route": "r09",
           "sources": [
             "nl-epona",
@@ -1144,7 +1146,7 @@ window.GUIDE = {
           "id": "silver-scale",
           "type": "upgrade",
           "name": "Silver Scale",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At the waterfall stand on the Triforce platform and play Zelda’s Lullaby. In the Domain climb to King Zora and pay the diving-game Zora. Jump from the waterfall and gather all marked rupees underwater for the Silver Scale.",
           "route": "r10",
           "sources": [
             "nl-zora",
@@ -1157,7 +1159,7 @@ window.GUIDE = {
           "id": "bottle-ruto",
           "type": "bottle",
           "name": "Ruto’s Letter bottle",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Dive into the underwater tunnel opposite the Domain waterfall to Lake Hylia. With the scale, collect the submerged bottle containing Ruto’s Letter. Plant a bean outside the Lakeside Laboratory and visit the scarecrows: compose a memorable eight-note tune with Bonooru and record it exactly for the adult return.",
           "route": "r10",
           "sources": [
             "nl-zora",
@@ -1170,7 +1172,7 @@ window.GUIDE = {
           "id": "scarecrow-child",
           "type": "quest",
           "name": "Scarecrow tune composed",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Dive into the underwater tunnel opposite the Domain waterfall to Lake Hylia. With the scale, collect the submerged bottle containing Ruto’s Letter. Plant a bean outside the Lakeside Laboratory and visit the scarecrows: compose a memorable eight-note tune with Bonooru and record it exactly for the adult return.",
           "route": "r10",
           "sources": [
             "nl-zora",
@@ -1183,7 +1185,7 @@ window.GUIDE = {
           "id": "magic-beans",
           "type": "item",
           "name": "Magic Beans",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bomb the river entrance rocks. Buy Magic Beans from the seated seller; prices rise with each purchase, so buy the beans needed for the current soil stops and the coming cleanup instead of emptying the wallet indiscriminately. Use a Cucco to reach the river’s elevated Heart Pieces.",
           "route": "r10",
           "sources": [
             "nl-zora",
@@ -1260,7 +1262,7 @@ window.GUIDE = {
           "id": "boomerang",
           "type": "item",
           "name": "Boomerang",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Carry Ruto through the hole room to the five-way corridor. Take the left switch branch, defeat the flying Stingers with the Slingshot and obtain the Boomerang. Back outside, leave Ruto on the east weight switch and defeat the red tentacle. Clear the northwest blue tentacle, northeast bubble room for Compass, then central green tentacle. Boomerang the wobbling platforms, carry a block to the weight switch, then climb the last vines for the final token and throw the Boomerang around the obstacle into the ceiling switch. Proceed to Barinade. Keep moving while targeting and severing its ceiling attachments with the Boomerang. Destroy the surrounding jellyfish during their unpowered openings. Stun the exposed base with the Boomerang, then close in for sword damage; retreat before it electrifies again. Pick up the Heart Container before the warp.",
           "route": "r11",
           "sources": [
             "nl-jabu",
@@ -1272,7 +1274,7 @@ window.GUIDE = {
           "id": "map-jabu",
           "type": "dungeon-map",
           "name": "Lord Jabu-Jabu’s Belly Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Shoot the ceiling tonsil; follow Ruto through the floor hole. Speak until she permits carrying. Carry her south, throw her onto the far ledge of the water recess, press its switch, then collect the Map in the side alcove and vine token. Continue south and ride the moving lift back up. Carry Ruto through the hole room to the five-way corridor. Take the left switch branch, defeat the flying Stingers with the Slingshot and obtain the Boomerang. Back outside, leave Ruto on the east weight switch and defeat the red tentacle. Clear the northwest blue tentacle, northeast bubble room for Compass, then central green tentacle. Drop through the newly clear northwest floor hole; collect both ledge/passage tokens. Throw Ruto onto the stone platform. Stun Bigocto, circle behind and stun its rear again before sword attacks; repeat until the lift rises. Boomerang the wobbling platforms, carry a block to the weight switch, then climb the last vines for the final token and throw the Boomerang around the obstacle into the ceiling switch. Proceed to Barinade. Keep moving while targeting and severing its ceiling attachments with the Boomerang. Destroy the surrounding jellyfish during their unpowered openings. Stun the exposed base with the Boomerang, then close in for sword damage; retreat before it electrifies again. Pick up the Heart Container before the warp.",
           "route": "r11",
           "sources": [
             "nl-jabu",
@@ -1284,7 +1286,7 @@ window.GUIDE = {
           "id": "compass-jabu",
           "type": "compass",
           "name": "Lord Jabu-Jabu’s Belly Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Carry Ruto through the hole room to the five-way corridor. Take the left switch branch, defeat the flying Stingers with the Slingshot and obtain the Boomerang. Back outside, leave Ruto on the east weight switch and defeat the red tentacle. Clear the northwest blue tentacle, northeast bubble room for Compass, then central green tentacle.",
           "route": "r11",
           "sources": [
             "nl-jabu",
@@ -1296,7 +1298,7 @@ window.GUIDE = {
           "id": "hc-03",
           "type": "boss-container",
           "name": "Barinade Heart Container",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Boomerang the wobbling platforms, carry a block to the weight switch, then climb the last vines for the final token and throw the Boomerang around the obstacle into the ceiling switch. Proceed to Barinade.",
           "route": "r11",
           "sources": [
             "nl-jabu",
@@ -1308,7 +1310,7 @@ window.GUIDE = {
           "id": "zora-sapphire",
           "type": "story",
           "name": "Zora’s Sapphire",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Shoot the ceiling tonsil; follow Ruto through the floor hole. Speak until she permits carrying. Carry her south, throw her onto the far ledge of the water recess, press its switch, then collect the Map in the side alcove and vine token. Continue south and ride the moving lift back up. Carry Ruto through the hole room to the five-way corridor. Take the left switch branch, defeat the flying Stingers with the Slingshot and obtain the Boomerang. Back outside, leave Ruto on the east weight switch and defeat the red tentacle. Clear the northwest blue tentacle, northeast bubble room for Compass, then central green tentacle. Drop through the newly clear northwest floor hole; collect both ledge/passage tokens. Throw Ruto onto the stone platform. Stun Bigocto, circle behind and stun its rear again before sword attacks; repeat until the lift rises. Boomerang the wobbling platforms, carry a block to the weight switch, then climb the last vines for the final token and throw the Boomerang around the obstacle into the ceiling switch. Proceed to Barinade. Keep moving while targeting and severing its ceiling attachments with the Boomerang. Destroy the surrounding jellyfish during their unpowered openings. Stun the exposed base with the Boomerang, then close in for sword damage; retreat before it electrifies again. Pick up the Heart Container before the warp.",
           "route": "r11",
           "sources": [
             "nl-jabu",
@@ -1374,7 +1376,7 @@ window.GUIDE = {
           "id": "farore-wind",
           "type": "item",
           "name": "Farore’s Wind",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Zora Fountain bomb the rear rock wall; play Zelda’s Lullaby and pay 100 rupees for Farore’s Wind. Collect the high night token with the Boomerang before leaving.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1389,7 +1391,7 @@ window.GUIDE = {
           "id": "stick-bag-2",
           "type": "upgrade",
           "name": "Forest Stage stick capacity upgrade: 30",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "As a child, enter Lost Woods from Kokiri Forest and take right, left, right, left, left. Drop into the butterfly-marked Forest Stage hole. Wear the Skull Mask before selling it to Skull Kid; approach the leader to claim the stick upgrade to 30. If already sold, borrow the mask again.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1398,13 +1400,14 @@ window.GUIDE = {
             "qf-beans",
             "zsr-remake"
           ],
-          "core": true
+          "core": true,
+          "sublocation": "Lost Woods: Forest Stage"
         },
         {
           "id": "nut-bag-1",
           "type": "upgrade",
           "name": "Business Scrub nut capacity upgrade",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bring bombs as a child. Bomb the boulder just outside the Sacred Grove entrance and enter the revealed grotto. Deflect the upgrade-selling Business Scrub's shot and buy its nut-capacity upgrade. Claim this before the Mask of Truth reward in this route.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1413,13 +1416,14 @@ window.GUIDE = {
             "qf-beans",
             "zsr-remake"
           ],
-          "core": true
+          "core": true,
+          "sublocation": "Lost Woods: grotto outside Sacred Grove"
         },
         {
           "id": "nut-bag-2",
           "type": "upgrade",
           "name": "Forest Stage nut capacity upgrade: 40",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Finish the Happy Mask sales and repay the shop to borrow Mask of Truth. From the Lost Woods entrance take right, left, right, left, left and enter the butterfly-marked hole. Wear Mask of Truth for the audience, then speak to the leader for the nut upgrade to 40. Complete this before the adult trading sequence.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1428,13 +1432,14 @@ window.GUIDE = {
             "qf-beans",
             "zsr-remake"
           ],
-          "core": true
+          "core": true,
+          "sublocation": "Lost Woods: Forest Stage"
         },
         {
           "id": "bomb-bag-goron",
           "type": "upgrade",
           "name": "Rolling Goron Bomb Bag upgrade: 40 final",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Return as a child with bombs. Find the large rolling Goron and time a bomb to stop him inside his tunnel; speak to him for the Bomb Bag upgrade. After the Bowling upgrade, this finishes the route's 40-bomb capacity.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1443,13 +1448,14 @@ window.GUIDE = {
             "qf-beans",
             "zsr-remake"
           ],
-          "core": true
+          "core": true,
+          "sublocation": "Goron City: rolling Goron tunnel"
         },
         {
           "id": "mask-skull",
           "type": "mask",
           "name": "Skull Mask traded",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1464,7 +1470,7 @@ window.GUIDE = {
           "id": "mask-spooky",
           "type": "mask",
           "name": "Spooky Mask traded",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1479,7 +1485,7 @@ window.GUIDE = {
           "id": "mask-bunny",
           "type": "mask",
           "name": "Bunny Hood traded",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood. After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1494,7 +1500,7 @@ window.GUIDE = {
           "id": "mask-truth",
           "type": "mask",
           "name": "Mask of Truth",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1509,7 +1515,7 @@ window.GUIDE = {
           "id": "mask-goron",
           "type": "mask",
           "name": "Goron Mask available",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood. After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward. Bomb the boulder just outside the Sacred Grove for the other nut upgrade. In Goron City stop the large rolling Goron with a bomb in his tunnel for the other Bomb Bag upgrade. In Castle grounds visit the bombable fountain and pay 50 rupees for the magical spin enhancement, and complete the child fishing reward described in the attached collectible.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1524,7 +1530,7 @@ window.GUIDE = {
           "id": "mask-zora",
           "type": "mask",
           "name": "Zora Mask available",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Zora Fountain bomb the rear rock wall; play Zelda’s Lullaby and pay 100 rupees for Farore’s Wind. Collect the high night token with the Boomerang before leaving. From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood. After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1539,7 +1545,7 @@ window.GUIDE = {
           "id": "mask-gerudo",
           "type": "mask",
           "name": "Gerudo Mask available",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood. After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1554,7 +1560,7 @@ window.GUIDE = {
           "id": "magic-spin",
           "type": "upgrade",
           "name": "Enhanced magical spin attack",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bomb the boulder just outside the Sacred Grove for the other nut upgrade. In Goron City stop the large rolling Goron with a bomb in his tunnel for the other Bomb Bag upgrade. In Castle grounds visit the bombable fountain and pay 50 rupees for the magical spin enhancement, and complete the child fishing reward described in the attached collectible.",
           "route": "r12",
           "sources": [
             "nl-masks",
@@ -1649,7 +1655,7 @@ window.GUIDE = {
           "id": "ocarina-time",
           "type": "item",
           "name": "Ocarina of Time",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Approach the Castle Town drawbridge for Zelda’s escape scene. Dive in the moat for the Ocarina of Time and learn Song of Time during the scene.",
           "route": "r13",
           "sources": [
             "nl-hub",
@@ -1661,7 +1667,7 @@ window.GUIDE = {
           "id": "song-time",
           "type": "song",
           "name": "Song of Time",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Approach the Castle Town drawbridge for Zelda’s escape scene. Dive in the moat for the Ocarina of Time and learn Song of Time during the scene. Finish any pending child purchases before the pedestal; this is a convenience checkpoint, not a claim those rewards become permanently unavailable. Enter the Temple of Time north of the market, play Song of Time before the altar, then pull the Master Sword.",
           "route": "r13",
           "sources": [
             "nl-hub",
@@ -1673,7 +1679,7 @@ window.GUIDE = {
           "id": "master-sword",
           "type": "equipment",
           "name": "Master Sword",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Finish any pending child purchases before the pedestal; this is a convenience checkpoint, not a claim those rewards become permanently unavailable. Enter the Temple of Time north of the market, play Song of Time before the altar, then pull the Master Sword.",
           "route": "r13",
           "sources": [
             "nl-hub",
@@ -1685,7 +1691,7 @@ window.GUIDE = {
           "id": "light-medallion",
           "type": "story",
           "name": "Light Medallion",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Watch Rauru’s explanation and obtain the Light Medallion. Leave for the ranch and Kakariko. You cannot freely return to childhood until Forest Temple is complete, so that temple takes priority over broad adult cleanup.",
           "route": "r13",
           "sources": [
             "nl-hub",
@@ -1745,7 +1751,7 @@ window.GUIDE = {
           "id": "epona",
           "type": "quest",
           "name": "Epona obtained",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Lon Lon Ranch pay Ingo’s riding fee, play Epona’s Song and mount Epona. Speak to Ingo while riding to start his wager. Win twice by taking the inside line and using carrots one at a time, keeping one available for overtaking; when locked in, jump the fence with a straight run-up. Epona is now yours.",
           "route": "r14",
           "sources": [
             "nl-epona",
@@ -1759,7 +1765,7 @@ window.GUIDE = {
           "id": "pocket-cucco",
           "type": "temporary",
           "name": "Pocket Egg and Pocket Cucco",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Kakariko accept the Pocket Egg, wait for dawn or use Sun’s Song, then use the Pocket Cucco on Talon in the central house. Return the happy bird for Cojiro; keep Cojiro until the planned full trade chain in r23.",
           "route": "r14",
           "sources": [
             "nl-epona",
@@ -1773,7 +1779,7 @@ window.GUIDE = {
           "id": "cojiro",
           "type": "temporary",
           "name": "Cojiro",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Kakariko accept the Pocket Egg, wait for dawn or use Sun’s Song, then use the Pocket Cucco on Talon in the central house. Return the happy bird for Cojiro; keep Cojiro until the planned full trade chain in r23.",
           "route": "r14",
           "sources": [
             "nl-epona",
@@ -1787,7 +1793,7 @@ window.GUIDE = {
           "id": "hookshot",
           "type": "item",
           "name": "Hookshot",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In the Graveyard pull the tomb marked with a shovel/flowers and follow Dampe’s ghost through his race. Avoid his flames, cut tight corners and open the Hookshot chest. Play Song of Time at the blue blocks on the way out to emerge in the Windmill. Take the Windmill Heart Piece from the rotating platform and show Guru-Guru the ocarina to learn Song of Storms. Re-enter Dampe’s race for the timed Heart Piece attempt while the layout is fresh; the final straight can be shortened with the Hookshot target. Visit Lake Hylia to replay your exact child composition to Bonooru: Scarecrow Song becomes usable for adult Hookshot points. Return to the woods for Forest Temple.",
           "route": "r14",
           "sources": [
             "nl-epona",
@@ -1801,7 +1807,7 @@ window.GUIDE = {
           "id": "song-storms",
           "type": "song",
           "name": "Song of Storms",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Take the Windmill Heart Piece from the rotating platform and show Guru-Guru the ocarina to learn Song of Storms. Re-enter Dampe’s race for the timed Heart Piece attempt while the layout is fresh; the final straight can be shortened with the Hookshot target.",
           "route": "r14",
           "sources": [
             "nl-epona",
@@ -1815,7 +1821,7 @@ window.GUIDE = {
           "id": "scarecrow-song",
           "type": "song",
           "name": "Scarecrow Song activated",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Visit Lake Hylia to replay your exact child composition to Bonooru: Scarecrow Song becomes usable for adult Hookshot points. Return to the woods for Forest Temple.",
           "route": "r14",
           "sources": [
             "nl-epona",
@@ -1895,7 +1901,7 @@ window.GUIDE = {
           "id": "minuet-forest",
           "type": "song",
           "name": "Minuet of Forest",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance.",
           "route": "r15",
           "sources": [
             "nl-forest",
@@ -1908,7 +1914,7 @@ window.GUIDE = {
           "id": "fairy-bow",
           "type": "item",
           "name": "Fairy Bow",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Climb the entrance tree for a Small Key; spend it on the front door. Get the north Stalfos key, drain the courtyard well via its switch for another key, and Hookshot to the courtyard Map chest. Return to the lobby with two keys. Unlock west. Push the lower block along the floor arrows; use its former-position ladder to push the upper block, then circle back and finish pushing it from the front. Activate the lift shortcut and unlock the upper twisted corridor. Descend the portrait stairs and defeat the Stalfos for the Bow. Shoot the red Poe portraits, then defeat it for a key. Straighten the corridor by shooting its eye; collect Boss Key, drop through the floor and clear the courtyard Floormaster for another key. Open the block-room eye-switch rupee chest on the return. Retwist, pass the Bow room’s locked door, defeat the blue Poe for Compass. Unlock the east corridor and fire through the torch into the frozen eye. Drop into the checkerboard room, push the courtyard shortcut block and use Scarecrow Song for its token. Use lit safe squares beneath the falling ceiling; open the Bomb chest and press the exit switch. Reassemble Amy’s portrait using the four moving picture blocks, then defeat her. Shoot the purple Poe in the corridor; in the lobby attack the distinct spinning/odd-lantern copy. Ride the central lift. Take the basement token side room, rotate clockwise for the arrow chest and torch switch, then align torch and frozen eye; shoot through the flame to expose the boss passage. Stand near the edge and watch several paintings. Shoot the rider that actually emerges; fakes turn away at the picture surface. In phase two volley his energy ball with timed sword swings, then attack him while grounded. Sidestep his glowing charge. Collect the Heart Container and warp.",
           "route": "r15",
           "sources": [
             "nl-forest",
@@ -1921,7 +1927,7 @@ window.GUIDE = {
           "id": "map-forest",
           "type": "dungeon-map",
           "name": "Forest Temple Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance.",
           "route": "r15",
           "sources": [
             "nl-forest",
@@ -1934,7 +1940,7 @@ window.GUIDE = {
           "id": "compass-forest",
           "type": "compass",
           "name": "Forest Temple Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Retwist, pass the Bow room’s locked door, defeat the blue Poe for Compass. Unlock the east corridor and fire through the torch into the frozen eye. Drop into the checkerboard room, push the courtyard shortcut block and use Scarecrow Song for its token.",
           "route": "r15",
           "sources": [
             "nl-forest",
@@ -1947,7 +1953,7 @@ window.GUIDE = {
           "id": "boss-key-forest",
           "type": "key",
           "name": "Forest Temple Boss Key",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Descend the portrait stairs and defeat the Stalfos for the Bow. Shoot the red Poe portraits, then defeat it for a key. Straighten the corridor by shooting its eye; collect Boss Key, drop through the floor and clear the courtyard Floormaster for another key. Open the block-room eye-switch rupee chest on the return. Ride the central lift. Take the basement token side room, rotate clockwise for the arrow chest and torch switch, then align torch and frozen eye; shoot through the flame to expose the boss passage.",
           "route": "r15",
           "sources": [
             "nl-forest",
@@ -1960,7 +1966,7 @@ window.GUIDE = {
           "id": "hc-04",
           "type": "boss-container",
           "name": "Phantom Ganon Heart Container",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Climb the entrance tree for a Small Key; spend it on the front door. Get the north Stalfos key, drain the courtyard well via its switch for another key, and Hookshot to the courtyard Map chest. Return to the lobby with two keys. Unlock west. Push the lower block along the floor arrows; use its former-position ladder to push the upper block, then circle back and finish pushing it from the front. Activate the lift shortcut and unlock the upper twisted corridor. Descend the portrait stairs and defeat the Stalfos for the Bow. Shoot the red Poe portraits, then defeat it for a key. Straighten the corridor by shooting its eye; collect Boss Key, drop through the floor and clear the courtyard Floormaster for another key. Open the block-room eye-switch rupee chest on the return. Retwist, pass the Bow room’s locked door, defeat the blue Poe for Compass. Unlock the east corridor and fire through the torch into the frozen eye. Drop into the checkerboard room, push the courtyard shortcut block and use Scarecrow Song for its token. Use lit safe squares beneath the falling ceiling; open the Bomb chest and press the exit switch. Reassemble Amy’s portrait using the four moving picture blocks, then defeat her. Shoot the purple Poe in the corridor; in the lobby attack the distinct spinning/odd-lantern copy. Ride the central lift. Take the basement token side room, rotate clockwise for the arrow chest and torch switch, then align torch and frozen eye; shoot through the flame to expose the boss passage. Stand near the edge and watch several paintings. Shoot the rider that actually emerges; fakes turn away at the picture surface. In phase two volley his energy ball with timed sword swings, then attack him while grounded. Sidestep his glowing charge. Collect the Heart Container and warp.",
           "route": "r15",
           "sources": [
             "nl-forest",
@@ -1973,7 +1979,7 @@ window.GUIDE = {
           "id": "forest-medallion",
           "type": "story",
           "name": "Forest Medallion",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance.",
           "route": "r15",
           "sources": [
             "nl-forest",
@@ -1986,7 +1992,7 @@ window.GUIDE = {
           "id": "chests-forest",
           "type": "chest",
           "name": "Forest Temple chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Climb the entrance tree for a Small Key; spend it on the front door. Get the north Stalfos key, drain the courtyard well via its switch for another key, and Hookshot to the courtyard Map chest. Return to the lobby with two keys. Descend the portrait stairs and defeat the Stalfos for the Bow. Shoot the red Poe portraits, then defeat it for a key. Straighten the corridor by shooting its eye; collect Boss Key, drop through the floor and clear the courtyard Floormaster for another key. Open the block-room eye-switch rupee chest on the return. Use lit safe squares beneath the falling ceiling; open the Bomb chest and press the exit switch. Reassemble Amy’s portrait using the four moving picture blocks, then defeat her. Shoot the purple Poe in the corridor; in the lobby attack the distinct spinning/odd-lantern copy. Ride the central lift. Take the basement token side room, rotate clockwise for the arrow chest and torch switch, then align torch and frozen eye; shoot through the flame to expose the boss passage.",
           "route": "r15",
           "sources": [
             "nl-forest",
@@ -2064,7 +2070,7 @@ window.GUIDE = {
           "id": "prelude-light",
           "type": "song",
           "name": "Prelude of Light",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Return to the Temple of Time; learn Prelude of Light from Sheik, then replace the sword to become a child. Approach Kakariko from Hyrule Field to hear Kaepora Gaebora explain the Hall of Fallen Foes. A glowing-green bed, including the Grand Lodge bed, now lets you sleep and dream there.",
           "route": "r16",
           "sources": [
             "nl-well",
@@ -2078,7 +2084,7 @@ window.GUIDE = {
           "id": "lenses-truth",
           "type": "item",
           "name": "Lenses of Truth",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Destroy a grasping hand or escape its grip, let Dead Hand lower its head, and strike. Take Lenses of Truth. Use them on the south wall to find the ladder and Purple Rupee chest; jump the revealed pit in the prior corridor for the Seed chest.",
           "route": "r16",
           "sources": [
             "nl-well",
@@ -2092,7 +2098,7 @@ window.GUIDE = {
           "id": "map-well",
           "type": "dungeon-map",
           "name": "Bottom of the Well Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In the Windmill play Song of Storms to drain the well. Drop in, defeat the spider and walk through the false wall. Circle to the north fountain, play Zelda’s Lullaby to drain the inner pools, then crawl through the drained passage and enter the Dead Hand trap.",
           "route": "r16",
           "sources": [
             "nl-well",
@@ -2106,7 +2112,7 @@ window.GUIDE = {
           "id": "compass-well",
           "type": "compass",
           "name": "Bottom of the Well Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In the Windmill play Song of Storms to drain the well. Drop in, defeat the spider and walk through the false wall. Circle to the north fountain, play Zelda’s Lullaby to drain the inner pools, then crawl through the drained passage and enter the Dead Hand trap. In the main loop take Compass behind the west inner false wall. Drop to the basement; bomb the torch-marked passage boulders for Map. Collect five Silver Crystals, including the one by that passage, to climb out.",
           "route": "r16",
           "sources": [
             "nl-well",
@@ -2120,7 +2126,7 @@ window.GUIDE = {
           "id": "hall-unlocked",
           "type": "quest",
           "name": "Hall of Fallen Foes unlocked",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Return to the Temple of Time; learn Prelude of Light from Sheik, then replace the sword to become a child. Approach Kakariko from Hyrule Field to hear Kaepora Gaebora explain the Hall of Fallen Foes. A glowing-green bed, including the Grand Lodge bed, now lets you sleep and dream there.",
           "route": "r16",
           "sources": [
             "nl-well",
@@ -2134,7 +2140,7 @@ window.GUIDE = {
           "id": "well-complete",
           "type": "quest",
           "name": "Broken Windmill, Dry Well completed",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In the Windmill play Song of Storms to drain the well. Drop in, defeat the spider and walk through the false wall. Circle to the north fountain, play Zelda’s Lullaby to drain the inner pools, then crawl through the drained passage and enter the Dead Hand trap.",
           "route": "r16",
           "sources": [
             "nl-well",
@@ -2148,7 +2154,7 @@ window.GUIDE = {
           "id": "chests-well",
           "type": "chest",
           "name": "Bottom of the Well chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In the Windmill play Song of Storms to drain the well. Drop in, defeat the spider and walk through the false wall. Circle to the north fountain, play Zelda’s Lullaby to drain the inner pools, then crawl through the drained passage and enter the Dead Hand trap. Destroy a grasping hand or escape its grip, let Dead Hand lower its head, and strike. Take Lenses of Truth. Use them on the south wall to find the ladder and Purple Rupee chest; jump the revealed pit in the prior corridor for the Seed chest. Get the southeast false-wall key and burn the far coffin’s web in the western coffin room for another. Spend them on the two north-facing inner cells for their tokens. Take the northeast outer door, Lens past pits, open the Deku Shield chest, defeat the Like Like and take the third token. Open the remaining B1 chests: east moat; southwest false wall; southwest inner cell guarded by a spider; the northwest corridor dead end behind a Lens-revealed wall and hidden pit (Blue Rupee). Defeat the large Green Bubble for its Hall statue before leaving.",
           "route": "r16",
           "sources": [
             "nl-well",
@@ -2234,7 +2240,7 @@ window.GUIDE = {
           "id": "treasure-game-complete",
           "type": "activity",
           "name": "Treasure Chest Game cleared",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At night enter the Castle Town Treasure Chest Game. Use Lenses of Truth to identify each key chest, reach the final room and take its Heart Piece; there is no need to gamble random choices.",
           "route": "r17",
           "sources": [
             "nl-treasure",
@@ -2248,7 +2254,7 @@ window.GUIDE = {
           "id": "frogs-complete",
           "type": "activity",
           "name": "Frog choir completed",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At the Zora River frog stage play Zelda’s Lullaby, Epona’s Song, Saria’s Song, Sun’s Song and Song of Time, plus Song of Storms. Storms yields one Heart Piece; after all five frogs grow, complete the butterfly-catching performance for the second. Each remake ocarina button belongs to a frog: follow the visible cues rather than old N64 button notation.",
           "route": "r17",
           "sources": [
             "nl-treasure",
@@ -2262,7 +2268,7 @@ window.GUIDE = {
           "id": "beans-mainland",
           "type": "quest",
           "name": "Eight mainland bean plots planted",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Plant the remaining mainland bean soils now, after releasing bugs for their tokens: Kokiri shop, two Lost Woods patches, Graveyard, Dodongo entrance, Zora River seller, Lake laboratory and Gerudo Valley ledge. Reserve two beans for Death Mountain Crater and Desert Colossus in r29, once both warp songs are available.",
           "route": "r17",
           "sources": [
             "nl-treasure",
@@ -2343,7 +2349,7 @@ window.GUIDE = {
           "id": "quiver-gallery",
           "type": "upgrade",
           "name": "Bigger Quiver: 40 arrows",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Before entering Fire Temple, visit Kakariko's Shooting Gallery as an adult with the Fairy Bow. Hit all ten targets using the fifteen provided arrows. Claim the Bigger Quiver and check that capacity is now 40 arrows.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2351,13 +2357,14 @@ window.GUIDE = {
             "raider-fire",
             "zc-upgrades"
           ],
-          "core": true
+          "core": true,
+          "sublocation": "Kakariko Village: adult Shooting Gallery"
         },
         {
           "id": "goron-tunic",
           "type": "equipment",
           "name": "Goron Tunic",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2371,7 +2378,7 @@ window.GUIDE = {
           "id": "bolero-fire",
           "type": "song",
           "name": "Bolero of Fire",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2385,7 +2392,7 @@ window.GUIDE = {
           "id": "megaton-hammer",
           "type": "item",
           "name": "Megaton Hammer",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Drop a bomb or shoot the next flame switch, climb, then race the narrow inside ramp for the Megaton Hammer. Hammer the giant floor block, clear side totems, hammer the stairs and continue dropping the face blocks. Move the Time Block, hammer the cell switch for the last Small Key, then hammer the large pillar down to the boss-door room.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2399,7 +2406,7 @@ window.GUIDE = {
           "id": "map-fire",
           "type": "dungeon-map",
           "name": "Fire Temple Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2413,7 +2420,7 @@ window.GUIDE = {
           "id": "compass-fire",
           "type": "compass",
           "name": "Fire Temple Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. In the boulder maze take the south Map chest, northeast bombable-wall token and northwest cell key. Unlock the west exit; shoot the eye for Compass. Follow the chasing-flame platforms to the upper maze. Bomb the cracked floor for a cell key; the upper southwest switch frees another key cell. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2427,7 +2434,7 @@ window.GUIDE = {
           "id": "boss-key-fire",
           "type": "key",
           "name": "Fire Temple Boss Key",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift. Drop a bomb or shoot the next flame switch, climb, then race the narrow inside ramp for the Megaton Hammer. Hammer the giant floor block, clear side totems, hammer the stairs and continue dropping the face blocks. Move the Time Block, hammer the cell switch for the last Small Key, then hammer the large pillar down to the boss-door room. Return to the first room and hammer away the ground-level east blocks. Spend the remaining key; clear slugs, tiles, Like Like and the token behind hammer blocks. Defeat the second Flare Dancer, open its rupee chest and hammer the last Goron switch for Boss Key. Cross the lowered pillar to Volvagia.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2441,7 +2448,7 @@ window.GUIDE = {
           "id": "hc-05",
           "type": "boss-container",
           "name": "Volvagia Heart Container",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Return to the first room and hammer away the ground-level east blocks. Spend the remaining key; clear slugs, tiles, Like Like and the token behind hammer blocks. Defeat the second Flare Dancer, open its rupee chest and hammer the last Goron switch for Boss Key. Cross the lowered pillar to Volvagia.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2455,7 +2462,7 @@ window.GUIDE = {
           "id": "fire-medallion",
           "type": "story",
           "name": "Fire Medallion",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2469,7 +2476,7 @@ window.GUIDE = {
           "id": "chests-fire",
           "type": "chest",
           "name": "Fire Temple chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. In the boulder maze take the south Map chest, northeast bombable-wall token and northwest cell key. Unlock the west exit; shoot the eye for Compass. Follow the chasing-flame platforms to the upper maze. Bomb the cracked floor for a cell key; the upper southwest switch frees another key cell. Before leaving use Scarecrow Song at the upper maze entrance, Hookshot to Pierre and the lift, collect the chain-wall and upper lava tokens. Hit the 5F switch and Hookshot the posts quickly for all three timed rupee chests. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift. Return to the first room and hammer away the ground-level east blocks. Spend the remaining key; clear slugs, tiles, Like Like and the token behind hammer blocks. Defeat the second Flare Dancer, open its rupee chest and hammer the last Goron switch for Boss Key. Cross the lowered pillar to Volvagia.",
           "route": "r18",
           "sources": [
             "nl-fire",
@@ -2543,7 +2550,7 @@ window.GUIDE = {
           "id": "double-magic",
           "type": "upgrade",
           "name": "Double magic meter",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "From the Fire Temple warp area return toward Goron City’s entrance. Cross the southern bridge, hammer the blocking rocks and enter the Great Fairy Fountain. Play Zelda’s Lullaby and pay 200 rupees to double the magic meter.",
           "route": "r19",
           "sources": [
             "nl-fairies",
@@ -2611,7 +2618,7 @@ window.GUIDE = {
           "id": "map-ice",
           "type": "dungeon-map",
           "name": "Ice Cavern Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the frozen Domain and pass King Zora into Zora Fountain. Cross the ice floes for the high Heart Piece and follow the northern floes to the cavern.",
           "route": "r20",
           "sources": [
             "nl-ice",
@@ -2624,7 +2631,7 @@ window.GUIDE = {
           "id": "compass-ice",
           "type": "compass",
           "name": "Ice Cavern Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the frozen Domain and pass King Zora into Zora Fountain. Cross the ice floes for the high Heart Piece and follow the northern floes to the cavern. Back at the blade room thaw the eastern passage for Compass, a token and another Blue Fire font. Melt the side red ice for jars and its Fairy Thought. Refill the bottles before taking the western passage.",
           "route": "r20",
           "sources": [
             "nl-ice",
@@ -2637,7 +2644,7 @@ window.GUIDE = {
           "id": "iron-boots",
           "type": "equipment",
           "name": "Iron Boots",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "To reach the exit, repeat through the first right, then push back against the tall block and left beneath the exit ledge. Melt the corridor ice, refill Blue Fire, defeat White Wolfos and take Iron Boots. Learn Serenade of Water.",
           "route": "r20",
           "sources": [
             "nl-ice",
@@ -2650,7 +2657,7 @@ window.GUIDE = {
           "id": "serenade-water",
           "type": "song",
           "name": "Serenade of Water",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "To reach the exit, repeat through the first right, then push back against the tall block and left beneath the exit ledge. Melt the corridor ice, refill Blue Fire, defeat White Wolfos and take Iron Boots. Learn Serenade of Water.",
           "route": "r20",
           "sources": [
             "nl-ice",
@@ -2663,7 +2670,7 @@ window.GUIDE = {
           "id": "zora-tunic",
           "type": "equipment",
           "name": "Zora Tunic",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use the boots’ submerged exit to Zora Fountain. Thaw King Zora with Blue Fire for Zora Tunic. Keep another Blue Fire bottle for the frozen shop or any missed ice barriers, then warp to Lake Hylia.",
           "route": "r20",
           "sources": [
             "nl-ice",
@@ -2676,7 +2683,7 @@ window.GUIDE = {
           "id": "chests-ice",
           "type": "chest",
           "name": "Ice Cavern chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the frozen Domain and pass King Zora into Zora Fountain. Cross the ice floes for the high Heart Piece and follow the northern floes to the cavern. Defeat all Freezards, then collect the five Silver Crystals around the spinning blade: three on the floor, one behind the near-left stalagmites, one from the high exit ledge. In the raised-walkway room break the ice around the Blue Fire and bottle it; melt the Map chest’s red ice. In the block room clear Ice Keese first. Relative to entering, slide forward and take the first high rupee, then reset by pushing off the edge. From reset slide left, forward, right, forward, left, back, right, taking the high rupees as reached; thaw the final ledge rupee. For the optional Red Rupee chest, divert forward after the second left, refill at the fire font and play Song of Time beneath the high ledge.",
           "route": "r20",
           "sources": [
             "nl-ice",
@@ -2760,7 +2767,7 @@ window.GUIDE = {
           "id": "longshot",
           "type": "item",
           "name": "Longshot",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Dragon puzzle: raise heads and grapple southwest; lower and grapple the wall; circle and raise; grapple northwest, lower, climb onto the head and raise once more. Enter the misty tree arena; cross it, turn back and defeat Dark Link. Take Longshot. Drop into the rapids, use Iron Boots to resist whirlpools and collect the corner token. Shoot the final gold eye, Longshot through the timed gate and return via the whirlpool room. Reset to low using blue, then middle using green. Get the central pillar’s high token with Longshot now. At 2F north shoot the eye and Longshot through the gate. Use the ceiling target and underwater loop to approach the block twice: first pull, then circle back and push it aside to reach key 4. At 1F north unlock the deep route. Cross the current room; bomb the cracked walls to pull its block onto the submerged switch. Cross the three water lids, wait for a boulder, then enter the waterfall corridor for the last token and Boss Key. Return to hub, follow pink to raise 3F, Longshot north and use Iron Boots on the spike-ramp approach. Use Din’s Fire for reliable Dark Link damage, or bait an attack and counter once he commits. Against Morpha stay on the outer rim with room to sidestep; Longshot the nucleus from a tentacle and slash it on land. Avoid standing on the small central islands where a grab leaves little escape space. Collect the Heart Container before the warp.",
           "route": "r21",
           "sources": [
             "nl-water",
@@ -2775,7 +2782,7 @@ window.GUIDE = {
           "id": "map-water",
           "type": "dungeon-map",
           "name": "Water Temple Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Take the south cracked-wall water route and its rising Hookshot posts for Compass. Back in the hub push the west passage block into the water, sink through, stand on the whirlpool dragon, hit its mouth switch and pass the gate for key 2. Spend one key on the central pillar. Hookshot up and play Lullaby at the green route to set water to 2F. Sink into the passage under the floating block, hit the switch and clear the falling enemies; float into the side ceiling opening for the Red Rupee chest and token. This is no longer an N64 Small Key chest. At hub 2F bomb the east crack and pass the Stingers. Shoot the water-lid switch, stand on the lid and shoot again to rise for key 3. Return via Ruto’s submerged passage, float to its 2F cracked wall, bomb it and get the token. Unlock west 2F at the pink route. Clear the Tektite, ride the switched water lid and play Lullaby for 3F. Use the last key on the west waterfall door, climb the moving Hookshot platforms and continue. Reset to low using blue, then middle using green. Get the central pillar’s high token with Longshot now. At 2F north shoot the eye and Longshot through the gate. Use the ceiling target and underwater loop to approach the block twice: first pull, then circle back and push it aside to reach key 4. At 1F north unlock the deep route. Cross the current room; bomb the cracked walls to pull its block onto the submerged switch. Cross the three water lids, wait for a boulder, then enter the waterfall corridor for the last token and Boss Key. Return to hub, follow pink to raise 3F, Longshot north and use Iron Boots on the spike-ramp approach.",
           "route": "r21",
           "sources": [
             "nl-water",
@@ -2790,7 +2797,7 @@ window.GUIDE = {
           "id": "compass-water",
           "type": "compass",
           "name": "Water Temple Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Take the south cracked-wall water route and its rising Hookshot posts for Compass. Back in the hub push the west passage block into the water, sink through, stand on the whirlpool dragon, hit its mouth switch and pass the gate for key 2.",
           "route": "r21",
           "sources": [
             "nl-water",
@@ -2805,7 +2812,7 @@ window.GUIDE = {
           "id": "boss-key-water",
           "type": "key",
           "name": "Water Temple Boss Key",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At 1F north unlock the deep route. Cross the current room; bomb the cracked walls to pull its block onto the submerged switch. Cross the three water lids, wait for a boulder, then enter the waterfall corridor for the last token and Boss Key. Return to hub, follow pink to raise 3F, Longshot north and use Iron Boots on the spike-ramp approach.",
           "route": "r21",
           "sources": [
             "nl-water",
@@ -2820,7 +2827,7 @@ window.GUIDE = {
           "id": "hc-06",
           "type": "boss-container",
           "name": "Morpha Heart Container",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use Din’s Fire for reliable Dark Link damage, or bait an attack and counter once he commits. Against Morpha stay on the outer rim with room to sidestep; Longshot the nucleus from a tentacle and slash it on land. Avoid standing on the small central islands where a grab leaves little escape space. Collect the Heart Container before the warp.",
           "route": "r21",
           "sources": [
             "nl-water",
@@ -2835,7 +2842,7 @@ window.GUIDE = {
           "id": "water-medallion",
           "type": "story",
           "name": "Water Medallion",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Take the south cracked-wall water route and its rising Hookshot posts for Compass. Back in the hub push the west passage block into the water, sink through, stand on the whirlpool dragon, hit its mouth switch and pass the gate for key 2. Spend one key on the central pillar. Hookshot up and play Lullaby at the green route to set water to 2F. Sink into the passage under the floating block, hit the switch and clear the falling enemies; float into the side ceiling opening for the Red Rupee chest and token. This is no longer an N64 Small Key chest. At hub 2F bomb the east crack and pass the Stingers. Shoot the water-lid switch, stand on the lid and shoot again to rise for key 3. Return via Ruto’s submerged passage, float to its 2F cracked wall, bomb it and get the token. Unlock west 2F at the pink route. Clear the Tektite, ride the switched water lid and play Lullaby for 3F. Use the last key on the west waterfall door, climb the moving Hookshot platforms and continue. Reset to low using blue, then middle using green. Get the central pillar’s high token with Longshot now. At 2F north shoot the eye and Longshot through the gate. Use the ceiling target and underwater loop to approach the block twice: first pull, then circle back and push it aside to reach key 4. At 1F north unlock the deep route. Cross the current room; bomb the cracked walls to pull its block onto the submerged switch. Cross the three water lids, wait for a boulder, then enter the waterfall corridor for the last token and Boss Key. Return to hub, follow pink to raise 3F, Longshot north and use Iron Boots on the spike-ramp approach.",
           "route": "r21",
           "sources": [
             "nl-water",
@@ -2850,7 +2857,7 @@ window.GUIDE = {
           "id": "chests-water",
           "type": "chest",
           "name": "Water Temple chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Spend one key on the central pillar. Hookshot up and play Lullaby at the green route to set water to 2F. Sink into the passage under the floating block, hit the switch and clear the falling enemies; float into the side ceiling opening for the Red Rupee chest and token. This is no longer an N64 Small Key chest.",
           "route": "r21",
           "sources": [
             "nl-water",
@@ -2928,7 +2935,7 @@ window.GUIDE = {
           "id": "fire-arrows",
           "type": "item",
           "name": "Fire Arrows",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At the warp-island plaque, face the morning sun and fire an ordinary arrow into its halo while the lake is full. Swim to the small platform and collect Fire Arrows. If dawn has passed, use Sun’s Song to cycle to the next sunrise.",
           "route": "r22",
           "sources": [
             "nl-fishing",
@@ -2942,7 +2949,7 @@ window.GUIDE = {
           "id": "golden-scale",
           "type": "upgrade",
           "name": "Golden Scale",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Ride the laboratory bean to the roof Heart Piece. In the Fishing Hole pay the adult session fee of 30 rupees; catch a fish at least 60 cm, retain it and show the keeper for Golden Scale. Work the largest fish near the submerged log rather than repeatedly keeping small catches. At the Lakeside Laboratory dive unaided using Golden Scale to the bottom and speak to the scientist for the diving Heart Piece. Use Iron Boots separately to roll into the underwater crate for its token; boots do not count as the unaided diving feat. After a record, leave and re-enter to look for the Sinking Lure. It is not required for the Heart Piece or Golden Scale; secure both fair-lure prizes first. The Hylian Loach is a rare optional catch with a rupee reward; keeper-hat pranks can cost money and have no core upgrade value.",
           "route": "r22",
           "sources": [
             "nl-fishing",
@@ -2956,7 +2963,7 @@ window.GUIDE = {
           "id": "fishing-adult",
           "type": "activity",
           "name": "Adult fishing record rewarded",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Ride the laboratory bean to the roof Heart Piece. In the Fishing Hole pay the adult session fee of 30 rupees; catch a fish at least 60 cm, retain it and show the keeper for Golden Scale. Work the largest fish near the submerged log rather than repeatedly keeping small catches. Fishing method: aim and cast beyond the fish, guide the lure into view with short stick movements, then reel once it bites. Steer with the resisting fish rather than hauling constantly in the opposite direction. Keep the record fish until the keeper accepts it.",
           "route": "r22",
           "sources": [
             "nl-fishing",
@@ -3026,7 +3033,7 @@ window.GUIDE = {
           "id": "odd-mushroom",
           "type": "temporary",
           "name": "Odd Mushroom",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bring Cojiro to the sleeping Master Craftsman’s Son in the Lost Woods’ first clearing. Show the bird for Odd Mushroom. Sources disagree between three and four minutes; plan a delivery under three minutes: leave the woods, call Epona, ride to Kakariko, enter the north potion shop and leave through its rear door to Granny’s shop. Trade the mushroom for Odd Poultice.",
           "route": "r23",
           "sources": [
             "nl-biggoron",
@@ -3038,7 +3045,7 @@ window.GUIDE = {
           "id": "odd-poultice",
           "type": "temporary",
           "name": "Odd Poultice",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Bring Cojiro to the sleeping Master Craftsman’s Son in the Lost Woods’ first clearing. Show the bird for Odd Mushroom. Sources disagree between three and four minutes; plan a delivery under three minutes: leave the woods, call Epona, ride to Kakariko, enter the north potion shop and leave through its rear door to Granny’s shop. Trade the mushroom for Odd Poultice. Return to the same woods clearing and give the poultice to Fado for Poacher’s Saw. Ride to Gerudo Valley, cross with Epona or Longshot and trade the saw to the carpenter boss by his tent for Broken Goron Sword.",
           "route": "r23",
           "sources": [
             "nl-biggoron",
@@ -3050,7 +3057,7 @@ window.GUIDE = {
           "id": "poacher-saw",
           "type": "temporary",
           "name": "Poacher’s Saw",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Return to the same woods clearing and give the poultice to Fado for Poacher’s Saw. Ride to Gerudo Valley, cross with Epona or Longshot and trade the saw to the carpenter boss by his tent for Broken Goron Sword.",
           "route": "r23",
           "sources": [
             "nl-biggoron",
@@ -3062,7 +3069,7 @@ window.GUIDE = {
           "id": "broken-goron-sword",
           "type": "temporary",
           "name": "Broken Goron Sword",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Return to the same woods clearing and give the poultice to Fado for Poacher’s Saw. Ride to Gerudo Valley, cross with Epona or Longshot and trade the saw to the carpenter boss by his tent for Broken Goron Sword. Use Bolero of Fire before accepting any timed object. Leave the crater through the summit exit to Biggoron; trade the broken sword for Prescription. Bring the prescription to thawed King Zora for Eyeball Frog.",
           "route": "r23",
           "sources": [
             "nl-biggoron",
@@ -3074,7 +3081,7 @@ window.GUIDE = {
           "id": "prescription",
           "type": "temporary",
           "name": "Prescription",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use Bolero of Fire before accepting any timed object. Leave the crater through the summit exit to Biggoron; trade the broken sword for Prescription. Bring the prescription to thawed King Zora for Eyeball Frog.",
           "route": "r23",
           "sources": [
             "nl-biggoron",
@@ -3086,7 +3093,7 @@ window.GUIDE = {
           "id": "eyeball-frog",
           "type": "temporary",
           "name": "Eyeball Frog",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use Bolero of Fire before accepting any timed object. Leave the crater through the summit exit to Biggoron; trade the broken sword for Prescription. Bring the prescription to thawed King Zora for Eyeball Frog.",
           "route": "r23",
           "sources": [
             "nl-biggoron",
@@ -3098,7 +3105,7 @@ window.GUIDE = {
           "id": "eye-drops",
           "type": "temporary",
           "name": "Speciality Eye Drops",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "You have two and a half minutes for the frog. Immediately use the thawed Domain’s underwater tunnel to Lake Hylia, leave the water and enter the north laboratory. Give the frog to the scientist for Speciality Eye Drops.",
           "route": "r23",
           "sources": [
             "nl-biggoron",
@@ -3110,7 +3117,7 @@ window.GUIDE = {
           "id": "biggoron-receipt",
           "type": "temporary",
           "name": "Biggoron Sword Receipt",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Wait three days, or cycle Sun’s Song six times, then show the Receipt to Biggoron for the unbreakable sword. This route uses warp songs only before timed deliveries; no unverified teleport timer shortcut is needed.",
           "route": "r23",
           "sources": [
             "nl-biggoron",
@@ -3122,7 +3129,7 @@ window.GUIDE = {
           "id": "biggoron-sword",
           "type": "equipment",
           "name": "Biggoron Sword",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use Bolero of Fire before accepting any timed object. Leave the crater through the summit exit to Biggoron; trade the broken sword for Prescription. Bring the prescription to thawed King Zora for Eyeball Frog. Wait three days, or cycle Sun’s Song six times, then show the Receipt to Biggoron for the unbreakable sword. This route uses warp songs only before timed deliveries; no unverified teleport timer shortcut is needed.",
           "route": "r23",
           "sources": [
             "nl-biggoron",
@@ -3187,7 +3194,7 @@ window.GUIDE = {
           "id": "bottle-poes",
           "type": "bottle",
           "name": "Big Poe bottle: fifth bottle",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Second loop: jump the rock before Gerudo Valley; the fallen tree southeast of that rock between a cliff and boulder; the fallen branch in the wood south of the ranch; and the branch northeast of the Lake Hylia entrance between marsh and trees. Sell the four souls; the fifth total sale grants bottle five.",
           "route": "r24",
           "sources": [
             "qf-poes",
@@ -3200,7 +3207,7 @@ window.GUIDE = {
           "id": "big-poes-ten",
           "type": "quest",
           "name": "All ten Big Poes sold",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Leave wallet space before the last sale. Five Poes earn the bottle, but this route catches all ten for the full hunt and one-time reward.",
           "route": "r24",
           "sources": [
             "qf-poes",
@@ -3270,7 +3277,7 @@ window.GUIDE = {
           "id": "nocturne-shadow",
           "type": "song",
           "name": "Nocturne of Shadow",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
           "route": "r25",
           "sources": [
             "nl-shadow",
@@ -3283,7 +3290,7 @@ window.GUIDE = {
           "id": "hover-boots",
           "type": "equipment",
           "name": "Hover Boots",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest.",
           "route": "r25",
           "sources": [
             "nl-shadow",
@@ -3296,7 +3303,7 @@ window.GUIDE = {
           "id": "map-shadow",
           "type": "dungeon-map",
           "name": "Shadow Temple Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
           "route": "r25",
           "sources": [
             "nl-shadow",
@@ -3309,7 +3316,7 @@ window.GUIDE = {
           "id": "compass-shadow",
           "type": "compass",
           "name": "Shadow Temple Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key.",
           "route": "r25",
           "sources": [
             "nl-shadow",
@@ -3322,7 +3329,7 @@ window.GUIDE = {
           "id": "boss-key-shadow",
           "type": "key",
           "name": "Shadow Temple Boss Key",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.",
           "route": "r25",
           "sources": [
             "nl-shadow",
@@ -3335,7 +3342,7 @@ window.GUIDE = {
           "id": "hc-07",
           "type": "boss-container",
           "name": "Bongo Bongo Heart Container",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Unlock to the ferry. Move the block beneath the ladder to create the shortcut; use Scarecrow Song from the deck for the high token. Play Zelda’s Lullaby on the ferry Triforce, defeat both Stalfos and jump off at its destination. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.",
           "route": "r25",
           "sources": [
             "nl-shadow",
@@ -3348,7 +3355,7 @@ window.GUIDE = {
           "id": "shadow-medallion",
           "type": "story",
           "name": "Shadow Medallion",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
           "route": "r25",
           "sources": [
             "nl-shadow",
@@ -3361,7 +3368,7 @@ window.GUIDE = {
           "id": "chests-shadow",
           "type": "chest",
           "name": "Shadow Temple chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss.",
           "route": "r25",
           "sources": [
             "nl-shadow",
@@ -3434,7 +3441,7 @@ window.GUIDE = {
           "id": "adult-mainland-sweep",
           "type": "quest",
           "name": "Adult mainland circuit completed",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use the forest and lake warp songs to sweep the adult-only forest, river, Domain and lake entries attached to this section. The Domain is now thawed; its night token and Storms grotto are reachable without repeating Ice Cavern. Return to Dodongo Cavern for the Scarecrow/high-ledge token and the adult-access remainder listed in the tracker. The Bomb Bag and story reward are already complete; do not replay the boss. Visit the ruined castle exterior while an adult: Longshot the token on the ruined building wall now. This makes the full 100-token reward claim in r34 possible before the final-castle story sequence.",
           "route": "r26",
           "sources": [
             "rpg-route",
@@ -3494,7 +3501,7 @@ window.GUIDE = {
           "id": "gerudo-pass",
           "type": "story",
           "name": "Gerudo Pass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "After the fourth rescue accept Gerudo Pass, which ends patrol arrests and opens the desert gate. Collect the fortress rooftop chest and wall token entries using Longshot. At night go to the archery range’s far target wall for its token.",
           "route": "r27",
           "sources": [
             "nl-fortress",
@@ -3507,7 +3514,7 @@ window.GUIDE = {
           "id": "carpenters-four",
           "type": "quest",
           "name": "All four carpenters rescued",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "After the fourth rescue accept Gerudo Pass, which ends patrol arrests and opens the desert gate. Collect the fortress rooftop chest and wall token entries using Longshot. At night go to the archery range’s far target wall for its token.",
           "route": "r27",
           "sources": [
             "nl-fortress",
@@ -3570,7 +3577,7 @@ window.GUIDE = {
           "id": "requiem-spirit",
           "type": "song",
           "name": "Requiem of Spirit",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Approach Spirit Temple and meet Sheik for Requiem of Spirit. Enter the lobby and inspect its age-specific passages. You need a child for the left crawlspace: use Prelude of Light, replace Master Sword, then return by Requiem.",
           "route": "r28",
           "sources": [
             "nl-desert",
@@ -3585,7 +3592,7 @@ window.GUIDE = {
           "id": "nayru-love",
           "type": "item",
           "name": "Nayru’s Love",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Evil Desert Colossus bomb the north wall crack between the trees, play Zelda’s Lullaby and pay 300 rupees for Nayru’s Love. Use Song of Storms at the dry oasis to restore its fairy pool.",
           "route": "r28",
           "sources": [
             "nl-desert",
@@ -3600,7 +3607,7 @@ window.GUIDE = {
           "id": "colossus-oasis",
           "type": "activity",
           "name": "Colossus fairy oasis restored",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Evil Desert Colossus bomb the north wall crack between the trees, play Zelda’s Lullaby and pay 300 rupees for Nayru’s Love. Use Song of Storms at the dry oasis to restore its fairy pool.",
           "route": "r28",
           "sources": [
             "nl-desert",
@@ -3615,7 +3622,7 @@ window.GUIDE = {
           "id": "purple-leever",
           "type": "hall",
           "name": "Purple Leever defeated",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Before leaving, defeat enough green Leevers in this region to make the large purple Leever appear, and defeat it for the Hall statue. Do not count merely seeing it as a kill.",
           "route": "r28",
           "sources": [
             "nl-desert",
@@ -3684,7 +3691,7 @@ window.GUIDE = {
           "id": "silver-gauntlets",
           "type": "upgrade",
           "name": "Silver Gauntlets",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Unlock the upper stairs; take the high token before the Iron Knuckle door. Bait the axe swing, move away, then counter; pillars drop healing hearts when broken. Take Silver Gauntlets outside, watch Nabooru’s capture, and return to adulthood via Prelude of Light.",
           "route": "r29",
           "sources": [
             "nl-spirit",
@@ -3699,7 +3706,7 @@ window.GUIDE = {
           "id": "beans-remote",
           "type": "quest",
           "name": "Crater and Colossus beans planted",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Before the temple, warp with Bolero of Fire as a child, flush the crater soil token with a bug and plant a bean beside the warp pad. Warp out promptly; do not extend the heat damage by wandering. Warp to the Colossus, flush its entrance soil token and plant the last bean. Enter Spirit Temple, talk to Nabooru and crawl left. Clear Keese and Armos, then take northwest: stun Stalfos and Green Bubble, Boomerang the switch round the wall to make a bridge, and open its rupee chest.",
           "route": "r29",
           "sources": [
             "nl-spirit",
@@ -3775,7 +3782,7 @@ window.GUIDE = {
           "id": "mirror-shield",
           "type": "equipment",
           "name": "Mirror Shield",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.",
           "route": "r30",
           "sources": [
             "nl-spirit",
@@ -3790,7 +3797,7 @@ window.GUIDE = {
           "id": "map-spirit",
           "type": "dungeon-map",
           "name": "Spirit Temple Map",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
           "route": "r30",
           "sources": [
             "nl-spirit",
@@ -3805,7 +3812,7 @@ window.GUIDE = {
           "id": "compass-spirit",
           "type": "compass",
           "name": "Spirit Temple Compass",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
           "route": "r30",
           "sources": [
             "nl-spirit",
@@ -3820,7 +3827,7 @@ window.GUIDE = {
           "id": "boss-key-spirit",
           "type": "key",
           "name": "Spirit Temple Boss Key",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like. Reflect the Armos room’s sunlight onto its wall sun for the next key. Unlock the Anubis room’s other door. Hookshot high onto both sliding climb walls; clear their enemies. Play Lullaby at 4F’s Triforce. In Boss Key room clear slugs, strike the fake corner door, shoot its revealed eye, Hookshot the new platform and jump to the switch. Backtrack and climb the side wall to the mirror-chain room. Hit its switch, enter the mirror caverns, reflect light at the first sun for the Bomb chest, bomb the next cracked wall and turn the mirrors toward each other and the large ceiling mirror. Reflect that light at the wall sun to lower the platform, then at the statue forehead to reveal the boss route. Defeat Nabooru’s Iron Knuckle and proceed.",
           "route": "r30",
           "sources": [
             "nl-spirit",
@@ -3835,7 +3842,7 @@ window.GUIDE = {
           "id": "hc-08",
           "type": "boss-container",
           "name": "Twinrova Heart Container",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "After Twinrova, finish the other remote bean flight: warp with Bolero of Fire and ride the crater bean planted in r29 to its high Heart Piece, then continue to the fortress for Proving Grounds. This is the adult return intentionally postponed from r19. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.",
           "route": "r30",
           "sources": [
             "nl-spirit",
@@ -3850,7 +3857,7 @@ window.GUIDE = {
           "id": "spirit-medallion",
           "type": "story",
           "name": "Spirit Medallion",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
           "route": "r30",
           "sources": [
             "nl-spirit",
@@ -3865,7 +3872,7 @@ window.GUIDE = {
           "id": "chests-spirit",
           "type": "chest",
           "name": "Spirit Temple chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like. Unlock the middle way and climb. Lens the invisible Floormaster; rotate the mirror to all four suns for the two small chests, enemy and exit. In the statue hall play Lullaby on the hand for its opposite-hand key; light the base torches for Map and hammer the northeast switch to open the entrance shortcut. Use Scarecrow Song for the high northwest token. Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield. Backtrack and climb the side wall to the mirror-chain room. Hit its switch, enter the mirror caverns, reflect light at the first sun for the Bomb chest, bomb the next cracked wall and turn the mirrors toward each other and the large ceiling mirror. Reflect that light at the wall sun to lower the platform, then at the statue forehead to reveal the boss route. Defeat Nabooru’s Iron Knuckle and proceed.",
           "route": "r30",
           "sources": [
             "nl-spirit",
@@ -3946,7 +3953,7 @@ window.GUIDE = {
           "id": "ice-arrows",
           "type": "item",
           "name": "Ice Arrows",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "In the hammer-block room defeat enemies for arrows, hammer the wall blocks to find the floor switch and take key 5 from the flame chest. In lava Silver Crystals room collect all five with Hover Boots and Hookshot, hitting the switch for the flame-protected one. Use Song of Time to reach the side entrance to the maze: take key 6 and the accessible Bombchu/arrow chests without wasting keys on right-hand locks. Enter the central maze. Unlock left first; Lens the false ceiling, climb its fence and take key 9. Follow the left chain of locks for Ice Arrows and open its exit switch. With all nine keys, open the remaining maze locks and all rupee/ammunition chests before leaving.",
           "route": "r31",
           "sources": [
             "nl-proving",
@@ -3960,7 +3967,7 @@ window.GUIDE = {
           "id": "proving-nine-keys",
           "type": "quest",
           "name": "All nine Proving Grounds keys collected",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the central maze. Unlock left first; Lens the false ceiling, climb its fence and take key 9. Follow the left chain of locks for Ice Arrows and open its exit switch. With all nine keys, open the remaining maze locks and all rupee/ammunition chests before leaving.",
           "route": "r31",
           "sources": [
             "nl-proving",
@@ -3974,7 +3981,7 @@ window.GUIDE = {
           "id": "chests-proving",
           "type": "chest",
           "name": "Proving Grounds chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Pay the 30-rupee entry fee after Spirit Temple. Shoot the entrance eye above the stairs for the small rupee chest; take the left door and defeat Stalfos for key 1. Gather the boulder room’s five Silver Crystals: two low corners, two over the centre using the ceiling target from the high ledge, and one beside the exit. In Wolfos room defeat the wolves for a rupee chest, push the giant block and Lens its hidden eye to enter the Like Like room. Open all four Like Like-room chests: enemy-clear rupees, bombs behind the cracked wall, Seed from its eye switch and Lens-visible key 2 on the side ledge. Back in Wolfos room Lens the passage over the fake door and Hookshot up. In the hammer-block room defeat enemies for arrows, hammer the wall blocks to find the floor switch and take key 5 from the flame chest. In lava Silver Crystals room collect all five with Hover Boots and Hookshot, hitting the switch for the flame-protected one. Use Song of Time to reach the side entrance to the maze: take key 6 and the accessible Bombchu/arrow chests without wasting keys on right-hand locks. Enter the central maze. Unlock left first; Lens the false ceiling, climb its fence and take key 9. Follow the left chain of locks for Ice Arrows and open its exit switch. With all nine keys, open the remaining maze locks and all rupee/ammunition chests before leaving.",
           "route": "r31",
           "sources": [
             "nl-proving",
@@ -4036,7 +4043,7 @@ window.GUIDE = {
           "id": "quiver-archery",
           "type": "upgrade",
           "name": "Biggest Quiver: 50 arrows",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "After freeing the carpenters and gaining access, ride Epona to the horseback archery range. Aim for at least 1,500 points; claim the Heart Piece and repeat for the quiver if necessary. Verify the 50-arrow capacity in the reward dialogue. Exact remake prize thresholds are disputed; see the section warning.",
           "route": "r32",
           "sources": [
             "zc-upgrades",
@@ -4044,13 +4051,14 @@ window.GUIDE = {
             "nl-epona",
             "rpg-route"
           ],
-          "core": true
+          "core": true,
+          "sublocation": "Gerudo Fortress: horseback archery range"
         },
         {
           "id": "cow-link-house",
           "type": "quest",
           "name": "Lon Lon cow in Link’s house",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At Lon Lon Ranch speak to Malon after the ranch has been restored and accept her obstacle course on Epona. Take straight approaches to fences, spend carrots before jumps rather than at a sideways angle, and finish within the displayed time target. Her unique reward is a cow sent to Link’s house. Visit Link’s house to verify the cow and play Epona’s Song with an empty bottle for milk. Do not grind repeat races once the unique reward is recorded.",
           "route": "r32",
           "sources": [
             "zc-upgrades",
@@ -4064,7 +4072,7 @@ window.GUIDE = {
           "id": "archery-rewards",
           "type": "activity",
           "name": "Both unique horseback archery rewards",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "At the fortress archery range approach the attendant while mounted and pay for a run. First target the pots while riding outward: they give dependable points. At the turn fire at the large end target, then concentrate on target centres during the return. Make each shot deliberate; the arrow supply is limited. Win both the Heart Piece and 50-arrow quiver. Remake sources disagree on exact threshold wording, listing roughly 1,300/1,400 or the older 1,000/1,500. Aim for at least 1,500 and check the actual reward dialogue; repeat once if the game awards the Heart Piece before the quiver. At Lon Lon Ranch speak to Malon after the ranch has been restored and accept her obstacle course on Epona. Take straight approaches to fences, spend carrots before jumps rather than at a sideways angle, and finish within the displayed time target. Her unique reward is a cow sent to Link’s house. Visit Link’s house to verify the cow and play Epona’s Song with an empty bottle for milk. Do not grind repeat races once the unique reward is recorded.",
           "route": "r32",
           "sources": [
             "zc-upgrades",
@@ -4129,7 +4137,7 @@ window.GUIDE = {
           "id": "dungeon-audit",
           "type": "audit",
           "name": "Dungeon chest and Map/Compass audit",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Compare each completed dungeon’s Map/Compass against its still-marked chests, and revisit only an actual unchecked room. No dungeon boss needs to be replayed for an ordinary missed token.",
           "route": "r33",
           "sources": [
             "nl-forest",
@@ -4192,7 +4200,7 @@ window.GUIDE = {
           "id": "echo-gem",
           "type": "item",
           "name": "Echo Gem",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the House of Skulltula near Kakariko’s centre. Speak to each restored family member for every reached milestone: 10 tokens awards Adult Wallet, 20 the Echo Gem, 30 Giant’s Wallet, 40 Bombchus and 50 a Heart Piece. The Echo Gem is obtained even if you choose not to use vibration hints. Use the site’s actual checked token count when deciding which rewards should be available, not the expected route total.",
           "route": "r34",
           "sources": [
             "nl-skull-rewards",
@@ -4204,19 +4212,20 @@ window.GUIDE = {
           "id": "giant-wallet",
           "type": "upgrade",
           "name": "Giant’s Wallet: 1,000 rupees",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the House of Skulltula after collecting 30 different Gold Skulltula tokens. Speak to the restored family member for the Giant's Wallet, raising this remake route's capacity to 1,000 rupees. Claim immediately on any visit after reaching 30; do not wait for the final audit if needed sooner.",
           "route": "r34",
           "sources": [
             "nl-skull-rewards",
             "zc-checklist"
           ],
-          "core": true
+          "core": true,
+          "sublocation": "Kakariko Village: House of Skulltula"
         },
         {
           "id": "skulltula-bombchus",
           "type": "activity",
           "name": "40-token Bombchu reward",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the House of Skulltula near Kakariko’s centre. Speak to each restored family member for every reached milestone: 10 tokens awards Adult Wallet, 20 the Echo Gem, 30 Giant’s Wallet, 40 Bombchus and 50 a Heart Piece. After all 100 distinct tokens are collected, speak to the restored father for the final rupee reward. Leave 200 rupees of wallet space before taking a Gold Rupee; spending excess money before the reward avoids wasting it. The Echo Gem is obtained even if you choose not to use vibration hints. Use the site’s actual checked token count when deciding which rewards should be available, not the expected route total.",
           "route": "r34",
           "sources": [
             "nl-skull-rewards",
@@ -4228,7 +4237,7 @@ window.GUIDE = {
           "id": "skulltula-family",
           "type": "quest",
           "name": "100-token family restoration and final reward",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "After all 100 distinct tokens are collected, speak to the restored father for the final rupee reward. Leave 200 rupees of wallet space before taking a Gold Rupee; spending excess money before the reward avoids wasting it.",
           "route": "r34",
           "sources": [
             "nl-skull-rewards",
@@ -4286,7 +4295,7 @@ window.GUIDE = {
           "id": "pre-final-audit",
           "type": "audit",
           "name": "Pre-finale permanent completion audit",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Complete the attached grotto and Fairy Thought records as optional exploration. Business Scrub Seeds are consumables; their chests belong to the chest audit, but farming an endless stock is not a permanent upgrade.",
           "route": "r35",
           "sources": [
             "completion-checklist",
@@ -4339,7 +4348,7 @@ window.GUIDE = {
           "id": "light-arrows",
           "type": "item",
           "name": "Light Arrows",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Warp to the Temple of Time and watch Sheik reveal Zelda’s identity. Accept Light Arrows, then leave for Ganondorf’s Castle through the former market.",
           "route": "r36",
           "sources": [
             "nl-castle-final",
@@ -4351,7 +4360,7 @@ window.GUIDE = {
           "id": "rainbow-bridge",
           "type": "story",
           "name": "Sages’ bridge to Ganondorf’s Castle",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Warp to the Temple of Time and watch Sheik reveal Zelda’s identity. Accept Light Arrows, then leave for Ganondorf’s Castle through the former market. At night collect the exterior high-wall token listed here before entering. Approach the lava moat and let the Sages form the bridge. Cross, enter and pass the Beamos to the central six-barrier chamber.",
           "route": "r36",
           "sources": [
             "nl-castle-final",
@@ -4407,7 +4416,7 @@ window.GUIDE = {
           "id": "golden-gauntlets",
           "type": "upgrade",
           "name": "Golden Gauntlets",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Cross via the middle Like Like platform, defeat it from a safe distance and Hover to the giant-block platform. Drop to the lower-right switch to spawn the big chest; Longshot back to it and take Golden Gauntlets.",
           "route": "r37",
           "sources": [
             "nl-castle-final",
@@ -4420,7 +4429,7 @@ window.GUIDE = {
           "id": "barrier-shadow",
           "type": "story",
           "name": "Shadow Barrier dispelled",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the Shadow-marked trial from the central chamber. Light the distant right torch with a Fire Arrow, or an arrow through the nearby flame, to reveal platforms. Open the near-left arrows chest. Lift the huge block, press the switch behind it and use Lenses of Truth to cross the hidden platform route to the door. Hit the barrier core with a Light Arrow; the Sage returns you to the hub.",
           "route": "r37",
           "sources": [
             "nl-castle-final",
@@ -4433,7 +4442,7 @@ window.GUIDE = {
           "id": "castle-shadow-chests",
           "type": "chest",
           "name": "Shadow trial chests",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the Shadow-marked trial from the central chamber. Light the distant right torch with a Fire Arrow, or an arrow through the nearby flame, to reveal platforms. Open the near-left arrows chest.",
           "route": "r37",
           "sources": [
             "nl-castle-final",
@@ -4489,7 +4498,7 @@ window.GUIDE = {
           "id": "double-defence",
           "type": "upgrade",
           "name": "Doubled defence",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Enter the fountain, play Zelda’s Lullaby and pay 500 rupees for doubled defence. Check the white borders on the heart meter as evidence of the permanent enhancement. Return across the bridge to the castle hub. All six Great Fairy rewards should now be acquired: Din’s Fire/magic, enhanced spin, Farore’s Wind, double magic, Nayru’s Love and doubled defence.",
           "route": "r38",
           "sources": [
             "nl-fairies",
@@ -4553,7 +4562,7 @@ window.GUIDE = {
           "id": "barrier-spirit",
           "type": "story",
           "name": "Spirit Barrier dispelled",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Spirit trial: bomb Beamos and collect all five Silver Crystals, using the ceiling target for the airborne one and moving Armos to clear the spike paths. Clear the next slugs for the Seed chest. Run a Bombchu through the wall’s high gap to its switch. Burn the ceiling cover with a Fire Arrow and reflect the shaft onto the sun left of the entrance; other suns summon Wallmasters. Light Arrow the core.",
           "route": "r39",
           "sources": [
             "nl-castle-final",
@@ -4567,7 +4576,7 @@ window.GUIDE = {
           "id": "barrier-light",
           "type": "story",
           "name": "Light Barrier dispelled",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Spirit trial: bomb Beamos and collect all five Silver Crystals, using the ceiling target for the airborne one and moving Armos to clear the spike paths. Clear the next slugs for the Seed chest. Run a Bombchu through the wall’s high gap to its switch. Burn the ceiling cover with a Fire Arrow and reflect the shaft onto the sun left of the entrance; other suns summon Wallmasters. Light Arrow the core. Light trial: lift its entrance block. Lens and clear the invisible spider/Keese; open every small chest, including traps, and the enemy-clear rupee chest. In the next room play Lullaby for its rupee chest, then Lens the hidden left chest for the required key. Unlock, collect five boulder-room Silver Crystals with the central ceiling target and alcoves, Lens the false final passage and dispel the core. Forest trial: defeat Wolfos for the arrow chest; light the lower torch circle with Din’s Fire and the high door torch with Fire Arrow. In the fan room use Hover Boots and Time Blocks to gather the five Silver Crystals; the end-left switch reveals a post for the high rupee. Clear Beamos if it obstructs aiming, reach the door and dispel the final core.",
           "route": "r39",
           "sources": [
             "nl-castle-final",
@@ -4581,7 +4590,7 @@ window.GUIDE = {
           "id": "barrier-fire",
           "type": "story",
           "name": "Fire Barrier dispelled",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Spirit trial: bomb Beamos and collect all five Silver Crystals, using the ceiling target for the airborne one and moving Armos to clear the spike paths. Clear the next slugs for the Seed chest. Run a Bombchu through the wall’s high gap to its switch. Burn the ceiling cover with a Fire Arrow and reflect the shaft onto the sun left of the entrance; other suns summon Wallmasters. Light Arrow the core. Fire trial: equip Goron Tunic and Hover Boots. Collect the nearby sinking-platform rupee, flamethrower rupee, one beneath the giant block, the far Torch Slug platform rupee, then the rupee reached by the thrown block. Longshot the exit and dispel the core. Water trial: defeat Freezards, open both first-room chests including the trap, bottle Blue Fire and thaw the exit. In the timed block room push the far block against its rock and into the hole; slide the other over the filled hole toward the ledge. Climb, thaw the red ice, hammer the rusty switch and enter to dispel the core. Forest trial: defeat Wolfos for the arrow chest; light the lower torch circle with Din’s Fire and the high door torch with Fire Arrow. In the fan room use Hover Boots and Time Blocks to gather the five Silver Crystals; the end-left switch reveals a post for the high rupee. Clear Beamos if it obstructs aiming, reach the door and dispel the final core.",
           "route": "r39",
           "sources": [
             "nl-castle-final",
@@ -4595,7 +4604,7 @@ window.GUIDE = {
           "id": "barrier-water",
           "type": "story",
           "name": "Water Barrier dispelled",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Water trial: defeat Freezards, open both first-room chests including the trap, bottle Blue Fire and thaw the exit. In the timed block room push the far block against its rock and into the hole; slide the other over the filled hole toward the ledge. Climb, thaw the red ice, hammer the rusty switch and enter to dispel the core.",
           "route": "r39",
           "sources": [
             "nl-castle-final",
@@ -4609,7 +4618,7 @@ window.GUIDE = {
           "id": "barrier-forest",
           "type": "story",
           "name": "Forest Barrier dispelled",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Forest trial: defeat Wolfos for the arrow chest; light the lower torch circle with Din’s Fire and the high door torch with Fire Arrow. In the fan room use Hover Boots and Time Blocks to gather the five Silver Crystals; the end-left switch reveals a post for the high rupee. Clear Beamos if it obstructs aiming, reach the door and dispel the final core.",
           "route": "r39",
           "sources": [
             "nl-castle-final",
@@ -4623,7 +4632,7 @@ window.GUIDE = {
           "id": "chests-castle-trials",
           "type": "chest",
           "name": "Castle trial chest sweep",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Spirit trial: bomb Beamos and collect all five Silver Crystals, using the ceiling target for the airborne one and moving Armos to clear the spike paths. Clear the next slugs for the Seed chest. Run a Bombchu through the wall’s high gap to its switch. Burn the ceiling cover with a Fire Arrow and reflect the shaft onto the sun left of the entrance; other suns summon Wallmasters. Light Arrow the core. Light trial: lift its entrance block. Lens and clear the invisible spider/Keese; open every small chest, including traps, and the enemy-clear rupee chest. In the next room play Lullaby for its rupee chest, then Lens the hidden left chest for the required key. Unlock, collect five boulder-room Silver Crystals with the central ceiling target and alcoves, Lens the false final passage and dispel the core. Water trial: defeat Freezards, open both first-room chests including the trap, bottle Blue Fire and thaw the exit. In the timed block room push the far block against its rock and into the hole; slide the other over the filled hole toward the ledge. Climb, thaw the red ice, hammer the rusty switch and enter to dispel the core. Forest trial: defeat Wolfos for the arrow chest; light the lower torch circle with Din’s Fire and the high door torch with Fire Arrow. In the fan room use Hover Boots and Time Blocks to gather the five Silver Crystals; the end-left switch reveals a post for the high rupee. Clear Beamos if it obstructs aiming, reach the door and dispel the final core.",
           "route": "r39",
           "sources": [
             "nl-castle-final",
@@ -4695,7 +4704,7 @@ window.GUIDE = {
           "id": "boss-key-final",
           "type": "key",
           "name": "Ganondorf’s Castle Boss Key",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Climb the tower’s linear combat gauntlet: defeat the two Lizalfos, two Stalfos and two Iron Knuckles. Take the Boss Key chest, refill from jars and climb the last stairs. Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. The inspected remake walkthrough verifies the finale door sequence but does not establish every autosave/checkpoint or clear-file flag. Keep the manual pre-boss save; the guide does not recommend reset/save exploits or promise a postgame overwrite location.",
           "route": "r40",
           "sources": [
             "nl-castle-final",
@@ -4708,7 +4717,7 @@ window.GUIDE = {
           "id": "ganondorf-defeated",
           "type": "story",
           "name": "Ganondorf defeated",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range.",
           "route": "r40",
           "sources": [
             "nl-castle-final",
@@ -4721,7 +4730,7 @@ window.GUIDE = {
           "id": "ganon-defeated",
           "type": "story",
           "name": "Ganon defeated and ending watched",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.",
           "route": "r40",
           "sources": [
             "nl-castle-final",
@@ -4780,7 +4789,7 @@ window.GUIDE = {
           "id": "hall-statues",
           "type": "hall",
           "name": "84 Hall statues audited",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Use a glowing-green bed, such as Kakariko Grand Lodge, and choose to sleep and dream. Inspect the Hall displays, then speak to Kaepora Gaebora to return; resources spent in rematches are restored on leaving. Audit all 84 enemy/boss statues. Three easily missed kills: attack and defeat an adult-era Skull Kid in Lost Woods; defeat the large Green Bubble in Bottom of the Well; defeat enough green Leevers at the Colossus for the purple Leever and kill it. Merely meeting an enemy does not verify its defeated display. Clear the ten individual boss rematches and the twelve mini-boss challenges: Lizalfos, Big Octo, Wolfos, Stalfos, Meg, Flare Dancer, White Wolfos, Dark Link, Dead Hand, Dinolfos, Gerudo swordswoman and Iron Knuckle. Each rematch supplies its own gear/hearts and records a best time; practise weak-point timing without spending real supplies. ZELDA NOTES medals, connected-app gossip quests and hardware/amiibo extras are listed separately in Start Here and do not block a base-game run. Exact full 84-statue identification remains a research gap; ask Kaepora Gaebora for the missing-monster count, then inspect the Hall’s empty entries and displayed locations instead of treating the three rare enemies as a complete list.",
           "route": "r41",
           "sources": [
             "nl-hall",
@@ -4793,7 +4802,7 @@ window.GUIDE = {
           "id": "hall-rematches",
           "type": "hall",
           "name": "Every unlocked individual boss rematch cleared",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Clear the ten individual boss rematches and the twelve mini-boss challenges: Lizalfos, Big Octo, Wolfos, Stalfos, Meg, Flare Dancer, White Wolfos, Dark Link, Dead Hand, Dinolfos, Gerudo swordswoman and Iron Knuckle. Each rematch supplies its own gear/hearts and records a best time; practise weak-point timing without spending real supplies.",
           "route": "r41",
           "sources": [
             "nl-hall",
@@ -4806,7 +4815,7 @@ window.GUIDE = {
           "id": "hall-gauntlet-1",
           "type": "hall",
           "name": "Trial of the Spiritual Stones: stone owl trophy",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Clear the stone owl’s Trial of the Spiritual Stones (3 starting hearts: Gohma, King Dodongo, Barinade); silver owl’s Trial of the Five Sages (6 hearts: Phantom Ganon, Volvagia, Morpha, Bongo Bongo, Twinrova); then post-ending gold owl’s Trial of the Hero of Time (6 hearts: all eight then Ganondorf and Ganon). In each preparation room open the 200-rupee chest and buy healing or a Heart Container as needed; damage carries between fights and defeat restarts the run. Verify the three owl trophies at Link’s house.",
           "route": "r41",
           "sources": [
             "nl-hall",
@@ -4819,7 +4828,7 @@ window.GUIDE = {
           "id": "hall-gauntlet-2",
           "type": "hall",
           "name": "Trial of the Five Sages: silver owl trophy",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Clear the stone owl’s Trial of the Spiritual Stones (3 starting hearts: Gohma, King Dodongo, Barinade); silver owl’s Trial of the Five Sages (6 hearts: Phantom Ganon, Volvagia, Morpha, Bongo Bongo, Twinrova); then post-ending gold owl’s Trial of the Hero of Time (6 hearts: all eight then Ganondorf and Ganon). In each preparation room open the 200-rupee chest and buy healing or a Heart Container as needed; damage carries between fights and defeat restarts the run. Verify the three owl trophies at Link’s house.",
           "route": "r41",
           "sources": [
             "nl-hall",
@@ -4832,7 +4841,7 @@ window.GUIDE = {
           "id": "hall-gauntlet-3",
           "type": "hall",
           "name": "Trial of the Hero of Time: gold owl trophy",
-          "instructions": "Obtain during the directions above.",
+          "instructions": "Clear the stone owl’s Trial of the Spiritual Stones (3 starting hearts: Gohma, King Dodongo, Barinade); silver owl’s Trial of the Five Sages (6 hearts: Phantom Ganon, Volvagia, Morpha, Bongo Bongo, Twinrova); then post-ending gold owl’s Trial of the Hero of Time (6 hearts: all eight then Ganondorf and Ganon). In each preparation room open the 200-rupee chest and buy healing or a Heart Container as needed; damage carries between fights and defeat restarts the run. Verify the three owl trophies at Link’s house.",
           "route": "r41",
           "sources": [
             "nl-hall",
@@ -5241,7 +5250,7 @@ window.GUIDE = {
       "id": "kokiri-sword",
       "type": "equipment",
       "name": "Kokiri Sword",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Start at Link’s house. Go southwest to the training clearing and stone arch. Follow the dark passage, crawl beneath the slabs, climb the rope ladder and jump to the chest ledge for the Kokiri Sword. Return by the stone steps.",
       "route": "r01",
       "sources": [
         "nl-hub",
@@ -5258,7 +5267,7 @@ window.GUIDE = {
       "id": "deku-shield",
       "type": "equipment",
       "name": "Deku Shield",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Gather rupees from Mido’s house chests, grass and the village’s ledges. Buy a Deku Shield for 40 rupees at the northeast shop; equip both sword and shield, then show Mido to pass east to the Deku Tree.",
       "route": "r01",
       "sources": [
         "nl-hub",
@@ -5275,7 +5284,7 @@ window.GUIDE = {
       "id": "deku-sticks",
       "type": "item",
       "name": "Deku Sticks",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Cut the Deku Babas on the way for sticks and nuts. A straight stalk yields a stick; a defeated writhing plant yields nuts. Keep sticks for lighting webs in the dungeon.",
       "route": "r01",
       "sources": [
         "nl-hub",
@@ -5292,7 +5301,7 @@ window.GUIDE = {
       "id": "deku-nuts",
       "type": "item",
       "name": "Deku Nuts",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Cut the Deku Babas on the way for sticks and nuts. A straight stalk yields a stick; a defeated writhing plant yields nuts. Keep sticks for lighting webs in the dungeon.",
       "route": "r01",
       "sources": [
         "nl-hub",
@@ -5309,7 +5318,7 @@ window.GUIDE = {
       "id": "slingshot",
       "type": "item",
       "name": "Fairy Slingshot",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Climb the central ramp: open the Map chest beside the vine wall. Shield-reflect the Scrub’s seed in the upper door. Cross the collapsing platform and climb to the Slingshot chest; open the small side-vine chest. Shoot the switch above the exit to lower the escape platform. Target her eye. Fire the Slingshot when the eye changes colour, then strike repeatedly with the sword while she is stunned. Shoot the exposed eye again on the ceiling to interrupt egg laying. Collect the Heart Container before taking the blue warp.",
       "route": "r02",
       "sources": [
         "nl-deku",
@@ -5326,7 +5335,7 @@ window.GUIDE = {
       "id": "map-deku",
       "type": "dungeon-map",
       "name": "Great Deku Tree Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Climb the central ramp: open the Map chest beside the vine wall. Shield-reflect the Scrub’s seed in the upper door. Cross the collapsing platform and climb to the Slingshot chest; open the small side-vine chest. Shoot the switch above the exit to lower the escape platform. Shoot the spiders off the main vines; climb to 3F. In the west switch room raise the platforms, collect the alcove token, Compass and the small chest through the crawlspace. Relight the exit torch with a stick. Jump from 3F into the centre of the floor web. Collect both basement tokens. Press the torch switch and open the web-covered chest. Carry fire to the south doorway; reflect the Scrub and shoot the eye above the exit. Dive onto the underwater switch to lower the water beneath the rotating log; ride the platform through. Move the next block to the high door. Light both torches, defeat the falling larvae, and burn both webs: the side passage now leads straight to the fourth token, without a Boomerang revisit. Crawl back to the upper basement ledge, push the block down, fetch torch fire and burn the floor web. Reflect the three Scrubs middle, right, left. Enter Gohma’s door. Target her eye. Fire the Slingshot when the eye changes colour, then strike repeatedly with the sword while she is stunned. Shoot the exposed eye again on the ceiling to interrupt egg laying. Collect the Heart Container before taking the blue warp.",
       "route": "r02",
       "sources": [
         "nl-deku",
@@ -5343,7 +5352,7 @@ window.GUIDE = {
       "id": "compass-deku",
       "type": "compass",
       "name": "Great Deku Tree Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Shoot the spiders off the main vines; climb to 3F. In the west switch room raise the platforms, collect the alcove token, Compass and the small chest through the crawlspace. Relight the exit torch with a stick.",
       "route": "r02",
       "sources": [
         "nl-deku",
@@ -5360,7 +5369,7 @@ window.GUIDE = {
       "id": "hc-01",
       "type": "boss",
       "name": "Queen Gohma Heart Container",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Crawl back to the upper basement ledge, push the block down, fetch torch fire and burn the floor web. Reflect the three Scrubs middle, right, left. Enter Gohma’s door.",
       "route": "r02",
       "sources": [
         "nl-deku",
@@ -5371,13 +5380,16 @@ window.GUIDE = {
       "region": "Great Deku Tree",
       "age": "Child",
       "time": "Any",
-      "requires": []
+      "requires": [],
+      "routeNumber": 1,
+      "collectionTotal": 8,
+      "collectionNumber": 1
     },
     {
       "id": "kokiri-emerald",
       "type": "story",
       "name": "Kokiri Emerald",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Climb the central ramp: open the Map chest beside the vine wall. Shield-reflect the Scrub’s seed in the upper door. Cross the collapsing platform and climb to the Slingshot chest; open the small side-vine chest. Shoot the switch above the exit to lower the escape platform. Shoot the spiders off the main vines; climb to 3F. In the west switch room raise the platforms, collect the alcove token, Compass and the small chest through the crawlspace. Relight the exit torch with a stick. Jump from 3F into the centre of the floor web. Collect both basement tokens. Press the torch switch and open the web-covered chest. Carry fire to the south doorway; reflect the Scrub and shoot the eye above the exit. Dive onto the underwater switch to lower the water beneath the rotating log; ride the platform through. Move the next block to the high door. Light both torches, defeat the falling larvae, and burn both webs: the side passage now leads straight to the fourth token, without a Boomerang revisit. Crawl back to the upper basement ledge, push the block down, fetch torch fire and burn the floor web. Reflect the three Scrubs middle, right, left. Enter Gohma’s door. Target her eye. Fire the Slingshot when the eye changes colour, then strike repeatedly with the sword while she is stunned. Shoot the exposed eye again on the ceiling to interrupt egg laying. Collect the Heart Container before taking the blue warp.",
       "route": "r02",
       "sources": [
         "nl-deku",
@@ -5394,7 +5406,7 @@ window.GUIDE = {
       "id": "chests-deku",
       "type": "chest",
       "name": "Great Deku Tree chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Climb the central ramp: open the Map chest beside the vine wall. Shield-reflect the Scrub’s seed in the upper door. Cross the collapsing platform and climb to the Slingshot chest; open the small side-vine chest. Shoot the switch above the exit to lower the escape platform. Shoot the spiders off the main vines; climb to 3F. In the west switch room raise the platforms, collect the alcove token, Compass and the small chest through the crawlspace. Relight the exit torch with a stick. Jump from 3F into the centre of the floor web. Collect both basement tokens. Press the torch switch and open the web-covered chest. Carry fire to the south doorway; reflect the Scrub and shoot the eye above the exit.",
       "route": "r02",
       "sources": [
         "nl-deku",
@@ -5429,7 +5441,10 @@ window.GUIDE = {
       "section": "r02",
       "sources": [
         "c-vgc-deku"
-      ]
+      ],
+      "routeNumber": 1,
+      "collectionTotal": 100,
+      "collectionNumber": 4
     },
     {
       "id": "gs-005",
@@ -5452,7 +5467,10 @@ window.GUIDE = {
       "section": "r02",
       "sources": [
         "c-vgc-deku"
-      ]
+      ],
+      "routeNumber": 2,
+      "collectionTotal": 100,
+      "collectionNumber": 5
     },
     {
       "id": "gs-006",
@@ -5475,7 +5493,10 @@ window.GUIDE = {
       "section": "r02",
       "sources": [
         "c-vgc-deku"
-      ]
+      ],
+      "routeNumber": 3,
+      "collectionTotal": 100,
+      "collectionNumber": 6
     },
     {
       "id": "gs-007",
@@ -5499,13 +5520,16 @@ window.GUIDE = {
       "section": "r02",
       "sources": [
         "c-vgc-deku"
-      ]
+      ],
+      "routeNumber": 4,
+      "collectionTotal": 100,
+      "collectionNumber": 7
     },
     {
       "id": "fairy-ocarina",
       "type": "item",
       "name": "Fairy Ocarina",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Leave Kokiri Forest west; Saria gives you the Fairy Ocarina. Cross Hyrule Field north to Castle Town. Cross the drawbridge and take the first door on the right. Smash the guardhouse pots for about 20 to 30 rupees when the room is full. Roll into the moving crate for its token.",
       "route": "r03",
       "sources": [
         "nl-castle",
@@ -5522,7 +5546,7 @@ window.GUIDE = {
       "id": "bottle-potion",
       "type": "bottle",
       "name": "Potion Shop bottle",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In the east Potion Shop accept the borrowed bottle, catch the shop’s crawling bug, and show it to the merchant. You keep the bottle, with Red Potion: this is the remake’s additional bottle.",
       "route": "r03",
       "sources": [
         "nl-castle",
@@ -5533,13 +5557,16 @@ window.GUIDE = {
       "region": "Hyrule Castle",
       "age": "Child",
       "time": "Day, then night errands",
-      "requires": []
+      "requires": [],
+      "routeNumber": 1,
+      "collectionTotal": 5,
+      "collectionNumber": 1
     },
     {
       "id": "weird-egg",
       "type": "temporary",
       "name": "Weird Egg and Wake-up Cucco",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Talk to Malon in the market and then by the castle approach to receive the Weird Egg. Climb the vines behind her and bypass the gate along the upper path. Stay outside the guards’ view; cross the moat and use the hatched Cucco to wake Talon at the crates.",
       "route": "r03",
       "sources": [
         "nl-castle",
@@ -5558,7 +5585,7 @@ window.GUIDE = {
       "id": "zelda-letter",
       "type": "story",
       "name": "Zelda’s Letter",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Move the milk crates to reach the crawlspace. Cross the garden using hedges and moving guards as cover. Speak to Zelda, accept her Letter, then follow Impa to learn Zelda’s Lullaby.",
       "route": "r03",
       "sources": [
         "nl-castle",
@@ -5575,7 +5602,7 @@ window.GUIDE = {
       "id": "zelda-lullaby",
       "type": "song",
       "name": "Zelda’s Lullaby",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Move the milk crates to reach the crawlspace. Cross the garden using hedges and moving guards as cover. Speak to Zelda, accept her Letter, then follow Impa to learn Zelda’s Lullaby.",
       "route": "r03",
       "sources": [
         "nl-castle",
@@ -5608,7 +5635,10 @@ window.GUIDE = {
       "section": "r03",
       "sources": [
         "c-vgc-field"
-      ]
+      ],
+      "routeNumber": 5,
+      "collectionTotal": 100,
+      "collectionNumber": 8
     },
     {
       "id": "gs-011",
@@ -5629,7 +5659,10 @@ window.GUIDE = {
       "section": "r03",
       "sources": [
         "c-vgc-castle"
-      ]
+      ],
+      "routeNumber": 6,
+      "collectionTotal": 100,
+      "collectionNumber": 11
     },
     {
       "id": "gs-012",
@@ -5650,13 +5683,16 @@ window.GUIDE = {
       "section": "r03",
       "sources": [
         "c-vgc-castle"
-      ]
+      ],
+      "routeNumber": 7,
+      "collectionTotal": 100,
+      "collectionNumber": 12
     },
     {
       "id": "saria-song",
       "type": "song",
       "name": "Saria’s Song",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "From the forest entrance, follow right, left, right, left, straight, left, right to the Sacred Grove. Defeat the Wolfos, work through the hedge maze, and meet Saria at the far steps for Saria’s Song. Return to the Lost Woods entrance and take the first left. Play Saria’s Song for the lone Skull Kid’s Heart Piece. Continue left to the bridge overlook and defeat the Business Scrub by reflecting its seed; buy the stick-capacity upgrade for 40 rupees.",
       "route": "r04",
       "sources": [
         "nl-woods",
@@ -5673,13 +5709,14 @@ window.GUIDE = {
       "id": "seed-bag-1",
       "type": "upgrade",
       "name": "First Deku Seed Bag upgrade",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "From the Kokiri Forest entrance to Lost Woods, take the first right. Shoot the hanging target for the perfect score shown by the game; the documented route calls for three 100-point bullseyes. Talk to the rewarding Deku Scrub. This is the first seed-bag upgrade in this route. See the section warning about the disputed target layout.",
       "route": "r04",
       "sources": [
         "nl-woods",
         "zc-upgrades"
       ],
       "core": true,
+      "sublocation": "Lost Woods: hanging-target clearing",
       "section": "r04",
       "region": "Lost Woods",
       "age": "Child",
@@ -5690,13 +5727,14 @@ window.GUIDE = {
       "id": "stick-bag-1",
       "type": "upgrade",
       "name": "First Deku Stick capacity upgrade",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "From the Lost Woods entrance take left, then left again to the bridge overlook. Deflect the Business Scrub's shot with your shield, approach when it surrenders and pay 40 rupees for the stick-capacity upgrade.",
       "route": "r04",
       "sources": [
         "nl-woods",
         "zc-upgrades"
       ],
       "core": true,
+      "sublocation": "Lost Woods: bridge overlook",
       "section": "r04",
       "region": "Lost Woods",
       "age": "Child",
@@ -5745,7 +5783,10 @@ window.GUIDE = {
       "section": "r04",
       "sources": [
         "c-vgc-kokiri"
-      ]
+      ],
+      "routeNumber": 8,
+      "collectionTotal": 100,
+      "collectionNumber": 1
     },
     {
       "id": "hp-002",
@@ -5768,7 +5809,10 @@ window.GUIDE = {
       "section": "r04",
       "sources": [
         "c-keen-hp"
-      ]
+      ],
+      "routeNumber": 1,
+      "collectionTotal": 36,
+      "collectionNumber": 2
     },
     {
       "id": "gs-003",
@@ -5789,7 +5833,10 @@ window.GUIDE = {
       "section": "r04",
       "sources": [
         "c-vgc-kokiri"
-      ]
+      ],
+      "routeNumber": 9,
+      "collectionTotal": 100,
+      "collectionNumber": 3
     },
     {
       "id": "hp-003",
@@ -5812,7 +5859,10 @@ window.GUIDE = {
       "section": "r04",
       "sources": [
         "c-keen-hp"
-      ]
+      ],
+      "routeNumber": 2,
+      "collectionTotal": 36,
+      "collectionNumber": 3
     },
     {
       "id": "gs-033",
@@ -5835,7 +5885,10 @@ window.GUIDE = {
       "section": "r04",
       "sources": [
         "c-vgc-kokiri"
-      ]
+      ],
+      "routeNumber": 10,
+      "collectionTotal": 100,
+      "collectionNumber": 33
     },
     {
       "id": "gs-034",
@@ -5858,13 +5911,16 @@ window.GUIDE = {
       "section": "r04",
       "sources": [
         "c-vgc-kokiri"
-      ]
+      ],
+      "routeNumber": 11,
+      "collectionTotal": 100,
+      "collectionNumber": 34
     },
     {
       "id": "bottle-cuccos",
       "type": "bottle",
       "name": "Cucco Lady bottle",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use a Cucco to reach the high blue-roof house and speak to the man for the rooftop Heart Piece before returning the last bird. The Cucco lady awards the third bottle in this route.",
       "route": "r05",
       "sources": [
         "nl-cuccos",
@@ -5876,13 +5932,16 @@ window.GUIDE = {
       "region": "Kakariko Village",
       "age": "Child",
       "time": "Day for Cuccos; early night for digging",
-      "requires": []
+      "requires": [],
+      "routeNumber": 2,
+      "collectionTotal": 5,
+      "collectionNumber": 2
     },
     {
       "id": "hylian-shield",
       "type": "equipment",
       "name": "Hylian Shield",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At night pull the marked southeastern graves: take the Hylian Shield from its chest; in the far back-right grave take the relocated Heart Piece. During Dampe’s early-night digging shift, pay at soft-soil spots until he uncovers the Heart Piece; accept extra digging when he finds something hard. Pick up the reward immediately.",
       "route": "r05",
       "sources": [
         "nl-cuccos",
@@ -5900,7 +5959,7 @@ window.GUIDE = {
       "id": "sun-song",
       "type": "song",
       "name": "Sun’s Song",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At the back of the Graveyard play Zelda’s Lullaby on the Royal Tomb’s Triforce. Defeat the Keese, cross past the ReDeads and read the rear inscription for Sun’s Song. Use Sun’s Song for the village night tokens. Claim the 10-token wallet reward as soon as your checked token count qualifies. Talk to the family to register the House of Skulltula quest, the additional sidequest omitted from some six-quest lists.",
       "route": "r05",
       "sources": [
         "nl-cuccos",
@@ -5918,7 +5977,7 @@ window.GUIDE = {
       "id": "adult-wallet",
       "type": "upgrade",
       "name": "Adult Wallet: 500 rupees",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use Sun’s Song for the village night tokens. Claim the 10-token wallet reward as soon as your checked token count qualifies. Talk to the family to register the House of Skulltula quest, the additional sidequest omitted from some six-quest lists.",
       "route": "r05",
       "sources": [
         "nl-cuccos",
@@ -6057,7 +6116,10 @@ window.GUIDE = {
       "section": "r05",
       "sources": [
         "c-keen-hp"
-      ]
+      ],
+      "routeNumber": 3,
+      "collectionTotal": 36,
+      "collectionNumber": 6
     },
     {
       "id": "hp-008",
@@ -6078,7 +6140,10 @@ window.GUIDE = {
       "section": "r05",
       "sources": [
         "c-quest-hp"
-      ]
+      ],
+      "routeNumber": 4,
+      "collectionTotal": 36,
+      "collectionNumber": 8
     },
     {
       "id": "hp-009",
@@ -6102,7 +6167,10 @@ window.GUIDE = {
       "section": "r05",
       "sources": [
         "c-quest-hp"
-      ]
+      ],
+      "routeNumber": 5,
+      "collectionTotal": 36,
+      "collectionNumber": 9
     },
     {
       "id": "gs-014",
@@ -6123,7 +6191,10 @@ window.GUIDE = {
       "section": "r05",
       "sources": [
         "c-vgc-kakariko"
-      ]
+      ],
+      "routeNumber": 12,
+      "collectionTotal": 100,
+      "collectionNumber": 14
     },
     {
       "id": "gs-015",
@@ -6144,7 +6215,10 @@ window.GUIDE = {
       "section": "r05",
       "sources": [
         "c-vgc-kakariko"
-      ]
+      ],
+      "routeNumber": 13,
+      "collectionTotal": 100,
+      "collectionNumber": 15
     },
     {
       "id": "gs-016",
@@ -6165,7 +6239,10 @@ window.GUIDE = {
       "section": "r05",
       "sources": [
         "c-vgc-kakariko"
-      ]
+      ],
+      "routeNumber": 14,
+      "collectionTotal": 100,
+      "collectionNumber": 16
     },
     {
       "id": "gs-017",
@@ -6188,7 +6265,10 @@ window.GUIDE = {
       "section": "r05",
       "sources": [
         "c-vgc-kakariko"
-      ]
+      ],
+      "routeNumber": 15,
+      "collectionTotal": 100,
+      "collectionNumber": 17
     },
     {
       "id": "gs-018",
@@ -6209,7 +6289,10 @@ window.GUIDE = {
       "section": "r05",
       "sources": [
         "c-vgc-kakariko"
-      ]
+      ],
+      "routeNumber": 16,
+      "collectionTotal": 100,
+      "collectionNumber": 18
     },
     {
       "id": "gs-020",
@@ -6232,13 +6315,16 @@ window.GUIDE = {
       "section": "r05",
       "sources": [
         "c-vgc-kakariko"
-      ]
+      ],
+      "routeNumber": 17,
+      "collectionTotal": 100,
+      "collectionNumber": 20
     },
     {
       "id": "goron-bracelet",
       "type": "upgrade",
       "name": "Goron’s Bracelet",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Climb Death Mountain Trail to Goron City. Descend to the lowest floor, play Zelda’s Lullaby at Darunia’s sealed door, then Saria’s Song in front of him to earn the Goron’s Bracelet.",
       "route": "r06",
       "sources": [
         "nl-dodongo",
@@ -6255,7 +6341,7 @@ window.GUIDE = {
       "id": "goron-woods-shortcut",
       "type": "story",
       "name": "Goron City–Lost Woods shortcut",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Open the Lost Woods shortcut by detonating the Bomb Flowers at its stone blockage. Leave through the upper city exit. Outside, pick up the Bomb Flower by the fence and throw it onto the boulder below to open Dodongo Cavern.",
       "route": "r06",
       "sources": [
         "nl-dodongo",
@@ -6272,7 +6358,7 @@ window.GUIDE = {
       "id": "bomb-bag",
       "type": "item",
       "name": "Bomb Bag: 20 bombs",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Cross to the Bomb Bag chest. Use the bridge switch to create the main-room shortcut. Bomb the side wall here for the optional chest before dropping bombs into both giant skull eye sockets to open its mouth.",
       "route": "r07",
       "sources": [
         "nl-dodongo",
@@ -6289,7 +6375,7 @@ window.GUIDE = {
       "id": "map-dodongo",
       "type": "dungeon-map",
       "name": "Dodongo Cavern Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bomb the entrance and western map alcove; open the other main-room rupee chest. Take the southeast passage, use a Baby Dodongo’s explosion on the side wall for the token, weight the switch with an Armos, and defeat both Lizalfos for the new rupee chest. Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase.",
       "route": "r07",
       "sources": [
         "nl-dodongo",
@@ -6306,7 +6392,7 @@ window.GUIDE = {
       "id": "compass-dodongo",
       "type": "compass",
       "name": "Dodongo Cavern Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase.",
       "route": "r07",
       "sources": [
         "nl-dodongo",
@@ -6323,7 +6409,7 @@ window.GUIDE = {
       "id": "hc-02",
       "type": "boss",
       "name": "King Dodongo Heart Container",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bomb the entrance and western map alcove; open the other main-room rupee chest. Take the southeast passage, use a Baby Dodongo’s explosion on the side wall for the token, weight the switch with an Armos, and defeat both Lizalfos for the new rupee chest. Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase.",
       "route": "r07",
       "sources": [
         "nl-dodongo",
@@ -6334,13 +6420,16 @@ window.GUIDE = {
       "region": "Dodongo Cavern",
       "age": "Child",
       "time": "Any",
-      "requires": []
+      "requires": [],
+      "routeNumber": 2,
+      "collectionTotal": 8,
+      "collectionNumber": 2
     },
     {
       "id": "goron-ruby",
       "type": "story",
       "name": "Goron’s Ruby",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bomb the entrance and western map alcove; open the other main-room rupee chest. Take the southeast passage, use a Baby Dodongo’s explosion on the side wall for the token, weight the switch with an Armos, and defeat both Lizalfos for the new rupee chest. Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase. Climb upstairs, move the inert statue from the ladder and press the switch. Cross the bridge. In the blade-trap room move the block to climb, throw a Bomb Flower onto the cracked upper door, and continue through the eye-switch flame platforms and next Lizalfos encounter. Cross to the Bomb Bag chest. Use the bridge switch to create the main-room shortcut. Bomb the side wall here for the optional chest before dropping bombs into both giant skull eye sockets to open its mouth. Inside the mouth, follow the side corridor round; push the block through the loop and drop it onto the central switch. Open the small chest before bombing the boss-floor crack. Leave the higher Scarecrow-dependent token to r26. When he inhales, throw a bomb into his mouth and strike his lowered head. When he rolls, stand close to the inner lava edge without entering it, let him pass and repeat. Collect the Heart Container and warp.",
       "route": "r07",
       "sources": [
         "nl-dodongo",
@@ -6357,7 +6446,7 @@ window.GUIDE = {
       "id": "chests-dodongo",
       "type": "chest",
       "name": "Dodongo Cavern accessible chests",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bomb the entrance and western map alcove; open the other main-room rupee chest. Take the southeast passage, use a Baby Dodongo’s explosion on the side wall for the token, weight the switch with an Armos, and defeat both Lizalfos for the new rupee chest. Light the three torches in the Dodongo corridor and press the switch back in the main room. Enter northwest. Bomb the side chamber and defeat the Armos for the Compass. Place a Bomb Flower in the gap in the long flower row to drop the staircase.",
       "route": "r07",
       "sources": [
         "nl-dodongo",
@@ -6392,7 +6481,10 @@ window.GUIDE = {
       "section": "r07",
       "sources": [
         "c-vgc-dodongo"
-      ]
+      ],
+      "routeNumber": 18,
+      "collectionTotal": 100,
+      "collectionNumber": 40
     },
     {
       "id": "gs-041",
@@ -6415,7 +6507,10 @@ window.GUIDE = {
       "section": "r07",
       "sources": [
         "c-vgc-dodongo"
-      ]
+      ],
+      "routeNumber": 19,
+      "collectionTotal": 100,
+      "collectionNumber": 41
     },
     {
       "id": "gs-042",
@@ -6436,7 +6531,10 @@ window.GUIDE = {
       "section": "r07",
       "sources": [
         "c-vgc-dodongo"
-      ]
+      ],
+      "routeNumber": 20,
+      "collectionTotal": 100,
+      "collectionNumber": 42
     },
     {
       "id": "gs-043",
@@ -6459,13 +6557,16 @@ window.GUIDE = {
       "section": "r07",
       "sources": [
         "c-vgc-dodongo"
-      ]
+      ],
+      "routeNumber": 21,
+      "collectionTotal": 100,
+      "collectionNumber": 43
     },
     {
       "id": "magic-meter",
       "type": "upgrade",
       "name": "Magic meter",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bomb the summit fountain entrance. Play Zelda’s Lullaby on its Triforce and pay the remake’s 25-rupee offering: receive the magic meter and Din’s Fire.",
       "route": "r08",
       "sources": [
         "nl-fairies",
@@ -6483,7 +6584,7 @@ window.GUIDE = {
       "id": "dins-fire",
       "type": "item",
       "name": "Din’s Fire",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bomb the summit fountain entrance. Play Zelda’s Lullaby on its Triforce and pay the remake’s 25-rupee offering: receive the magic meter and Din’s Fire.",
       "route": "r08",
       "sources": [
         "nl-fairies",
@@ -6558,7 +6659,10 @@ window.GUIDE = {
       "section": "r08",
       "sources": [
         "c-keen-hp"
-      ]
+      ],
+      "routeNumber": 6,
+      "collectionTotal": 36,
+      "collectionNumber": 4
     },
     {
       "id": "hp-025",
@@ -6582,7 +6686,10 @@ window.GUIDE = {
       "section": "r08",
       "sources": [
         "c-nl-hp"
-      ]
+      ],
+      "routeNumber": 7,
+      "collectionTotal": 36,
+      "collectionNumber": 25
     },
     {
       "id": "hp-028",
@@ -6606,7 +6713,10 @@ window.GUIDE = {
       "section": "r08",
       "sources": [
         "c-link-hp"
-      ]
+      ],
+      "routeNumber": 8,
+      "collectionTotal": 36,
+      "collectionNumber": 28
     },
     {
       "id": "gs-036",
@@ -6629,7 +6739,10 @@ window.GUIDE = {
       "section": "r08",
       "sources": [
         "c-vgc-mountain"
-      ]
+      ],
+      "routeNumber": 22,
+      "collectionTotal": 100,
+      "collectionNumber": 36
     },
     {
       "id": "gs-037",
@@ -6652,7 +6765,10 @@ window.GUIDE = {
       "section": "r08",
       "sources": [
         "c-vgc-mountain"
-      ]
+      ],
+      "routeNumber": 23,
+      "collectionTotal": 100,
+      "collectionNumber": 37
     },
     {
       "id": "gs-045",
@@ -6675,7 +6791,10 @@ window.GUIDE = {
       "section": "r08",
       "sources": [
         "c-vgc-mountain"
-      ]
+      ],
+      "routeNumber": 24,
+      "collectionTotal": 100,
+      "collectionNumber": 45
     },
     {
       "id": "gs-047",
@@ -6696,13 +6815,16 @@ window.GUIDE = {
       "section": "r08",
       "sources": [
         "c-vgc-crater"
-      ]
+      ],
+      "routeNumber": 25,
+      "collectionTotal": 100,
+      "collectionNumber": 47
     },
     {
       "id": "bottle-talon",
       "type": "bottle",
       "name": "Talon’s milk bottle",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Lon Lon Ranch talk to Malon in the paddock; show the ocarina, copy her tune and play with her again for Epona’s Song and the Malon’s Friend thread. In the house, win Talon’s three-Super-Cucco search for a milk bottle. Super Cuccos hold their heads higher; track the three he throws rather than grabbing random birds.",
       "route": "r09",
       "sources": [
         "nl-epona",
@@ -6714,13 +6836,16 @@ window.GUIDE = {
       "region": "Lon Lon Ranch",
       "age": "Child",
       "time": "Day; night for ranch tokens",
-      "requires": []
+      "requires": [],
+      "routeNumber": 3,
+      "collectionTotal": 5,
+      "collectionNumber": 3
     },
     {
       "id": "epona-song",
       "type": "song",
       "name": "Epona’s Song",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Lon Lon Ranch talk to Malon in the paddock; show the ocarina, copy her tune and play with her again for Epona’s Song and the Malon’s Friend thread. In the house, win Talon’s three-Super-Cucco search for a milk bottle. Super Cuccos hold their heads higher; track the three he throws rather than grabbing random birds.",
       "route": "r09",
       "sources": [
         "nl-epona",
@@ -6738,7 +6863,7 @@ window.GUIDE = {
       "id": "seed-bag-2",
       "type": "upgrade",
       "name": "Second Deku Seed Bag upgrade: 50",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Castle Town win a perfect round of the basic Shooting Gallery for the next seed-bag upgrade. Keep the reticle at the target’s spawning height and move horizontally; do not chase missed targets.",
       "route": "r09",
       "sources": [
         "nl-epona",
@@ -6756,7 +6881,7 @@ window.GUIDE = {
       "id": "bomb-bag-bowling",
       "type": "upgrade",
       "name": "Bombchu Bowling Bomb Bag upgrade",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Castle Town’s red-door Bombchu Bowling Alley pay 10 rupees per round. Clear all three lane targets using your ten Bombchus; steer toward the glowing target and wait for obstructing Cuccos to move before releasing. The remake’s unique prizes follow successive wins: Bombchus, Bomb Bag, then Heart Piece. Budget at least 30 rupees plus retries. Do not use the old random prize-cycle instructions.",
       "route": "r09",
       "sources": [
         "nl-epona",
@@ -6774,7 +6899,7 @@ window.GUIDE = {
       "id": "bombchus",
       "type": "item",
       "name": "Bombchus",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Castle Town’s red-door Bombchu Bowling Alley pay 10 rupees per round. Clear all three lane targets using your ten Bombchus; steer toward the glowing target and wait for obstructing Cuccos to move before releasing. The remake’s unique prizes follow successive wins: Bombchus, Bomb Bag, then Heart Piece. Budget at least 30 rupees plus retries. Do not use the old random prize-cycle instructions.",
       "route": "r09",
       "sources": [
         "nl-epona",
@@ -6792,7 +6917,7 @@ window.GUIDE = {
       "id": "mask-keaton",
       "type": "mask",
       "name": "Keaton Mask traded",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use the market visit to borrow Keaton Mask, sell it to the Kakariko north gate guard, then repay and borrow Skull Mask. Keep Skull Mask for the Forest Stage before selling it in r12.",
       "route": "r09",
       "sources": [
         "nl-epona",
@@ -6859,7 +6984,10 @@ window.GUIDE = {
       "section": "r09",
       "sources": [
         "c-keen-hp"
-      ]
+      ],
+      "routeNumber": 9,
+      "collectionTotal": 36,
+      "collectionNumber": 1
     },
     {
       "id": "gs-024",
@@ -6880,7 +7008,10 @@ window.GUIDE = {
       "section": "r09",
       "sources": [
         "c-vgc-ranch"
-      ]
+      ],
+      "routeNumber": 26,
+      "collectionTotal": 100,
+      "collectionNumber": 24
     },
     {
       "id": "hp-029",
@@ -6901,7 +7032,10 @@ window.GUIDE = {
       "section": "r09",
       "sources": [
         "c-nl-hp"
-      ]
+      ],
+      "routeNumber": 10,
+      "collectionTotal": 36,
+      "collectionNumber": 29
     },
     {
       "id": "hp-031",
@@ -6925,13 +7059,16 @@ window.GUIDE = {
       "section": "r09",
       "sources": [
         "c-nl-hp"
-      ]
+      ],
+      "routeNumber": 11,
+      "collectionTotal": 36,
+      "collectionNumber": 31
     },
     {
       "id": "silver-scale",
       "type": "upgrade",
       "name": "Silver Scale",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At the waterfall stand on the Triforce platform and play Zelda’s Lullaby. In the Domain climb to King Zora and pay the diving-game Zora. Jump from the waterfall and gather all marked rupees underwater for the Silver Scale.",
       "route": "r10",
       "sources": [
         "nl-zora",
@@ -6949,7 +7086,7 @@ window.GUIDE = {
       "id": "bottle-ruto",
       "type": "bottle",
       "name": "Ruto’s Letter bottle",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Dive into the underwater tunnel opposite the Domain waterfall to Lake Hylia. With the scale, collect the submerged bottle containing Ruto’s Letter. Plant a bean outside the Lakeside Laboratory and visit the scarecrows: compose a memorable eight-note tune with Bonooru and record it exactly for the adult return.",
       "route": "r10",
       "sources": [
         "nl-zora",
@@ -6961,13 +7098,16 @@ window.GUIDE = {
       "region": "Zora’s Domain",
       "age": "Child",
       "time": "Day; night for outdoor tokens",
-      "requires": []
+      "requires": [],
+      "routeNumber": 4,
+      "collectionTotal": 5,
+      "collectionNumber": 4
     },
     {
       "id": "scarecrow-child",
       "type": "quest",
       "name": "Scarecrow tune composed",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Dive into the underwater tunnel opposite the Domain waterfall to Lake Hylia. With the scale, collect the submerged bottle containing Ruto’s Letter. Plant a bean outside the Lakeside Laboratory and visit the scarecrows: compose a memorable eight-note tune with Bonooru and record it exactly for the adult return.",
       "route": "r10",
       "sources": [
         "nl-zora",
@@ -6985,7 +7125,7 @@ window.GUIDE = {
       "id": "magic-beans",
       "type": "item",
       "name": "Magic Beans",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bomb the river entrance rocks. Buy Magic Beans from the seated seller; prices rise with each purchase, so buy the beans needed for the current soil stops and the coming cleanup instead of emptying the wallet indiscriminately. Use a Cucco to reach the river’s elevated Heart Pieces.",
       "route": "r10",
       "sources": [
         "nl-zora",
@@ -7112,7 +7252,10 @@ window.GUIDE = {
       "section": "r10",
       "sources": [
         "c-link-hp"
-      ]
+      ],
+      "routeNumber": 12,
+      "collectionTotal": 36,
+      "collectionNumber": 12
     },
     {
       "id": "hp-013",
@@ -7135,7 +7278,10 @@ window.GUIDE = {
       "section": "r10",
       "sources": [
         "c-rpg-hp"
-      ]
+      ],
+      "routeNumber": 13,
+      "collectionTotal": 36,
+      "collectionNumber": 13
     },
     {
       "id": "hp-016",
@@ -7158,7 +7304,10 @@ window.GUIDE = {
       "section": "r10",
       "sources": [
         "c-rpg-hp"
-      ]
+      ],
+      "routeNumber": 14,
+      "collectionTotal": 36,
+      "collectionNumber": 16
     },
     {
       "id": "hp-021",
@@ -7182,7 +7331,10 @@ window.GUIDE = {
       "section": "r10",
       "sources": [
         "c-nl-fishing"
-      ]
+      ],
+      "routeNumber": 15,
+      "collectionTotal": 36,
+      "collectionNumber": 21
     },
     {
       "id": "gs-029",
@@ -7205,7 +7357,10 @@ window.GUIDE = {
       "section": "r10",
       "sources": [
         "c-vgc-lake"
-      ]
+      ],
+      "routeNumber": 27,
+      "collectionTotal": 100,
+      "collectionNumber": 29
     },
     {
       "id": "gs-030",
@@ -7226,7 +7381,10 @@ window.GUIDE = {
       "section": "r10",
       "sources": [
         "c-vgc-lake"
-      ]
+      ],
+      "routeNumber": 28,
+      "collectionTotal": 100,
+      "collectionNumber": 30
     },
     {
       "id": "gs-049",
@@ -7249,7 +7407,10 @@ window.GUIDE = {
       "section": "r10",
       "sources": [
         "c-vgc-zora"
-      ]
+      ],
+      "routeNumber": 29,
+      "collectionTotal": 100,
+      "collectionNumber": 49
     },
     {
       "id": "gs-054",
@@ -7270,13 +7431,16 @@ window.GUIDE = {
       "section": "r10",
       "sources": [
         "c-vgc-zora"
-      ]
+      ],
+      "routeNumber": 30,
+      "collectionTotal": 100,
+      "collectionNumber": 54
     },
     {
       "id": "boomerang",
       "type": "item",
       "name": "Boomerang",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Carry Ruto through the hole room to the five-way corridor. Take the left switch branch, defeat the flying Stingers with the Slingshot and obtain the Boomerang. Back outside, leave Ruto on the east weight switch and defeat the red tentacle. Clear the northwest blue tentacle, northeast bubble room for Compass, then central green tentacle. Boomerang the wobbling platforms, carry a block to the weight switch, then climb the last vines for the final token and throw the Boomerang around the obstacle into the ceiling switch. Proceed to Barinade. Keep moving while targeting and severing its ceiling attachments with the Boomerang. Destroy the surrounding jellyfish during their unpowered openings. Stun the exposed base with the Boomerang, then close in for sword damage; retreat before it electrifies again. Pick up the Heart Container before the warp.",
       "route": "r11",
       "sources": [
         "nl-jabu",
@@ -7293,7 +7457,7 @@ window.GUIDE = {
       "id": "map-jabu",
       "type": "dungeon-map",
       "name": "Lord Jabu-Jabu’s Belly Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Shoot the ceiling tonsil; follow Ruto through the floor hole. Speak until she permits carrying. Carry her south, throw her onto the far ledge of the water recess, press its switch, then collect the Map in the side alcove and vine token. Continue south and ride the moving lift back up. Carry Ruto through the hole room to the five-way corridor. Take the left switch branch, defeat the flying Stingers with the Slingshot and obtain the Boomerang. Back outside, leave Ruto on the east weight switch and defeat the red tentacle. Clear the northwest blue tentacle, northeast bubble room for Compass, then central green tentacle. Drop through the newly clear northwest floor hole; collect both ledge/passage tokens. Throw Ruto onto the stone platform. Stun Bigocto, circle behind and stun its rear again before sword attacks; repeat until the lift rises. Boomerang the wobbling platforms, carry a block to the weight switch, then climb the last vines for the final token and throw the Boomerang around the obstacle into the ceiling switch. Proceed to Barinade. Keep moving while targeting and severing its ceiling attachments with the Boomerang. Destroy the surrounding jellyfish during their unpowered openings. Stun the exposed base with the Boomerang, then close in for sword damage; retreat before it electrifies again. Pick up the Heart Container before the warp.",
       "route": "r11",
       "sources": [
         "nl-jabu",
@@ -7310,7 +7474,7 @@ window.GUIDE = {
       "id": "compass-jabu",
       "type": "compass",
       "name": "Lord Jabu-Jabu’s Belly Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Carry Ruto through the hole room to the five-way corridor. Take the left switch branch, defeat the flying Stingers with the Slingshot and obtain the Boomerang. Back outside, leave Ruto on the east weight switch and defeat the red tentacle. Clear the northwest blue tentacle, northeast bubble room for Compass, then central green tentacle.",
       "route": "r11",
       "sources": [
         "nl-jabu",
@@ -7327,7 +7491,7 @@ window.GUIDE = {
       "id": "hc-03",
       "type": "boss",
       "name": "Barinade Heart Container",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Boomerang the wobbling platforms, carry a block to the weight switch, then climb the last vines for the final token and throw the Boomerang around the obstacle into the ceiling switch. Proceed to Barinade.",
       "route": "r11",
       "sources": [
         "nl-jabu",
@@ -7338,13 +7502,16 @@ window.GUIDE = {
       "region": "Lord Jabu-Jabu’s Belly",
       "age": "Child",
       "time": "Any",
-      "requires": []
+      "requires": [],
+      "routeNumber": 3,
+      "collectionTotal": 8,
+      "collectionNumber": 3
     },
     {
       "id": "zora-sapphire",
       "type": "story",
       "name": "Zora’s Sapphire",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Shoot the ceiling tonsil; follow Ruto through the floor hole. Speak until she permits carrying. Carry her south, throw her onto the far ledge of the water recess, press its switch, then collect the Map in the side alcove and vine token. Continue south and ride the moving lift back up. Carry Ruto through the hole room to the five-way corridor. Take the left switch branch, defeat the flying Stingers with the Slingshot and obtain the Boomerang. Back outside, leave Ruto on the east weight switch and defeat the red tentacle. Clear the northwest blue tentacle, northeast bubble room for Compass, then central green tentacle. Drop through the newly clear northwest floor hole; collect both ledge/passage tokens. Throw Ruto onto the stone platform. Stun Bigocto, circle behind and stun its rear again before sword attacks; repeat until the lift rises. Boomerang the wobbling platforms, carry a block to the weight switch, then climb the last vines for the final token and throw the Boomerang around the obstacle into the ceiling switch. Proceed to Barinade. Keep moving while targeting and severing its ceiling attachments with the Boomerang. Destroy the surrounding jellyfish during their unpowered openings. Stun the exposed base with the Boomerang, then close in for sword damage; retreat before it electrifies again. Pick up the Heart Container before the warp.",
       "route": "r11",
       "sources": [
         "nl-jabu",
@@ -7378,7 +7545,10 @@ window.GUIDE = {
       "section": "r11",
       "sources": [
         "c-vgc-jabu"
-      ]
+      ],
+      "routeNumber": 31,
+      "collectionTotal": 100,
+      "collectionNumber": 57
     },
     {
       "id": "gs-058",
@@ -7401,7 +7571,10 @@ window.GUIDE = {
       "section": "r11",
       "sources": [
         "c-vgc-jabu"
-      ]
+      ],
+      "routeNumber": 32,
+      "collectionTotal": 100,
+      "collectionNumber": 58
     },
     {
       "id": "gs-059",
@@ -7424,7 +7597,10 @@ window.GUIDE = {
       "section": "r11",
       "sources": [
         "c-vgc-jabu"
-      ]
+      ],
+      "routeNumber": 33,
+      "collectionTotal": 100,
+      "collectionNumber": 59
     },
     {
       "id": "gs-060",
@@ -7447,13 +7623,16 @@ window.GUIDE = {
       "section": "r11",
       "sources": [
         "c-vgc-jabu"
-      ]
+      ],
+      "routeNumber": 34,
+      "collectionTotal": 100,
+      "collectionNumber": 60
     },
     {
       "id": "farore-wind",
       "type": "item",
       "name": "Farore’s Wind",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Zora Fountain bomb the rear rock wall; play Zelda’s Lullaby and pay 100 rupees for Farore’s Wind. Collect the high night token with the Boomerang before leaving.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7473,7 +7652,7 @@ window.GUIDE = {
       "id": "stick-bag-2",
       "type": "upgrade",
       "name": "Forest Stage stick capacity upgrade: 30",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "As a child, enter Lost Woods from Kokiri Forest and take right, left, right, left, left. Drop into the butterfly-marked Forest Stage hole. Wear the Skull Mask before selling it to Skull Kid; approach the leader to claim the stick upgrade to 30. If already sold, borrow the mask again.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7483,6 +7662,7 @@ window.GUIDE = {
         "zsr-remake"
       ],
       "core": true,
+      "sublocation": "Lost Woods: Forest Stage",
       "section": "r12",
       "region": "Hyrule",
       "age": "Child",
@@ -7493,7 +7673,7 @@ window.GUIDE = {
       "id": "nut-bag-1",
       "type": "upgrade",
       "name": "Business Scrub nut capacity upgrade",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bring bombs as a child. Bomb the boulder just outside the Sacred Grove entrance and enter the revealed grotto. Deflect the upgrade-selling Business Scrub's shot and buy its nut-capacity upgrade. Claim this before the Mask of Truth reward in this route.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7503,6 +7683,7 @@ window.GUIDE = {
         "zsr-remake"
       ],
       "core": true,
+      "sublocation": "Lost Woods: grotto outside Sacred Grove",
       "section": "r12",
       "region": "Hyrule",
       "age": "Child",
@@ -7513,7 +7694,7 @@ window.GUIDE = {
       "id": "nut-bag-2",
       "type": "upgrade",
       "name": "Forest Stage nut capacity upgrade: 40",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Finish the Happy Mask sales and repay the shop to borrow Mask of Truth. From the Lost Woods entrance take right, left, right, left, left and enter the butterfly-marked hole. Wear Mask of Truth for the audience, then speak to the leader for the nut upgrade to 40. Complete this before the adult trading sequence.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7523,6 +7704,7 @@ window.GUIDE = {
         "zsr-remake"
       ],
       "core": true,
+      "sublocation": "Lost Woods: Forest Stage",
       "section": "r12",
       "region": "Hyrule",
       "age": "Child",
@@ -7533,7 +7715,7 @@ window.GUIDE = {
       "id": "bomb-bag-goron",
       "type": "upgrade",
       "name": "Rolling Goron Bomb Bag upgrade: 40 final",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Return as a child with bombs. Find the large rolling Goron and time a bomb to stop him inside his tunnel; speak to him for the Bomb Bag upgrade. After the Bowling upgrade, this finishes the route's 40-bomb capacity.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7543,6 +7725,7 @@ window.GUIDE = {
         "zsr-remake"
       ],
       "core": true,
+      "sublocation": "Goron City: rolling Goron tunnel",
       "section": "r12",
       "region": "Hyrule",
       "age": "Child",
@@ -7553,7 +7736,7 @@ window.GUIDE = {
       "id": "mask-skull",
       "type": "mask",
       "name": "Skull Mask traded",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7573,7 +7756,7 @@ window.GUIDE = {
       "id": "mask-spooky",
       "type": "mask",
       "name": "Spooky Mask traded",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7593,7 +7776,7 @@ window.GUIDE = {
       "id": "mask-bunny",
       "type": "mask",
       "name": "Bunny Hood traded",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood. After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7613,7 +7796,7 @@ window.GUIDE = {
       "id": "mask-truth",
       "type": "mask",
       "name": "Mask of Truth",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7633,7 +7816,7 @@ window.GUIDE = {
       "id": "mask-goron",
       "type": "mask",
       "name": "Goron Mask available",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood. After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward. Bomb the boulder just outside the Sacred Grove for the other nut upgrade. In Goron City stop the large rolling Goron with a bomb in his tunnel for the other Bomb Bag upgrade. In Castle grounds visit the bombable fountain and pay 50 rupees for the magical spin enhancement, and complete the child fishing reward described in the attached collectible.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7653,7 +7836,7 @@ window.GUIDE = {
       "id": "mask-zora",
       "type": "mask",
       "name": "Zora Mask available",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Zora Fountain bomb the rear rock wall; play Zelda’s Lullaby and pay 100 rupees for Farore’s Wind. Collect the high night token with the Boomerang before leaving. From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood. After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7673,7 +7856,7 @@ window.GUIDE = {
       "id": "mask-gerudo",
       "type": "mask",
       "name": "Gerudo Mask available",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "From the Lost Woods entrance go right, left, right, left, left; enter the butterfly-marked Forest Stage hole. Wear Skull Mask for the stick upgrade. Return to the entrance’s first-left Skull Kid, sell the mask, repay the shop and borrow Spooky Mask. Sell that to the Graveyard child by day, repay and borrow Bunny Hood. After all three Stones the Running Man is in Hyrule Field. Meet him when he stops to rest and sell Bunny Hood for the remake’s 200-rupee reward. Repay the mask shop to unlock Mask of Truth and the three cosmetic race masks. Borrow Mask of Truth, show it at the Forest Stage and speak to the leader for the nut-capacity reward.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -7693,7 +7876,7 @@ window.GUIDE = {
       "id": "magic-spin",
       "type": "upgrade",
       "name": "Enhanced magical spin attack",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bomb the boulder just outside the Sacred Grove for the other nut upgrade. In Goron City stop the large rolling Goron with a bomb in his tunnel for the other Bomb Bag upgrade. In Castle grounds visit the bombable fountain and pay 50 rupees for the magical spin enhancement, and complete the child fishing reward described in the attached collectible.",
       "route": "r12",
       "sources": [
         "nl-masks",
@@ -8029,7 +8212,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-field"
-      ]
+      ],
+      "routeNumber": 35,
+      "collectionTotal": 100,
+      "collectionNumber": 10
     },
     {
       "id": "hp-019",
@@ -8052,7 +8238,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-hp"
-      ]
+      ],
+      "routeNumber": 16,
+      "collectionTotal": 36,
+      "collectionNumber": 19
     },
     {
       "id": "hp-020",
@@ -8075,7 +8264,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-hp"
-      ]
+      ],
+      "routeNumber": 17,
+      "collectionTotal": 36,
+      "collectionNumber": 20
     },
     {
       "id": "gs-021",
@@ -8098,7 +8290,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-kakariko"
-      ]
+      ],
+      "routeNumber": 36,
+      "collectionTotal": 100,
+      "collectionNumber": 21
     },
     {
       "id": "gs-022",
@@ -8121,7 +8316,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-ranch"
-      ]
+      ],
+      "routeNumber": 37,
+      "collectionTotal": 100,
+      "collectionNumber": 22
     },
     {
       "id": "gs-023",
@@ -8145,7 +8343,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-ranch"
-      ]
+      ],
+      "routeNumber": 38,
+      "collectionTotal": 100,
+      "collectionNumber": 23
     },
     {
       "id": "gs-025",
@@ -8169,7 +8370,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-gerudo"
-      ]
+      ],
+      "routeNumber": 39,
+      "collectionTotal": 100,
+      "collectionNumber": 25
     },
     {
       "id": "gs-026",
@@ -8192,7 +8396,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-gerudo"
-      ]
+      ],
+      "routeNumber": 40,
+      "collectionTotal": 100,
+      "collectionNumber": 26
     },
     {
       "id": "gs-031",
@@ -8215,7 +8422,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-lake"
-      ]
+      ],
+      "routeNumber": 41,
+      "collectionTotal": 100,
+      "collectionNumber": 31
     },
     {
       "id": "gs-050",
@@ -8238,7 +8448,10 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-zora"
-      ]
+      ],
+      "routeNumber": 42,
+      "collectionTotal": 100,
+      "collectionNumber": 50
     },
     {
       "id": "gs-055",
@@ -8261,13 +8474,16 @@ window.GUIDE = {
       "section": "r12",
       "sources": [
         "c-vgc-zora"
-      ]
+      ],
+      "routeNumber": 43,
+      "collectionTotal": 100,
+      "collectionNumber": 55
     },
     {
       "id": "ocarina-time",
       "type": "item",
       "name": "Ocarina of Time",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Approach the Castle Town drawbridge for Zelda’s escape scene. Dive in the moat for the Ocarina of Time and learn Song of Time during the scene.",
       "route": "r13",
       "sources": [
         "nl-hub",
@@ -8284,7 +8500,7 @@ window.GUIDE = {
       "id": "song-time",
       "type": "song",
       "name": "Song of Time",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Approach the Castle Town drawbridge for Zelda’s escape scene. Dive in the moat for the Ocarina of Time and learn Song of Time during the scene. Finish any pending child purchases before the pedestal; this is a convenience checkpoint, not a claim those rewards become permanently unavailable. Enter the Temple of Time north of the market, play Song of Time before the altar, then pull the Master Sword.",
       "route": "r13",
       "sources": [
         "nl-hub",
@@ -8301,7 +8517,7 @@ window.GUIDE = {
       "id": "master-sword",
       "type": "equipment",
       "name": "Master Sword",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Finish any pending child purchases before the pedestal; this is a convenience checkpoint, not a claim those rewards become permanently unavailable. Enter the Temple of Time north of the market, play Song of Time before the altar, then pull the Master Sword.",
       "route": "r13",
       "sources": [
         "nl-hub",
@@ -8318,7 +8534,7 @@ window.GUIDE = {
       "id": "light-medallion",
       "type": "story",
       "name": "Light Medallion",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Watch Rauru’s explanation and obtain the Light Medallion. Leave for the ranch and Kakariko. You cannot freely return to childhood until Forest Temple is complete, so that temple takes priority over broad adult cleanup.",
       "route": "r13",
       "sources": [
         "nl-hub",
@@ -8335,7 +8551,7 @@ window.GUIDE = {
       "id": "epona",
       "type": "quest",
       "name": "Epona obtained",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Lon Lon Ranch pay Ingo’s riding fee, play Epona’s Song and mount Epona. Speak to Ingo while riding to start his wager. Win twice by taking the inside line and using carrots one at a time, keeping one available for overtaking; when locked in, jump the fence with a straight run-up. Epona is now yours.",
       "route": "r14",
       "sources": [
         "nl-epona",
@@ -8354,7 +8570,7 @@ window.GUIDE = {
       "id": "pocket-cucco",
       "type": "temporary",
       "name": "Pocket Egg and Pocket Cucco",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Kakariko accept the Pocket Egg, wait for dawn or use Sun’s Song, then use the Pocket Cucco on Talon in the central house. Return the happy bird for Cojiro; keep Cojiro until the planned full trade chain in r23.",
       "route": "r14",
       "sources": [
         "nl-epona",
@@ -8375,7 +8591,7 @@ window.GUIDE = {
       "id": "cojiro",
       "type": "temporary",
       "name": "Cojiro",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Kakariko accept the Pocket Egg, wait for dawn or use Sun’s Song, then use the Pocket Cucco on Talon in the central house. Return the happy bird for Cojiro; keep Cojiro until the planned full trade chain in r23.",
       "route": "r14",
       "sources": [
         "nl-epona",
@@ -8396,7 +8612,7 @@ window.GUIDE = {
       "id": "hookshot",
       "type": "item",
       "name": "Hookshot",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In the Graveyard pull the tomb marked with a shovel/flowers and follow Dampe’s ghost through his race. Avoid his flames, cut tight corners and open the Hookshot chest. Play Song of Time at the blue blocks on the way out to emerge in the Windmill. Take the Windmill Heart Piece from the rotating platform and show Guru-Guru the ocarina to learn Song of Storms. Re-enter Dampe’s race for the timed Heart Piece attempt while the layout is fresh; the final straight can be shortened with the Hookshot target. Visit Lake Hylia to replay your exact child composition to Bonooru: Scarecrow Song becomes usable for adult Hookshot points. Return to the woods for Forest Temple.",
       "route": "r14",
       "sources": [
         "nl-epona",
@@ -8415,7 +8631,7 @@ window.GUIDE = {
       "id": "song-storms",
       "type": "song",
       "name": "Song of Storms",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Take the Windmill Heart Piece from the rotating platform and show Guru-Guru the ocarina to learn Song of Storms. Re-enter Dampe’s race for the timed Heart Piece attempt while the layout is fresh; the final straight can be shortened with the Hookshot target.",
       "route": "r14",
       "sources": [
         "nl-epona",
@@ -8434,7 +8650,7 @@ window.GUIDE = {
       "id": "scarecrow-song",
       "type": "song",
       "name": "Scarecrow Song activated",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Visit Lake Hylia to replay your exact child composition to Bonooru: Scarecrow Song becomes usable for adult Hookshot points. Return to the woods for Forest Temple.",
       "route": "r14",
       "sources": [
         "nl-epona",
@@ -8556,7 +8772,10 @@ window.GUIDE = {
       "section": "r14",
       "sources": [
         "c-keen-hp"
-      ]
+      ],
+      "routeNumber": 18,
+      "collectionTotal": 36,
+      "collectionNumber": 5
     },
     {
       "id": "hp-010",
@@ -8579,7 +8798,10 @@ window.GUIDE = {
       "section": "r14",
       "sources": [
         "c-quest-hp"
-      ]
+      ],
+      "routeNumber": 19,
+      "collectionTotal": 36,
+      "collectionNumber": 10
     },
     {
       "id": "hp-011",
@@ -8603,7 +8825,10 @@ window.GUIDE = {
       "section": "r14",
       "sources": [
         "c-quest-hp"
-      ]
+      ],
+      "routeNumber": 20,
+      "collectionTotal": 36,
+      "collectionNumber": 11
     },
     {
       "id": "gs-019",
@@ -8626,13 +8851,16 @@ window.GUIDE = {
       "section": "r14",
       "sources": [
         "c-nl-gs"
-      ]
+      ],
+      "routeNumber": 44,
+      "collectionTotal": 100,
+      "collectionNumber": 19
     },
     {
       "id": "minuet-forest",
       "type": "song",
       "name": "Minuet of Forest",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance.",
       "route": "r15",
       "sources": [
         "nl-forest",
@@ -8650,7 +8878,7 @@ window.GUIDE = {
       "id": "fairy-bow",
       "type": "item",
       "name": "Fairy Bow",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Climb the entrance tree for a Small Key; spend it on the front door. Get the north Stalfos key, drain the courtyard well via its switch for another key, and Hookshot to the courtyard Map chest. Return to the lobby with two keys. Unlock west. Push the lower block along the floor arrows; use its former-position ladder to push the upper block, then circle back and finish pushing it from the front. Activate the lift shortcut and unlock the upper twisted corridor. Descend the portrait stairs and defeat the Stalfos for the Bow. Shoot the red Poe portraits, then defeat it for a key. Straighten the corridor by shooting its eye; collect Boss Key, drop through the floor and clear the courtyard Floormaster for another key. Open the block-room eye-switch rupee chest on the return. Retwist, pass the Bow room’s locked door, defeat the blue Poe for Compass. Unlock the east corridor and fire through the torch into the frozen eye. Drop into the checkerboard room, push the courtyard shortcut block and use Scarecrow Song for its token. Use lit safe squares beneath the falling ceiling; open the Bomb chest and press the exit switch. Reassemble Amy’s portrait using the four moving picture blocks, then defeat her. Shoot the purple Poe in the corridor; in the lobby attack the distinct spinning/odd-lantern copy. Ride the central lift. Take the basement token side room, rotate clockwise for the arrow chest and torch switch, then align torch and frozen eye; shoot through the flame to expose the boss passage. Stand near the edge and watch several paintings. Shoot the rider that actually emerges; fakes turn away at the picture surface. In phase two volley his energy ball with timed sword swings, then attack him while grounded. Sidestep his glowing charge. Collect the Heart Container and warp.",
       "route": "r15",
       "sources": [
         "nl-forest",
@@ -8668,7 +8896,7 @@ window.GUIDE = {
       "id": "map-forest",
       "type": "dungeon-map",
       "name": "Forest Temple Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance.",
       "route": "r15",
       "sources": [
         "nl-forest",
@@ -8686,7 +8914,7 @@ window.GUIDE = {
       "id": "compass-forest",
       "type": "compass",
       "name": "Forest Temple Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Retwist, pass the Bow room’s locked door, defeat the blue Poe for Compass. Unlock the east corridor and fire through the torch into the frozen eye. Drop into the checkerboard room, push the courtyard shortcut block and use Scarecrow Song for its token.",
       "route": "r15",
       "sources": [
         "nl-forest",
@@ -8704,7 +8932,7 @@ window.GUIDE = {
       "id": "boss-key-forest",
       "type": "key",
       "name": "Forest Temple Boss Key",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Descend the portrait stairs and defeat the Stalfos for the Bow. Shoot the red Poe portraits, then defeat it for a key. Straighten the corridor by shooting its eye; collect Boss Key, drop through the floor and clear the courtyard Floormaster for another key. Open the block-room eye-switch rupee chest on the return. Ride the central lift. Take the basement token side room, rotate clockwise for the arrow chest and torch switch, then align torch and frozen eye; shoot through the flame to expose the boss passage.",
       "route": "r15",
       "sources": [
         "nl-forest",
@@ -8722,7 +8950,7 @@ window.GUIDE = {
       "id": "hc-04",
       "type": "boss",
       "name": "Phantom Ganon Heart Container",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Climb the entrance tree for a Small Key; spend it on the front door. Get the north Stalfos key, drain the courtyard well via its switch for another key, and Hookshot to the courtyard Map chest. Return to the lobby with two keys. Unlock west. Push the lower block along the floor arrows; use its former-position ladder to push the upper block, then circle back and finish pushing it from the front. Activate the lift shortcut and unlock the upper twisted corridor. Descend the portrait stairs and defeat the Stalfos for the Bow. Shoot the red Poe portraits, then defeat it for a key. Straighten the corridor by shooting its eye; collect Boss Key, drop through the floor and clear the courtyard Floormaster for another key. Open the block-room eye-switch rupee chest on the return. Retwist, pass the Bow room’s locked door, defeat the blue Poe for Compass. Unlock the east corridor and fire through the torch into the frozen eye. Drop into the checkerboard room, push the courtyard shortcut block and use Scarecrow Song for its token. Use lit safe squares beneath the falling ceiling; open the Bomb chest and press the exit switch. Reassemble Amy’s portrait using the four moving picture blocks, then defeat her. Shoot the purple Poe in the corridor; in the lobby attack the distinct spinning/odd-lantern copy. Ride the central lift. Take the basement token side room, rotate clockwise for the arrow chest and torch switch, then align torch and frozen eye; shoot through the flame to expose the boss passage. Stand near the edge and watch several paintings. Shoot the rider that actually emerges; fakes turn away at the picture surface. In phase two volley his energy ball with timed sword swings, then attack him while grounded. Sidestep his glowing charge. Collect the Heart Container and warp.",
       "route": "r15",
       "sources": [
         "nl-forest",
@@ -8734,13 +8962,16 @@ window.GUIDE = {
       "region": "Forest Temple",
       "age": "Adult",
       "time": "Any",
-      "requires": []
+      "requires": [],
+      "routeNumber": 4,
+      "collectionTotal": 8,
+      "collectionNumber": 4
     },
     {
       "id": "forest-medallion",
       "type": "story",
       "name": "Forest Medallion",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance.",
       "route": "r15",
       "sources": [
         "nl-forest",
@@ -8758,7 +8989,7 @@ window.GUIDE = {
       "id": "chests-forest",
       "type": "chest",
       "name": "Forest Temple chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance. Climb the entrance tree for a Small Key; spend it on the front door. Get the north Stalfos key, drain the courtyard well via its switch for another key, and Hookshot to the courtyard Map chest. Return to the lobby with two keys. Descend the portrait stairs and defeat the Stalfos for the Bow. Shoot the red Poe portraits, then defeat it for a key. Straighten the corridor by shooting its eye; collect Boss Key, drop through the floor and clear the courtyard Floormaster for another key. Open the block-room eye-switch rupee chest on the return. Use lit safe squares beneath the falling ceiling; open the Bomb chest and press the exit switch. Reassemble Amy’s portrait using the four moving picture blocks, then defeat her. Shoot the purple Poe in the corridor; in the lobby attack the distinct spinning/odd-lantern copy. Ride the central lift. Take the basement token side room, rotate clockwise for the arrow chest and torch switch, then align torch and frozen eye; shoot through the flame to expose the boss passage.",
       "route": "r15",
       "sources": [
         "nl-forest",
@@ -8858,7 +9089,10 @@ window.GUIDE = {
       "section": "r15",
       "sources": [
         "c-vgc-kokiri"
-      ]
+      ],
+      "routeNumber": 45,
+      "collectionTotal": 100,
+      "collectionNumber": 2
     },
     {
       "id": "gs-035",
@@ -8881,7 +9115,10 @@ window.GUIDE = {
       "section": "r15",
       "sources": [
         "c-vgc-kokiri"
-      ]
+      ],
+      "routeNumber": 46,
+      "collectionTotal": 100,
+      "collectionNumber": 35
     },
     {
       "id": "gs-062",
@@ -8904,7 +9141,10 @@ window.GUIDE = {
       "section": "r15",
       "sources": [
         "c-vgc-kokiri"
-      ]
+      ],
+      "routeNumber": 47,
+      "collectionTotal": 100,
+      "collectionNumber": 62
     },
     {
       "id": "gs-063",
@@ -8927,7 +9167,10 @@ window.GUIDE = {
       "section": "r15",
       "sources": [
         "c-vgc-forest"
-      ]
+      ],
+      "routeNumber": 48,
+      "collectionTotal": 100,
+      "collectionNumber": 63
     },
     {
       "id": "gs-064",
@@ -8950,7 +9193,10 @@ window.GUIDE = {
       "section": "r15",
       "sources": [
         "c-vgc-forest"
-      ]
+      ],
+      "routeNumber": 49,
+      "collectionTotal": 100,
+      "collectionNumber": 64
     },
     {
       "id": "gs-065",
@@ -8973,7 +9219,10 @@ window.GUIDE = {
       "section": "r15",
       "sources": [
         "c-vgc-forest"
-      ]
+      ],
+      "routeNumber": 50,
+      "collectionTotal": 100,
+      "collectionNumber": 65
     },
     {
       "id": "gs-066",
@@ -8997,7 +9246,10 @@ window.GUIDE = {
       "section": "r15",
       "sources": [
         "c-vgc-forest"
-      ]
+      ],
+      "routeNumber": 51,
+      "collectionTotal": 100,
+      "collectionNumber": 66
     },
     {
       "id": "gs-067",
@@ -9020,13 +9272,16 @@ window.GUIDE = {
       "section": "r15",
       "sources": [
         "c-vgc-forest"
-      ]
+      ],
+      "routeNumber": 52,
+      "collectionTotal": 100,
+      "collectionNumber": 67
     },
     {
       "id": "prelude-light",
       "type": "song",
       "name": "Prelude of Light",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Return to the Temple of Time; learn Prelude of Light from Sheik, then replace the sword to become a child. Approach Kakariko from Hyrule Field to hear Kaepora Gaebora explain the Hall of Fallen Foes. A glowing-green bed, including the Grand Lodge bed, now lets you sleep and dream there.",
       "route": "r16",
       "sources": [
         "nl-well",
@@ -9045,7 +9300,7 @@ window.GUIDE = {
       "id": "lenses-truth",
       "type": "item",
       "name": "Lenses of Truth",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Destroy a grasping hand or escape its grip, let Dead Hand lower its head, and strike. Take Lenses of Truth. Use them on the south wall to find the ladder and Purple Rupee chest; jump the revealed pit in the prior corridor for the Seed chest.",
       "route": "r16",
       "sources": [
         "nl-well",
@@ -9064,7 +9319,7 @@ window.GUIDE = {
       "id": "map-well",
       "type": "dungeon-map",
       "name": "Bottom of the Well Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In the Windmill play Song of Storms to drain the well. Drop in, defeat the spider and walk through the false wall. Circle to the north fountain, play Zelda’s Lullaby to drain the inner pools, then crawl through the drained passage and enter the Dead Hand trap.",
       "route": "r16",
       "sources": [
         "nl-well",
@@ -9083,7 +9338,7 @@ window.GUIDE = {
       "id": "compass-well",
       "type": "compass",
       "name": "Bottom of the Well Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In the Windmill play Song of Storms to drain the well. Drop in, defeat the spider and walk through the false wall. Circle to the north fountain, play Zelda’s Lullaby to drain the inner pools, then crawl through the drained passage and enter the Dead Hand trap. In the main loop take Compass behind the west inner false wall. Drop to the basement; bomb the torch-marked passage boulders for Map. Collect five Silver Crystals, including the one by that passage, to climb out.",
       "route": "r16",
       "sources": [
         "nl-well",
@@ -9102,7 +9357,7 @@ window.GUIDE = {
       "id": "hall-unlocked",
       "type": "quest",
       "name": "Hall of Fallen Foes unlocked",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Return to the Temple of Time; learn Prelude of Light from Sheik, then replace the sword to become a child. Approach Kakariko from Hyrule Field to hear Kaepora Gaebora explain the Hall of Fallen Foes. A glowing-green bed, including the Grand Lodge bed, now lets you sleep and dream there.",
       "route": "r16",
       "sources": [
         "nl-well",
@@ -9121,7 +9376,7 @@ window.GUIDE = {
       "id": "well-complete",
       "type": "quest",
       "name": "Broken Windmill, Dry Well completed",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In the Windmill play Song of Storms to drain the well. Drop in, defeat the spider and walk through the false wall. Circle to the north fountain, play Zelda’s Lullaby to drain the inner pools, then crawl through the drained passage and enter the Dead Hand trap.",
       "route": "r16",
       "sources": [
         "nl-well",
@@ -9140,7 +9395,7 @@ window.GUIDE = {
       "id": "chests-well",
       "type": "chest",
       "name": "Bottom of the Well chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In the Windmill play Song of Storms to drain the well. Drop in, defeat the spider and walk through the false wall. Circle to the north fountain, play Zelda’s Lullaby to drain the inner pools, then crawl through the drained passage and enter the Dead Hand trap. Destroy a grasping hand or escape its grip, let Dead Hand lower its head, and strike. Take Lenses of Truth. Use them on the south wall to find the ladder and Purple Rupee chest; jump the revealed pit in the prior corridor for the Seed chest. Get the southeast false-wall key and burn the far coffin’s web in the western coffin room for another. Spend them on the two north-facing inner cells for their tokens. Take the northeast outer door, Lens past pits, open the Deku Shield chest, defeat the Like Like and take the third token. Open the remaining B1 chests: east moat; southwest false wall; southwest inner cell guarded by a spider; the northwest corridor dead end behind a Lens-revealed wall and hidden pit (Blue Rupee). Defeat the large Green Bubble for its Hall statue before leaving.",
       "route": "r16",
       "sources": [
         "nl-well",
@@ -9197,7 +9452,10 @@ window.GUIDE = {
       "section": "r16",
       "sources": [
         "c-vgc-well"
-      ]
+      ],
+      "routeNumber": 53,
+      "collectionTotal": 100,
+      "collectionNumber": 82
     },
     {
       "id": "gs-083",
@@ -9222,7 +9480,10 @@ window.GUIDE = {
       "section": "r16",
       "sources": [
         "c-vgc-well"
-      ]
+      ],
+      "routeNumber": 54,
+      "collectionTotal": 100,
+      "collectionNumber": 83
     },
     {
       "id": "gs-084",
@@ -9248,13 +9509,16 @@ window.GUIDE = {
       "section": "r16",
       "sources": [
         "c-nl-gs"
-      ]
+      ],
+      "routeNumber": 55,
+      "collectionTotal": 100,
+      "collectionNumber": 84
     },
     {
       "id": "treasure-game-complete",
       "type": "activity",
       "name": "Treasure Chest Game cleared",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At night enter the Castle Town Treasure Chest Game. Use Lenses of Truth to identify each key chest, reach the final room and take its Heart Piece; there is no need to gamble random choices.",
       "route": "r17",
       "sources": [
         "nl-treasure",
@@ -9274,7 +9538,7 @@ window.GUIDE = {
       "id": "frogs-complete",
       "type": "activity",
       "name": "Frog choir completed",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At the Zora River frog stage play Zelda’s Lullaby, Epona’s Song, Saria’s Song, Sun’s Song and Song of Time, plus Song of Storms. Storms yields one Heart Piece; after all five frogs grow, complete the butterfly-catching performance for the second. Each remake ocarina button belongs to a frog: follow the visible cues rather than old N64 button notation.",
       "route": "r17",
       "sources": [
         "nl-treasure",
@@ -9294,7 +9558,7 @@ window.GUIDE = {
       "id": "beans-mainland",
       "type": "quest",
       "name": "Eight mainland bean plots planted",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Plant the remaining mainland bean soils now, after releasing bugs for their tokens: Kokiri shop, two Lost Woods patches, Graveyard, Dodongo entrance, Zora River seller, Lake laboratory and Gerudo Valley ledge. Reserve two beans for Death Mountain Crater and Desert Colossus in r29, once both warp songs are available.",
       "route": "r17",
       "sources": [
         "nl-treasure",
@@ -9434,7 +9698,10 @@ window.GUIDE = {
       "section": "r17",
       "sources": [
         "c-vgc-castle"
-      ]
+      ],
+      "routeNumber": 56,
+      "collectionTotal": 100,
+      "collectionNumber": 13
     },
     {
       "id": "hp-014",
@@ -9457,7 +9724,10 @@ window.GUIDE = {
       "section": "r17",
       "sources": [
         "c-rpg-hp"
-      ]
+      ],
+      "routeNumber": 21,
+      "collectionTotal": 36,
+      "collectionNumber": 14
     },
     {
       "id": "hp-015",
@@ -9484,7 +9754,10 @@ window.GUIDE = {
       "section": "r17",
       "sources": [
         "c-rpg-hp"
-      ]
+      ],
+      "routeNumber": 22,
+      "collectionTotal": 36,
+      "collectionNumber": 15
     },
     {
       "id": "hp-030",
@@ -9508,7 +9781,10 @@ window.GUIDE = {
       "section": "r17",
       "sources": [
         "c-nl-hp"
-      ]
+      ],
+      "routeNumber": 23,
+      "collectionTotal": 36,
+      "collectionNumber": 30
     },
     {
       "id": "hp-035",
@@ -9531,7 +9807,10 @@ window.GUIDE = {
       "section": "r17",
       "sources": [
         "c-quest-hp"
-      ]
+      ],
+      "routeNumber": 24,
+      "collectionTotal": 36,
+      "collectionNumber": 35
     },
     {
       "id": "hp-036",
@@ -9557,13 +9836,16 @@ window.GUIDE = {
       "section": "r17",
       "sources": [
         "c-nl-password"
-      ]
+      ],
+      "routeNumber": 25,
+      "collectionTotal": 36,
+      "collectionNumber": 36
     },
     {
       "id": "quiver-gallery",
       "type": "upgrade",
       "name": "Bigger Quiver: 40 arrows",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Before entering Fire Temple, visit Kakariko's Shooting Gallery as an adult with the Fairy Bow. Hit all ten targets using the fifteen provided arrows. Claim the Bigger Quiver and check that capacity is now 40 arrows.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9572,6 +9854,7 @@ window.GUIDE = {
         "zc-upgrades"
       ],
       "core": true,
+      "sublocation": "Kakariko Village: adult Shooting Gallery",
       "section": "r18",
       "region": "Fire Temple",
       "age": "Adult",
@@ -9582,7 +9865,7 @@ window.GUIDE = {
       "id": "goron-tunic",
       "type": "equipment",
       "name": "Goron Tunic",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9601,7 +9884,7 @@ window.GUIDE = {
       "id": "bolero-fire",
       "type": "song",
       "name": "Bolero of Fire",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9620,7 +9903,7 @@ window.GUIDE = {
       "id": "megaton-hammer",
       "type": "item",
       "name": "Megaton Hammer",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Drop a bomb or shoot the next flame switch, climb, then race the narrow inside ramp for the Megaton Hammer. Hammer the giant floor block, clear side totems, hammer the stairs and continue dropping the face blocks. Move the Time Block, hammer the cell switch for the last Small Key, then hammer the large pillar down to the boss-door room.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9639,7 +9922,7 @@ window.GUIDE = {
       "id": "map-fire",
       "type": "dungeon-map",
       "name": "Fire Temple Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9658,7 +9941,7 @@ window.GUIDE = {
       "id": "compass-fire",
       "type": "compass",
       "name": "Fire Temple Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. In the boulder maze take the south Map chest, northeast bombable-wall token and northwest cell key. Unlock the west exit; shoot the eye for Compass. Follow the chasing-flame platforms to the upper maze. Bomb the cracked floor for a cell key; the upper southwest switch frees another key cell. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9677,7 +9960,7 @@ window.GUIDE = {
       "id": "boss-key-fire",
       "type": "key",
       "name": "Fire Temple Boss Key",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift. Drop a bomb or shoot the next flame switch, climb, then race the narrow inside ramp for the Megaton Hammer. Hammer the giant floor block, clear side totems, hammer the stairs and continue dropping the face blocks. Move the Time Block, hammer the cell switch for the last Small Key, then hammer the large pillar down to the boss-door room. Return to the first room and hammer away the ground-level east blocks. Spend the remaining key; clear slugs, tiles, Like Like and the token behind hammer blocks. Defeat the second Flare Dancer, open its rupee chest and hammer the last Goron switch for Boss Key. Cross the lowered pillar to Volvagia.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9696,7 +9979,7 @@ window.GUIDE = {
       "id": "hc-05",
       "type": "boss",
       "name": "Volvagia Heart Container",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Return to the first room and hammer away the ground-level east blocks. Spend the remaining key; clear slugs, tiles, Like Like and the token behind hammer blocks. Defeat the second Flare Dancer, open its rupee chest and hammer the last Goron switch for Boss Key. Cross the lowered pillar to Volvagia.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9709,13 +9992,16 @@ window.GUIDE = {
       "region": "Fire Temple",
       "age": "Adult",
       "time": "Any",
-      "requires": []
+      "requires": [],
+      "routeNumber": 5,
+      "collectionTotal": 8,
+      "collectionNumber": 5
     },
     {
       "id": "fire-medallion",
       "type": "story",
       "name": "Fire Medallion",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9734,7 +10020,7 @@ window.GUIDE = {
       "id": "chests-fire",
       "type": "chest",
       "name": "Fire Temple chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In Kakariko win the adult Shooting Gallery’s ten targets with its fifteen arrows for the 40-arrow quiver. In Goron City bomb the rolling Goron near the Bomb Flowers, hear both subjects and receive the Goron Tunic. Pull Darunia’s statue, Hookshot the broken bridge, learn Bolero of Fire and descend to Fire Temple. In the boulder maze take the south Map chest, northeast bombable-wall token and northwest cell key. Unlock the west exit; shoot the eye for Compass. Follow the chasing-flame platforms to the upper maze. Bomb the cracked floor for a cell key; the upper southwest switch frees another key cell. Before leaving use Scarecrow Song at the upper maze entrance, Hookshot to Pierre and the lift, collect the chain-wall and upper lava tokens. Hit the 5F switch and Hookshot the posts quickly for all three timed rupee chests. Return through the flame room’s locked west door. In the fire maze collect the north cell key, unlock the inner south door, carry a block onto the flame-lowering switch and use the next key. Bomb Flare Dancer to expose its small body; intercept it with sword attacks and ride the lift. Return to the first room and hammer away the ground-level east blocks. Spend the remaining key; clear slugs, tiles, Like Like and the token behind hammer blocks. Defeat the second Flare Dancer, open its rupee chest and hammer the last Goron switch for Boss Key. Cross the lowered pillar to Volvagia.",
       "route": "r18",
       "sources": [
         "nl-fire",
@@ -9835,7 +10121,10 @@ window.GUIDE = {
       "section": "r18",
       "sources": [
         "c-vgc-fire"
-      ]
+      ],
+      "routeNumber": 57,
+      "collectionTotal": 100,
+      "collectionNumber": 68
     },
     {
       "id": "gs-069",
@@ -9859,7 +10148,10 @@ window.GUIDE = {
       "section": "r18",
       "sources": [
         "c-vgc-fire"
-      ]
+      ],
+      "routeNumber": 58,
+      "collectionTotal": 100,
+      "collectionNumber": 69
     },
     {
       "id": "gs-070",
@@ -9883,7 +10175,10 @@ window.GUIDE = {
       "section": "r18",
       "sources": [
         "c-vgc-fire"
-      ]
+      ],
+      "routeNumber": 59,
+      "collectionTotal": 100,
+      "collectionNumber": 70
     },
     {
       "id": "gs-071",
@@ -9908,7 +10203,10 @@ window.GUIDE = {
       "section": "r18",
       "sources": [
         "c-vgc-fire"
-      ]
+      ],
+      "routeNumber": 60,
+      "collectionTotal": 100,
+      "collectionNumber": 71
     },
     {
       "id": "gs-072",
@@ -9932,13 +10230,16 @@ window.GUIDE = {
       "section": "r18",
       "sources": [
         "c-vgc-fire"
-      ]
+      ],
+      "routeNumber": 61,
+      "collectionTotal": 100,
+      "collectionNumber": 72
     },
     {
       "id": "double-magic",
       "type": "upgrade",
       "name": "Double magic meter",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "From the Fire Temple warp area return toward Goron City’s entrance. Cross the southern bridge, hammer the blocking rocks and enter the Great Fairy Fountain. Play Zelda’s Lullaby and pay 200 rupees to double the magic meter.",
       "route": "r19",
       "sources": [
         "nl-fairies",
@@ -10021,7 +10322,10 @@ window.GUIDE = {
       "section": "r19",
       "sources": [
         "c-vgc-hp"
-      ]
+      ],
+      "routeNumber": 26,
+      "collectionTotal": 36,
+      "collectionNumber": 24
     },
     {
       "id": "hp-027",
@@ -10045,7 +10349,10 @@ window.GUIDE = {
       "section": "r19",
       "sources": [
         "c-link-hp"
-      ]
+      ],
+      "routeNumber": 27,
+      "collectionTotal": 36,
+      "collectionNumber": 27
     },
     {
       "id": "gs-038",
@@ -10068,7 +10375,10 @@ window.GUIDE = {
       "section": "r19",
       "sources": [
         "c-vgc-mountain"
-      ]
+      ],
+      "routeNumber": 62,
+      "collectionTotal": 100,
+      "collectionNumber": 38
     },
     {
       "id": "gs-039",
@@ -10091,7 +10401,10 @@ window.GUIDE = {
       "section": "r19",
       "sources": [
         "c-vgc-mountain"
-      ]
+      ],
+      "routeNumber": 63,
+      "collectionTotal": 100,
+      "collectionNumber": 39
     },
     {
       "id": "gs-044",
@@ -10115,7 +10428,10 @@ window.GUIDE = {
       "section": "r19",
       "sources": [
         "c-vgc-dodongo"
-      ]
+      ],
+      "routeNumber": 64,
+      "collectionTotal": 100,
+      "collectionNumber": 44
     },
     {
       "id": "gs-046",
@@ -10138,13 +10454,16 @@ window.GUIDE = {
       "section": "r19",
       "sources": [
         "c-vgc-mountain"
-      ]
+      ],
+      "routeNumber": 65,
+      "collectionTotal": 100,
+      "collectionNumber": 46
     },
     {
       "id": "map-ice",
       "type": "dungeon-map",
       "name": "Ice Cavern Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the frozen Domain and pass King Zora into Zora Fountain. Cross the ice floes for the high Heart Piece and follow the northern floes to the cavern.",
       "route": "r20",
       "sources": [
         "nl-ice",
@@ -10162,7 +10481,7 @@ window.GUIDE = {
       "id": "compass-ice",
       "type": "compass",
       "name": "Ice Cavern Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the frozen Domain and pass King Zora into Zora Fountain. Cross the ice floes for the high Heart Piece and follow the northern floes to the cavern. Back at the blade room thaw the eastern passage for Compass, a token and another Blue Fire font. Melt the side red ice for jars and its Fairy Thought. Refill the bottles before taking the western passage.",
       "route": "r20",
       "sources": [
         "nl-ice",
@@ -10180,7 +10499,7 @@ window.GUIDE = {
       "id": "iron-boots",
       "type": "equipment",
       "name": "Iron Boots",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "To reach the exit, repeat through the first right, then push back against the tall block and left beneath the exit ledge. Melt the corridor ice, refill Blue Fire, defeat White Wolfos and take Iron Boots. Learn Serenade of Water.",
       "route": "r20",
       "sources": [
         "nl-ice",
@@ -10198,7 +10517,7 @@ window.GUIDE = {
       "id": "serenade-water",
       "type": "song",
       "name": "Serenade of Water",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "To reach the exit, repeat through the first right, then push back against the tall block and left beneath the exit ledge. Melt the corridor ice, refill Blue Fire, defeat White Wolfos and take Iron Boots. Learn Serenade of Water.",
       "route": "r20",
       "sources": [
         "nl-ice",
@@ -10216,7 +10535,7 @@ window.GUIDE = {
       "id": "zora-tunic",
       "type": "equipment",
       "name": "Zora Tunic",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use the boots’ submerged exit to Zora Fountain. Thaw King Zora with Blue Fire for Zora Tunic. Keep another Blue Fire bottle for the frozen shop or any missed ice barriers, then warp to Lake Hylia.",
       "route": "r20",
       "sources": [
         "nl-ice",
@@ -10234,7 +10553,7 @@ window.GUIDE = {
       "id": "chests-ice",
       "type": "chest",
       "name": "Ice Cavern chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the frozen Domain and pass King Zora into Zora Fountain. Cross the ice floes for the high Heart Piece and follow the northern floes to the cavern. Defeat all Freezards, then collect the five Silver Crystals around the spinning blade: three on the floor, one behind the near-left stalagmites, one from the high exit ledge. In the raised-walkway room break the ice around the Blue Fire and bottle it; melt the Map chest’s red ice. In the block room clear Ice Keese first. Relative to entering, slide forward and take the first high rupee, then reset by pushing off the edge. From reset slide left, forward, right, forward, left, back, right, taking the high rupees as reached; thaw the final ledge rupee. For the optional Red Rupee chest, divert forward after the second left, refill at the fire font and play Song of Time beneath the high ledge.",
       "route": "r20",
       "sources": [
         "nl-ice",
@@ -10285,7 +10604,10 @@ window.GUIDE = {
       "section": "r20",
       "sources": [
         "c-rpg-hp"
-      ]
+      ],
+      "routeNumber": 28,
+      "collectionTotal": 36,
+      "collectionNumber": 17
     },
     {
       "id": "hp-018",
@@ -10308,7 +10630,10 @@ window.GUIDE = {
       "section": "r20",
       "sources": [
         "c-rpg-hp"
-      ]
+      ],
+      "routeNumber": 29,
+      "collectionTotal": 36,
+      "collectionNumber": 18
     },
     {
       "id": "gs-051",
@@ -10333,7 +10658,10 @@ window.GUIDE = {
       "section": "r20",
       "sources": [
         "c-rpg-gs"
-      ]
+      ],
+      "routeNumber": 66,
+      "collectionTotal": 100,
+      "collectionNumber": 51
     },
     {
       "id": "gs-052",
@@ -10356,7 +10684,10 @@ window.GUIDE = {
       "section": "r20",
       "sources": [
         "c-vgc-zora"
-      ]
+      ],
+      "routeNumber": 67,
+      "collectionTotal": 100,
+      "collectionNumber": 52
     },
     {
       "id": "gs-053",
@@ -10379,7 +10710,10 @@ window.GUIDE = {
       "section": "r20",
       "sources": [
         "c-vgc-zora"
-      ]
+      ],
+      "routeNumber": 68,
+      "collectionTotal": 100,
+      "collectionNumber": 53
     },
     {
       "id": "gs-073",
@@ -10402,7 +10736,10 @@ window.GUIDE = {
       "section": "r20",
       "sources": [
         "c-vgc-ice"
-      ]
+      ],
+      "routeNumber": 69,
+      "collectionTotal": 100,
+      "collectionNumber": 73
     },
     {
       "id": "gs-074",
@@ -10426,7 +10763,10 @@ window.GUIDE = {
       "section": "r20",
       "sources": [
         "c-vgc-ice"
-      ]
+      ],
+      "routeNumber": 70,
+      "collectionTotal": 100,
+      "collectionNumber": 74
     },
     {
       "id": "gs-075",
@@ -10450,13 +10790,16 @@ window.GUIDE = {
       "section": "r20",
       "sources": [
         "c-vgc-ice"
-      ]
+      ],
+      "routeNumber": 71,
+      "collectionTotal": 100,
+      "collectionNumber": 75
     },
     {
       "id": "longshot",
       "type": "item",
       "name": "Longshot",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Dragon puzzle: raise heads and grapple southwest; lower and grapple the wall; circle and raise; grapple northwest, lower, climb onto the head and raise once more. Enter the misty tree arena; cross it, turn back and defeat Dark Link. Take Longshot. Drop into the rapids, use Iron Boots to resist whirlpools and collect the corner token. Shoot the final gold eye, Longshot through the timed gate and return via the whirlpool room. Reset to low using blue, then middle using green. Get the central pillar’s high token with Longshot now. At 2F north shoot the eye and Longshot through the gate. Use the ceiling target and underwater loop to approach the block twice: first pull, then circle back and push it aside to reach key 4. At 1F north unlock the deep route. Cross the current room; bomb the cracked walls to pull its block onto the submerged switch. Cross the three water lids, wait for a boulder, then enter the waterfall corridor for the last token and Boss Key. Return to hub, follow pink to raise 3F, Longshot north and use Iron Boots on the spike-ramp approach. Use Din’s Fire for reliable Dark Link damage, or bait an attack and counter once he commits. Against Morpha stay on the outer rim with room to sidestep; Longshot the nucleus from a tentacle and slash it on land. Avoid standing on the small central islands where a grab leaves little escape space. Collect the Heart Container before the warp.",
       "route": "r21",
       "sources": [
         "nl-water",
@@ -10476,7 +10819,7 @@ window.GUIDE = {
       "id": "map-water",
       "type": "dungeon-map",
       "name": "Water Temple Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Take the south cracked-wall water route and its rising Hookshot posts for Compass. Back in the hub push the west passage block into the water, sink through, stand on the whirlpool dragon, hit its mouth switch and pass the gate for key 2. Spend one key on the central pillar. Hookshot up and play Lullaby at the green route to set water to 2F. Sink into the passage under the floating block, hit the switch and clear the falling enemies; float into the side ceiling opening for the Red Rupee chest and token. This is no longer an N64 Small Key chest. At hub 2F bomb the east crack and pass the Stingers. Shoot the water-lid switch, stand on the lid and shoot again to rise for key 3. Return via Ruto’s submerged passage, float to its 2F cracked wall, bomb it and get the token. Unlock west 2F at the pink route. Clear the Tektite, ride the switched water lid and play Lullaby for 3F. Use the last key on the west waterfall door, climb the moving Hookshot platforms and continue. Reset to low using blue, then middle using green. Get the central pillar’s high token with Longshot now. At 2F north shoot the eye and Longshot through the gate. Use the ceiling target and underwater loop to approach the block twice: first pull, then circle back and push it aside to reach key 4. At 1F north unlock the deep route. Cross the current room; bomb the cracked walls to pull its block onto the submerged switch. Cross the three water lids, wait for a boulder, then enter the waterfall corridor for the last token and Boss Key. Return to hub, follow pink to raise 3F, Longshot north and use Iron Boots on the spike-ramp approach.",
       "route": "r21",
       "sources": [
         "nl-water",
@@ -10496,7 +10839,7 @@ window.GUIDE = {
       "id": "compass-water",
       "type": "compass",
       "name": "Water Temple Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Take the south cracked-wall water route and its rising Hookshot posts for Compass. Back in the hub push the west passage block into the water, sink through, stand on the whirlpool dragon, hit its mouth switch and pass the gate for key 2.",
       "route": "r21",
       "sources": [
         "nl-water",
@@ -10516,7 +10859,7 @@ window.GUIDE = {
       "id": "boss-key-water",
       "type": "key",
       "name": "Water Temple Boss Key",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At 1F north unlock the deep route. Cross the current room; bomb the cracked walls to pull its block onto the submerged switch. Cross the three water lids, wait for a boulder, then enter the waterfall corridor for the last token and Boss Key. Return to hub, follow pink to raise 3F, Longshot north and use Iron Boots on the spike-ramp approach.",
       "route": "r21",
       "sources": [
         "nl-water",
@@ -10536,7 +10879,7 @@ window.GUIDE = {
       "id": "hc-06",
       "type": "boss",
       "name": "Morpha Heart Container",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use Din’s Fire for reliable Dark Link damage, or bait an attack and counter once he commits. Against Morpha stay on the outer rim with room to sidestep; Longshot the nucleus from a tentacle and slash it on land. Avoid standing on the small central islands where a grab leaves little escape space. Collect the Heart Container before the warp.",
       "route": "r21",
       "sources": [
         "nl-water",
@@ -10550,13 +10893,16 @@ window.GUIDE = {
       "region": "Water Temple",
       "age": "Adult",
       "time": "Any",
-      "requires": []
+      "requires": [],
+      "routeNumber": 6,
+      "collectionTotal": 8,
+      "collectionNumber": 6
     },
     {
       "id": "water-medallion",
       "type": "story",
       "name": "Water Medallion",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Take the south cracked-wall water route and its rising Hookshot posts for Compass. Back in the hub push the west passage block into the water, sink through, stand on the whirlpool dragon, hit its mouth switch and pass the gate for key 2. Spend one key on the central pillar. Hookshot up and play Lullaby at the green route to set water to 2F. Sink into the passage under the floating block, hit the switch and clear the falling enemies; float into the side ceiling opening for the Red Rupee chest and token. This is no longer an N64 Small Key chest. At hub 2F bomb the east crack and pass the Stingers. Shoot the water-lid switch, stand on the lid and shoot again to rise for key 3. Return via Ruto’s submerged passage, float to its 2F cracked wall, bomb it and get the token. Unlock west 2F at the pink route. Clear the Tektite, ride the switched water lid and play Lullaby for 3F. Use the last key on the west waterfall door, climb the moving Hookshot platforms and continue. Reset to low using blue, then middle using green. Get the central pillar’s high token with Longshot now. At 2F north shoot the eye and Longshot through the gate. Use the ceiling target and underwater loop to approach the block twice: first pull, then circle back and push it aside to reach key 4. At 1F north unlock the deep route. Cross the current room; bomb the cracked walls to pull its block onto the submerged switch. Cross the three water lids, wait for a boulder, then enter the waterfall corridor for the last token and Boss Key. Return to hub, follow pink to raise 3F, Longshot north and use Iron Boots on the spike-ramp approach.",
       "route": "r21",
       "sources": [
         "nl-water",
@@ -10576,7 +10922,7 @@ window.GUIDE = {
       "id": "chests-water",
       "type": "chest",
       "name": "Water Temple chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Spend one key on the central pillar. Hookshot up and play Lullaby at the green route to set water to 2F. Sink into the passage under the floating block, hit the switch and clear the falling enemies; float into the side ceiling opening for the Red Rupee chest and token. This is no longer an N64 Small Key chest.",
       "route": "r21",
       "sources": [
         "nl-water",
@@ -10633,7 +10979,10 @@ window.GUIDE = {
       "section": "r21",
       "sources": [
         "c-vgc-water"
-      ]
+      ],
+      "routeNumber": 72,
+      "collectionTotal": 100,
+      "collectionNumber": 77
     },
     {
       "id": "gs-078",
@@ -10656,7 +11005,10 @@ window.GUIDE = {
       "section": "r21",
       "sources": [
         "c-vgc-water"
-      ]
+      ],
+      "routeNumber": 73,
+      "collectionTotal": 100,
+      "collectionNumber": 78
     },
     {
       "id": "gs-079",
@@ -10681,7 +11033,10 @@ window.GUIDE = {
       "section": "r21",
       "sources": [
         "c-vgc-water"
-      ]
+      ],
+      "routeNumber": 74,
+      "collectionTotal": 100,
+      "collectionNumber": 79
     },
     {
       "id": "gs-080",
@@ -10705,7 +11060,10 @@ window.GUIDE = {
       "section": "r21",
       "sources": [
         "c-vgc-water"
-      ]
+      ],
+      "routeNumber": 75,
+      "collectionTotal": 100,
+      "collectionNumber": 80
     },
     {
       "id": "gs-081",
@@ -10729,13 +11087,16 @@ window.GUIDE = {
       "section": "r21",
       "sources": [
         "c-vgc-water"
-      ]
+      ],
+      "routeNumber": 76,
+      "collectionTotal": 100,
+      "collectionNumber": 81
     },
     {
       "id": "fire-arrows",
       "type": "item",
       "name": "Fire Arrows",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At the warp-island plaque, face the morning sun and fire an ordinary arrow into its halo while the lake is full. Swim to the small platform and collect Fire Arrows. If dawn has passed, use Sun’s Song to cycle to the next sunrise.",
       "route": "r22",
       "sources": [
         "nl-fishing",
@@ -10754,7 +11115,7 @@ window.GUIDE = {
       "id": "golden-scale",
       "type": "upgrade",
       "name": "Golden Scale",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Ride the laboratory bean to the roof Heart Piece. In the Fishing Hole pay the adult session fee of 30 rupees; catch a fish at least 60 cm, retain it and show the keeper for Golden Scale. Work the largest fish near the submerged log rather than repeatedly keeping small catches. At the Lakeside Laboratory dive unaided using Golden Scale to the bottom and speak to the scientist for the diving Heart Piece. Use Iron Boots separately to roll into the underwater crate for its token; boots do not count as the unaided diving feat. After a record, leave and re-enter to look for the Sinking Lure. It is not required for the Heart Piece or Golden Scale; secure both fair-lure prizes first. The Hylian Loach is a rare optional catch with a rupee reward; keeper-hat pranks can cost money and have no core upgrade value.",
       "route": "r22",
       "sources": [
         "nl-fishing",
@@ -10773,7 +11134,7 @@ window.GUIDE = {
       "id": "fishing-adult",
       "type": "activity",
       "name": "Adult fishing record rewarded",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Ride the laboratory bean to the roof Heart Piece. In the Fishing Hole pay the adult session fee of 30 rupees; catch a fish at least 60 cm, retain it and show the keeper for Golden Scale. Work the largest fish near the submerged log rather than repeatedly keeping small catches. Fishing method: aim and cast beyond the fish, guide the lure into view with short stick movements, then reel once it bites. Steer with the resisting fish rather than hauling constantly in the opposite direction. Keep the record fish until the keeper accepts it.",
       "route": "r22",
       "sources": [
         "nl-fishing",
@@ -10810,7 +11171,10 @@ window.GUIDE = {
       "section": "r22",
       "sources": [
         "c-vgc-hp"
-      ]
+      ],
+      "routeNumber": 30,
+      "collectionTotal": 36,
+      "collectionNumber": 22
     },
     {
       "id": "hp-023",
@@ -10833,7 +11197,10 @@ window.GUIDE = {
       "section": "r22",
       "sources": [
         "c-vgc-hp"
-      ]
+      ],
+      "routeNumber": 31,
+      "collectionTotal": 36,
+      "collectionNumber": 23
     },
     {
       "id": "gs-032",
@@ -10856,7 +11223,10 @@ window.GUIDE = {
       "section": "r22",
       "sources": [
         "c-vgc-lake"
-      ]
+      ],
+      "routeNumber": 77,
+      "collectionTotal": 100,
+      "collectionNumber": 32
     },
     {
       "id": "gs-076",
@@ -10880,13 +11250,16 @@ window.GUIDE = {
       "section": "r22",
       "sources": [
         "c-vgc-lake"
-      ]
+      ],
+      "routeNumber": 78,
+      "collectionTotal": 100,
+      "collectionNumber": 76
     },
     {
       "id": "odd-mushroom",
       "type": "temporary",
       "name": "Odd Mushroom",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bring Cojiro to the sleeping Master Craftsman’s Son in the Lost Woods’ first clearing. Show the bird for Odd Mushroom. Sources disagree between three and four minutes; plan a delivery under three minutes: leave the woods, call Epona, ride to Kakariko, enter the north potion shop and leave through its rear door to Granny’s shop. Trade the mushroom for Odd Poultice.",
       "route": "r23",
       "sources": [
         "nl-biggoron",
@@ -10905,7 +11278,7 @@ window.GUIDE = {
       "id": "odd-poultice",
       "type": "temporary",
       "name": "Odd Poultice",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Bring Cojiro to the sleeping Master Craftsman’s Son in the Lost Woods’ first clearing. Show the bird for Odd Mushroom. Sources disagree between three and four minutes; plan a delivery under three minutes: leave the woods, call Epona, ride to Kakariko, enter the north potion shop and leave through its rear door to Granny’s shop. Trade the mushroom for Odd Poultice. Return to the same woods clearing and give the poultice to Fado for Poacher’s Saw. Ride to Gerudo Valley, cross with Epona or Longshot and trade the saw to the carpenter boss by his tent for Broken Goron Sword.",
       "route": "r23",
       "sources": [
         "nl-biggoron",
@@ -10924,7 +11297,7 @@ window.GUIDE = {
       "id": "poacher-saw",
       "type": "temporary",
       "name": "Poacher’s Saw",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Return to the same woods clearing and give the poultice to Fado for Poacher’s Saw. Ride to Gerudo Valley, cross with Epona or Longshot and trade the saw to the carpenter boss by his tent for Broken Goron Sword.",
       "route": "r23",
       "sources": [
         "nl-biggoron",
@@ -10943,7 +11316,7 @@ window.GUIDE = {
       "id": "broken-goron-sword",
       "type": "temporary",
       "name": "Broken Goron Sword",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Return to the same woods clearing and give the poultice to Fado for Poacher’s Saw. Ride to Gerudo Valley, cross with Epona or Longshot and trade the saw to the carpenter boss by his tent for Broken Goron Sword. Use Bolero of Fire before accepting any timed object. Leave the crater through the summit exit to Biggoron; trade the broken sword for Prescription. Bring the prescription to thawed King Zora for Eyeball Frog.",
       "route": "r23",
       "sources": [
         "nl-biggoron",
@@ -10962,7 +11335,7 @@ window.GUIDE = {
       "id": "prescription",
       "type": "temporary",
       "name": "Prescription",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use Bolero of Fire before accepting any timed object. Leave the crater through the summit exit to Biggoron; trade the broken sword for Prescription. Bring the prescription to thawed King Zora for Eyeball Frog.",
       "route": "r23",
       "sources": [
         "nl-biggoron",
@@ -10981,7 +11354,7 @@ window.GUIDE = {
       "id": "eyeball-frog",
       "type": "temporary",
       "name": "Eyeball Frog",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use Bolero of Fire before accepting any timed object. Leave the crater through the summit exit to Biggoron; trade the broken sword for Prescription. Bring the prescription to thawed King Zora for Eyeball Frog.",
       "route": "r23",
       "sources": [
         "nl-biggoron",
@@ -11000,7 +11373,7 @@ window.GUIDE = {
       "id": "eye-drops",
       "type": "temporary",
       "name": "Speciality Eye Drops",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "You have two and a half minutes for the frog. Immediately use the thawed Domain’s underwater tunnel to Lake Hylia, leave the water and enter the north laboratory. Give the frog to the scientist for Speciality Eye Drops.",
       "route": "r23",
       "sources": [
         "nl-biggoron",
@@ -11019,7 +11392,7 @@ window.GUIDE = {
       "id": "biggoron-receipt",
       "type": "temporary",
       "name": "Biggoron Sword Receipt",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Wait three days, or cycle Sun’s Song six times, then show the Receipt to Biggoron for the unbreakable sword. This route uses warp songs only before timed deliveries; no unverified teleport timer shortcut is needed.",
       "route": "r23",
       "sources": [
         "nl-biggoron",
@@ -11038,7 +11411,7 @@ window.GUIDE = {
       "id": "biggoron-sword",
       "type": "equipment",
       "name": "Biggoron Sword",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use Bolero of Fire before accepting any timed object. Leave the crater through the summit exit to Biggoron; trade the broken sword for Prescription. Bring the prescription to thawed King Zora for Eyeball Frog. Wait three days, or cycle Sun’s Song six times, then show the Receipt to Biggoron for the unbreakable sword. This route uses warp songs only before timed deliveries; no unverified teleport timer shortcut is needed.",
       "route": "r23",
       "sources": [
         "nl-biggoron",
@@ -11055,7 +11428,7 @@ window.GUIDE = {
       "id": "bottle-poes",
       "type": "bottle",
       "name": "Big Poe bottle: fifth bottle",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Second loop: jump the rock before Gerudo Valley; the fallen tree southeast of that rock between a cliff and boulder; the fallen branch in the wood south of the ranch; and the branch northeast of the Lake Hylia entrance between marsh and trees. Sell the four souls; the fifth total sale grants bottle five.",
       "route": "r24",
       "sources": [
         "qf-poes",
@@ -11067,13 +11440,16 @@ window.GUIDE = {
       "region": "Hyrule Field",
       "age": "Adult",
       "time": "Any",
-      "requires": []
+      "requires": [],
+      "routeNumber": 5,
+      "collectionTotal": 5,
+      "collectionNumber": 5
     },
     {
       "id": "big-poes-ten",
       "type": "quest",
       "name": "All ten Big Poes sold",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Leave wallet space before the last sale. Five Poes earn the bottle, but this route catches all ten for the full hunt and one-time reward.",
       "route": "r24",
       "sources": [
         "qf-poes",
@@ -11109,13 +11485,16 @@ window.GUIDE = {
       "section": "r24",
       "sources": [
         "c-vgc-field"
-      ]
+      ],
+      "routeNumber": 79,
+      "collectionTotal": 100,
+      "collectionNumber": 9
     },
     {
       "id": "nocturne-shadow",
       "type": "song",
       "name": "Nocturne of Shadow",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
       "route": "r25",
       "sources": [
         "nl-shadow",
@@ -11133,7 +11512,7 @@ window.GUIDE = {
       "id": "hover-boots",
       "type": "equipment",
       "name": "Hover Boots",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest.",
       "route": "r25",
       "sources": [
         "nl-shadow",
@@ -11151,7 +11530,7 @@ window.GUIDE = {
       "id": "map-shadow",
       "type": "dungeon-map",
       "name": "Shadow Temple Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
       "route": "r25",
       "sources": [
         "nl-shadow",
@@ -11169,7 +11548,7 @@ window.GUIDE = {
       "id": "compass-shadow",
       "type": "compass",
       "name": "Shadow Temple Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key.",
       "route": "r25",
       "sources": [
         "nl-shadow",
@@ -11187,7 +11566,7 @@ window.GUIDE = {
       "id": "boss-key-shadow",
       "type": "key",
       "name": "Shadow Temple Boss Key",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.",
       "route": "r25",
       "sources": [
         "nl-shadow",
@@ -11205,7 +11584,7 @@ window.GUIDE = {
       "id": "hc-07",
       "type": "boss",
       "name": "Bongo Bongo Heart Container",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Unlock to the ferry. Move the block beneath the ladder to create the shortcut; use Scarecrow Song from the deck for the high token. Play Zelda’s Lullaby on the ferry Triforce, defeat both Stalfos and jump off at its destination. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.",
       "route": "r25",
       "sources": [
         "nl-shadow",
@@ -11217,13 +11596,16 @@ window.GUIDE = {
       "region": "Shadow Temple",
       "age": "Adult",
       "time": "Any",
-      "requires": []
+      "requires": [],
+      "routeNumber": 7,
+      "collectionTotal": 8,
+      "collectionNumber": 7
     },
     {
       "id": "shadow-medallion",
       "type": "story",
       "name": "Shadow Medallion",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
       "route": "r25",
       "sources": [
         "nl-shadow",
@@ -11241,7 +11623,7 @@ window.GUIDE = {
       "id": "chests-shadow",
       "type": "chest",
       "name": "Shadow Temple chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss.",
       "route": "r25",
       "sources": [
         "nl-shadow",
@@ -11296,7 +11678,10 @@ window.GUIDE = {
       "section": "r25",
       "sources": [
         "c-vgc-shadow"
-      ]
+      ],
+      "routeNumber": 80,
+      "collectionTotal": 100,
+      "collectionNumber": 85
     },
     {
       "id": "gs-086",
@@ -11320,7 +11705,10 @@ window.GUIDE = {
       "section": "r25",
       "sources": [
         "c-vgc-shadow"
-      ]
+      ],
+      "routeNumber": 81,
+      "collectionTotal": 100,
+      "collectionNumber": 86
     },
     {
       "id": "gs-087",
@@ -11343,7 +11731,10 @@ window.GUIDE = {
       "section": "r25",
       "sources": [
         "c-vgc-shadow"
-      ]
+      ],
+      "routeNumber": 82,
+      "collectionTotal": 100,
+      "collectionNumber": 87
     },
     {
       "id": "gs-088",
@@ -11367,7 +11758,10 @@ window.GUIDE = {
       "section": "r25",
       "sources": [
         "c-vgc-shadow"
-      ]
+      ],
+      "routeNumber": 83,
+      "collectionTotal": 100,
+      "collectionNumber": 88
     },
     {
       "id": "gs-089",
@@ -11391,13 +11785,16 @@ window.GUIDE = {
       "section": "r25",
       "sources": [
         "c-vgc-shadow"
-      ]
+      ],
+      "routeNumber": 84,
+      "collectionTotal": 100,
+      "collectionNumber": 89
     },
     {
       "id": "adult-mainland-sweep",
       "type": "quest",
       "name": "Adult mainland circuit completed",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use the forest and lake warp songs to sweep the adult-only forest, river, Domain and lake entries attached to this section. The Domain is now thawed; its night token and Storms grotto are reachable without repeating Ice Cavern. Return to Dodongo Cavern for the Scarecrow/high-ledge token and the adult-access remainder listed in the tracker. The Bomb Bag and story reward are already complete; do not replay the boss. Visit the ruined castle exterior while an adult: Longshot the token on the ruined building wall now. This makes the full 100-token reward claim in r34 possible before the final-castle story sequence.",
       "route": "r26",
       "sources": [
         "rpg-route",
@@ -11456,13 +11853,16 @@ window.GUIDE = {
       "section": "r26",
       "sources": [
         "c-vgc-castle"
-      ]
+      ],
+      "routeNumber": 85,
+      "collectionTotal": 100,
+      "collectionNumber": 61
     },
     {
       "id": "gerudo-pass",
       "type": "story",
       "name": "Gerudo Pass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "After the fourth rescue accept Gerudo Pass, which ends patrol arrests and opens the desert gate. Collect the fortress rooftop chest and wall token entries using Longshot. At night go to the archery range’s far target wall for its token.",
       "route": "r27",
       "sources": [
         "nl-fortress",
@@ -11480,7 +11880,7 @@ window.GUIDE = {
       "id": "carpenters-four",
       "type": "quest",
       "name": "All four carpenters rescued",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "After the fourth rescue accept Gerudo Pass, which ends patrol arrests and opens the desert gate. Collect the fortress rooftop chest and wall token entries using Longshot. At night go to the archery range’s far target wall for its token.",
       "route": "r27",
       "sources": [
         "nl-fortress",
@@ -11562,7 +11962,10 @@ window.GUIDE = {
       "section": "r27",
       "sources": [
         "c-vgc-gerudo"
-      ]
+      ],
+      "routeNumber": 86,
+      "collectionTotal": 100,
+      "collectionNumber": 27
     },
     {
       "id": "gs-028",
@@ -11585,7 +11988,10 @@ window.GUIDE = {
       "section": "r27",
       "sources": [
         "c-vgc-gerudo"
-      ]
+      ],
+      "routeNumber": 87,
+      "collectionTotal": 100,
+      "collectionNumber": 28
     },
     {
       "id": "gs-091",
@@ -11608,13 +12014,16 @@ window.GUIDE = {
       "section": "r27",
       "sources": [
         "c-nl-gs"
-      ]
+      ],
+      "routeNumber": 88,
+      "collectionTotal": 100,
+      "collectionNumber": 91
     },
     {
       "id": "requiem-spirit",
       "type": "song",
       "name": "Requiem of Spirit",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Approach Spirit Temple and meet Sheik for Requiem of Spirit. Enter the lobby and inspect its age-specific passages. You need a child for the left crawlspace: use Prelude of Light, replace Master Sword, then return by Requiem.",
       "route": "r28",
       "sources": [
         "nl-desert",
@@ -11634,7 +12043,7 @@ window.GUIDE = {
       "id": "nayru-love",
       "type": "item",
       "name": "Nayru’s Love",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Evil Desert Colossus bomb the north wall crack between the trees, play Zelda’s Lullaby and pay 300 rupees for Nayru’s Love. Use Song of Storms at the dry oasis to restore its fairy pool.",
       "route": "r28",
       "sources": [
         "nl-desert",
@@ -11654,7 +12063,7 @@ window.GUIDE = {
       "id": "colossus-oasis",
       "type": "activity",
       "name": "Colossus fairy oasis restored",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Evil Desert Colossus bomb the north wall crack between the trees, play Zelda’s Lullaby and pay 300 rupees for Nayru’s Love. Use Song of Storms at the dry oasis to restore its fairy pool.",
       "route": "r28",
       "sources": [
         "nl-desert",
@@ -11675,7 +12084,7 @@ window.GUIDE = {
       "id": "purple-leever",
       "type": "hall",
       "name": "Purple Leever defeated",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Before leaving, defeat enough green Leevers in this region to make the large purple Leever appear, and defeat it for the Hall statue. Do not count merely seeing it as a kill.",
       "route": "r28",
       "sources": [
         "nl-desert",
@@ -11713,7 +12122,10 @@ window.GUIDE = {
       "section": "r28",
       "sources": [
         "c-nl-gs"
-      ]
+      ],
+      "routeNumber": 89,
+      "collectionTotal": 100,
+      "collectionNumber": 92
     },
     {
       "id": "gs-095",
@@ -11736,13 +12148,16 @@ window.GUIDE = {
       "section": "r28",
       "sources": [
         "c-vgc-gerudo"
-      ]
+      ],
+      "routeNumber": 90,
+      "collectionTotal": 100,
+      "collectionNumber": 95
     },
     {
       "id": "silver-gauntlets",
       "type": "upgrade",
       "name": "Silver Gauntlets",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Unlock the upper stairs; take the high token before the Iron Knuckle door. Bait the axe swing, move away, then counter; pillars drop healing hearts when broken. Take Silver Gauntlets outside, watch Nabooru’s capture, and return to adulthood via Prelude of Light.",
       "route": "r29",
       "sources": [
         "nl-spirit",
@@ -11762,7 +12177,7 @@ window.GUIDE = {
       "id": "beans-remote",
       "type": "quest",
       "name": "Crater and Colossus beans planted",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Before the temple, warp with Bolero of Fire as a child, flush the crater soil token with a bug and plant a bean beside the warp pad. Warp out promptly; do not extend the heat damage by wandering. Warp to the Colossus, flush its entrance soil token and plant the last bean. Enter Spirit Temple, talk to Nabooru and crawl left. Clear Keese and Armos, then take northwest: stun Stalfos and Green Bubble, Boomerang the switch round the wall to make a bridge, and open its rupee chest.",
       "route": "r29",
       "sources": [
         "nl-spirit",
@@ -11800,7 +12215,10 @@ window.GUIDE = {
       "section": "r29",
       "sources": [
         "c-vgc-crater"
-      ]
+      ],
+      "routeNumber": 91,
+      "collectionTotal": 100,
+      "collectionNumber": 48
     },
     {
       "id": "gs-093",
@@ -11824,7 +12242,10 @@ window.GUIDE = {
       "section": "r29",
       "sources": [
         "c-vgc-gerudo"
-      ]
+      ],
+      "routeNumber": 92,
+      "collectionTotal": 100,
+      "collectionNumber": 93
     },
     {
       "id": "gs-096",
@@ -11847,7 +12268,10 @@ window.GUIDE = {
       "section": "r29",
       "sources": [
         "c-vgc-spirit"
-      ]
+      ],
+      "routeNumber": 93,
+      "collectionTotal": 100,
+      "collectionNumber": 96
     },
     {
       "id": "gs-097",
@@ -11870,7 +12294,10 @@ window.GUIDE = {
       "section": "r29",
       "sources": [
         "c-vgc-spirit"
-      ]
+      ],
+      "routeNumber": 94,
+      "collectionTotal": 100,
+      "collectionNumber": 97
     },
     {
       "id": "gs-098",
@@ -11893,13 +12320,16 @@ window.GUIDE = {
       "section": "r29",
       "sources": [
         "c-vgc-spirit"
-      ]
+      ],
+      "routeNumber": 95,
+      "collectionTotal": 100,
+      "collectionNumber": 98
     },
     {
       "id": "mirror-shield",
       "type": "equipment",
       "name": "Mirror Shield",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.",
       "route": "r30",
       "sources": [
         "nl-spirit",
@@ -11919,7 +12349,7 @@ window.GUIDE = {
       "id": "map-spirit",
       "type": "dungeon-map",
       "name": "Spirit Temple Map",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
       "route": "r30",
       "sources": [
         "nl-spirit",
@@ -11939,7 +12369,7 @@ window.GUIDE = {
       "id": "compass-spirit",
       "type": "compass",
       "name": "Spirit Temple Compass",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
       "route": "r30",
       "sources": [
         "nl-spirit",
@@ -11959,7 +12389,7 @@ window.GUIDE = {
       "id": "boss-key-spirit",
       "type": "key",
       "name": "Spirit Temple Boss Key",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like. Reflect the Armos room’s sunlight onto its wall sun for the next key. Unlock the Anubis room’s other door. Hookshot high onto both sliding climb walls; clear their enemies. Play Lullaby at 4F’s Triforce. In Boss Key room clear slugs, strike the fake corner door, shoot its revealed eye, Hookshot the new platform and jump to the switch. Backtrack and climb the side wall to the mirror-chain room. Hit its switch, enter the mirror caverns, reflect light at the first sun for the Bomb chest, bomb the next cracked wall and turn the mirrors toward each other and the large ceiling mirror. Reflect that light at the wall sun to lower the platform, then at the statue forehead to reveal the boss route. Defeat Nabooru’s Iron Knuckle and proceed.",
       "route": "r30",
       "sources": [
         "nl-spirit",
@@ -11979,7 +12409,7 @@ window.GUIDE = {
       "id": "hc-08",
       "type": "boss",
       "name": "Twinrova Heart Container",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "After Twinrova, finish the other remote bean flight: warp with Bolero of Fire and ride the crater bean planted in r29 to its high Heart Piece, then continue to the fortress for Proving Grounds. This is the adult return intentionally postponed from r19. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.",
       "route": "r30",
       "sources": [
         "nl-spirit",
@@ -11993,13 +12423,16 @@ window.GUIDE = {
       "region": "Spirit Temple",
       "age": "Adult",
       "time": "Any",
-      "requires": []
+      "requires": [],
+      "routeNumber": 8,
+      "collectionTotal": 8,
+      "collectionNumber": 8
     },
     {
       "id": "spirit-medallion",
       "type": "story",
       "name": "Spirit Medallion",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
       "route": "r30",
       "sources": [
         "nl-spirit",
@@ -12019,7 +12452,7 @@ window.GUIDE = {
       "id": "chests-spirit",
       "type": "chest",
       "name": "Spirit Temple chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like. Unlock the middle way and climb. Lens the invisible Floormaster; rotate the mirror to all four suns for the two small chests, enemy and exit. In the statue hall play Lullaby on the hand for its opposite-hand key; light the base torches for Map and hammer the northeast switch to open the entrance shortcut. Use Scarecrow Song for the high northwest token. Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield. Backtrack and climb the side wall to the mirror-chain room. Hit its switch, enter the mirror caverns, reflect light at the first sun for the Bomb chest, bomb the next cracked wall and turn the mirrors toward each other and the large ceiling mirror. Reflect that light at the wall sun to lower the platform, then at the statue forehead to reveal the boss route. Defeat Nabooru’s Iron Knuckle and proceed.",
       "route": "r30",
       "sources": [
         "nl-spirit",
@@ -12081,7 +12514,10 @@ window.GUIDE = {
       "section": "r30",
       "sources": [
         "c-link-hp"
-      ]
+      ],
+      "routeNumber": 32,
+      "collectionTotal": 36,
+      "collectionNumber": 26
     },
     {
       "id": "hp-034",
@@ -12105,7 +12541,10 @@ window.GUIDE = {
       "section": "r30",
       "sources": [
         "c-nl-hp"
-      ]
+      ],
+      "routeNumber": 33,
+      "collectionTotal": 36,
+      "collectionNumber": 34
     },
     {
       "id": "gs-094",
@@ -12128,7 +12567,10 @@ window.GUIDE = {
       "section": "r30",
       "sources": [
         "c-vgc-gerudo"
-      ]
+      ],
+      "routeNumber": 96,
+      "collectionTotal": 100,
+      "collectionNumber": 94
     },
     {
       "id": "gs-099",
@@ -12153,7 +12595,10 @@ window.GUIDE = {
       "section": "r30",
       "sources": [
         "c-vgc-spirit"
-      ]
+      ],
+      "routeNumber": 97,
+      "collectionTotal": 100,
+      "collectionNumber": 99
     },
     {
       "id": "gs-100",
@@ -12178,13 +12623,16 @@ window.GUIDE = {
       "section": "r30",
       "sources": [
         "c-vgc-spirit"
-      ]
+      ],
+      "routeNumber": 98,
+      "collectionTotal": 100,
+      "collectionNumber": 100
     },
     {
       "id": "ice-arrows",
       "type": "item",
       "name": "Ice Arrows",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "In the hammer-block room defeat enemies for arrows, hammer the wall blocks to find the floor switch and take key 5 from the flame chest. In lava Silver Crystals room collect all five with Hover Boots and Hookshot, hitting the switch for the flame-protected one. Use Song of Time to reach the side entrance to the maze: take key 6 and the accessible Bombchu/arrow chests without wasting keys on right-hand locks. Enter the central maze. Unlock left first; Lens the false ceiling, climb its fence and take key 9. Follow the left chain of locks for Ice Arrows and open its exit switch. With all nine keys, open the remaining maze locks and all rupee/ammunition chests before leaving.",
       "route": "r31",
       "sources": [
         "nl-proving",
@@ -12203,7 +12651,7 @@ window.GUIDE = {
       "id": "proving-nine-keys",
       "type": "quest",
       "name": "All nine Proving Grounds keys collected",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the central maze. Unlock left first; Lens the false ceiling, climb its fence and take key 9. Follow the left chain of locks for Ice Arrows and open its exit switch. With all nine keys, open the remaining maze locks and all rupee/ammunition chests before leaving.",
       "route": "r31",
       "sources": [
         "nl-proving",
@@ -12222,7 +12670,7 @@ window.GUIDE = {
       "id": "chests-proving",
       "type": "chest",
       "name": "Proving Grounds chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Pay the 30-rupee entry fee after Spirit Temple. Shoot the entrance eye above the stairs for the small rupee chest; take the left door and defeat Stalfos for key 1. Gather the boulder room’s five Silver Crystals: two low corners, two over the centre using the ceiling target from the high ledge, and one beside the exit. In Wolfos room defeat the wolves for a rupee chest, push the giant block and Lens its hidden eye to enter the Like Like room. Open all four Like Like-room chests: enemy-clear rupees, bombs behind the cracked wall, Seed from its eye switch and Lens-visible key 2 on the side ledge. Back in Wolfos room Lens the passage over the fake door and Hookshot up. In the hammer-block room defeat enemies for arrows, hammer the wall blocks to find the floor switch and take key 5 from the flame chest. In lava Silver Crystals room collect all five with Hover Boots and Hookshot, hitting the switch for the flame-protected one. Use Song of Time to reach the side entrance to the maze: take key 6 and the accessible Bombchu/arrow chests without wasting keys on right-hand locks. Enter the central maze. Unlock left first; Lens the false ceiling, climb its fence and take key 9. Follow the left chain of locks for Ice Arrows and open its exit switch. With all nine keys, open the remaining maze locks and all rupee/ammunition chests before leaving.",
       "route": "r31",
       "sources": [
         "nl-proving",
@@ -12242,7 +12690,7 @@ window.GUIDE = {
       "id": "quiver-archery",
       "type": "upgrade",
       "name": "Biggest Quiver: 50 arrows",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "After freeing the carpenters and gaining access, ride Epona to the horseback archery range. Aim for at least 1,500 points; claim the Heart Piece and repeat for the quiver if necessary. Verify the 50-arrow capacity in the reward dialogue. Exact remake prize thresholds are disputed; see the section warning.",
       "route": "r32",
       "sources": [
         "zc-upgrades",
@@ -12251,6 +12699,7 @@ window.GUIDE = {
         "rpg-route"
       ],
       "core": true,
+      "sublocation": "Gerudo Fortress: horseback archery range",
       "section": "r32",
       "region": "Gerudo Fortress",
       "age": "Adult",
@@ -12261,7 +12710,7 @@ window.GUIDE = {
       "id": "cow-link-house",
       "type": "quest",
       "name": "Lon Lon cow in Link’s house",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At Lon Lon Ranch speak to Malon after the ranch has been restored and accept her obstacle course on Epona. Take straight approaches to fences, spend carrots before jumps rather than at a sideways angle, and finish within the displayed time target. Her unique reward is a cow sent to Link’s house. Visit Link’s house to verify the cow and play Epona’s Song with an empty bottle for milk. Do not grind repeat races once the unique reward is recorded.",
       "route": "r32",
       "sources": [
         "zc-upgrades",
@@ -12280,7 +12729,7 @@ window.GUIDE = {
       "id": "archery-rewards",
       "type": "activity",
       "name": "Both unique horseback archery rewards",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "At the fortress archery range approach the attendant while mounted and pay for a run. First target the pots while riding outward: they give dependable points. At the turn fire at the large end target, then concentrate on target centres during the return. Make each shot deliberate; the arrow supply is limited. Win both the Heart Piece and 50-arrow quiver. Remake sources disagree on exact threshold wording, listing roughly 1,300/1,400 or the older 1,000/1,500. Aim for at least 1,500 and check the actual reward dialogue; repeat once if the game awards the Heart Piece before the quiver. At Lon Lon Ranch speak to Malon after the ranch has been restored and accept her obstacle course on Epona. Take straight approaches to fences, spend carrots before jumps rather than at a sideways angle, and finish within the displayed time target. Her unique reward is a cow sent to Link’s house. Visit Link’s house to verify the cow and play Epona’s Song with an empty bottle for milk. Do not grind repeat races once the unique reward is recorded.",
       "route": "r32",
       "sources": [
         "zc-upgrades",
@@ -12318,7 +12767,10 @@ window.GUIDE = {
       "section": "r32",
       "sources": [
         "c-nl-hp"
-      ]
+      ],
+      "routeNumber": 34,
+      "collectionTotal": 36,
+      "collectionNumber": 32
     },
     {
       "id": "hp-033",
@@ -12344,7 +12796,10 @@ window.GUIDE = {
       "section": "r32",
       "sources": [
         "c-link-hp"
-      ]
+      ],
+      "routeNumber": 35,
+      "collectionTotal": 36,
+      "collectionNumber": 33
     },
     {
       "id": "gs-090",
@@ -12368,13 +12823,16 @@ window.GUIDE = {
       "section": "r32",
       "sources": [
         "c-nl-gs"
-      ]
+      ],
+      "routeNumber": 99,
+      "collectionTotal": 100,
+      "collectionNumber": 90
     },
     {
       "id": "dungeon-audit",
       "type": "audit",
       "name": "Dungeon chest and Map/Compass audit",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Compare each completed dungeon’s Map/Compass against its still-marked chests, and revisit only an actual unchecked room. No dungeon boss needs to be replayed for an ordinary missed token.",
       "route": "r33",
       "sources": [
         "nl-forest",
@@ -12440,13 +12898,16 @@ window.GUIDE = {
       "section": "r33",
       "sources": [
         "c-vgc-zora"
-      ]
+      ],
+      "routeNumber": 100,
+      "collectionTotal": 100,
+      "collectionNumber": 56
     },
     {
       "id": "echo-gem",
       "type": "item",
       "name": "Echo Gem",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the House of Skulltula near Kakariko’s centre. Speak to each restored family member for every reached milestone: 10 tokens awards Adult Wallet, 20 the Echo Gem, 30 Giant’s Wallet, 40 Bombchus and 50 a Heart Piece. The Echo Gem is obtained even if you choose not to use vibration hints. Use the site’s actual checked token count when deciding which rewards should be available, not the expected route total.",
       "route": "r34",
       "sources": [
         "nl-skull-rewards",
@@ -12463,13 +12924,14 @@ window.GUIDE = {
       "id": "giant-wallet",
       "type": "upgrade",
       "name": "Giant’s Wallet: 1,000 rupees",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the House of Skulltula after collecting 30 different Gold Skulltula tokens. Speak to the restored family member for the Giant's Wallet, raising this remake route's capacity to 1,000 rupees. Claim immediately on any visit after reaching 30; do not wait for the final audit if needed sooner.",
       "route": "r34",
       "sources": [
         "nl-skull-rewards",
         "zc-checklist"
       ],
       "core": true,
+      "sublocation": "Kakariko Village: House of Skulltula",
       "section": "r34",
       "region": "Kakariko Village",
       "age": "Either",
@@ -12480,7 +12942,7 @@ window.GUIDE = {
       "id": "skulltula-bombchus",
       "type": "activity",
       "name": "40-token Bombchu reward",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the House of Skulltula near Kakariko’s centre. Speak to each restored family member for every reached milestone: 10 tokens awards Adult Wallet, 20 the Echo Gem, 30 Giant’s Wallet, 40 Bombchus and 50 a Heart Piece. After all 100 distinct tokens are collected, speak to the restored father for the final rupee reward. Leave 200 rupees of wallet space before taking a Gold Rupee; spending excess money before the reward avoids wasting it. The Echo Gem is obtained even if you choose not to use vibration hints. Use the site’s actual checked token count when deciding which rewards should be available, not the expected route total.",
       "route": "r34",
       "sources": [
         "nl-skull-rewards",
@@ -12498,7 +12960,7 @@ window.GUIDE = {
       "id": "skulltula-family",
       "type": "quest",
       "name": "100-token family restoration and final reward",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "After all 100 distinct tokens are collected, speak to the restored father for the final rupee reward. Leave 200 rupees of wallet space before taking a Gold Rupee; spending excess money before the reward avoids wasting it.",
       "route": "r34",
       "sources": [
         "nl-skull-rewards",
@@ -12532,13 +12994,16 @@ window.GUIDE = {
       "section": "r34",
       "sources": [
         "c-quest-hp"
-      ]
+      ],
+      "routeNumber": 36,
+      "collectionTotal": 36,
+      "collectionNumber": 7
     },
     {
       "id": "pre-final-audit",
       "type": "audit",
       "name": "Pre-finale permanent completion audit",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Complete the attached grotto and Fairy Thought records as optional exploration. Business Scrub Seeds are consumables; their chests belong to the chest audit, but farming an endless stock is not a permanent upgrade.",
       "route": "r35",
       "sources": [
         "completion-checklist",
@@ -12557,7 +13022,7 @@ window.GUIDE = {
       "id": "light-arrows",
       "type": "item",
       "name": "Light Arrows",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Warp to the Temple of Time and watch Sheik reveal Zelda’s identity. Accept Light Arrows, then leave for Ganondorf’s Castle through the former market.",
       "route": "r36",
       "sources": [
         "nl-castle-final",
@@ -12574,7 +13039,7 @@ window.GUIDE = {
       "id": "rainbow-bridge",
       "type": "story",
       "name": "Sages’ bridge to Ganondorf’s Castle",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Warp to the Temple of Time and watch Sheik reveal Zelda’s identity. Accept Light Arrows, then leave for Ganondorf’s Castle through the former market. At night collect the exterior high-wall token listed here before entering. Approach the lava moat and let the Sages form the bridge. Cross, enter and pass the Beamos to the central six-barrier chamber.",
       "route": "r36",
       "sources": [
         "nl-castle-final",
@@ -12591,7 +13056,7 @@ window.GUIDE = {
       "id": "golden-gauntlets",
       "type": "upgrade",
       "name": "Golden Gauntlets",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Cross via the middle Like Like platform, defeat it from a safe distance and Hover to the giant-block platform. Drop to the lower-right switch to spawn the big chest; Longshot back to it and take Golden Gauntlets.",
       "route": "r37",
       "sources": [
         "nl-castle-final",
@@ -12609,7 +13074,7 @@ window.GUIDE = {
       "id": "barrier-shadow",
       "type": "story",
       "name": "Shadow Barrier dispelled",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the Shadow-marked trial from the central chamber. Light the distant right torch with a Fire Arrow, or an arrow through the nearby flame, to reveal platforms. Open the near-left arrows chest. Lift the huge block, press the switch behind it and use Lenses of Truth to cross the hidden platform route to the door. Hit the barrier core with a Light Arrow; the Sage returns you to the hub.",
       "route": "r37",
       "sources": [
         "nl-castle-final",
@@ -12627,7 +13092,7 @@ window.GUIDE = {
       "id": "castle-shadow-chests",
       "type": "chest",
       "name": "Shadow trial chests",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the Shadow-marked trial from the central chamber. Light the distant right torch with a Fire Arrow, or an arrow through the nearby flame, to reveal platforms. Open the near-left arrows chest.",
       "route": "r37",
       "sources": [
         "nl-castle-final",
@@ -12646,7 +13111,7 @@ window.GUIDE = {
       "id": "double-defence",
       "type": "upgrade",
       "name": "Doubled defence",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Enter the fountain, play Zelda’s Lullaby and pay 500 rupees for doubled defence. Check the white borders on the heart meter as evidence of the permanent enhancement. Return across the bridge to the castle hub. All six Great Fairy rewards should now be acquired: Din’s Fire/magic, enhanced spin, Farore’s Wind, double magic, Nayru’s Love and doubled defence.",
       "route": "r38",
       "sources": [
         "nl-fairies",
@@ -12665,7 +13130,7 @@ window.GUIDE = {
       "id": "barrier-spirit",
       "type": "story",
       "name": "Spirit Barrier dispelled",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Spirit trial: bomb Beamos and collect all five Silver Crystals, using the ceiling target for the airborne one and moving Armos to clear the spike paths. Clear the next slugs for the Seed chest. Run a Bombchu through the wall’s high gap to its switch. Burn the ceiling cover with a Fire Arrow and reflect the shaft onto the sun left of the entrance; other suns summon Wallmasters. Light Arrow the core.",
       "route": "r39",
       "sources": [
         "nl-castle-final",
@@ -12684,7 +13149,7 @@ window.GUIDE = {
       "id": "barrier-light",
       "type": "story",
       "name": "Light Barrier dispelled",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Spirit trial: bomb Beamos and collect all five Silver Crystals, using the ceiling target for the airborne one and moving Armos to clear the spike paths. Clear the next slugs for the Seed chest. Run a Bombchu through the wall’s high gap to its switch. Burn the ceiling cover with a Fire Arrow and reflect the shaft onto the sun left of the entrance; other suns summon Wallmasters. Light Arrow the core. Light trial: lift its entrance block. Lens and clear the invisible spider/Keese; open every small chest, including traps, and the enemy-clear rupee chest. In the next room play Lullaby for its rupee chest, then Lens the hidden left chest for the required key. Unlock, collect five boulder-room Silver Crystals with the central ceiling target and alcoves, Lens the false final passage and dispel the core. Forest trial: defeat Wolfos for the arrow chest; light the lower torch circle with Din’s Fire and the high door torch with Fire Arrow. In the fan room use Hover Boots and Time Blocks to gather the five Silver Crystals; the end-left switch reveals a post for the high rupee. Clear Beamos if it obstructs aiming, reach the door and dispel the final core.",
       "route": "r39",
       "sources": [
         "nl-castle-final",
@@ -12703,7 +13168,7 @@ window.GUIDE = {
       "id": "barrier-fire",
       "type": "story",
       "name": "Fire Barrier dispelled",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Spirit trial: bomb Beamos and collect all five Silver Crystals, using the ceiling target for the airborne one and moving Armos to clear the spike paths. Clear the next slugs for the Seed chest. Run a Bombchu through the wall’s high gap to its switch. Burn the ceiling cover with a Fire Arrow and reflect the shaft onto the sun left of the entrance; other suns summon Wallmasters. Light Arrow the core. Fire trial: equip Goron Tunic and Hover Boots. Collect the nearby sinking-platform rupee, flamethrower rupee, one beneath the giant block, the far Torch Slug platform rupee, then the rupee reached by the thrown block. Longshot the exit and dispel the core. Water trial: defeat Freezards, open both first-room chests including the trap, bottle Blue Fire and thaw the exit. In the timed block room push the far block against its rock and into the hole; slide the other over the filled hole toward the ledge. Climb, thaw the red ice, hammer the rusty switch and enter to dispel the core. Forest trial: defeat Wolfos for the arrow chest; light the lower torch circle with Din’s Fire and the high door torch with Fire Arrow. In the fan room use Hover Boots and Time Blocks to gather the five Silver Crystals; the end-left switch reveals a post for the high rupee. Clear Beamos if it obstructs aiming, reach the door and dispel the final core.",
       "route": "r39",
       "sources": [
         "nl-castle-final",
@@ -12722,7 +13187,7 @@ window.GUIDE = {
       "id": "barrier-water",
       "type": "story",
       "name": "Water Barrier dispelled",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Water trial: defeat Freezards, open both first-room chests including the trap, bottle Blue Fire and thaw the exit. In the timed block room push the far block against its rock and into the hole; slide the other over the filled hole toward the ledge. Climb, thaw the red ice, hammer the rusty switch and enter to dispel the core.",
       "route": "r39",
       "sources": [
         "nl-castle-final",
@@ -12741,7 +13206,7 @@ window.GUIDE = {
       "id": "barrier-forest",
       "type": "story",
       "name": "Forest Barrier dispelled",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Forest trial: defeat Wolfos for the arrow chest; light the lower torch circle with Din’s Fire and the high door torch with Fire Arrow. In the fan room use Hover Boots and Time Blocks to gather the five Silver Crystals; the end-left switch reveals a post for the high rupee. Clear Beamos if it obstructs aiming, reach the door and dispel the final core.",
       "route": "r39",
       "sources": [
         "nl-castle-final",
@@ -12760,7 +13225,7 @@ window.GUIDE = {
       "id": "chests-castle-trials",
       "type": "chest",
       "name": "Castle trial chest sweep",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Spirit trial: bomb Beamos and collect all five Silver Crystals, using the ceiling target for the airborne one and moving Armos to clear the spike paths. Clear the next slugs for the Seed chest. Run a Bombchu through the wall’s high gap to its switch. Burn the ceiling cover with a Fire Arrow and reflect the shaft onto the sun left of the entrance; other suns summon Wallmasters. Light Arrow the core. Light trial: lift its entrance block. Lens and clear the invisible spider/Keese; open every small chest, including traps, and the enemy-clear rupee chest. In the next room play Lullaby for its rupee chest, then Lens the hidden left chest for the required key. Unlock, collect five boulder-room Silver Crystals with the central ceiling target and alcoves, Lens the false final passage and dispel the core. Water trial: defeat Freezards, open both first-room chests including the trap, bottle Blue Fire and thaw the exit. In the timed block room push the far block against its rock and into the hole; slide the other over the filled hole toward the ledge. Climb, thaw the red ice, hammer the rusty switch and enter to dispel the core. Forest trial: defeat Wolfos for the arrow chest; light the lower torch circle with Din’s Fire and the high door torch with Fire Arrow. In the fan room use Hover Boots and Time Blocks to gather the five Silver Crystals; the end-left switch reveals a post for the high rupee. Clear Beamos if it obstructs aiming, reach the door and dispel the final core.",
       "route": "r39",
       "sources": [
         "nl-castle-final",
@@ -12780,7 +13245,7 @@ window.GUIDE = {
       "id": "boss-key-final",
       "type": "key",
       "name": "Ganondorf’s Castle Boss Key",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Climb the tower’s linear combat gauntlet: defeat the two Lizalfos, two Stalfos and two Iron Knuckles. Take the Boss Key chest, refill from jars and climb the last stairs. Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. The inspected remake walkthrough verifies the finale door sequence but does not establish every autosave/checkpoint or clear-file flag. Keep the manual pre-boss save; the guide does not recommend reset/save exploits or promise a postgame overwrite location.",
       "route": "r40",
       "sources": [
         "nl-castle-final",
@@ -12798,7 +13263,7 @@ window.GUIDE = {
       "id": "ganondorf-defeated",
       "type": "story",
       "name": "Ganondorf defeated",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range.",
       "route": "r40",
       "sources": [
         "nl-castle-final",
@@ -12816,7 +13281,7 @@ window.GUIDE = {
       "id": "ganon-defeated",
       "type": "story",
       "name": "Ganon defeated and ending watched",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.",
       "route": "r40",
       "sources": [
         "nl-castle-final",
@@ -12834,7 +13299,7 @@ window.GUIDE = {
       "id": "hall-statues",
       "type": "hall",
       "name": "84 Hall statues audited",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Use a glowing-green bed, such as Kakariko Grand Lodge, and choose to sleep and dream. Inspect the Hall displays, then speak to Kaepora Gaebora to return; resources spent in rematches are restored on leaving. Audit all 84 enemy/boss statues. Three easily missed kills: attack and defeat an adult-era Skull Kid in Lost Woods; defeat the large Green Bubble in Bottom of the Well; defeat enough green Leevers at the Colossus for the purple Leever and kill it. Merely meeting an enemy does not verify its defeated display. Clear the ten individual boss rematches and the twelve mini-boss challenges: Lizalfos, Big Octo, Wolfos, Stalfos, Meg, Flare Dancer, White Wolfos, Dark Link, Dead Hand, Dinolfos, Gerudo swordswoman and Iron Knuckle. Each rematch supplies its own gear/hearts and records a best time; practise weak-point timing without spending real supplies. ZELDA NOTES medals, connected-app gossip quests and hardware/amiibo extras are listed separately in Start Here and do not block a base-game run. Exact full 84-statue identification remains a research gap; ask Kaepora Gaebora for the missing-monster count, then inspect the Hall’s empty entries and displayed locations instead of treating the three rare enemies as a complete list.",
       "route": "r41",
       "sources": [
         "nl-hall",
@@ -12852,7 +13317,7 @@ window.GUIDE = {
       "id": "hall-rematches",
       "type": "hall",
       "name": "Every unlocked individual boss rematch cleared",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Clear the ten individual boss rematches and the twelve mini-boss challenges: Lizalfos, Big Octo, Wolfos, Stalfos, Meg, Flare Dancer, White Wolfos, Dark Link, Dead Hand, Dinolfos, Gerudo swordswoman and Iron Knuckle. Each rematch supplies its own gear/hearts and records a best time; practise weak-point timing without spending real supplies.",
       "route": "r41",
       "sources": [
         "nl-hall",
@@ -12870,7 +13335,7 @@ window.GUIDE = {
       "id": "hall-gauntlet-1",
       "type": "hall",
       "name": "Trial of the Spiritual Stones: stone owl trophy",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Clear the stone owl’s Trial of the Spiritual Stones (3 starting hearts: Gohma, King Dodongo, Barinade); silver owl’s Trial of the Five Sages (6 hearts: Phantom Ganon, Volvagia, Morpha, Bongo Bongo, Twinrova); then post-ending gold owl’s Trial of the Hero of Time (6 hearts: all eight then Ganondorf and Ganon). In each preparation room open the 200-rupee chest and buy healing or a Heart Container as needed; damage carries between fights and defeat restarts the run. Verify the three owl trophies at Link’s house.",
       "route": "r41",
       "sources": [
         "nl-hall",
@@ -12888,7 +13353,7 @@ window.GUIDE = {
       "id": "hall-gauntlet-2",
       "type": "hall",
       "name": "Trial of the Five Sages: silver owl trophy",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Clear the stone owl’s Trial of the Spiritual Stones (3 starting hearts: Gohma, King Dodongo, Barinade); silver owl’s Trial of the Five Sages (6 hearts: Phantom Ganon, Volvagia, Morpha, Bongo Bongo, Twinrova); then post-ending gold owl’s Trial of the Hero of Time (6 hearts: all eight then Ganondorf and Ganon). In each preparation room open the 200-rupee chest and buy healing or a Heart Container as needed; damage carries between fights and defeat restarts the run. Verify the three owl trophies at Link’s house.",
       "route": "r41",
       "sources": [
         "nl-hall",
@@ -12906,7 +13371,7 @@ window.GUIDE = {
       "id": "hall-gauntlet-3",
       "type": "hall",
       "name": "Trial of the Hero of Time: gold owl trophy",
-      "instructions": "Obtain during the directions above.",
+      "instructions": "Clear the stone owl’s Trial of the Spiritual Stones (3 starting hearts: Gohma, King Dodongo, Barinade); silver owl’s Trial of the Five Sages (6 hearts: Phantom Ganon, Volvagia, Morpha, Bongo Bongo, Twinrova); then post-ending gold owl’s Trial of the Hero of Time (6 hearts: all eight then Ganondorf and Ganon). In each preparation room open the 200-rupee chest and buy healing or a Heart Container as needed; damage carries between fights and defeat restarts the run. Verify the three owl trophies at Link’s house.",
       "route": "r41",
       "sources": [
         "nl-hall",

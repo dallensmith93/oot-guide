@@ -76,6 +76,15 @@ def build():
     # Immutable public IDs; sort within the itinerary without changing identity.
     order={s['id']:i for i,s in enumerate(sections)}
     objectives.sort(key=lambda o:(order[o['section']],0 if o['type'] not in ('gs','hp') else 1,o.get('number',0)))
+    # Stable catalogue numbers and chronological collection positions are distinct.
+    totals={t:sum(o['type']==t for o in objectives) for t in ('gs','hp','boss','bottle')}
+    positions={t:0 for t in totals}
+    for o in objectives:
+        if o['type'] in totals:
+            positions[o['type']]+=1
+            o['routeNumber']=positions[o['type']]
+            o['collectionTotal']=totals[o['type']]
+            o['collectionNumber']=o.get('number',positions[o['type']])
     running={'gs':0,'hp':0,'boss':0}
     for i,s in enumerate(sections):
         s['number']=i+1
@@ -106,8 +115,12 @@ def export(g):
     refs={s['id']:s for s in g['sources']}
     def citations(ids):
         return ' · '.join(f"[{refs[x]['title']}]({refs[x]['url']})" for x in ids if x in refs)
+    def collectible_label(o):
+        names={'gs':'Gold Skulltula','hp':'Piece of Heart','boss':'Boss Heart Container','bottle':'Bottle'}
+        return f"{names.get(o['type'],o['type'])} #{o['collectionNumber']} of {o['collectionTotal']} - " if o.get('collectionTotal') else ''
     def card(o):
-        return (f"- [ ] **{o['id']} — {o['name']}** ({o.get('region','')}; {o.get('age','')}; {o.get('time','')})\n"
+        return (f"- [ ] **{collectible_label(o)}{o['id']} — {o['name']}** ({o.get('region','')}; {o.get('age','')}; {o.get('time','')})\n"
+            f"  - Where: {o.get('region','')} - {o.get('sublocation',o['name'])}.\n"
             f"  - Requires: {', '.join(o.get('requires',[])) or 'No additional item'}. {o.get('instructions','')}\n"
             + (f"  - Verification note: {o['note']}\n" if o.get('note') else '')
             + f"  - [Route {o['section']}](walkthrough.md#{o['section']}). {citations(o.get('sources',[]))}\n")
@@ -163,7 +176,7 @@ def export(g):
         printable += ['<h3>Visit checklist</h3><ul>']
         for o in g['objectives']:
             if o['section']!=s['id']: continue
-            printable += ['<li>☐ <b>'+h(o['id']+' — '+o['name'])+'</b> ('+h(o.get('age','')+'; '+o.get('time',''))+'): '+h(o.get('instructions',''))+'<br>Requires: '+h(', '.join(o.get('requires',[])) or 'No additional item')+(('<br><b>Verification note:</b> '+h(o['note'])) if o.get('note') else '')+'</li>']
+            printable += ['<li>☐ <b>'+h(collectible_label(o)+o['id']+' — '+o['name'])+'</b> ('+h(o.get('age','')+'; '+o.get('time',''))+'): '+h(o.get('instructions',''))+'<br>Requires: '+h(', '.join(o.get('requires',[])) or 'No additional item')+(('<br><b>Verification note:</b> '+h(o['note'])) if o.get('note') else '')+'</li>']
         e=s['expected']
         printable += ['</ul><p>Expected: '+str(e['gs'])+' tokens · '+str(e['hp'])+' heart pieces · '+str(e['boss'])+' boss containers · '+str(e['hearts'])+' hearts.</p><p>Next: '+h(s['next'])+'</p>']
         linked=set(s.get('sources',[]))|{ref for o in g['objectives'] if o['section']==s['id'] for ref in o.get('sources',[])}

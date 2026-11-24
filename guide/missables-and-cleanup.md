@@ -125,7 +125,8 @@
 ## Final cleanup: permanent rewards and optional encounters — audit
 
 - [ ] **pre-final-audit — Pre-finale permanent completion audit** (Hyrule; Either as needed; Per attached records)
-  - Requires: No additional item. Obtain during the directions above.
+  - Where: Hyrule - Pre-finale permanent completion audit.
+  - Requires: No additional item. Complete the attached grotto and Fairy Thought records as optional exploration. Business Scrub Seeds are consumables; their chests belong to the chest audit, but farming an endless stock is not a permanent upgrade.
   - [Route r35](walkthrough.md#r35). [Nintendo Everything — remake completion checklist](https://nintendoeverything.com/zelda-ocarina-of-time-100-percent-completion-guide) · [ZeldaCentral remake — Checklist](https://zeldacentral.com/games/ocarina-of-time-remake/100-completion-checklist/) · [Nintendo Life — Hall](https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2)
 
 ## 39. Ganondorf’s Castle: the other five barriers
@@ -139,15 +140,18 @@
 ## Tower, Ganondorf, escape and Ganon — audit
 
 - [ ] **boss-key-final — Ganondorf’s Castle Boss Key** (Ganondorf’s Castle; Adult; Any)
-  - Requires: No additional item. Obtain during the directions above.
+  - Where: Ganondorf’s Castle - Ganondorf’s Castle Boss Key.
+  - Requires: No additional item. Climb the tower’s linear combat gauntlet: defeat the two Lizalfos, two Stalfos and two Iron Knuckles. Take the Boss Key chest, refill from jars and climb the last stairs. Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. The inspected remake walkthrough verifies the finale door sequence but does not establish every autosave/checkpoint or clear-file flag. Keep the manual pre-boss save; the guide does not recommend reset/save exploits or promise a postgame overwrite location.
   - [Route r40](walkthrough.md#r40). [Nintendo Life — Castle Final](https://www.nintendolife.com/guides/zelda-ocarina-of-time-inside-ganondorfs-castle-walkthrough-final-dungeon-last-boss-switch-2) · [ZeldaCentral remake — Final](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ganondorf-and-ganon/) · [QuestFern remake — Castle](https://questfern.com/oot/guides/ganons-castle-walkthrough/)
 
 - [ ] **ganondorf-defeated — Ganondorf defeated** (Ganondorf’s Castle; Adult; Any)
-  - Requires: No additional item. Obtain during the directions above.
+  - Where: Ganondorf’s Castle - Ganondorf defeated.
+  - Requires: No additional item. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range.
   - [Route r40](walkthrough.md#r40). [Nintendo Life — Castle Final](https://www.nintendolife.com/guides/zelda-ocarina-of-time-inside-ganondorfs-castle-walkthrough-final-dungeon-last-boss-switch-2) · [ZeldaCentral remake — Final](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ganondorf-and-ganon/) · [QuestFern remake — Castle](https://questfern.com/oot/guides/ganons-castle-walkthrough/)
 
 - [ ] **ganon-defeated — Ganon defeated and ending watched** (Ganondorf’s Castle; Adult; Any)
-  - Requires: No additional item. Obtain during the directions above.
+  - Where: Ganondorf’s Castle - Ganon defeated and ending watched.
+  - Requires: No additional item. Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.
   - [Route r40](walkthrough.md#r40). [Nintendo Life — Castle Final](https://www.nintendolife.com/guides/zelda-ocarina-of-time-inside-ganondorfs-castle-walkthrough-final-dungeon-last-boss-switch-2) · [ZeldaCentral remake — Final](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ganondorf-and-ganon/) · [QuestFern remake — Castle](https://questfern.com/oot/guides/ganons-castle-walkthrough/)
 
 ## 41. Hall of Fallen Foes and optional completion records
@@ -157,22 +161,27 @@
 ## Hall of Fallen Foes and optional completion records — audit
 
 - [ ] **hall-statues — 84 Hall statues audited** (Hall of Fallen Foes; Either, subject to challenge availability; Any)
-  - Requires: No additional item. Obtain during the directions above.
+  - Where: Hall of Fallen Foes - 84 Hall statues audited.
+  - Requires: No additional item. Use a glowing-green bed, such as Kakariko Grand Lodge, and choose to sleep and dream. Inspect the Hall displays, then speak to Kaepora Gaebora to return; resources spent in rematches are restored on leaving. Audit all 84 enemy/boss statues. Three easily missed kills: attack and defeat an adult-era Skull Kid in Lost Woods; defeat the large Green Bubble in Bottom of the Well; defeat enough green Leevers at the Colossus for the purple Leever and kill it. Merely meeting an enemy does not verify its defeated display. Clear the ten individual boss rematches and the twelve mini-boss challenges: Lizalfos, Big Octo, Wolfos, Stalfos, Meg, Flare Dancer, White Wolfos, Dark Link, Dead Hand, Dinolfos, Gerudo swordswoman and Iron Knuckle. Each rematch supplies its own gear/hearts and records a best time; practise weak-point timing without spending real supplies. ZELDA NOTES medals, connected-app gossip quests and hardware/amiibo extras are listed separately in Start Here and do not block a base-game run. Exact full 84-statue identification remains a research gap; ask Kaepora Gaebora for the missing-monster count, then inspect the Hall’s empty entries and displayed locations instead of treating the three rare enemies as a complete list.
   - [Route r41](walkthrough.md#r41). [Nintendo Life — Hall](https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2) · [Nintendo Everything — remake completion checklist](https://nintendoeverything.com/zelda-ocarina-of-time-100-percent-completion-guide) · [QuestFern remake — Hall](https://questfern.com/oot/guides/hall-of-fallen-foes/)
 
 - [ ] **hall-rematches — Every unlocked individual boss rematch cleared** (Hall of Fallen Foes; Either, subject to challenge availability; Any)
-  - Requires: No additional item. Obtain during the directions above.
+  - Where: Hall of Fallen Foes - Every unlocked individual boss rematch cleared.
+  - Requires: No additional item. Clear the ten individual boss rematches and the twelve mini-boss challenges: Lizalfos, Big Octo, Wolfos, Stalfos, Meg, Flare Dancer, White Wolfos, Dark Link, Dead Hand, Dinolfos, Gerudo swordswoman and Iron Knuckle. Each rematch supplies its own gear/hearts and records a best time; practise weak-point timing without spending real supplies.
   - [Route r41](walkthrough.md#r41). [Nintendo Life — Hall](https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2) · [Nintendo Everything — remake completion checklist](https://nintendoeverything.com/zelda-ocarina-of-time-100-percent-completion-guide) · [QuestFern remake — Hall](https://questfern.com/oot/guides/hall-of-fallen-foes/)
 
 - [ ] **hall-gauntlet-1 — Trial of the Spiritual Stones: stone owl trophy** (Hall of Fallen Foes; Either, subject to challenge availability; Any)
-  - Requires: No additional item. Obtain during the directions above.
+  - Where: Hall of Fallen Foes - Trial of the Spiritual Stones: stone owl trophy.
+  - Requires: No additional item. Clear the stone owl’s Trial of the Spiritual Stones (3 starting hearts: Gohma, King Dodongo, Barinade); silver owl’s Trial of the Five Sages (6 hearts: Phantom Ganon, Volvagia, Morpha, Bongo Bongo, Twinrova); then post-ending gold owl’s Trial of the Hero of Time (6 hearts: all eight then Ganondorf and Ganon). In each preparation room open the 200-rupee chest and buy healing or a Heart Container as needed; damage carries between fights and defeat restarts the run. Verify the three owl trophies at Link’s house.
   - [Route r41](walkthrough.md#r41). [Nintendo Life — Hall](https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2) · [Nintendo Everything — remake completion checklist](https://nintendoeverything.com/zelda-ocarina-of-time-100-percent-completion-guide) · [QuestFern remake — Hall](https://questfern.com/oot/guides/hall-of-fallen-foes/)
 
 - [ ] **hall-gauntlet-2 — Trial of the Five Sages: silver owl trophy** (Hall of Fallen Foes; Either, subject to challenge availability; Any)
-  - Requires: No additional item. Obtain during the directions above.
+  - Where: Hall of Fallen Foes - Trial of the Five Sages: silver owl trophy.
+  - Requires: No additional item. Clear the stone owl’s Trial of the Spiritual Stones (3 starting hearts: Gohma, King Dodongo, Barinade); silver owl’s Trial of the Five Sages (6 hearts: Phantom Ganon, Volvagia, Morpha, Bongo Bongo, Twinrova); then post-ending gold owl’s Trial of the Hero of Time (6 hearts: all eight then Ganondorf and Ganon). In each preparation room open the 200-rupee chest and buy healing or a Heart Container as needed; damage carries between fights and defeat restarts the run. Verify the three owl trophies at Link’s house.
   - [Route r41](walkthrough.md#r41). [Nintendo Life — Hall](https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2) · [Nintendo Everything — remake completion checklist](https://nintendoeverything.com/zelda-ocarina-of-time-100-percent-completion-guide) · [QuestFern remake — Hall](https://questfern.com/oot/guides/hall-of-fallen-foes/)
 
 - [ ] **hall-gauntlet-3 — Trial of the Hero of Time: gold owl trophy** (Hall of Fallen Foes; Either, subject to challenge availability; Any)
-  - Requires: No additional item. Obtain during the directions above.
+  - Where: Hall of Fallen Foes - Trial of the Hero of Time: gold owl trophy.
+  - Requires: No additional item. Clear the stone owl’s Trial of the Spiritual Stones (3 starting hearts: Gohma, King Dodongo, Barinade); silver owl’s Trial of the Five Sages (6 hearts: Phantom Ganon, Volvagia, Morpha, Bongo Bongo, Twinrova); then post-ending gold owl’s Trial of the Hero of Time (6 hearts: all eight then Ganondorf and Ganon). In each preparation room open the 200-rupee chest and buy healing or a Heart Container as needed; damage carries between fights and defeat restarts the run. Verify the three owl trophies at Link’s house.
   - [Route r41](walkthrough.md#r41). [Nintendo Life — Hall](https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2) · [Nintendo Everything — remake completion checklist](https://nintendoeverything.com/zelda-ocarina-of-time-100-percent-completion-guide) · [QuestFern remake — Hall](https://questfern.com/oot/guides/hall-of-fallen-foes/)
 
