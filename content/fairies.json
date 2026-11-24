@@ -1,0 +1,69 @@
+[
+  {
+    "location": "Death Mountain summit",
+    "cost": 25,
+    "reward": "Magic Meter and Din's Fire",
+    "age": "Child or adult",
+    "requires": "Bombs (or Megaton Hammer as adult)",
+    "instructions": "At the summit beside the crater entrance, break the cracked wall near the owl.",
+    "objectiveIds": [
+      "magic-meter",
+      "dins-fire"
+    ]
+  },
+  {
+    "location": "Hyrule Castle grounds",
+    "cost": 50,
+    "reward": "Enhanced Spin Attack",
+    "age": "Child",
+    "requires": "Bombs",
+    "instructions": "Climb the vines to bypass the gate guard, follow the right-hand wall to the eastern dead end, bomb the boulder and crawl inside.",
+    "objectiveIds": [
+      "magic-spin"
+    ]
+  },
+  {
+    "location": "Zora's Fountain",
+    "cost": 100,
+    "reward": "Farore's Wind",
+    "age": "Child or adult",
+    "requires": "Bombs or Bombchus",
+    "instructions": "Follow the shore to the southeast corner, near the trees, and blast the cracked cliff wall.",
+    "objectiveIds": [
+      "farore-wind"
+    ]
+  },
+  {
+    "location": "Death Mountain Crater",
+    "cost": 200,
+    "reward": "Double Magic Meter",
+    "age": "Adult",
+    "requires": "Megaton Hammer",
+    "instructions": "Enter the lower crater from Darunia's room in Goron City; follow the shore and hammer the two rock piles blocking the passage.",
+    "objectiveIds": [
+      "double-magic"
+    ]
+  },
+  {
+    "location": "Desert Colossus",
+    "cost": 300,
+    "reward": "Nayru's Love",
+    "age": "Child or adult",
+    "requires": "Bombs; access across the Haunted Wasteland or Requiem of Spirit",
+    "instructions": "North of the oasis, bomb the cracked wall between the palm trees.",
+    "objectiveIds": [
+      "nayru-love"
+    ]
+  },
+  {
+    "location": "Outside Ganon's Castle",
+    "cost": 500,
+    "reward": "Doubled defence",
+    "age": "Adult",
+    "requires": "Golden Gauntlets from the castle's Shadow Trial",
+    "instructions": "Take the dead-end path to the right outside the castle and lift the black pillar with the Golden Gauntlets.",
+    "objectiveIds": [
+      "double-defence"
+    ]
+  }
+]
