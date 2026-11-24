@@ -148,7 +148,7 @@ Prerequisites: Kokiri Emerald.
 
 > **Before proceeding:** The egg, hatched Cucco and Zelda’s Letter are successive temporary quest states; collecting every state does not mean keeping all of them at once.
 
-1. Leave Kokiri Forest west; Saria gives you the Fairy Ocarina. Cross Hyrule Field north to Castle Town. In the entrance guardhouse, roll into the moving crate for its token and smash pots for shopping money.
+1. Leave Kokiri Forest west; Saria gives you the Fairy Ocarina. Cross Hyrule Field north to Castle Town. Cross the drawbridge and take the first door on the right. Smash the guardhouse pots for about 20 to 30 rupees when the room is full. Roll into the moving crate for its token.
 
 2. In the east Potion Shop accept the borrowed bottle, catch the shop’s crawling bug, and show it to the merchant. You keep the bottle, with Red Potion: this is the remake’s additional bottle.
 
@@ -157,6 +157,14 @@ Prerequisites: Kokiri Emerald.
 4. Move the milk crates to reach the crawlspace. Cross the garden using hedges and moving guards as cover. Speak to Zelda, accept her Letter, then follow Impa to learn Zelda’s Lullaby.
 
 5. Before departing at night, bring the white dog near the market stalls to its owner in the back alley for the associated Heart Piece. Do the daytime shooting game in r09 with the ranch visit.
+
+### Repeatable rupee grind: Kakariko bugs (20 rupees per bottle)
+
+As Child Link, take an empty bottle to the Hyrule Field side of the Kakariko entrance. Cut the grass against the cliff and scoop up a bug. In Castle Town Market, show the bottle to the buyer under the stairs west of the fountain. He pays 20 rupees and you keep the bottle. Return to the patch for another run. If the grass is bare, step into Kakariko and come back. Five bottle sales cover the 100-rupee offering at Zora's Fountain.
+
+### Castle Town Shooting Gallery: 10 rupees profit per perfect replay
+
+Visit the Market gallery by day as Child Link. Win the seed bag first. After that, a standard round costs 10 rupees and a perfect score pays 20. Stay at the counter to play again if you can hit all ten targets consistently.
 
 ### Visit checklist
 
@@ -197,7 +205,7 @@ Expected: 7/100 Skulltulas · 0/36 heart pieces · 1/8 boss containers · 4 hear
 
 Next: r04
 
-[Nintendo Life — Castle](https://www.nintendolife.com/guides/zelda-ocarina-of-time-hyrule-castle-walkthrough-weird-egg-wake-up-cucco-switch-2) · [VGC — all five remake bottles](https://www.videogameschronicle.com/guide/zelda-oot-remake-all-empty-bottle-locations/)
+[Nintendo Life — Castle](https://www.nintendolife.com/guides/zelda-ocarina-of-time-hyrule-castle-walkthrough-weird-egg-wake-up-cucco-switch-2) · [VGC — all five remake bottles](https://www.videogameschronicle.com/guide/zelda-oot-remake-all-empty-bottle-locations/) · [100% Guides - How to Farm Rupees](https://www.100pguides.com/guides/zelda-ocarina-of-time-remake-how-to-farm-rupees) · [QuestFern - Rupees, Wallets and All Shops](https://questfern.com/oot/guides/rupees-and-shops/)
 
 <a id="r04"></a>
 

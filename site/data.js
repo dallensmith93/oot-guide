@@ -391,13 +391,22 @@ window.GUIDE = {
         "Kokiri Emerald"
       ],
       "steps": [
-        "Leave Kokiri Forest west; Saria gives you the Fairy Ocarina. Cross Hyrule Field north to Castle Town. In the entrance guardhouse, roll into the moving crate for its token and smash pots for shopping money.",
+        "Leave Kokiri Forest west; Saria gives you the Fairy Ocarina. Cross Hyrule Field north to Castle Town. Cross the drawbridge and take the first door on the right. Smash the guardhouse pots for about 20 to 30 rupees when the room is full. Roll into the moving crate for its token.",
         "In the east Potion Shop accept the borrowed bottle, catch the shop’s crawling bug, and show it to the merchant. You keep the bottle, with Red Potion: this is the remake’s additional bottle.",
         "Talk to Malon in the market and then by the castle approach to receive the Weird Egg. Climb the vines behind her and bypass the gate along the upper path. Stay outside the guards’ view; cross the moat and use the hatched Cucco to wake Talon at the crates.",
         "Move the milk crates to reach the crawlspace. Cross the garden using hedges and moving guards as cover. Speak to Zelda, accept her Letter, then follow Impa to learn Zelda’s Lullaby.",
         "Before departing at night, bring the white dog near the market stalls to its owner in the back alley for the associated Heart Piece. Do the daytime shooting game in r09 with the ranch visit."
       ],
-      "details": [],
+      "details": [
+        {
+          "title": "Repeatable rupee grind: Kakariko bugs (20 rupees per bottle)",
+          "text": "As Child Link, take an empty bottle to the Hyrule Field side of the Kakariko entrance. Cut the grass against the cliff and scoop up a bug. In Castle Town Market, show the bottle to the buyer under the stairs west of the fountain. He pays 20 rupees and you keep the bottle. Return to the patch for another run. If the grass is bare, step into Kakariko and come back. Five bottle sales cover the 100-rupee offering at Zora's Fountain."
+        },
+        {
+          "title": "Castle Town Shooting Gallery: 10 rupees profit per perfect replay",
+          "text": "Visit the Market gallery by day as Child Link. Win the seed bag first. After that, a standard round costs 10 rupees and a perfect score pays 20. Stay at the counter to play again if you can hit all ten targets consistently."
+        }
+      ],
       "warnings": [
         "The egg, hatched Cucco and Zelda’s Letter are successive temporary quest states; collecting every state does not mean keeping all of them at once."
       ],
@@ -465,7 +474,9 @@ window.GUIDE = {
       ],
       "sources": [
         "nl-castle",
-        "vgc-bottles"
+        "vgc-bottles",
+        "100pg-rupees",
+        "qf-rupees"
       ],
       "dungeon": false,
       "next": "r04",
@@ -13783,6 +13794,22 @@ window.GUIDE = {
       "id": "zsr-remake",
       "title": "ZeldaSpeedRuns — remake differences",
       "url": "https://www.zsr.gg/oot2026/general/remake-changes",
+      "accessed": "2026-11-23",
+      "edition": "Nintendo Switch 2 remake",
+      "kind": "walkthrough"
+    },
+    {
+      "id": "100pg-rupees",
+      "title": "100% Guides - How to Farm Rupees",
+      "url": "https://www.100pguides.com/guides/zelda-ocarina-of-time-remake-how-to-farm-rupees",
+      "accessed": "2026-11-23",
+      "edition": "Nintendo Switch 2 remake",
+      "kind": "walkthrough"
+    },
+    {
+      "id": "qf-rupees",
+      "title": "QuestFern - Rupees, Wallets and All Shops",
+      "url": "https://questfern.com/oot/guides/rupees-and-shops/",
       "accessed": "2026-11-23",
       "edition": "Nintendo Switch 2 remake",
       "kind": "walkthrough"

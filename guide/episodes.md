@@ -88,7 +88,7 @@ Expected finish: 4/100 tokens, 0/36 heart pieces, 1/8 boss containers, 4 hearts.
 
 ### [Castle Town and Zelda: the new bottle errand](walkthrough.md#r03)
 
-1. Leave Kokiri Forest west; Saria gives you the Fairy Ocarina. Cross Hyrule Field north to Castle Town. In the entrance guardhouse, roll into the moving crate for its token and smash pots for shopping money.
+1. Leave Kokiri Forest west; Saria gives you the Fairy Ocarina. Cross Hyrule Field north to Castle Town. Cross the drawbridge and take the first door on the right. Smash the guardhouse pots for about 20 to 30 rupees when the room is full. Roll into the moving crate for its token.
 
 2. In the east Potion Shop accept the borrowed bottle, catch the shop’s crawling bug, and show it to the merchant. You keep the bottle, with Red Potion: this is the remake’s additional bottle.
 
