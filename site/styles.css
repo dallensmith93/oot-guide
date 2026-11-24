@@ -5,3 +5,5 @@ main{overflow-wrap:anywhere}.objective>div{min-width:0}.stat{min-width:0}@media(
 
 /* Episode field guide */
 .collectible-number{display:block;font-size:.85rem;color:var(--accent,#8b681b);margin:.3rem 0;font-weight:700}.location-line{border-left:3px solid #b99238;padding:.4rem .75rem;background:rgba(185,146,56,.08)}.episode-plan ul{padding-left:1.4rem}.episode-plan li{margin:.65rem 0;line-height:1.65}.episode-plan h3{margin-top:1.6rem}
+
+.episode-time{border:2px solid var(--gold);border-radius:8px;background:var(--pale);padding:22px;margin:22px 0}.episode-time>span{display:block;font-size:.75rem;font-weight:700;letter-spacing:.08em;color:var(--muted)}.episode-time>strong{display:block;font-size:2rem;line-height:1.3;margin:.4rem 0;color:var(--green)}.episode-time-badge{display:inline-block;padding:5px 10px;border:1px solid var(--gold);border-radius:5px;background:var(--pale);color:var(--green)!important;font-weight:700}

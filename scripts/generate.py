@@ -130,7 +130,7 @@ def export(g):
         return f"{names.get(o['type'],o['type'])} #{o['collectionNumber']} of {o['collectionTotal']} - " if o.get('collectionTotal') else ''
     def timing(ep):
         d=ep['durationMinutes']
-        return f"Estimated playtime: {d['min']}-{d['max']} minutes. {ep['durationNote']} Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.\n"
+        return f"Estimated playtime: {d['min']}-{d['max']} minutes. {ep['durationNote']} Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.\n"
     def card(o):
         return (f"- [ ] **{collectible_label(o)}{o['id']} — {o['name']}** ({o.get('region','')}; {o.get('age','')}; {o.get('time','')})\n"
             f"  - Where: {o.get('region','')} - {o.get('sublocation',o['name'])}.\n"

@@ -4,7 +4,7 @@ Episodes preserve the existing chronological route and all stable objective IDs.
 
 ## Episode 01: A hero in the forest
 
-Estimated playtime: 60-90 minutes. Includes starting equipment, the full Deku Tree sweep and Gohma. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 20-30 minutes. Includes starting equipment, the full Deku Tree sweep and Gohma. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Kokiri Forest: sword, shield and supplies](walkthrough.md#r01)
 
@@ -102,7 +102,7 @@ Expected finish: 4/100 tokens, 0/36 heart pieces, 1/8 boss containers, 4 hearts.
 
 ## Episode 02: The princess and the forest song
 
-Estimated playtime: 75-120 minutes. Castle stealth, story dialogue, Lost Woods games and soil tokens; memory-game retries can add time. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 20-35 minutes. Castle stealth, story dialogue, Lost Woods games and soil tokens; memory-game retries can add time. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Castle Town and Zelda: the new bottle errand](walkthrough.md#r03)
 
@@ -229,7 +229,7 @@ Expected finish: 11/100 tokens, 3/36 heart pieces, 1/8 boss containers, 4 hearts
 
 ## Episode 03: Village secrets and the Gorons
 
-Estimated playtime: 75-120 minutes. Cucco gathering, village night tokens, grave digging and the Goron City visit; digging luck varies. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 25-40 minutes. Cucco gathering, village night tokens, grave digging and the Goron City visit; digging luck varies. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Kakariko and Graveyard: Cuccos, Sun’s Song and digging](walkthrough.md#r05)
 
@@ -370,7 +370,7 @@ Expected finish: 17/100 tokens, 7/36 heart pieces, 1/8 boss containers, 5 hearts
 
 ## Episode 04: Dodongo Cavern and the summit
 
-Estimated playtime: 90-135 minutes. Full Dodongo Cavern route, boss, summit fountain and mountain pickups. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 25-40 minutes. Full Dodongo Cavern route, boss, summit fountain and mountain pickups. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Dodongo Cavern: bombs and the Ruby](walkthrough.md#r07)
 
@@ -500,7 +500,7 @@ Expected finish: 25/100 tokens, 9/36 heart pieces, 2/8 boss containers, 7 hearts
 
 ## Episode 05: Ranch games and Zora waters
 
-Estimated playtime: 90-150 minutes. Ranch games, shooting, bowling, river traversal and diving; allow extra time for perfect scores. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 30-45 minutes. Ranch games, shooting, bowling, river traversal and diving; allow extra time for perfect scores. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Ranch and Market: Epona’s Song and child games](walkthrough.md#r09)
 
@@ -666,7 +666,7 @@ Expected finish: 30/100 tokens, 14/36 heart pieces, 2/8 boss containers, 8 heart
 
 ## Episode 06: Inside Jabu-Jabu
 
-Estimated playtime: 60-100 minutes. Full Jabu-Jabu clear with Ruto, all four tokens and Barinade. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 20-30 minutes. Full Jabu-Jabu clear with Ruto, all four tokens and Barinade. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Lord Jabu-Jabu’s Belly: Ruto and Barinade](walkthrough.md#r11)
 
@@ -727,7 +727,7 @@ Expected finish: 34/100 tokens, 14/36 heart pieces, 3/8 boss containers, 9 heart
 
 ## Episode 07: Masks and the Door of Time
 
-Estimated playtime: 120-180 minutes. Long child cleanup circuit, mask trades, upgrades, fishing and the Door of Time scenes. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 35-55 minutes. Long child cleanup circuit, mask trades, upgrades, fishing and the Door of Time scenes. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Child circuit: masks, upgrades and Boomerang pickups](walkthrough.md#r12)
 
@@ -980,7 +980,7 @@ Expected finish: 43/100 tokens, 17/36 heart pieces, 3/8 boss containers, 10 hear
 
 ## Episode 08: Seven years later
 
-Estimated playtime: 60-100 minutes. Epona races, adult readings, Hookshot race, windmill and Scarecrow Song setup. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 20-30 minutes. Epona races, adult readings, Hookshot race, windmill and Scarecrow Song setup. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Adult essentials: Epona, Hookshot and Storms](walkthrough.md#r14)
 
@@ -1064,7 +1064,7 @@ Expected finish: 43/100 tokens, 19/36 heart pieces, 3/8 boss containers, 10 hear
 
 ## Episode 09: The Forest Temple
 
-Estimated playtime: 90-150 minutes. Forest approach, all four Poes, dungeon collectibles and Phantom Ganon. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 30-45 minutes. Forest approach, all four Poes, dungeon collectibles and Phantom Ganon. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Forest Temple: four Poes and Phantom Ganon](walkthrough.md#r15)
 
@@ -1179,7 +1179,7 @@ Expected finish: 50/100 tokens, 19/36 heart pieces, 4/8 boss containers, 11 hear
 
 ## Episode 10: Back to childhood
 
-Estimated playtime: 100-160 minutes. Bottom of the Well plus child field rewards, frogs, chest game and remaining bean planting. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 30-45 minutes. Bottom of the Well plus child field rewards, frogs, chest game and remaining bean planting. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Return to childhood: Well and Hall access](walkthrough.md#r16)
 
@@ -1338,7 +1338,7 @@ Expected finish: 54/100 tokens, 24/36 heart pieces, 4/8 boss containers, 13 hear
 
 ## Episode 11: Fire Temple and crater rewards
 
-Estimated playtime: 120-180 minutes. Adult shooting reward, full Fire Temple, Volvagia and mountain cleanup. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 35-55 minutes. Adult shooting reward, full Fire Temple, Volvagia and mountain cleanup. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Fire Temple: Goron rescues and the Hammer](walkthrough.md#r18)
 
@@ -1506,7 +1506,7 @@ Expected finish: 62/100 tokens, 26/36 heart pieces, 5/8 boss containers, 14 hear
 
 ## Episode 12: The frozen domain
 
-Estimated playtime: 75-120 minutes. Zora region traversal, Ice Cavern sweep, Blue Fire errands and underwater rewards. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 20-35 minutes. Zora region traversal, Ice Cavern sweep, Blue Fire errands and underwater rewards. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Ice Cavern: Blue Fire and Iron Boots](walkthrough.md#r20)
 
@@ -1598,7 +1598,7 @@ Expected finish: 67/100 tokens, 28/36 heart pieces, 5/8 boss containers, 15 hear
 
 ## Episode 13: The Water Temple
 
-Estimated playtime: 90-150 minutes. Planned water-level route, all five tokens, Dark Link and Morpha; puzzle backtracking can extend this. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 30-45 minutes. Planned water-level route, all five tokens, Dark Link and Morpha; puzzle backtracking can extend this. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Water Temple: one planned water-level cycle](walkthrough.md#r21)
 
@@ -1691,7 +1691,7 @@ Expected finish: 72/100 tokens, 28/36 heart pieces, 6/8 boss containers, 16 hear
 
 ## Episode 14: Lake rewards and Biggoron's Sword
 
-Estimated playtime: 90-150 minutes. Lake rewards, adult fishing and the entire Biggoron delivery chain; fishing is the main variable. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 30-45 minutes. Lake rewards, adult fishing and the entire Biggoron delivery chain; fishing is the main variable. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Restored Lake Hylia: Fire Arrows and Golden Scale](walkthrough.md#r22)
 
@@ -1803,7 +1803,7 @@ Expected finish: 74/100 tokens, 30/36 heart pieces, 6/8 boss containers, 16 hear
 
 ## Episode 15: The Big Poe hunt
 
-Estimated playtime: 60-120 minutes. Ten Big Poes, riding between spawn points, bottle turn-ins and retries. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 20-40 minutes. Ten Big Poes, riding between spawn points, bottle turn-ins and retries. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Big Poes: all ten haunted obstacles](walkthrough.md#r24)
 
@@ -1838,7 +1838,7 @@ Expected finish: 75/100 tokens, 30/36 heart pieces, 6/8 boss containers, 16 hear
 
 ## Episode 16: Shadow Temple and regional cleanup
 
-Estimated playtime: 120-180 minutes. Full Shadow Temple plus the adult regional cleanup circuit. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 35-55 minutes. Full Shadow Temple plus the adult regional cleanup circuit. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Shadow Temple: illusions, ferry and Bongo Bongo](walkthrough.md#r25)
 
@@ -1989,7 +1989,7 @@ Expected finish: 85/100 tokens, 31/36 heart pieces, 7/8 boss containers, 17 hear
 
 ## Episode 17: Gerudo Fortress and the desert
 
-Estimated playtime: 90-150 minutes. Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 25-40 minutes. Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Gerudo Fortress: free every carpenter](walkthrough.md#r27)
 
@@ -2096,7 +2096,7 @@ Expected finish: 91/100 tokens, 32/36 heart pieces, 7/8 boss containers, 18 hear
 
 ## Episode 18: Child Spirit Temple
 
-Estimated playtime: 60-100 minutes. Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 20-30 minutes. Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Child Spirit Temple and the two remote beans](walkthrough.md#r29)
 
@@ -2149,7 +2149,7 @@ Expected finish: 96/100 tokens, 32/36 heart pieces, 7/8 boss containers, 18 hear
 
 ## Episode 19: Adult Spirit Temple
 
-Estimated playtime: 90-140 minutes. Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 30-45 minutes. Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Adult Spirit Temple: Mirror Shield and Twinrova](walkthrough.md#r30)
 
@@ -2235,7 +2235,7 @@ Expected finish: 99/100 tokens, 34/36 heart pieces, 8/8 boss containers, 19 hear
 
 ## Episode 20: The Gerudo Proving Grounds
 
-Estimated playtime: 60-100 minutes. All nine keys, Ice Arrows and the complete Proving Grounds chest sweep. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 20-35 minutes. All nine keys, Ice Arrows and the complete Proving Grounds chest sweep. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Gerudo Proving Grounds: all keys and chests](walkthrough.md#r31)
 
@@ -2272,7 +2272,7 @@ Expected finish: 99/100 tokens, 34/36 heart pieces, 8/8 boss containers, 19 hear
 
 ## Episode 21: Horseback challenges
 
-Estimated playtime: 45-90 minutes. Both horseback archery prizes, Malon race and cow verification; retries can extend this. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 15-30 minutes. Both horseback archery prizes, Malon race and cow verification; retries can extend this. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Horseback archery and Malon’s obstacle course](walkthrough.md#r32)
 
@@ -2309,7 +2309,7 @@ Expected finish: 99/100 tokens, 35/36 heart pieces, 8/8 boss containers, 19 hear
 
 ## Episode 22: The completion audit
 
-Estimated playtime: 60-180 minutes. Assumes earlier episode pickups are checked. Missing dungeon chests and remote rewards determine the length. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 15-45 minutes. Assumes earlier episode pickups are checked. Missing dungeon chests and remote rewards determine the length. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Dungeon and chest audit before the finale](walkthrough.md#r33)
 
@@ -2397,7 +2397,7 @@ Expected finish: 100/100 tokens, 36/36 heart pieces, 8/8 boss containers, 20 hea
 
 ## Episode 23: Light Arrows and Golden Gauntlets
 
-Estimated playtime: 45-75 minutes. Story scenes, Shadow Barrier, Golden Gauntlets and the final Great Fairy detour. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 15-25 minutes. Story scenes, Shadow Barrier, Golden Gauntlets and the final Great Fairy detour. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Light and Darkness: Light Arrows and castle approach](walkthrough.md#r36)
 
@@ -2461,7 +2461,7 @@ Expected finish: 100/100 tokens, 36/36 heart pieces, 8/8 boss containers, 20 hea
 
 ## Episode 24: The final barriers and Ganon
 
-Estimated playtime: 120-180 minutes. Remaining five barriers, tower battles, both final bosses, escape and ending scenes. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 35-50 minutes. Remaining five barriers, tower battles, both final bosses, escape and ending scenes. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Ganondorf’s Castle: the other five barriers](walkthrough.md#r39)
 
@@ -2540,7 +2540,7 @@ Expected finish: 100/100 tokens, 36/36 heart pieces, 8/8 boss containers, 20 hea
 
 ## Episode 25: Hall of Fallen Foes and postgame records
 
-Estimated playtime: 180-360 minutes. Optional Hall audit, individual rematches and all three gauntlets. Assumes most statues are already earned; split across sessions if needed. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 60-150 minutes. Optional Hall audit, individual rematches and all three gauntlets. Assumes most statues are already earned; split across sessions if needed. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ### [Hall of Fallen Foes and optional completion records](walkthrough.md#r41)
 
