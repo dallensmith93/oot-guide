@@ -128,6 +128,9 @@ def export(g):
     def collectible_label(o):
         names={'gs':'Gold Skulltula','hp':'Piece of Heart','boss':'Boss Heart Container','bottle':'Bottle'}
         return f"{names.get(o['type'],o['type'])} #{o['collectionNumber']} of {o['collectionTotal']} - " if o.get('collectionTotal') else ''
+    def timing(ep):
+        d=ep['durationMinutes']
+        return f"Estimated playtime: {d['min']}-{d['max']} minutes. {ep['durationNote']} Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.\n"
     def card(o):
         return (f"- [ ] **{collectible_label(o)}{o['id']} — {o['name']}** ({o.get('region','')}; {o.get('age','')}; {o.get('time','')})\n"
             f"  - Where: {o.get('region','')} - {o.get('sublocation',o['name'])}.\n"
@@ -144,6 +147,8 @@ def export(g):
         if s['id']==ep['sections'][0]:
             full.append(f"# Episode {ep['number']:02}: {ep['title']}\n")
             compact.append(f"# Episode {ep['number']:02}: {ep['title']}\n")
+            full.append(timing(ep))
+            compact.append(timing(ep))
         os=[o for o in g['objectives'] if o['section']==s['id']]
         full+=[f"<a id=\"{s['id']}\"></a>\n\n## {s['number']:02}. {s['title']}\n",f"Start: {s.get('region','')} · {s.get('age','')} · {s.get('time','')}\n",f"Prerequisites: {', '.join(s.get('requires',[])) or 'See directions below'}.\n"]
         full += [f"> **Before proceeding:** {w}\n" for w in s.get('warnings',[])]
@@ -164,6 +169,7 @@ def export(g):
     episode_lines=['# The 25-episode playthrough\n','Episodes preserve the existing chronological route and all stable objective IDs. Length varies with dungeon and minigame retries.\n']
     for ep in g['episodes']:
         episode_lines.append(f"## Episode {ep['number']:02}: {ep['title']}\n")
+        episode_lines.append(timing(ep))
         for sid in ep['sections']:
             s=next(x for x in g['sections'] if x['id']==sid)
             episode_lines.append(f"### [{s['title']}](walkthrough.md#{sid})\n")
@@ -179,6 +185,7 @@ def export(g):
         ep=next(e for e in g['episodes'] if s['id'] in e['sections'])
         if s['id']==ep['sections'][0]:
             printable.append('<h2>Episode '+str(ep['number'])+': '+h(ep['title'])+'</h2>')
+            printable.append('<p>'+h(timing(ep))+'</p>')
         printable += ['<section id="'+h(s['id'])+'"><h2>'+str(s['number'])+'. '+h(s['title'])+'</h2><p>'+h(s['region']+' · '+s['age']+' · '+s['time'])+'</p>']
         printable += ['<p class="warning"><b>Before proceeding: </b>'+h(w)+'</p>' for w in s.get('warnings',[])]
         printable += ['<ol>']+['<li>'+h(x)+'</li>' for x in s.get('steps',[])]+['</ol>']

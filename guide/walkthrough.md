@@ -24,6 +24,8 @@ Planning estimate: 40–60 hours for an efficient normal-player completion attem
 
 # Episode 01: A hero in the forest
 
+Estimated playtime: 60-90 minutes. Includes starting equipment, the full Deku Tree sweep and Gohma. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r01"></a>
 
 ## 01. Kokiri Forest: sword, shield and supplies
@@ -151,6 +153,8 @@ Next: r03
 [Nintendo Life — Deku](https://www.nintendolife.com/guides/zelda-ocarina-of-time-great-deku-tree-walkthrough-switch-2) · [ZeldaCentral remake — Deku](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/great-deku-tree/)
 
 # Episode 02: The princess and the forest song
+
+Estimated playtime: 75-120 minutes. Castle stealth, story dialogue, Lost Woods games and soil tokens; memory-game retries can add time. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r03"></a>
 
@@ -314,6 +318,8 @@ Next: r05
 [Nintendo Life — Woods](https://www.nintendolife.com/guides/zelda-ocarina-of-time-lost-woods-path-guide-maze-directions-switch-2) · [ZeldaCentral remake — Upgrades](https://zeldacentral.com/games/ocarina-of-time-remake/equipment-upgrades/)
 
 # Episode 03: Village secrets and the Gorons
+
+Estimated playtime: 75-120 minutes. Cucco gathering, village night tokens, grave digging and the Goron City visit; digging luck varies. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r05"></a>
 
@@ -486,6 +492,8 @@ Next: r07
 
 # Episode 04: Dodongo Cavern and the summit
 
+Estimated playtime: 90-135 minutes. Full Dodongo Cavern route, boss, summit fountain and mountain pickups. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r07"></a>
 
 ## 07. Dodongo Cavern: bombs and the Ruby
@@ -645,6 +653,8 @@ Next: r09
 [Nintendo Life — Fairies](https://www.nintendolife.com/guides/zelda-ocarina-of-time-great-fairy-fountain-locations-all-switch-2) · [RPG Site — remake minimalist 100% route](https://www.rpgsite.net/guide/21671-the-legend-zelda-ocarina-time-remake-minimalist-100-walkthrough-all-items-gold-skulltula-tokens-heart-pieces) · [ZeldaSpeedRuns — remake differences](https://www.zsr.gg/oot2026/general/remake-changes)
 
 # Episode 05: Ranch games and Zora waters
+
+Estimated playtime: 90-150 minutes. Ranch games, shooting, bowling, river traversal and diving; allow extra time for perfect scores. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r09"></a>
 
@@ -838,6 +848,8 @@ Next: r11
 
 # Episode 06: Inside Jabu-Jabu
 
+Estimated playtime: 60-100 minutes. Full Jabu-Jabu clear with Ruto, all four tokens and Barinade. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r11"></a>
 
 ## 11. Lord Jabu-Jabu’s Belly: Ruto and Barinade
@@ -914,6 +926,8 @@ Next: r12
 [Nintendo Life — Jabu](https://www.nintendolife.com/guides/zelda-ocarina-of-time-lord-jabu-jabu-belly-walkthrough-switch-2) · [ZeldaCentral remake — Jabu](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/lord-jabu-jabus-belly/)
 
 # Episode 07: Masks and the Door of Time
+
+Estimated playtime: 120-180 minutes. Long child cleanup circuit, mask trades, upgrades, fishing and the Door of Time scenes. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r12"></a>
 
@@ -1196,6 +1210,8 @@ Next: r14
 
 # Episode 08: Seven years later
 
+Estimated playtime: 60-100 minutes. Epona races, adult readings, Hookshot race, windmill and Scarecrow Song setup. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r14"></a>
 
 ## 14. Adult essentials: Epona, Hookshot and Storms
@@ -1291,6 +1307,8 @@ Next: r15
 [Nintendo Life — Epona](https://www.nintendolife.com/guides/zelda-ocarina-of-time-horse-epona-how-to-get-switch-2) · [Nintendo Life — Biggoron](https://www.nintendolife.com/guides/zelda-ocarina-of-time-biggeron-sword-trading-sequence-switch-2) · [Nintendo Life — Storms](https://www.nintendolife.com/guides/zelda-ocarina-of-time-song-of-storms-change-weather-music-man-switch-2) · [Nintendo Life — Scarecrow](https://www.nintendolife.com/guides/zelda-ocarina-of-time-scarecrows-song-switch-2)
 
 # Episode 09: The Forest Temple
+
+Estimated playtime: 90-150 minutes. Forest approach, all four Poes, dungeon collectibles and Phantom Ganon. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r15"></a>
 
@@ -1422,6 +1440,8 @@ Next: r16
 [Nintendo Life — Forest](https://www.nintendolife.com/guides/zelda-ocarina-of-time-forest-temple-walkthrough-switch-2) · [ZeldaCentral remake — Forest](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/forest-temple/) · [Raider King — Forest](https://raiderking.com/ocarina-of-time-remake-forest-temple-walkthrough/)
 
 # Episode 10: Back to childhood
+
+Estimated playtime: 100-160 minutes. Bottom of the Well plus child field rewards, frogs, chest game and remaining bean planting. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r16"></a>
 
@@ -1609,6 +1629,8 @@ Next: r18
 [Nintendo Life — Treasure](https://www.nintendolife.com/guides/zelda-ocarina-of-time-treasure-chest-game-switch-2) · [ZeldaCentral remake — Minigames](https://zeldacentral.com/games/ocarina-of-time-remake/mini-games/) · [Nintendo Life — Fishing](https://www.nintendolife.com/guides/zelda-ocarina-of-time-fishing-guide-rewards-secrets-switch-2) · [QuestFern remake — Beans](https://questfern.com/oot/guides/magic-beans/)
 
 # Episode 11: Fire Temple and crater rewards
+
+Estimated playtime: 120-180 minutes. Adult shooting reward, full Fire Temple, Volvagia and mountain cleanup. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r18"></a>
 
@@ -1808,6 +1830,8 @@ Next: r20
 
 # Episode 12: The frozen domain
 
+Estimated playtime: 75-120 minutes. Zora region traversal, Ice Cavern sweep, Blue Fire errands and underwater rewards. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r20"></a>
 
 ## 20. Ice Cavern: Blue Fire and Iron Boots
@@ -1911,6 +1935,8 @@ Next: r21
 [Nintendo Life — Ice](https://www.nintendolife.com/guides/zelda-ocarina-of-time-ice-cavern-walkthrough-switch-2) · [ZeldaCentral remake — Ice](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ice-cavern/) · [ZeldaSpeedRuns — remake differences](https://www.zsr.gg/oot2026/general/remake-changes)
 
 # Episode 13: The Water Temple
+
+Estimated playtime: 90-150 minutes. Planned water-level route, all five tokens, Dark Link and Morpha; puzzle backtracking can extend this. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r21"></a>
 
@@ -2020,6 +2046,8 @@ Next: r22
 [Nintendo Life — Water](https://www.nintendolife.com/guides/zelda-ocarina-of-time-water-temple-walkthrough-switch-2) · [ZeldaCentral remake — Water](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/water-temple/) · [Raider King — Water](https://raiderking.com/ocarina-of-time-remake-water-temple-walkthrough/) · [Lilly Hyrule — remake Water Temple](https://lillyhyrule.com/zelda-walkthroughs-guides/ocarina-of-time-remake/ocarina-of-time-remake-water-temple/) · [ZeldaSpeedRuns — remake differences](https://www.zsr.gg/oot2026/general/remake-changes)
 
 # Episode 14: Lake rewards and Biggoron's Sword
+
+Estimated playtime: 90-150 minutes. Lake rewards, adult fishing and the entire Biggoron delivery chain; fishing is the main variable. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r22"></a>
 
@@ -2165,6 +2193,8 @@ Next: r24
 
 # Episode 15: The Big Poe hunt
 
+Estimated playtime: 60-120 minutes. Ten Big Poes, riding between spawn points, bottle turn-ins and retries. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r24"></a>
 
 ## 24. Big Poes: all ten haunted obstacles
@@ -2211,6 +2241,8 @@ Next: r25
 [QuestFern remake — Poes](https://questfern.com/oot/guides/big-poes/) · [VGC — all five remake bottles](https://www.videogameschronicle.com/guide/zelda-oot-remake-all-empty-bottle-locations/) · [Zelda Xtreme — remake bottles and Poe rewards](https://www.zeldaxtreme.com/ocarina-of-time-remake/bottles/)
 
 # Episode 16: Shadow Temple and regional cleanup
+
+Estimated playtime: 120-180 minutes. Full Shadow Temple plus the adult regional cleanup circuit. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r25"></a>
 
@@ -2395,6 +2427,8 @@ Next: r27
 
 # Episode 17: Gerudo Fortress and the desert
 
+Estimated playtime: 90-150 minutes. Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r27"></a>
 
 ## 27. Gerudo Fortress: free every carpenter
@@ -2528,6 +2562,8 @@ Next: r29
 
 # Episode 18: Child Spirit Temple
 
+Estimated playtime: 60-100 minutes. Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r29"></a>
 
 ## 29. Child Spirit Temple and the two remote beans
@@ -2592,6 +2628,8 @@ Next: r30
 [Nintendo Life — Spirit](https://www.nintendolife.com/guides/zelda-ocarina-of-time-spirit-temple-walkthrough-twinrova-switch-2) · [ZeldaCentral remake — Spirit](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/spirit-temple/) · [Raider King — Spirit](https://raiderking.com/ocarina-of-time-remake-spirit-temple-walkthrough/) · [QuestFern remake — Beans](https://questfern.com/oot/guides/magic-beans/) · [ZeldaSpeedRuns — remake differences](https://www.zsr.gg/oot2026/general/remake-changes)
 
 # Episode 19: Adult Spirit Temple
+
+Estimated playtime: 90-140 minutes. Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r30"></a>
 
@@ -2695,6 +2733,8 @@ Next: r31
 
 # Episode 20: The Gerudo Proving Grounds
 
+Estimated playtime: 60-100 minutes. All nine keys, Ice Arrows and the complete Proving Grounds chest sweep. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r31"></a>
 
 ## 31. Gerudo Proving Grounds: all keys and chests
@@ -2744,6 +2784,8 @@ Next: r32
 
 # Episode 21: Horseback challenges
 
+Estimated playtime: 45-90 minutes. Both horseback archery prizes, Malon race and cow verification; retries can extend this. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r32"></a>
 
 ## 32. Horseback archery and Malon’s obstacle course
@@ -2792,6 +2834,8 @@ Next: r33
 [ZeldaCentral remake — Upgrades](https://zeldacentral.com/games/ocarina-of-time-remake/equipment-upgrades/) · [QuestFern remake — Minigames](https://questfern.com/oot/guides/side-quests/) · [Nintendo Life — Epona](https://www.nintendolife.com/guides/zelda-ocarina-of-time-horse-epona-how-to-get-switch-2) · [RPG Site — remake minimalist 100% route](https://www.rpgsite.net/guide/21671-the-legend-zelda-ocarina-time-remake-minimalist-100-walkthrough-all-items-gold-skulltula-tokens-heart-pieces)
 
 # Episode 22: The completion audit
+
+Estimated playtime: 60-180 minutes. Assumes earlier episode pickups are checked. Missing dungeon chests and remote rewards determine the length. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r33"></a>
 
@@ -2923,6 +2967,8 @@ Next: r36
 
 # Episode 23: Light Arrows and Golden Gauntlets
 
+Estimated playtime: 45-75 minutes. Story scenes, Shadow Barrier, Golden Gauntlets and the final Great Fairy detour. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 <a id="r36"></a>
 
 ## 36. Light and Darkness: Light Arrows and castle approach
@@ -3024,6 +3070,8 @@ Next: r39
 [Nintendo Life — Fairies](https://www.nintendolife.com/guides/zelda-ocarina-of-time-great-fairy-fountain-locations-all-switch-2) · [QuestFern remake — Fairies](https://questfern.com/oot/guides/great-fairy-fountains/) · [Nintendo Life — Castle Final](https://www.nintendolife.com/guides/zelda-ocarina-of-time-inside-ganondorfs-castle-walkthrough-final-dungeon-last-boss-switch-2) · [ZeldaSpeedRuns — remake differences](https://www.zsr.gg/oot2026/general/remake-changes)
 
 # Episode 24: The final barriers and Ganon
+
+Estimated playtime: 120-180 minutes. Remaining five barriers, tower battles, both final bosses, escape and ending scenes. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r39"></a>
 
@@ -3135,6 +3183,8 @@ Next: r41
 [Nintendo Life — Castle Final](https://www.nintendolife.com/guides/zelda-ocarina-of-time-inside-ganondorfs-castle-walkthrough-final-dungeon-last-boss-switch-2) · [ZeldaCentral remake — Final](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ganondorf-and-ganon/) · [QuestFern remake — Castle](https://questfern.com/oot/guides/ganons-castle-walkthrough/)
 
 # Episode 25: Hall of Fallen Foes and postgame records
+
+Estimated playtime: 180-360 minutes. Optional Hall audit, individual rematches and all three gauntlets. Assumes most statues are already earned; split across sessions if needed. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 <a id="r41"></a>
 

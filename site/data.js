@@ -4885,6 +4885,11 @@ window.GUIDE = {
         "r01",
         "r02"
       ],
+      "durationMinutes": {
+        "min": 60,
+        "max": 90
+      },
+      "durationNote": "Includes starting equipment, the full Deku Tree sweep and Gohma.",
       "number": 1,
       "expected": {
         "gs": 4,
@@ -4900,6 +4905,11 @@ window.GUIDE = {
         "r03",
         "r04"
       ],
+      "durationMinutes": {
+        "min": 75,
+        "max": 120
+      },
+      "durationNote": "Castle stealth, story dialogue, Lost Woods games and soil tokens; memory-game retries can add time.",
       "number": 2,
       "expected": {
         "gs": 11,
@@ -4915,6 +4925,11 @@ window.GUIDE = {
         "r05",
         "r06"
       ],
+      "durationMinutes": {
+        "min": 75,
+        "max": 120
+      },
+      "durationNote": "Cucco gathering, village night tokens, grave digging and the Goron City visit; digging luck varies.",
       "number": 3,
       "expected": {
         "gs": 17,
@@ -4930,6 +4945,11 @@ window.GUIDE = {
         "r07",
         "r08"
       ],
+      "durationMinutes": {
+        "min": 90,
+        "max": 135
+      },
+      "durationNote": "Full Dodongo Cavern route, boss, summit fountain and mountain pickups.",
       "number": 4,
       "expected": {
         "gs": 25,
@@ -4945,6 +4965,11 @@ window.GUIDE = {
         "r09",
         "r10"
       ],
+      "durationMinutes": {
+        "min": 90,
+        "max": 150
+      },
+      "durationNote": "Ranch games, shooting, bowling, river traversal and diving; allow extra time for perfect scores.",
       "number": 5,
       "expected": {
         "gs": 30,
@@ -4959,6 +4984,11 @@ window.GUIDE = {
       "sections": [
         "r11"
       ],
+      "durationMinutes": {
+        "min": 60,
+        "max": 100
+      },
+      "durationNote": "Full Jabu-Jabu clear with Ruto, all four tokens and Barinade.",
       "number": 6,
       "expected": {
         "gs": 34,
@@ -4974,6 +5004,11 @@ window.GUIDE = {
         "r12",
         "r13"
       ],
+      "durationMinutes": {
+        "min": 120,
+        "max": 180
+      },
+      "durationNote": "Long child cleanup circuit, mask trades, upgrades, fishing and the Door of Time scenes.",
       "number": 7,
       "expected": {
         "gs": 43,
@@ -4988,6 +5023,11 @@ window.GUIDE = {
       "sections": [
         "r14"
       ],
+      "durationMinutes": {
+        "min": 60,
+        "max": 100
+      },
+      "durationNote": "Epona races, adult readings, Hookshot race, windmill and Scarecrow Song setup.",
       "number": 8,
       "expected": {
         "gs": 43,
@@ -5002,6 +5042,11 @@ window.GUIDE = {
       "sections": [
         "r15"
       ],
+      "durationMinutes": {
+        "min": 90,
+        "max": 150
+      },
+      "durationNote": "Forest approach, all four Poes, dungeon collectibles and Phantom Ganon.",
       "number": 9,
       "expected": {
         "gs": 50,
@@ -5017,6 +5062,11 @@ window.GUIDE = {
         "r16",
         "r17"
       ],
+      "durationMinutes": {
+        "min": 100,
+        "max": 160
+      },
+      "durationNote": "Bottom of the Well plus child field rewards, frogs, chest game and remaining bean planting.",
       "number": 10,
       "expected": {
         "gs": 54,
@@ -5032,6 +5082,11 @@ window.GUIDE = {
         "r18",
         "r19"
       ],
+      "durationMinutes": {
+        "min": 120,
+        "max": 180
+      },
+      "durationNote": "Adult shooting reward, full Fire Temple, Volvagia and mountain cleanup.",
       "number": 11,
       "expected": {
         "gs": 62,
@@ -5046,6 +5101,11 @@ window.GUIDE = {
       "sections": [
         "r20"
       ],
+      "durationMinutes": {
+        "min": 75,
+        "max": 120
+      },
+      "durationNote": "Zora region traversal, Ice Cavern sweep, Blue Fire errands and underwater rewards.",
       "number": 12,
       "expected": {
         "gs": 67,
@@ -5060,6 +5120,11 @@ window.GUIDE = {
       "sections": [
         "r21"
       ],
+      "durationMinutes": {
+        "min": 90,
+        "max": 150
+      },
+      "durationNote": "Planned water-level route, all five tokens, Dark Link and Morpha; puzzle backtracking can extend this.",
       "number": 13,
       "expected": {
         "gs": 72,
@@ -5075,6 +5140,11 @@ window.GUIDE = {
         "r22",
         "r23"
       ],
+      "durationMinutes": {
+        "min": 90,
+        "max": 150
+      },
+      "durationNote": "Lake rewards, adult fishing and the entire Biggoron delivery chain; fishing is the main variable.",
       "number": 14,
       "expected": {
         "gs": 74,
@@ -5089,6 +5159,11 @@ window.GUIDE = {
       "sections": [
         "r24"
       ],
+      "durationMinutes": {
+        "min": 60,
+        "max": 120
+      },
+      "durationNote": "Ten Big Poes, riding between spawn points, bottle turn-ins and retries.",
       "number": 15,
       "expected": {
         "gs": 75,
@@ -5104,6 +5179,11 @@ window.GUIDE = {
         "r25",
         "r26"
       ],
+      "durationMinutes": {
+        "min": 120,
+        "max": 180
+      },
+      "durationNote": "Full Shadow Temple plus the adult regional cleanup circuit.",
       "number": 16,
       "expected": {
         "gs": 85,
@@ -5119,6 +5199,11 @@ window.GUIDE = {
         "r27",
         "r28"
       ],
+      "durationMinutes": {
+        "min": 90,
+        "max": 150
+      },
+      "durationNote": "Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup.",
       "number": 17,
       "expected": {
         "gs": 91,
@@ -5133,6 +5218,11 @@ window.GUIDE = {
       "sections": [
         "r29"
       ],
+      "durationMinutes": {
+        "min": 60,
+        "max": 100
+      },
+      "durationNote": "Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets.",
       "number": 18,
       "expected": {
         "gs": 96,
@@ -5147,6 +5237,11 @@ window.GUIDE = {
       "sections": [
         "r30"
       ],
+      "durationMinutes": {
+        "min": 90,
+        "max": 140
+      },
+      "durationNote": "Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward.",
       "number": 19,
       "expected": {
         "gs": 99,
@@ -5161,6 +5256,11 @@ window.GUIDE = {
       "sections": [
         "r31"
       ],
+      "durationMinutes": {
+        "min": 60,
+        "max": 100
+      },
+      "durationNote": "All nine keys, Ice Arrows and the complete Proving Grounds chest sweep.",
       "number": 20,
       "expected": {
         "gs": 99,
@@ -5175,6 +5275,11 @@ window.GUIDE = {
       "sections": [
         "r32"
       ],
+      "durationMinutes": {
+        "min": 45,
+        "max": 90
+      },
+      "durationNote": "Both horseback archery prizes, Malon race and cow verification; retries can extend this.",
       "number": 21,
       "expected": {
         "gs": 99,
@@ -5191,6 +5296,11 @@ window.GUIDE = {
         "r34",
         "r35"
       ],
+      "durationMinutes": {
+        "min": 60,
+        "max": 180
+      },
+      "durationNote": "Assumes earlier episode pickups are checked. Missing dungeon chests and remote rewards determine the length.",
       "number": 22,
       "expected": {
         "gs": 100,
@@ -5207,6 +5317,11 @@ window.GUIDE = {
         "r37",
         "r38"
       ],
+      "durationMinutes": {
+        "min": 45,
+        "max": 75
+      },
+      "durationNote": "Story scenes, Shadow Barrier, Golden Gauntlets and the final Great Fairy detour.",
       "number": 23,
       "expected": {
         "gs": 100,
@@ -5222,6 +5337,11 @@ window.GUIDE = {
         "r39",
         "r40"
       ],
+      "durationMinutes": {
+        "min": 120,
+        "max": 180
+      },
+      "durationNote": "Remaining five barriers, tower battles, both final bosses, escape and ending scenes.",
       "number": 24,
       "expected": {
         "gs": 100,
@@ -5236,6 +5356,11 @@ window.GUIDE = {
       "sections": [
         "r41"
       ],
+      "durationMinutes": {
+        "min": 180,
+        "max": 360
+      },
+      "durationNote": "Optional Hall audit, individual rematches and all three gauntlets. Assumes most statues are already earned; split across sessions if needed.",
       "number": 25,
       "expected": {
         "gs": 100,

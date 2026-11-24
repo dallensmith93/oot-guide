@@ -1,27 +1,318 @@
 [
-  {"id":"ep01","title":"A hero in the forest","sections":["r01","r02"]},
-  {"id":"ep02","title":"The princess and the forest song","sections":["r03","r04"]},
-  {"id":"ep03","title":"Village secrets and the Gorons","sections":["r05","r06"]},
-  {"id":"ep04","title":"Dodongo Cavern and the summit","sections":["r07","r08"]},
-  {"id":"ep05","title":"Ranch games and Zora waters","sections":["r09","r10"]},
-  {"id":"ep06","title":"Inside Jabu-Jabu","sections":["r11"]},
-  {"id":"ep07","title":"Masks and the Door of Time","sections":["r12","r13"]},
-  {"id":"ep08","title":"Seven years later","sections":["r14"]},
-  {"id":"ep09","title":"The Forest Temple","sections":["r15"]},
-  {"id":"ep10","title":"Back to childhood","sections":["r16","r17"]},
-  {"id":"ep11","title":"Fire Temple and crater rewards","sections":["r18","r19"]},
-  {"id":"ep12","title":"The frozen domain","sections":["r20"]},
-  {"id":"ep13","title":"The Water Temple","sections":["r21"]},
-  {"id":"ep14","title":"Lake rewards and Biggoron's Sword","sections":["r22","r23"]},
-  {"id":"ep15","title":"The Big Poe hunt","sections":["r24"]},
-  {"id":"ep16","title":"Shadow Temple and regional cleanup","sections":["r25","r26"]},
-  {"id":"ep17","title":"Gerudo Fortress and the desert","sections":["r27","r28"]},
-  {"id":"ep18","title":"Child Spirit Temple","sections":["r29"]},
-  {"id":"ep19","title":"Adult Spirit Temple","sections":["r30"]},
-  {"id":"ep20","title":"The Gerudo Proving Grounds","sections":["r31"]},
-  {"id":"ep21","title":"Horseback challenges","sections":["r32"]},
-  {"id":"ep22","title":"The completion audit","sections":["r33","r34","r35"]},
-  {"id":"ep23","title":"Light Arrows and Golden Gauntlets","sections":["r36","r37","r38"]},
-  {"id":"ep24","title":"The final barriers and Ganon","sections":["r39","r40"]},
-  {"id":"ep25","title":"Hall of Fallen Foes and postgame records","sections":["r41"]}
+  {
+    "id": "ep01",
+    "title": "A hero in the forest",
+    "sections": [
+      "r01",
+      "r02"
+    ],
+    "durationMinutes": {
+      "min": 60,
+      "max": 90
+    },
+    "durationNote": "Includes starting equipment, the full Deku Tree sweep and Gohma."
+  },
+  {
+    "id": "ep02",
+    "title": "The princess and the forest song",
+    "sections": [
+      "r03",
+      "r04"
+    ],
+    "durationMinutes": {
+      "min": 75,
+      "max": 120
+    },
+    "durationNote": "Castle stealth, story dialogue, Lost Woods games and soil tokens; memory-game retries can add time."
+  },
+  {
+    "id": "ep03",
+    "title": "Village secrets and the Gorons",
+    "sections": [
+      "r05",
+      "r06"
+    ],
+    "durationMinutes": {
+      "min": 75,
+      "max": 120
+    },
+    "durationNote": "Cucco gathering, village night tokens, grave digging and the Goron City visit; digging luck varies."
+  },
+  {
+    "id": "ep04",
+    "title": "Dodongo Cavern and the summit",
+    "sections": [
+      "r07",
+      "r08"
+    ],
+    "durationMinutes": {
+      "min": 90,
+      "max": 135
+    },
+    "durationNote": "Full Dodongo Cavern route, boss, summit fountain and mountain pickups."
+  },
+  {
+    "id": "ep05",
+    "title": "Ranch games and Zora waters",
+    "sections": [
+      "r09",
+      "r10"
+    ],
+    "durationMinutes": {
+      "min": 90,
+      "max": 150
+    },
+    "durationNote": "Ranch games, shooting, bowling, river traversal and diving; allow extra time for perfect scores."
+  },
+  {
+    "id": "ep06",
+    "title": "Inside Jabu-Jabu",
+    "sections": [
+      "r11"
+    ],
+    "durationMinutes": {
+      "min": 60,
+      "max": 100
+    },
+    "durationNote": "Full Jabu-Jabu clear with Ruto, all four tokens and Barinade."
+  },
+  {
+    "id": "ep07",
+    "title": "Masks and the Door of Time",
+    "sections": [
+      "r12",
+      "r13"
+    ],
+    "durationMinutes": {
+      "min": 120,
+      "max": 180
+    },
+    "durationNote": "Long child cleanup circuit, mask trades, upgrades, fishing and the Door of Time scenes."
+  },
+  {
+    "id": "ep08",
+    "title": "Seven years later",
+    "sections": [
+      "r14"
+    ],
+    "durationMinutes": {
+      "min": 60,
+      "max": 100
+    },
+    "durationNote": "Epona races, adult readings, Hookshot race, windmill and Scarecrow Song setup."
+  },
+  {
+    "id": "ep09",
+    "title": "The Forest Temple",
+    "sections": [
+      "r15"
+    ],
+    "durationMinutes": {
+      "min": 90,
+      "max": 150
+    },
+    "durationNote": "Forest approach, all four Poes, dungeon collectibles and Phantom Ganon."
+  },
+  {
+    "id": "ep10",
+    "title": "Back to childhood",
+    "sections": [
+      "r16",
+      "r17"
+    ],
+    "durationMinutes": {
+      "min": 100,
+      "max": 160
+    },
+    "durationNote": "Bottom of the Well plus child field rewards, frogs, chest game and remaining bean planting."
+  },
+  {
+    "id": "ep11",
+    "title": "Fire Temple and crater rewards",
+    "sections": [
+      "r18",
+      "r19"
+    ],
+    "durationMinutes": {
+      "min": 120,
+      "max": 180
+    },
+    "durationNote": "Adult shooting reward, full Fire Temple, Volvagia and mountain cleanup."
+  },
+  {
+    "id": "ep12",
+    "title": "The frozen domain",
+    "sections": [
+      "r20"
+    ],
+    "durationMinutes": {
+      "min": 75,
+      "max": 120
+    },
+    "durationNote": "Zora region traversal, Ice Cavern sweep, Blue Fire errands and underwater rewards."
+  },
+  {
+    "id": "ep13",
+    "title": "The Water Temple",
+    "sections": [
+      "r21"
+    ],
+    "durationMinutes": {
+      "min": 90,
+      "max": 150
+    },
+    "durationNote": "Planned water-level route, all five tokens, Dark Link and Morpha; puzzle backtracking can extend this."
+  },
+  {
+    "id": "ep14",
+    "title": "Lake rewards and Biggoron's Sword",
+    "sections": [
+      "r22",
+      "r23"
+    ],
+    "durationMinutes": {
+      "min": 90,
+      "max": 150
+    },
+    "durationNote": "Lake rewards, adult fishing and the entire Biggoron delivery chain; fishing is the main variable."
+  },
+  {
+    "id": "ep15",
+    "title": "The Big Poe hunt",
+    "sections": [
+      "r24"
+    ],
+    "durationMinutes": {
+      "min": 60,
+      "max": 120
+    },
+    "durationNote": "Ten Big Poes, riding between spawn points, bottle turn-ins and retries."
+  },
+  {
+    "id": "ep16",
+    "title": "Shadow Temple and regional cleanup",
+    "sections": [
+      "r25",
+      "r26"
+    ],
+    "durationMinutes": {
+      "min": 120,
+      "max": 180
+    },
+    "durationNote": "Full Shadow Temple plus the adult regional cleanup circuit."
+  },
+  {
+    "id": "ep17",
+    "title": "Gerudo Fortress and the desert",
+    "sections": [
+      "r27",
+      "r28"
+    ],
+    "durationMinutes": {
+      "min": 90,
+      "max": 150
+    },
+    "durationNote": "Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup."
+  },
+  {
+    "id": "ep18",
+    "title": "Child Spirit Temple",
+    "sections": [
+      "r29"
+    ],
+    "durationMinutes": {
+      "min": 60,
+      "max": 100
+    },
+    "durationNote": "Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets."
+  },
+  {
+    "id": "ep19",
+    "title": "Adult Spirit Temple",
+    "sections": [
+      "r30"
+    ],
+    "durationMinutes": {
+      "min": 90,
+      "max": 140
+    },
+    "durationNote": "Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward."
+  },
+  {
+    "id": "ep20",
+    "title": "The Gerudo Proving Grounds",
+    "sections": [
+      "r31"
+    ],
+    "durationMinutes": {
+      "min": 60,
+      "max": 100
+    },
+    "durationNote": "All nine keys, Ice Arrows and the complete Proving Grounds chest sweep."
+  },
+  {
+    "id": "ep21",
+    "title": "Horseback challenges",
+    "sections": [
+      "r32"
+    ],
+    "durationMinutes": {
+      "min": 45,
+      "max": 90
+    },
+    "durationNote": "Both horseback archery prizes, Malon race and cow verification; retries can extend this."
+  },
+  {
+    "id": "ep22",
+    "title": "The completion audit",
+    "sections": [
+      "r33",
+      "r34",
+      "r35"
+    ],
+    "durationMinutes": {
+      "min": 60,
+      "max": 180
+    },
+    "durationNote": "Assumes earlier episode pickups are checked. Missing dungeon chests and remote rewards determine the length."
+  },
+  {
+    "id": "ep23",
+    "title": "Light Arrows and Golden Gauntlets",
+    "sections": [
+      "r36",
+      "r37",
+      "r38"
+    ],
+    "durationMinutes": {
+      "min": 45,
+      "max": 75
+    },
+    "durationNote": "Story scenes, Shadow Barrier, Golden Gauntlets and the final Great Fairy detour."
+  },
+  {
+    "id": "ep24",
+    "title": "The final barriers and Ganon",
+    "sections": [
+      "r39",
+      "r40"
+    ],
+    "durationMinutes": {
+      "min": 120,
+      "max": 180
+    },
+    "durationNote": "Remaining five barriers, tower battles, both final bosses, escape and ending scenes."
+  },
+  {
+    "id": "ep25",
+    "title": "Hall of Fallen Foes and postgame records",
+    "sections": [
+      "r41"
+    ],
+    "durationMinutes": {
+      "min": 180,
+      "max": 360
+    },
+    "durationNote": "Optional Hall audit, individual rematches and all three gauntlets. Assumes most statues are already earned; split across sessions if needed."
+  }
 ]

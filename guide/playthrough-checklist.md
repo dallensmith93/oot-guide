@@ -4,6 +4,8 @@ Full directions and evidence are in [walkthrough.md](walkthrough.md).
 
 # Episode 01: A hero in the forest
 
+Estimated playtime: 60-90 minutes. Includes starting equipment, the full Deku Tree sweep and Gohma. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 01. Kokiri Forest: sword, shield and supplies
 
 - [ ] kokiri-sword — Kokiri Sword
@@ -41,6 +43,8 @@ Expected: 0/100 Skulltulas · 0/36 heart pieces · 0/8 boss containers · 3 hear
 Expected: 4/100 Skulltulas · 0/36 heart pieces · 1/8 boss containers · 4 hearts.
 
 # Episode 02: The princess and the forest song
+
+Estimated playtime: 75-120 minutes. Castle stealth, story dialogue, Lost Woods games and soil tokens; memory-game retries can add time. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 03. Castle Town and Zelda: the new bottle errand
 
@@ -89,6 +93,8 @@ Expected: 7/100 Skulltulas · 1/36 heart pieces · 1/8 boss containers · 4 hear
 Expected: 11/100 Skulltulas · 3/36 heart pieces · 1/8 boss containers · 4 hearts.
 
 # Episode 03: Village secrets and the Gorons
+
+Estimated playtime: 75-120 minutes. Cucco gathering, village night tokens, grave digging and the Goron City visit; digging luck varies. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 05. Kakariko and Graveyard: Cuccos, Sun’s Song and digging
 
@@ -142,6 +148,8 @@ Expected: 17/100 Skulltulas · 7/36 heart pieces · 1/8 boss containers · 5 hea
 
 # Episode 04: Dodongo Cavern and the summit
 
+Estimated playtime: 90-135 minutes. Full Dodongo Cavern route, boss, summit fountain and mountain pickups. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 07. Dodongo Cavern: bombs and the Ruby
 
 - [ ] bomb-bag — Bomb Bag: 20 bombs
@@ -191,6 +199,8 @@ Expected: 21/100 Skulltulas · 7/36 heart pieces · 2/8 boss containers · 6 hea
 Expected: 25/100 Skulltulas · 9/36 heart pieces · 2/8 boss containers · 7 hearts.
 
 # Episode 05: Ranch games and Zora waters
+
+Estimated playtime: 90-150 minutes. Ranch games, shooting, bowling, river traversal and diving; allow extra time for perfect scores. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 09. Ranch and Market: Epona’s Song and child games
 
@@ -254,6 +264,8 @@ Expected: 30/100 Skulltulas · 14/36 heart pieces · 2/8 boss containers · 8 he
 
 # Episode 06: Inside Jabu-Jabu
 
+Estimated playtime: 60-100 minutes. Full Jabu-Jabu clear with Ruto, all four tokens and Barinade. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 11. Lord Jabu-Jabu’s Belly: Ruto and Barinade
 
 - [ ] boomerang — Boomerang
@@ -277,6 +289,8 @@ Expected: 30/100 Skulltulas · 14/36 heart pieces · 2/8 boss containers · 8 he
 Expected: 34/100 Skulltulas · 14/36 heart pieces · 3/8 boss containers · 9 hearts.
 
 # Episode 07: Masks and the Door of Time
+
+Estimated playtime: 120-180 minutes. Long child cleanup circuit, mask trades, upgrades, fishing and the Door of Time scenes. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 12. Child circuit: masks, upgrades and Boomerang pickups
 
@@ -372,6 +386,8 @@ Expected: 43/100 Skulltulas · 17/36 heart pieces · 3/8 boss containers · 10 h
 
 # Episode 08: Seven years later
 
+Estimated playtime: 60-100 minutes. Epona races, adult readings, Hookshot race, windmill and Scarecrow Song setup. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 14. Adult essentials: Epona, Hookshot and Storms
 
 - [ ] epona — Epona obtained
@@ -401,6 +417,8 @@ Expected: 43/100 Skulltulas · 17/36 heart pieces · 3/8 boss containers · 10 h
 Expected: 43/100 Skulltulas · 19/36 heart pieces · 3/8 boss containers · 10 hearts.
 
 # Episode 09: The Forest Temple
+
+Estimated playtime: 90-150 minutes. Forest approach, all four Poes, dungeon collectibles and Phantom Ganon. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 15. Forest Temple: four Poes and Phantom Ganon
 
@@ -443,6 +461,8 @@ Expected: 43/100 Skulltulas · 19/36 heart pieces · 3/8 boss containers · 10 h
 Expected: 50/100 Skulltulas · 19/36 heart pieces · 4/8 boss containers · 11 hearts.
 
 # Episode 10: Back to childhood
+
+Estimated playtime: 100-160 minutes. Bottom of the Well plus child field rewards, frogs, chest game and remaining bean planting. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 16. Return to childhood: Well and Hall access
 
@@ -501,6 +521,8 @@ Expected: 53/100 Skulltulas · 19/36 heart pieces · 4/8 boss containers · 11 h
 Expected: 54/100 Skulltulas · 24/36 heart pieces · 4/8 boss containers · 13 hearts.
 
 # Episode 11: Fire Temple and crater rewards
+
+Estimated playtime: 120-180 minutes. Adult shooting reward, full Fire Temple, Volvagia and mountain cleanup. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 18. Fire Temple: Goron rescues and the Hammer
 
@@ -564,6 +586,8 @@ Expected: 62/100 Skulltulas · 26/36 heart pieces · 5/8 boss containers · 14 h
 
 # Episode 12: The frozen domain
 
+Estimated playtime: 75-120 minutes. Zora region traversal, Ice Cavern sweep, Blue Fire errands and underwater rewards. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 20. Ice Cavern: Blue Fire and Iron Boots
 
 - [ ] map-ice — Ice Cavern Map
@@ -598,6 +622,8 @@ Expected: 67/100 Skulltulas · 28/36 heart pieces · 5/8 boss containers · 15 h
 
 # Episode 13: The Water Temple
 
+Estimated playtime: 90-150 minutes. Planned water-level route, all five tokens, Dark Link and Morpha; puzzle backtracking can extend this. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 21. Water Temple: one planned water-level cycle
 
 - [ ] longshot — Longshot
@@ -629,6 +655,8 @@ Expected: 67/100 Skulltulas · 28/36 heart pieces · 5/8 boss containers · 15 h
 Expected: 72/100 Skulltulas · 28/36 heart pieces · 6/8 boss containers · 16 hearts.
 
 # Episode 14: Lake rewards and Biggoron's Sword
+
+Estimated playtime: 90-150 minutes. Lake rewards, adult fishing and the entire Biggoron delivery chain; fishing is the main variable. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 22. Restored Lake Hylia: Fire Arrows and Golden Scale
 
@@ -672,6 +700,8 @@ Expected: 74/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 h
 
 # Episode 15: The Big Poe hunt
 
+Estimated playtime: 60-120 minutes. Ten Big Poes, riding between spawn points, bottle turn-ins and retries. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 24. Big Poes: all ten haunted obstacles
 
 - [ ] bottle-poes — Big Poe bottle: fifth bottle
@@ -683,6 +713,8 @@ Expected: 74/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 h
 Expected: 75/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 hearts.
 
 # Episode 16: Shadow Temple and regional cleanup
+
+Estimated playtime: 120-180 minutes. Full Shadow Temple plus the adult regional cleanup circuit. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 25. Shadow Temple: illusions, ferry and Bongo Bongo
 
@@ -738,6 +770,8 @@ Expected: 85/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 h
 
 # Episode 17: Gerudo Fortress and the desert
 
+Estimated playtime: 90-150 minutes. Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 27. Gerudo Fortress: free every carpenter
 
 - [ ] gerudo-pass — Gerudo Pass
@@ -778,6 +812,8 @@ Expected: 91/100 Skulltulas · 32/36 heart pieces · 7/8 boss containers · 18 h
 
 # Episode 18: Child Spirit Temple
 
+Estimated playtime: 60-100 minutes. Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 29. Child Spirit Temple and the two remote beans
 
 - [ ] silver-gauntlets — Silver Gauntlets
@@ -797,6 +833,8 @@ Expected: 91/100 Skulltulas · 32/36 heart pieces · 7/8 boss containers · 18 h
 Expected: 96/100 Skulltulas · 32/36 heart pieces · 7/8 boss containers · 18 hearts.
 
 # Episode 19: Adult Spirit Temple
+
+Estimated playtime: 90-140 minutes. Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 30. Adult Spirit Temple: Mirror Shield and Twinrova
 
@@ -830,6 +868,8 @@ Expected: 99/100 Skulltulas · 34/36 heart pieces · 8/8 boss containers · 19 h
 
 # Episode 20: The Gerudo Proving Grounds
 
+Estimated playtime: 60-100 minutes. All nine keys, Ice Arrows and the complete Proving Grounds chest sweep. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 31. Gerudo Proving Grounds: all keys and chests
 
 - [ ] ice-arrows — Ice Arrows
@@ -841,6 +881,8 @@ Expected: 99/100 Skulltulas · 34/36 heart pieces · 8/8 boss containers · 19 h
 Expected: 99/100 Skulltulas · 34/36 heart pieces · 8/8 boss containers · 19 hearts.
 
 # Episode 21: Horseback challenges
+
+Estimated playtime: 45-90 minutes. Both horseback archery prizes, Malon race and cow verification; retries can extend this. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 32. Horseback archery and Malon’s obstacle course
 
@@ -855,6 +897,8 @@ Expected: 99/100 Skulltulas · 34/36 heart pieces · 8/8 boss containers · 19 h
 Expected: 99/100 Skulltulas · 35/36 heart pieces · 8/8 boss containers · 19 hearts.
 
 # Episode 22: The completion audit
+
+Estimated playtime: 60-180 minutes. Assumes earlier episode pickups are checked. Missing dungeon chests and remote rewards determine the length. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 33. Dungeon and chest audit before the finale
 
@@ -888,6 +932,8 @@ Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 
 
 # Episode 23: Light Arrows and Golden Gauntlets
 
+Estimated playtime: 45-75 minutes. Story scenes, Shadow Barrier, Golden Gauntlets and the final Great Fairy detour. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
 ## 36. Light and Darkness: Light Arrows and castle approach
 
 - [ ] light-arrows — Light Arrows
@@ -913,6 +959,8 @@ Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 
 Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 hearts.
 
 # Episode 24: The final barriers and Ganon
+
+Estimated playtime: 120-180 minutes. Remaining five barriers, tower battles, both final bosses, escape and ending scenes. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 39. Ganondorf’s Castle: the other five barriers
 
@@ -941,6 +989,8 @@ Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 
 Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 hearts.
 
 # Episode 25: Hall of Fallen Foes and postgame records
+
+Estimated playtime: 180-360 minutes. Optional Hall audit, individual rematches and all three gauntlets. Assumes most statues are already earned; split across sessions if needed. Planning estimate including listed pickups, normal dialogue and some retries; reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
 ## 41. Hall of Fallen Foes and optional completion records
 
