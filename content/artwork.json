@@ -1,0 +1,6 @@
+{
+  "asset": "site/sacred-forest.webp",
+  "tool": "Built-in image_gen.imagegen",
+  "purpose": "Decorative cinematic homepage background; encoded as WebP for delivery.",
+  "prompt": "Create a premium cinematic wide landscape background image for an Ocarina of Time playthrough companion website. No text, no lettering, no UI, no border. Painterly high-end fantasy environment, sophisticated and atmospheric rather than cartoon or low-poly. A weathered legendary silver sword with ornate deep blue hilt embedded in an ancient moss-covered stone pedestal on the RIGHT THIRD of the frame in a sacred forest clearing; golden late-afternoon sunlight shafts through towering emerald trees, soft volumetric mist, tiny floating golden motes, delicate ferns, ancient ruined archway in far right background. Deep dark forest shadows on the LEFT HALF with minimal detail to provide negative space for cream-colored website headline. Muted deep emerald, near-black pine green, warm champagne gold. Beautiful tactile brushwork, editorial art direction, realistic scale, breathtaking depth, rich natural light. Landscape 1536x1024 or wider. Composition must leave left 50 percent dark, sword entirely within right 45 percent. Save generated image for website use."
+}
