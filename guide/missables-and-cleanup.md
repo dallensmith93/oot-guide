@@ -86,25 +86,29 @@
 
 - Old automatic N64 spawn points and the 1,000-point bottle requirement are obsolete. In the remake: jump haunted obstacles, 30 rupees and 100 points per sale; bottle at 500, Gold Rupee at 1,000.
 
-## 25. Shadow Temple: illusions, ferry and Bongo Bongo
-
-- Carry magic for Lenses and fire. The fifth token is behind the cauldron/skull area; the ferry Scarecrow token is a separate pickup.
-
-## 26. Adult regional circuit: Longshot, Hammer and beans
-
-- This is a region circuit tied to individual collectible records, not permission to check unvisited pickups. Leave crater/Colossus bean rewards unchecked until the child planting trip.
-
-## 27. Gerudo Fortress: free every carpenter
+## 25. Gerudo Fortress: free every carpenter
 
 - The guard’s leaping spin attack can send you back to jail; blocking alone is unreliable. A capture delays the route but does not erase freed carpenters.
 
-## 29. Child Spirit Temple and the two remote beans
+## 27. Child Spirit Temple and the two remote beans
 
 - Silver Gauntlets cannot be equipped as a child. Take the chest, then age up; do not search for a child-use control.
 
-## 30. Adult Spirit Temple: Mirror Shield and Twinrova
+## 28. Adult Spirit Temple: Mirror Shield and Twinrova
 
 - If you move the adult Time Block before taking its alcove token, move it back; this is a return-trip inconvenience rather than a permanent missable.
+
+- Spirit comes before Shadow on this route. Use the two ordinary jumps onto the statue hand, Longshot for distant targets, and Song of Time for the Anubis-room gap; Hover Boots are collected in the next temple.
+
+## 29. Shadow Temple: illusions, ferry and Bongo Bongo
+
+- Carry magic for Lenses and fire. The fifth token is behind the cauldron/skull area; the ferry Scarecrow token is a separate pickup.
+
+- This is the final main temple on this route: Twinrova and the Spirit Medallion are already complete. Finish Shadow before Proving Grounds, horseback challenges and the completion audit.
+
+## 30. Adult regional circuit: Longshot, Hammer and beans
+
+- This is a region circuit tied to individual collectible records, not permission to check unvisited pickups. Leave crater/Colossus bean rewards unchecked until the child planting trip.
 
 ## 31. Gerudo Proving Grounds: all keys and chests
 

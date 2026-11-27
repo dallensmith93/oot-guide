@@ -189,19 +189,6 @@
     "durationNote": "Ten Big Poes, riding between spawn points, bottle turn-ins and retries."
   },
   {
-    "id": "ep16",
-    "title": "Shadow Temple and regional cleanup",
-    "sections": [
-      "r25",
-      "r26"
-    ],
-    "durationMinutes": {
-      "min": 35,
-      "max": 55
-    },
-    "durationNote": "Full Shadow Temple plus the adult regional cleanup circuit."
-  },
-  {
     "id": "ep17",
     "title": "Gerudo Fortress and the desert",
     "sections": [
@@ -237,6 +224,19 @@
       "max": 45
     },
     "durationNote": "Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward."
+  },
+  {
+    "id": "ep16",
+    "title": "Shadow Temple and regional cleanup",
+    "sections": [
+      "r25",
+      "r26"
+    ],
+    "durationMinutes": {
+      "min": 35,
+      "max": 55
+    },
+    "durationNote": "The final main temple, Bongo Bongo and the adult regional cleanup circuit; Spirit Temple is already complete."
   },
   {
     "id": "ep20",

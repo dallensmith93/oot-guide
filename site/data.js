@@ -3218,7 +3218,7 @@ window.GUIDE = {
         "zx-bottles"
       ],
       "dungeon": false,
-      "next": "r25",
+      "next": "r27",
       "start": "Hyrule Field: Big Poes",
       "number": 24,
       "objectiveIds": [
@@ -3234,245 +3234,6 @@ window.GUIDE = {
       },
       "episode": "ep15",
       "episodeNumber": 15
-    },
-    {
-      "id": "r25",
-      "title": "Shadow Temple: illusions, ferry and Bongo Bongo",
-      "region": "Shadow Temple",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Forest, Fire and Water Medallions",
-        "Lenses of Truth",
-        "Din’s Fire",
-        "Longshot",
-        "Iron Boots"
-      ],
-      "steps": [
-        "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
-        "Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage.",
-        "Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key.",
-        "Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room.",
-        "Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets.",
-        "In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest.",
-        "Unlock to the ferry. Move the block beneath the ladder to create the shortcut; use Scarecrow Song from the deck for the high token. Play Zelda’s Lullaby on the ferry Triforce, defeat both Stalfos and jump off at its destination.",
-        "Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss."
-      ],
-      "details": [
-        {
-          "title": "Bongo Bongo’s changed opening",
-          "text": "Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle."
-        }
-      ],
-      "warnings": [
-        "Carry magic for Lenses and fire. The fifth token is behind the cauldron/skull area; the ferry Scarecrow token is a separate pickup."
-      ],
-      "rewards": [
-        {
-          "id": "nocturne-shadow",
-          "type": "song",
-          "name": "Nocturne of Shadow",
-          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
-          "route": "r25",
-          "sources": [
-            "nl-shadow",
-            "zc-shadow",
-            "qf-shadow"
-          ],
-          "core": true
-        },
-        {
-          "id": "hover-boots",
-          "type": "equipment",
-          "name": "Hover Boots",
-          "instructions": "Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest.",
-          "route": "r25",
-          "sources": [
-            "nl-shadow",
-            "zc-shadow",
-            "qf-shadow"
-          ],
-          "core": true
-        },
-        {
-          "id": "map-shadow",
-          "type": "dungeon-map",
-          "name": "Shadow Temple Map",
-          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
-          "route": "r25",
-          "sources": [
-            "nl-shadow",
-            "zc-shadow",
-            "qf-shadow"
-          ],
-          "core": true
-        },
-        {
-          "id": "compass-shadow",
-          "type": "compass",
-          "name": "Shadow Temple Compass",
-          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key.",
-          "route": "r25",
-          "sources": [
-            "nl-shadow",
-            "zc-shadow",
-            "qf-shadow"
-          ],
-          "core": true
-        },
-        {
-          "id": "boss-key-shadow",
-          "type": "key",
-          "name": "Shadow Temple Boss Key",
-          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.",
-          "route": "r25",
-          "sources": [
-            "nl-shadow",
-            "zc-shadow",
-            "qf-shadow"
-          ],
-          "core": true
-        },
-        {
-          "id": "hc-07",
-          "type": "boss-container",
-          "name": "Bongo Bongo Heart Container",
-          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Unlock to the ferry. Move the block beneath the ladder to create the shortcut; use Scarecrow Song from the deck for the high token. Play Zelda’s Lullaby on the ferry Triforce, defeat both Stalfos and jump off at its destination. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.",
-          "route": "r25",
-          "sources": [
-            "nl-shadow",
-            "zc-shadow",
-            "qf-shadow"
-          ],
-          "core": true
-        },
-        {
-          "id": "shadow-medallion",
-          "type": "story",
-          "name": "Shadow Medallion",
-          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
-          "route": "r25",
-          "sources": [
-            "nl-shadow",
-            "zc-shadow",
-            "qf-shadow"
-          ],
-          "core": true
-        },
-        {
-          "id": "chests-shadow",
-          "type": "chest",
-          "name": "Shadow Temple chest sweep",
-          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss.",
-          "route": "r25",
-          "sources": [
-            "nl-shadow",
-            "zc-shadow",
-            "qf-shadow"
-          ],
-          "core": false
-        }
-      ],
-      "sources": [
-        "nl-shadow",
-        "zc-shadow",
-        "qf-shadow"
-      ],
-      "dungeon": true,
-      "next": "r26",
-      "start": "Shadow Temple: Shadow Temple",
-      "number": 25,
-      "objectiveIds": [
-        "nocturne-shadow",
-        "hover-boots",
-        "map-shadow",
-        "compass-shadow",
-        "boss-key-shadow",
-        "hc-07",
-        "shadow-medallion",
-        "chests-shadow",
-        "thought-13",
-        "gs-086",
-        "gs-088",
-        "gs-087",
-        "gs-089",
-        "gs-085"
-      ],
-      "expected": {
-        "gs": 80,
-        "hp": 30,
-        "boss": 7,
-        "hearts": 17
-      },
-      "episode": "ep16",
-      "episodeNumber": 16
-    },
-    {
-      "id": "r26",
-      "title": "Adult regional circuit: Longshot, Hammer and beans",
-      "region": "Hyrule",
-      "age": "Adult",
-      "time": "Night for outdoor tokens",
-      "requires": [
-        "Longshot",
-        "Megaton Hammer",
-        "Scarecrow Song",
-        "Song of Storms"
-      ],
-      "steps": [
-        "Use the forest and lake warp songs to sweep the adult-only forest, river, Domain and lake entries attached to this section. The Domain is now thawed; its night token and Storms grotto are reachable without repeating Ice Cavern.",
-        "Return to Dodongo Cavern for the Scarecrow/high-ledge token and the adult-access remainder listed in the tracker. The Bomb Bag and story reward are already complete; do not replay the boss.",
-        "Ride the child-planted Lost Woods beans and Graveyard bean for high ledges and their collectibles. Use Longshot from the roof access in Kakariko for the high night token, and speak to the rooftop man if his Heart Piece was deferred.",
-        "Finish the Kakariko shooting-gallery reward if missed earlier, and use Hammer on red rocks hiding tokens and grottos along Death Mountain. Prefer warp-and-local loops over repeatedly riding across the whole field.",
-        "At Hyrule Field’s spinning-leaf holes use Song of Storms; in bomb-marked holes bomb the entrance. Open the listed local grotto chests and free any unique cow encounter before riding west to Gerudo Valley. The remote crater and Colossus bean flights remain intentionally scheduled after r29.",
-        "Visit the ruined castle exterior while an adult: Longshot the token on the ruined building wall now. This makes the full 100-token reward claim in r34 possible before the final-castle story sequence."
-      ],
-      "details": [],
-      "warnings": [
-        "This is a region circuit tied to individual collectible records, not permission to check unvisited pickups. Leave crater/Colossus bean rewards unchecked until the child planting trip."
-      ],
-      "rewards": [
-        {
-          "id": "adult-mainland-sweep",
-          "type": "quest",
-          "name": "Adult mainland circuit completed",
-          "instructions": "Use the forest and lake warp songs to sweep the adult-only forest, river, Domain and lake entries attached to this section. The Domain is now thawed; its night token and Storms grotto are reachable without repeating Ice Cavern. Return to Dodongo Cavern for the Scarecrow/high-ledge token and the adult-access remainder listed in the tracker. The Bomb Bag and story reward are already complete; do not replay the boss. Visit the ruined castle exterior while an adult: Longshot the token on the ruined building wall now. This makes the full 100-token reward claim in r34 possible before the final-castle story sequence.",
-          "route": "r26",
-          "sources": [
-            "rpg-route",
-            "zc-nocturne",
-            "zc-maps"
-          ],
-          "core": true
-        }
-      ],
-      "sources": [
-        "rpg-route",
-        "zc-nocturne",
-        "zc-maps"
-      ],
-      "dungeon": false,
-      "next": "r27",
-      "start": "Hyrule: Adult regional circuit",
-      "number": 26,
-      "objectiveIds": [
-        "adult-mainland-sweep",
-        "grotto-07",
-        "gs-053",
-        "gs-044",
-        "gs-035",
-        "hp-010",
-        "gs-019",
-        "gs-061"
-      ],
-      "expected": {
-        "gs": 85,
-        "hp": 31,
-        "boss": 7,
-        "hearts": 17
-      },
-      "episode": "ep16",
-      "episodeNumber": 16
     },
     {
       "id": "r27",
@@ -3532,7 +3293,7 @@ window.GUIDE = {
       "dungeon": false,
       "next": "r28",
       "start": "Gerudo Fortress: Gerudo Fortress",
-      "number": 27,
+      "number": 25,
       "objectiveIds": [
         "gerudo-pass",
         "carpenters-four",
@@ -3545,13 +3306,13 @@ window.GUIDE = {
         "gs-090"
       ],
       "expected": {
-        "gs": 89,
-        "hp": 32,
-        "boss": 7,
-        "hearts": 18
+        "gs": 79,
+        "hp": 31,
+        "boss": 6,
+        "hearts": 16
       },
       "episode": "ep17",
-      "episodeNumber": 17
+      "episodeNumber": 16
     },
     {
       "id": "r28",
@@ -3646,7 +3407,7 @@ window.GUIDE = {
       "dungeon": false,
       "next": "r29",
       "start": "Evil Desert Colossus: Mirage Desert and Evil Desert Colossus",
-      "number": 28,
+      "number": 26,
       "objectiveIds": [
         "requiem-spirit",
         "nayru-love",
@@ -3656,13 +3417,13 @@ window.GUIDE = {
         "gs-095"
       ],
       "expected": {
-        "gs": 91,
-        "hp": 32,
-        "boss": 7,
-        "hearts": 18
+        "gs": 81,
+        "hp": 31,
+        "boss": 6,
+        "hearts": 16
       },
       "episode": "ep17",
-      "episodeNumber": 17
+      "episodeNumber": 16
     },
     {
       "id": "r29",
@@ -3730,7 +3491,7 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r30",
       "start": "Spirit Temple: Child Spirit Temple and the two remote beans",
-      "number": 29,
+      "number": 27,
       "objectiveIds": [
         "silver-gauntlets",
         "beans-remote",
@@ -3741,13 +3502,13 @@ window.GUIDE = {
         "gs-098"
       ],
       "expected": {
-        "gs": 96,
-        "hp": 32,
-        "boss": 7,
-        "hearts": 18
+        "gs": 86,
+        "hp": 31,
+        "boss": 6,
+        "hearts": 16
       },
       "episode": "ep18",
-      "episodeNumber": 18
+      "episodeNumber": 17
     },
     {
       "id": "r30",
@@ -3758,17 +3519,16 @@ window.GUIDE = {
       "requires": [
         "Silver Gauntlets",
         "Longshot",
-        "Hover Boots",
         "Fairy Bow",
         "Megaton Hammer"
       ],
       "steps": [
         "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
-        "Unlock the middle way and climb. Lens the invisible Floormaster; rotate the mirror to all four suns for the two small chests, enemy and exit. In the statue hall play Lullaby on the hand for its opposite-hand key; light the base torches for Map and hammer the northeast switch to open the entrance shortcut. Use Scarecrow Song for the high northwest token.",
+        "Unlock the middle way and climb. Lens the invisible Floormaster; rotate the mirror to all four suns for the two small chests, enemy and exit. In the statue hall climb the stairs to 3F, jump to the platform below and jump again onto the statue hand; Hover Boots are not needed. Play Lullaby on the hand for its opposite-hand key; light the base torches for Map and hammer the northeast switch to open the entrance shortcut. Use Scarecrow Song for the high northwest token.",
         "Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield.",
         "Reflect the Armos room’s sunlight onto its wall sun for the next key. Unlock the Anubis room’s other door. Hookshot high onto both sliding climb walls; clear their enemies. Play Lullaby at 4F’s Triforce. In Boss Key room clear slugs, strike the fake corner door, shoot its revealed eye, Hookshot the new platform and jump to the switch.",
         "Backtrack and climb the side wall to the mirror-chain room. Hit its switch, enter the mirror caverns, reflect light at the first sun for the Bomb chest, bomb the next cracked wall and turn the mirrors toward each other and the large ceiling mirror. Reflect that light at the wall sun to lower the platform, then at the statue forehead to reveal the boss route. Defeat Nabooru’s Iron Knuckle and proceed.",
-        "After Twinrova, finish the other remote bean flight: warp with Bolero of Fire and ride the crater bean planted in r29 to its high Heart Piece, then continue to the fortress for Proving Grounds. This is the adult return intentionally postponed from r19."
+        "After Twinrova, finish the other remote bean flight: warp with Bolero of Fire and ride the crater bean planted in r29 to its high Heart Piece, then head to Kakariko for Shadow Temple, the final main temple of this route. This is the adult return intentionally postponed from r19."
       ],
       "details": [
         {
@@ -3777,7 +3537,8 @@ window.GUIDE = {
         }
       ],
       "warnings": [
-        "If you move the adult Time Block before taking its alcove token, move it back; this is a return-trip inconvenience rather than a permanent missable."
+        "If you move the adult Time Block before taking its alcove token, move it back; this is a return-trip inconvenience rather than a permanent missable.",
+        "Spirit comes before Shadow on this route. Use the two ordinary jumps onto the statue hand, Longshot for distant targets, and Song of Time for the Anubis-room gap; Hover Boots are collected in the next temple."
       ],
       "rewards": [
         {
@@ -3894,9 +3655,9 @@ window.GUIDE = {
         "zsr-remake"
       ],
       "dungeon": true,
-      "next": "r31",
+      "next": "r25",
       "start": "Spirit Temple: Adult Spirit Temple",
-      "number": 30,
+      "number": 28,
       "objectiveIds": [
         "mirror-shield",
         "map-spirit",
@@ -3913,12 +3674,252 @@ window.GUIDE = {
         "hp-026"
       ],
       "expected": {
+        "gs": 89,
+        "hp": 33,
+        "boss": 7,
+        "hearts": 18
+      },
+      "episode": "ep19",
+      "episodeNumber": 18
+    },
+    {
+      "id": "r25",
+      "title": "Shadow Temple: illusions, ferry and Bongo Bongo",
+      "region": "Shadow Temple",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Forest, Fire and Water Medallions",
+        "Lenses of Truth",
+        "Din’s Fire",
+        "Longshot",
+        "Iron Boots"
+      ],
+      "steps": [
+        "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
+        "Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage.",
+        "Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key.",
+        "Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room.",
+        "Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets.",
+        "In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest.",
+        "Unlock to the ferry. Move the block beneath the ladder to create the shortcut; use Scarecrow Song from the deck for the high token. Play Zelda’s Lullaby on the ferry Triforce, defeat both Stalfos and jump off at its destination.",
+        "Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss."
+      ],
+      "details": [
+        {
+          "title": "Bongo Bongo’s changed opening",
+          "text": "Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle."
+        }
+      ],
+      "warnings": [
+        "Carry magic for Lenses and fire. The fifth token is behind the cauldron/skull area; the ferry Scarecrow token is a separate pickup.",
+        "This is the final main temple on this route: Twinrova and the Spirit Medallion are already complete. Finish Shadow before Proving Grounds, horseback challenges and the completion audit."
+      ],
+      "rewards": [
+        {
+          "id": "nocturne-shadow",
+          "type": "song",
+          "name": "Nocturne of Shadow",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
+          "route": "r25",
+          "sources": [
+            "nl-shadow",
+            "zc-shadow",
+            "qf-shadow"
+          ],
+          "core": true
+        },
+        {
+          "id": "hover-boots",
+          "type": "equipment",
+          "name": "Hover Boots",
+          "instructions": "Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest.",
+          "route": "r25",
+          "sources": [
+            "nl-shadow",
+            "zc-shadow",
+            "qf-shadow"
+          ],
+          "core": true
+        },
+        {
+          "id": "map-shadow",
+          "type": "dungeon-map",
+          "name": "Shadow Temple Map",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
+          "route": "r25",
+          "sources": [
+            "nl-shadow",
+            "zc-shadow",
+            "qf-shadow"
+          ],
+          "core": true
+        },
+        {
+          "id": "compass-shadow",
+          "type": "compass",
+          "name": "Shadow Temple Compass",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key.",
+          "route": "r25",
+          "sources": [
+            "nl-shadow",
+            "zc-shadow",
+            "qf-shadow"
+          ],
+          "core": true
+        },
+        {
+          "id": "boss-key-shadow",
+          "type": "key",
+          "name": "Shadow Temple Boss Key",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.",
+          "route": "r25",
+          "sources": [
+            "nl-shadow",
+            "zc-shadow",
+            "qf-shadow"
+          ],
+          "core": true
+        },
+        {
+          "id": "hc-07",
+          "type": "boss-container",
+          "name": "Bongo Bongo Heart Container",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Unlock to the ferry. Move the block beneath the ladder to create the shortcut; use Scarecrow Song from the deck for the high token. Play Zelda’s Lullaby on the ferry Triforce, defeat both Stalfos and jump off at its destination. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.",
+          "route": "r25",
+          "sources": [
+            "nl-shadow",
+            "zc-shadow",
+            "qf-shadow"
+          ],
+          "core": true
+        },
+        {
+          "id": "shadow-medallion",
+          "type": "story",
+          "name": "Shadow Medallion",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre.",
+          "route": "r25",
+          "sources": [
+            "nl-shadow",
+            "zc-shadow",
+            "qf-shadow"
+          ],
+          "core": true
+        },
+        {
+          "id": "chests-shadow",
+          "type": "chest",
+          "name": "Shadow Temple chest sweep",
+          "instructions": "Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss.",
+          "route": "r25",
+          "sources": [
+            "nl-shadow",
+            "zc-shadow",
+            "qf-shadow"
+          ],
+          "core": false
+        }
+      ],
+      "sources": [
+        "nl-shadow",
+        "zc-shadow",
+        "qf-shadow"
+      ],
+      "dungeon": true,
+      "next": "r26",
+      "start": "Shadow Temple: Shadow Temple",
+      "number": 29,
+      "objectiveIds": [
+        "nocturne-shadow",
+        "hover-boots",
+        "map-shadow",
+        "compass-shadow",
+        "boss-key-shadow",
+        "hc-07",
+        "shadow-medallion",
+        "chests-shadow",
+        "thought-13",
+        "gs-086",
+        "gs-088",
+        "gs-087",
+        "gs-089",
+        "gs-085"
+      ],
+      "expected": {
+        "gs": 94,
+        "hp": 33,
+        "boss": 8,
+        "hearts": 19
+      },
+      "episode": "ep16",
+      "episodeNumber": 19
+    },
+    {
+      "id": "r26",
+      "title": "Adult regional circuit: Longshot, Hammer and beans",
+      "region": "Hyrule",
+      "age": "Adult",
+      "time": "Night for outdoor tokens",
+      "requires": [
+        "Longshot",
+        "Megaton Hammer",
+        "Scarecrow Song",
+        "Song of Storms"
+      ],
+      "steps": [
+        "Use the forest and lake warp songs to sweep the adult-only forest, river, Domain and lake entries attached to this section. The Domain is now thawed; its night token and Storms grotto are reachable without repeating Ice Cavern.",
+        "Return to Dodongo Cavern for the Scarecrow/high-ledge token and the adult-access remainder listed in the tracker. The Bomb Bag and story reward are already complete; do not replay the boss.",
+        "Ride the child-planted Lost Woods beans and Graveyard bean for high ledges and their collectibles. Use Longshot from the roof access in Kakariko for the high night token, and speak to the rooftop man if his Heart Piece was deferred.",
+        "Finish the Kakariko shooting-gallery reward if missed earlier, and use Hammer on red rocks hiding tokens and grottos along Death Mountain. Prefer warp-and-local loops over repeatedly riding across the whole field.",
+        "At Hyrule Field’s spinning-leaf holes use Song of Storms; in bomb-marked holes bomb the entrance. Open the listed local grotto chests and free any unique cow encounter before riding west to Gerudo Valley. The remote crater and Colossus bean flights remain intentionally scheduled after r29.",
+        "Visit the ruined castle exterior while an adult: Longshot the token on the ruined building wall now. This makes the full 100-token reward claim in r34 possible before the final-castle story sequence."
+      ],
+      "details": [],
+      "warnings": [
+        "This is a region circuit tied to individual collectible records, not permission to check unvisited pickups. Leave crater/Colossus bean rewards unchecked until the child planting trip."
+      ],
+      "rewards": [
+        {
+          "id": "adult-mainland-sweep",
+          "type": "quest",
+          "name": "Adult mainland circuit completed",
+          "instructions": "Use the forest and lake warp songs to sweep the adult-only forest, river, Domain and lake entries attached to this section. The Domain is now thawed; its night token and Storms grotto are reachable without repeating Ice Cavern. Return to Dodongo Cavern for the Scarecrow/high-ledge token and the adult-access remainder listed in the tracker. The Bomb Bag and story reward are already complete; do not replay the boss. Visit the ruined castle exterior while an adult: Longshot the token on the ruined building wall now. This makes the full 100-token reward claim in r34 possible before the final-castle story sequence.",
+          "route": "r26",
+          "sources": [
+            "rpg-route",
+            "zc-nocturne",
+            "zc-maps"
+          ],
+          "core": true
+        }
+      ],
+      "sources": [
+        "rpg-route",
+        "zc-nocturne",
+        "zc-maps"
+      ],
+      "dungeon": false,
+      "next": "r31",
+      "start": "Hyrule: Adult regional circuit",
+      "number": 30,
+      "objectiveIds": [
+        "adult-mainland-sweep",
+        "grotto-07",
+        "gs-053",
+        "gs-044",
+        "gs-035",
+        "hp-010",
+        "gs-019",
+        "gs-061"
+      ],
+      "expected": {
         "gs": 99,
         "hp": 34,
         "boss": 8,
         "hearts": 19
       },
-      "episode": "ep19",
+      "episode": "ep16",
       "episodeNumber": 19
     },
     {
@@ -5173,26 +5174,6 @@ window.GUIDE = {
       }
     },
     {
-      "id": "ep16",
-      "title": "Shadow Temple and regional cleanup",
-      "sections": [
-        "r25",
-        "r26"
-      ],
-      "durationMinutes": {
-        "min": 35,
-        "max": 55
-      },
-      "durationNote": "Full Shadow Temple plus the adult regional cleanup circuit.",
-      "number": 16,
-      "expected": {
-        "gs": 85,
-        "hp": 31,
-        "boss": 7,
-        "hearts": 17
-      }
-    },
-    {
       "id": "ep17",
       "title": "Gerudo Fortress and the desert",
       "sections": [
@@ -5204,12 +5185,12 @@ window.GUIDE = {
         "max": 40
       },
       "durationNote": "Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup.",
-      "number": 17,
+      "number": 16,
       "expected": {
-        "gs": 91,
-        "hp": 32,
-        "boss": 7,
-        "hearts": 18
+        "gs": 81,
+        "hp": 31,
+        "boss": 6,
+        "hearts": 16
       }
     },
     {
@@ -5223,12 +5204,12 @@ window.GUIDE = {
         "max": 30
       },
       "durationNote": "Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets.",
-      "number": 18,
+      "number": 17,
       "expected": {
-        "gs": 96,
-        "hp": 32,
-        "boss": 7,
-        "hearts": 18
+        "gs": 86,
+        "hp": 31,
+        "boss": 6,
+        "hearts": 16
       }
     },
     {
@@ -5242,6 +5223,26 @@ window.GUIDE = {
         "max": 45
       },
       "durationNote": "Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward.",
+      "number": 18,
+      "expected": {
+        "gs": 89,
+        "hp": 33,
+        "boss": 7,
+        "hearts": 18
+      }
+    },
+    {
+      "id": "ep16",
+      "title": "Shadow Temple and regional cleanup",
+      "sections": [
+        "r25",
+        "r26"
+      ],
+      "durationMinutes": {
+        "min": 35,
+        "max": 55
+      },
+      "durationNote": "The final main temple, Bongo Bongo and the adult regional cleanup circuit; Spirit Temple is already complete.",
       "number": 19,
       "expected": {
         "gs": 99,
@@ -11601,6 +11602,848 @@ window.GUIDE = {
       "collectionNumber": 75
     },
     {
+      "id": "gerudo-pass",
+      "type": "story",
+      "name": "Gerudo Pass",
+      "instructions": "After the fourth rescue accept Gerudo Pass, which ends patrol arrests and opens the desert gate. Collect the fortress rooftop chest and wall token entries using Longshot. At night go to the archery range’s far target wall for its token.",
+      "route": "r27",
+      "sources": [
+        "nl-fortress",
+        "zc-fortress",
+        "qf-fortress"
+      ],
+      "core": true,
+      "section": "r27",
+      "region": "Gerudo Fortress",
+      "age": "Adult",
+      "time": "Any; night for tokens",
+      "requires": []
+    },
+    {
+      "id": "carpenters-four",
+      "type": "quest",
+      "name": "All four carpenters rescued",
+      "instructions": "After the fourth rescue accept Gerudo Pass, which ends patrol arrests and opens the desert gate. Collect the fortress rooftop chest and wall token entries using Longshot. At night go to the archery range’s far target wall for its token.",
+      "route": "r27",
+      "sources": [
+        "nl-fortress",
+        "zc-fortress",
+        "qf-fortress"
+      ],
+      "core": true,
+      "section": "r27",
+      "region": "Gerudo Fortress",
+      "age": "Adult",
+      "time": "Any; night for tokens",
+      "requires": []
+    },
+    {
+      "id": "grotto-33",
+      "type": "optional",
+      "category": "Grotto visits",
+      "number": 33,
+      "name": "Tent-side Storms cave",
+      "region": "Gerudo Valley",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Song of Storms",
+        "Lenses of Truth"
+      ],
+      "section": "r27",
+      "instructions": "Behind the carpenters' tent, play Storms at the leafy marker. Below, open the visible green-rupee chest; use the Lenses to reveal the red-rupee chest between the right-hand pots.",
+      "sourceIds": [
+        "g-quest-valley"
+      ],
+      "verification": "reported-remake",
+      "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.",
+      "sources": [
+        "g-quest-valley"
+      ]
+    },
+    {
+      "id": "grotto-35",
+      "type": "optional",
+      "category": "Grotto visits",
+      "number": 35,
+      "name": "Central-building pot cave",
+      "region": "Gerudo Fortress",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Hookshot"
+      ],
+      "section": "r27",
+      "instructions": "After Saburo's cell, exit the far door, stun the outdoor guard and go right. Drop down, take the right door, then take the left corridor at the stairs. Descend; defeat the spider and flying pots, and open the red-rupee chest.",
+      "sourceIds": [
+        "g-guru-fortress"
+      ],
+      "verification": "reported-remake",
+      "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.",
+      "sources": [
+        "g-guru-fortress"
+      ]
+    },
+    {
+      "id": "gs-027",
+      "type": "gs",
+      "number": 27,
+      "name": "Tent rear wall",
+      "region": "Gerudo Valley",
+      "sublocation": "Tent rear wall",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Longshot"
+      ],
+      "suggestedStage": "adult-gerudo",
+      "instructions": "Cross the broken bridge; at night check the rock wall behind the carpenters' tent and Longshot its spider.",
+      "sourceIds": [
+        "c-vgc-gerudo"
+      ],
+      "verification": "remake-source",
+      "section": "r27",
+      "sources": [
+        "c-vgc-gerudo"
+      ],
+      "routeNumber": 76,
+      "collectionTotal": 100,
+      "catalogueNumber": 27,
+      "collectionNumber": 76
+    },
+    {
+      "id": "gs-028",
+      "type": "gs",
+      "number": 28,
+      "name": "Rock arch",
+      "region": "Gerudo Valley",
+      "sublocation": "Rock arch",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Longshot"
+      ],
+      "suggestedStage": "adult-gerudo",
+      "instructions": "At night look under the rock arch south of the tent; Longshot the spider overhead.",
+      "sourceIds": [
+        "c-vgc-gerudo"
+      ],
+      "verification": "remake-source",
+      "section": "r27",
+      "sources": [
+        "c-vgc-gerudo"
+      ],
+      "routeNumber": 77,
+      "collectionTotal": 100,
+      "catalogueNumber": 28,
+      "collectionNumber": 77
+    },
+    {
+      "id": "hp-032",
+      "type": "hp",
+      "number": 32,
+      "name": "Highest rooftop chest",
+      "region": "Gerudo Fortress",
+      "sublocation": "Highest rooftop chest",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Scarecrow's Song",
+        "Hookshot"
+      ],
+      "suggestedStage": "post-spirit-gerudo",
+      "instructions": "Reach the fortress's uppermost rooftop. Summon Pierre across the gap, Hookshot to his ledge, and open the large chest.",
+      "sourceIds": [
+        "c-nl-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r27",
+      "sources": [
+        "c-nl-hp"
+      ],
+      "routeNumber": 31,
+      "collectionTotal": 36,
+      "catalogueNumber": 32,
+      "collectionNumber": 31
+    },
+    {
+      "id": "gs-091",
+      "type": "gs",
+      "number": 91,
+      "name": "High east wall",
+      "region": "Gerudo Fortress",
+      "sublocation": "High east wall",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Longshot"
+      ],
+      "suggestedStage": "adult-gerudo",
+      "instructions": "At night climb the fortress exterior rooftops. Face the high eastern wall and Longshot its gold spider.",
+      "sourceIds": [
+        "c-nl-gs"
+      ],
+      "verification": "remake-source",
+      "section": "r27",
+      "sources": [
+        "c-nl-gs"
+      ],
+      "routeNumber": 78,
+      "collectionTotal": 100,
+      "catalogueNumber": 91,
+      "collectionNumber": 78
+    },
+    {
+      "id": "gs-090",
+      "type": "gs",
+      "number": 90,
+      "name": "Archery far target",
+      "region": "Gerudo Fortress",
+      "sublocation": "Archery far target",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Gerudo Token",
+        "Longshot"
+      ],
+      "suggestedStage": "gerudo-archery",
+      "instructions": "At night walk to the archery range's far target; inspect its rear and Longshot the gold spider.",
+      "sourceIds": [
+        "c-nl-gs"
+      ],
+      "verification": "remake-source",
+      "section": "r27",
+      "sources": [
+        "c-nl-gs"
+      ],
+      "routeNumber": 79,
+      "collectionTotal": 100,
+      "catalogueNumber": 90,
+      "collectionNumber": 79
+    },
+    {
+      "id": "requiem-spirit",
+      "type": "song",
+      "name": "Requiem of Spirit",
+      "instructions": "Approach Spirit Temple and meet Sheik for Requiem of Spirit. Enter the lobby and inspect its age-specific passages. You need a child for the left crawlspace: use Prelude of Light, replace Master Sword, then return by Requiem.",
+      "route": "r28",
+      "sources": [
+        "nl-desert",
+        "nl-spirit",
+        "qf-fairies",
+        "completion-checklist",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r28",
+      "region": "Evil Desert Colossus",
+      "age": "Adult",
+      "time": "Any; night for tree token",
+      "requires": []
+    },
+    {
+      "id": "nayru-love",
+      "type": "item",
+      "name": "Nayru’s Love",
+      "instructions": "At Evil Desert Colossus bomb the north wall crack between the trees, play Zelda’s Lullaby and pay 300 rupees for Nayru’s Love. Use Song of Storms at the dry oasis to restore its fairy pool.",
+      "route": "r28",
+      "sources": [
+        "nl-desert",
+        "nl-spirit",
+        "qf-fairies",
+        "completion-checklist",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r28",
+      "region": "Evil Desert Colossus",
+      "age": "Adult",
+      "time": "Any; night for tree token",
+      "requires": []
+    },
+    {
+      "id": "colossus-oasis",
+      "type": "activity",
+      "name": "Colossus fairy oasis restored",
+      "instructions": "At Evil Desert Colossus bomb the north wall crack between the trees, play Zelda’s Lullaby and pay 300 rupees for Nayru’s Love. Use Song of Storms at the dry oasis to restore its fairy pool.",
+      "route": "r28",
+      "sources": [
+        "nl-desert",
+        "nl-spirit",
+        "qf-fairies",
+        "completion-checklist",
+        "zsr-remake"
+      ],
+      "core": false,
+      "section": "r28",
+      "region": "Evil Desert Colossus",
+      "age": "Adult",
+      "time": "Any; night for tree token",
+      "requires": [],
+      "optional": true
+    },
+    {
+      "id": "purple-leever",
+      "type": "hall",
+      "name": "Purple Leever defeated",
+      "instructions": "Before leaving, defeat enough green Leevers in this region to make the large purple Leever appear, and defeat it for the Hall statue. Do not count merely seeing it as a kill.",
+      "route": "r28",
+      "sources": [
+        "nl-desert",
+        "nl-spirit",
+        "qf-fairies",
+        "completion-checklist",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r28",
+      "region": "Evil Desert Colossus",
+      "age": "Adult",
+      "time": "Any; night for tree token",
+      "requires": []
+    },
+    {
+      "id": "gs-092",
+      "type": "gs",
+      "number": 92,
+      "name": "Shelter basement",
+      "region": "Mirage Desert",
+      "sublocation": "Shelter basement",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Gerudo Token",
+        "Longshot"
+      ],
+      "suggestedStage": "wasteland",
+      "instructions": "Follow the desert flags to the stone shelter. Descend its ladder and retrieve the spider on the basement wall.",
+      "sourceIds": [
+        "c-nl-gs"
+      ],
+      "verification": "remake-source",
+      "section": "r28",
+      "sources": [
+        "c-nl-gs"
+      ],
+      "routeNumber": 80,
+      "collectionTotal": 100,
+      "catalogueNumber": 92,
+      "collectionNumber": 80
+    },
+    {
+      "id": "gs-095",
+      "type": "gs",
+      "number": 95,
+      "name": "Northern bird cliff",
+      "region": "Desert Colossus",
+      "sublocation": "Northern bird cliff",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Longshot"
+      ],
+      "suggestedStage": "wasteland",
+      "instructions": "At night inspect the northern cliff near the temple entrance where birds circle; Longshot the gold spider on the wall.",
+      "sourceIds": [
+        "c-vgc-gerudo"
+      ],
+      "verification": "remake-source",
+      "section": "r28",
+      "sources": [
+        "c-vgc-gerudo"
+      ],
+      "routeNumber": 81,
+      "collectionTotal": 100,
+      "catalogueNumber": 95,
+      "collectionNumber": 81
+    },
+    {
+      "id": "silver-gauntlets",
+      "type": "upgrade",
+      "name": "Silver Gauntlets",
+      "instructions": "Unlock the upper stairs; take the high token before the Iron Knuckle door. Bait the axe swing, move away, then counter; pillars drop healing hearts when broken. Take Silver Gauntlets outside, watch Nabooru’s capture, and return to adulthood via Prelude of Light.",
+      "route": "r29",
+      "sources": [
+        "nl-spirit",
+        "zc-spirit",
+        "raider-spirit",
+        "qf-beans",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r29",
+      "region": "Spirit Temple",
+      "age": "Child",
+      "time": "Any; night for exterior token",
+      "requires": []
+    },
+    {
+      "id": "beans-remote",
+      "type": "quest",
+      "name": "Crater and Colossus beans planted",
+      "instructions": "Before the temple, warp with Bolero of Fire as a child, flush the crater soil token with a bug and plant a bean beside the warp pad. Warp out promptly; do not extend the heat damage by wandering. Warp to the Colossus, flush its entrance soil token and plant the last bean. Enter Spirit Temple, talk to Nabooru and crawl left. Clear Keese and Armos, then take northwest: stun Stalfos and Green Bubble, Boomerang the switch round the wall to make a bridge, and open its rupee chest.",
+      "route": "r29",
+      "sources": [
+        "nl-spirit",
+        "zc-spirit",
+        "raider-spirit",
+        "qf-beans",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r29",
+      "region": "Spirit Temple",
+      "age": "Child",
+      "time": "Any; night for exterior token",
+      "requires": []
+    },
+    {
+      "id": "gs-048",
+      "type": "gs",
+      "number": 48,
+      "name": "Warp-pad soil",
+      "region": "Death Mountain Crater",
+      "sublocation": "Warp-pad soil",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Bolero of Fire",
+        "Bottled Bug"
+      ],
+      "suggestedStage": "child-crater",
+      "instructions": "Warp into the crater as a child. Release a bug into the soil next to the pad; kill the spider and warp away promptly.",
+      "sourceIds": [
+        "c-vgc-crater"
+      ],
+      "verification": "remake-source",
+      "section": "r29",
+      "sources": [
+        "c-vgc-crater"
+      ],
+      "routeNumber": 82,
+      "collectionTotal": 100,
+      "catalogueNumber": 48,
+      "collectionNumber": 82
+    },
+    {
+      "id": "gs-093",
+      "type": "gs",
+      "number": 93,
+      "name": "Temple entrance soil",
+      "region": "Desert Colossus",
+      "sublocation": "Temple entrance soil",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Requiem of Spirit",
+        "Bottled Bug"
+      ],
+      "suggestedStage": "spirit-child",
+      "instructions": "Warp here as a child; release a bug into the soil beside Spirit Temple's steps and kill the spider.",
+      "sourceIds": [
+        "c-vgc-gerudo"
+      ],
+      "verification": "remake-source",
+      "section": "r29",
+      "sources": [
+        "c-vgc-gerudo"
+      ],
+      "routeNumber": 83,
+      "collectionTotal": 100,
+      "catalogueNumber": 93,
+      "collectionNumber": 83
+    },
+    {
+      "id": "gs-096",
+      "type": "gs",
+      "number": 96,
+      "name": "Child grating room",
+      "region": "Spirit Temple",
+      "sublocation": "Child grating room",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Boomerang"
+      ],
+      "suggestedStage": "spirit-child",
+      "instructions": "Crawl into the child wing and take the right-hand door. Boomerang the spider on the room's high grating.",
+      "sourceIds": [
+        "c-vgc-spirit"
+      ],
+      "verification": "remake-source",
+      "section": "r29",
+      "sources": [
+        "c-vgc-spirit"
+      ],
+      "routeNumber": 84,
+      "collectionTotal": 100,
+      "catalogueNumber": 96,
+      "collectionNumber": 84
+    },
+    {
+      "id": "gs-097",
+      "type": "gs",
+      "number": 97,
+      "name": "Statue ground-floor rear",
+      "region": "Spirit Temple",
+      "sublocation": "Statue ground-floor rear",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Boomerang"
+      ],
+      "suggestedStage": "spirit-child",
+      "instructions": "In the giant-statue chamber, go to the northeast ground-floor corner behind its right side. Collect the gold spider hidden there.",
+      "sourceIds": [
+        "c-vgc-spirit"
+      ],
+      "verification": "remake-source",
+      "section": "r29",
+      "sources": [
+        "c-vgc-spirit"
+      ],
+      "routeNumber": 85,
+      "collectionTotal": 100,
+      "catalogueNumber": 97,
+      "collectionNumber": 85
+    },
+    {
+      "id": "gs-098",
+      "type": "gs",
+      "number": 98,
+      "name": "Child Iron Knuckle hallway",
+      "region": "Spirit Temple",
+      "sublocation": "Child Iron Knuckle hallway",
+      "age": "Child",
+      "time": "Any",
+      "requires": [
+        "Boomerang"
+      ],
+      "suggestedStage": "spirit-child",
+      "instructions": "After the sunlight/block puzzle, enter the hallway before Iron Knuckle. Turn around and Boomerang the spider above the door.",
+      "sourceIds": [
+        "c-vgc-spirit"
+      ],
+      "verification": "remake-source",
+      "section": "r29",
+      "sources": [
+        "c-vgc-spirit"
+      ],
+      "routeNumber": 86,
+      "collectionTotal": 100,
+      "catalogueNumber": 98,
+      "collectionNumber": 86
+    },
+    {
+      "id": "mirror-shield",
+      "type": "equipment",
+      "name": "Mirror Shield",
+      "instructions": "Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.",
+      "route": "r30",
+      "sources": [
+        "nl-spirit",
+        "zc-spirit",
+        "raider-spirit",
+        "qf-spirit",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r30",
+      "region": "Spirit Temple",
+      "age": "Adult",
+      "time": "Any",
+      "requires": []
+    },
+    {
+      "id": "map-spirit",
+      "type": "dungeon-map",
+      "name": "Spirit Temple Map",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
+      "route": "r30",
+      "sources": [
+        "nl-spirit",
+        "zc-spirit",
+        "raider-spirit",
+        "qf-spirit",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r30",
+      "region": "Spirit Temple",
+      "age": "Adult",
+      "time": "Any",
+      "requires": []
+    },
+    {
+      "id": "compass-spirit",
+      "type": "compass",
+      "name": "Spirit Temple Compass",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
+      "route": "r30",
+      "sources": [
+        "nl-spirit",
+        "zc-spirit",
+        "raider-spirit",
+        "qf-spirit",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r30",
+      "region": "Spirit Temple",
+      "age": "Adult",
+      "time": "Any",
+      "requires": []
+    },
+    {
+      "id": "boss-key-spirit",
+      "type": "key",
+      "name": "Spirit Temple Boss Key",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like. Reflect the Armos room’s sunlight onto its wall sun for the next key. Unlock the Anubis room’s other door. Hookshot high onto both sliding climb walls; clear their enemies. Play Lullaby at 4F’s Triforce. In Boss Key room clear slugs, strike the fake corner door, shoot its revealed eye, Hookshot the new platform and jump to the switch. Backtrack and climb the side wall to the mirror-chain room. Hit its switch, enter the mirror caverns, reflect light at the first sun for the Bomb chest, bomb the next cracked wall and turn the mirrors toward each other and the large ceiling mirror. Reflect that light at the wall sun to lower the platform, then at the statue forehead to reveal the boss route. Defeat Nabooru’s Iron Knuckle and proceed.",
+      "route": "r30",
+      "sources": [
+        "nl-spirit",
+        "zc-spirit",
+        "raider-spirit",
+        "qf-spirit",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r30",
+      "region": "Spirit Temple",
+      "age": "Adult",
+      "time": "Any",
+      "requires": []
+    },
+    {
+      "id": "hc-08",
+      "type": "boss",
+      "name": "Twinrova Heart Container",
+      "instructions": "After Twinrova, finish the other remote bean flight: warp with Bolero of Fire and ride the crater bean planted in r29 to its high Heart Piece, then continue to the fortress for Proving Grounds. This is the adult return intentionally postponed from r19. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.",
+      "route": "r30",
+      "sources": [
+        "nl-spirit",
+        "zc-spirit",
+        "raider-spirit",
+        "qf-spirit",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r30",
+      "region": "Spirit Temple",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [],
+      "routeNumber": 7,
+      "collectionTotal": 8,
+      "catalogueNumber": 7,
+      "collectionNumber": 7
+    },
+    {
+      "id": "spirit-medallion",
+      "type": "story",
+      "name": "Spirit Medallion",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
+      "route": "r30",
+      "sources": [
+        "nl-spirit",
+        "zc-spirit",
+        "raider-spirit",
+        "qf-spirit",
+        "zsr-remake"
+      ],
+      "core": true,
+      "section": "r30",
+      "region": "Spirit Temple",
+      "age": "Adult",
+      "time": "Any",
+      "requires": []
+    },
+    {
+      "id": "chests-spirit",
+      "type": "chest",
+      "name": "Spirit Temple chest sweep",
+      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like. Unlock the middle way and climb. Lens the invisible Floormaster; rotate the mirror to all four suns for the two small chests, enemy and exit. In the statue hall play Lullaby on the hand for its opposite-hand key; light the base torches for Map and hammer the northeast switch to open the entrance shortcut. Use Scarecrow Song for the high northwest token. Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield. Backtrack and climb the side wall to the mirror-chain room. Hit its switch, enter the mirror caverns, reflect light at the first sun for the Bomb chest, bomb the next cracked wall and turn the mirrors toward each other and the large ceiling mirror. Reflect that light at the wall sun to lower the platform, then at the statue forehead to reveal the boss route. Defeat Nabooru’s Iron Knuckle and proceed.",
+      "route": "r30",
+      "sources": [
+        "nl-spirit",
+        "zc-spirit",
+        "raider-spirit",
+        "qf-spirit",
+        "zsr-remake"
+      ],
+      "core": false,
+      "section": "r30",
+      "region": "Spirit Temple",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [],
+      "optional": true
+    },
+    {
+      "id": "grotto-36",
+      "type": "optional",
+      "category": "Grotto visits",
+      "number": 36,
+      "name": "Northern silver-pillar encounter",
+      "region": "Desert Colossus",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Silver Gauntlets"
+      ],
+      "section": "r30",
+      "instructions": "Northeast of Spirit Temple, inspect the heavy pillar at the northern cliff's foot. Lift it and descend. The reported enemy-clear challenge rewards a purple-rupee chest; its enemy lineup is not independently verified.",
+      "sourceIds": [
+        "g-quest-list"
+      ],
+      "verification": "unconfirmed-remake",
+      "note": "Single catalogue-level report; exact fight and its reward are unverified. This record does not establish a complete official grotto count.",
+      "sources": [
+        "g-quest-list"
+      ]
+    },
+    {
+      "id": "hp-034",
+      "type": "hp",
+      "number": 34,
+      "name": "Bean-route stone arch",
+      "region": "Desert Colossus",
+      "sublocation": "Bean-route stone arch",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Planted Colossus bean",
+        "Requiem of Spirit"
+      ],
+      "suggestedStage": "spirit-adult",
+      "instructions": "Ride the bean planted outside Spirit Temple as a child. Near the route's end, jump onto the stone arch holding the heart piece.",
+      "sourceIds": [
+        "c-nl-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r30",
+      "sources": [
+        "c-nl-hp"
+      ],
+      "routeNumber": 32,
+      "collectionTotal": 36,
+      "catalogueNumber": 34,
+      "collectionNumber": 32
+    },
+    {
+      "id": "gs-094",
+      "type": "gs",
+      "number": 94,
+      "name": "Bean-route rock",
+      "region": "Desert Colossus",
+      "sublocation": "Bean-route rock",
+      "age": "Adult",
+      "time": "Night",
+      "requires": [
+        "Planted Colossus bean"
+      ],
+      "suggestedStage": "spirit-adult",
+      "instructions": "Ride the temple-entrance bean at night; step onto the large rock along its route and kill the spider.",
+      "sourceIds": [
+        "c-vgc-gerudo"
+      ],
+      "verification": "remake-source",
+      "section": "r30",
+      "sources": [
+        "c-vgc-gerudo"
+      ],
+      "routeNumber": 87,
+      "collectionTotal": 100,
+      "catalogueNumber": 94,
+      "collectionNumber": 87
+    },
+    {
+      "id": "gs-099",
+      "type": "gs",
+      "number": 99,
+      "name": "Adult boulder-room Time Block",
+      "region": "Spirit Temple",
+      "sublocation": "Adult boulder-room Time Block",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Song of Time",
+        "Silver Gauntlets",
+        "Longshot"
+      ],
+      "suggestedStage": "spirit-adult",
+      "instructions": "In the rolling-boulder silver-rupee room, remove the blue alcove block with Song of Time; retrieve the gold spider behind it.",
+      "sourceIds": [
+        "c-vgc-spirit"
+      ],
+      "verification": "remake-source",
+      "section": "r30",
+      "sources": [
+        "c-vgc-spirit"
+      ],
+      "routeNumber": 88,
+      "collectionTotal": 100,
+      "catalogueNumber": 99,
+      "collectionNumber": 88
+    },
+    {
+      "id": "gs-100",
+      "type": "gs",
+      "number": 100,
+      "name": "Statue Scarecrow balcony",
+      "region": "Spirit Temple",
+      "sublocation": "Statue Scarecrow balcony",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Scarecrow's Song",
+        "Longshot",
+        "Silver Gauntlets"
+      ],
+      "suggestedStage": "spirit-adult",
+      "instructions": "From the statue hall's high northwest ledge, summon Pierre above the statue's left side. Longshot across to the final spider.",
+      "sourceIds": [
+        "c-vgc-spirit"
+      ],
+      "verification": "remake-source",
+      "section": "r30",
+      "sources": [
+        "c-vgc-spirit"
+      ],
+      "routeNumber": 89,
+      "collectionTotal": 100,
+      "catalogueNumber": 100,
+      "collectionNumber": 89
+    },
+    {
+      "id": "hp-026",
+      "type": "hp",
+      "number": 26,
+      "name": "Bean-route high rock",
+      "region": "Death Mountain Crater",
+      "sublocation": "Bean-route high rock",
+      "age": "Adult",
+      "time": "Any",
+      "requires": [
+        "Planted Crater bean",
+        "Goron Tunic"
+      ],
+      "suggestedStage": "post-fire",
+      "instructions": "Warp in as a child and plant a bean by the Fire Temple pad. Return as adult; ride it and jump onto the tall central rock.",
+      "sourceIds": [
+        "c-link-hp"
+      ],
+      "verification": "remake-source",
+      "section": "r30",
+      "sources": [
+        "c-link-hp"
+      ],
+      "routeNumber": 33,
+      "collectionTotal": 36,
+      "catalogueNumber": 26,
+      "collectionNumber": 33
+    },
+    {
       "id": "nocturne-shadow",
       "type": "song",
       "name": "Nocturne of Shadow",
@@ -11707,10 +12550,10 @@ window.GUIDE = {
       "age": "Adult",
       "time": "Any",
       "requires": [],
-      "routeNumber": 7,
+      "routeNumber": 8,
       "collectionTotal": 8,
-      "catalogueNumber": 7,
-      "collectionNumber": 7
+      "catalogueNumber": 8,
+      "collectionNumber": 8
     },
     {
       "id": "shadow-medallion",
@@ -11789,10 +12632,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-shadow"
       ],
-      "routeNumber": 76,
+      "routeNumber": 90,
       "collectionTotal": 100,
       "catalogueNumber": 86,
-      "collectionNumber": 76
+      "collectionNumber": 90
     },
     {
       "id": "gs-088",
@@ -11817,10 +12660,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-shadow"
       ],
-      "routeNumber": 77,
+      "routeNumber": 91,
       "collectionTotal": 100,
       "catalogueNumber": 88,
-      "collectionNumber": 77
+      "collectionNumber": 91
     },
     {
       "id": "gs-087",
@@ -11844,10 +12687,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-shadow"
       ],
-      "routeNumber": 78,
+      "routeNumber": 92,
       "collectionTotal": 100,
       "catalogueNumber": 87,
-      "collectionNumber": 78
+      "collectionNumber": 92
     },
     {
       "id": "gs-089",
@@ -11872,10 +12715,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-shadow"
       ],
-      "routeNumber": 79,
+      "routeNumber": 93,
       "collectionTotal": 100,
       "catalogueNumber": 89,
-      "collectionNumber": 79
+      "collectionNumber": 93
     },
     {
       "id": "gs-085",
@@ -11901,10 +12744,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-shadow"
       ],
-      "routeNumber": 80,
+      "routeNumber": 94,
       "collectionTotal": 100,
       "catalogueNumber": 85,
-      "collectionNumber": 80
+      "collectionNumber": 94
     },
     {
       "id": "adult-mainland-sweep",
@@ -11970,10 +12813,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-zora"
       ],
-      "routeNumber": 81,
+      "routeNumber": 95,
       "collectionTotal": 100,
       "catalogueNumber": 53,
-      "collectionNumber": 81
+      "collectionNumber": 95
     },
     {
       "id": "gs-044",
@@ -11998,10 +12841,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-dodongo"
       ],
-      "routeNumber": 82,
+      "routeNumber": 96,
       "collectionTotal": 100,
       "catalogueNumber": 44,
-      "collectionNumber": 82
+      "collectionNumber": 96
     },
     {
       "id": "gs-035",
@@ -12025,10 +12868,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-kokiri"
       ],
-      "routeNumber": 83,
+      "routeNumber": 97,
       "collectionTotal": 100,
       "catalogueNumber": 35,
-      "collectionNumber": 83
+      "collectionNumber": 97
     },
     {
       "id": "hp-010",
@@ -12052,10 +12895,10 @@ window.GUIDE = {
       "sources": [
         "c-quest-hp"
       ],
-      "routeNumber": 31,
+      "routeNumber": 34,
       "collectionTotal": 36,
       "catalogueNumber": 10,
-      "collectionNumber": 31
+      "collectionNumber": 34
     },
     {
       "id": "gs-019",
@@ -12079,10 +12922,10 @@ window.GUIDE = {
       "sources": [
         "c-nl-gs"
       ],
-      "routeNumber": 84,
+      "routeNumber": 98,
       "collectionTotal": 100,
       "catalogueNumber": 19,
-      "collectionNumber": 84
+      "collectionNumber": 98
     },
     {
       "id": "gs-061",
@@ -12106,852 +12949,10 @@ window.GUIDE = {
       "sources": [
         "c-vgc-castle"
       ],
-      "routeNumber": 85,
-      "collectionTotal": 100,
-      "catalogueNumber": 61,
-      "collectionNumber": 85
-    },
-    {
-      "id": "gerudo-pass",
-      "type": "story",
-      "name": "Gerudo Pass",
-      "instructions": "After the fourth rescue accept Gerudo Pass, which ends patrol arrests and opens the desert gate. Collect the fortress rooftop chest and wall token entries using Longshot. At night go to the archery range’s far target wall for its token.",
-      "route": "r27",
-      "sources": [
-        "nl-fortress",
-        "zc-fortress",
-        "qf-fortress"
-      ],
-      "core": true,
-      "section": "r27",
-      "region": "Gerudo Fortress",
-      "age": "Adult",
-      "time": "Any; night for tokens",
-      "requires": []
-    },
-    {
-      "id": "carpenters-four",
-      "type": "quest",
-      "name": "All four carpenters rescued",
-      "instructions": "After the fourth rescue accept Gerudo Pass, which ends patrol arrests and opens the desert gate. Collect the fortress rooftop chest and wall token entries using Longshot. At night go to the archery range’s far target wall for its token.",
-      "route": "r27",
-      "sources": [
-        "nl-fortress",
-        "zc-fortress",
-        "qf-fortress"
-      ],
-      "core": true,
-      "section": "r27",
-      "region": "Gerudo Fortress",
-      "age": "Adult",
-      "time": "Any; night for tokens",
-      "requires": []
-    },
-    {
-      "id": "grotto-33",
-      "type": "optional",
-      "category": "Grotto visits",
-      "number": 33,
-      "name": "Tent-side Storms cave",
-      "region": "Gerudo Valley",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Song of Storms",
-        "Lenses of Truth"
-      ],
-      "section": "r27",
-      "instructions": "Behind the carpenters' tent, play Storms at the leafy marker. Below, open the visible green-rupee chest; use the Lenses to reveal the red-rupee chest between the right-hand pots.",
-      "sourceIds": [
-        "g-quest-valley"
-      ],
-      "verification": "reported-remake",
-      "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.",
-      "sources": [
-        "g-quest-valley"
-      ]
-    },
-    {
-      "id": "grotto-35",
-      "type": "optional",
-      "category": "Grotto visits",
-      "number": 35,
-      "name": "Central-building pot cave",
-      "region": "Gerudo Fortress",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Hookshot"
-      ],
-      "section": "r27",
-      "instructions": "After Saburo's cell, exit the far door, stun the outdoor guard and go right. Drop down, take the right door, then take the left corridor at the stairs. Descend; defeat the spider and flying pots, and open the red-rupee chest.",
-      "sourceIds": [
-        "g-guru-fortress"
-      ],
-      "verification": "reported-remake",
-      "note": "Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.",
-      "sources": [
-        "g-guru-fortress"
-      ]
-    },
-    {
-      "id": "gs-027",
-      "type": "gs",
-      "number": 27,
-      "name": "Tent rear wall",
-      "region": "Gerudo Valley",
-      "sublocation": "Tent rear wall",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Longshot"
-      ],
-      "suggestedStage": "adult-gerudo",
-      "instructions": "Cross the broken bridge; at night check the rock wall behind the carpenters' tent and Longshot its spider.",
-      "sourceIds": [
-        "c-vgc-gerudo"
-      ],
-      "verification": "remake-source",
-      "section": "r27",
-      "sources": [
-        "c-vgc-gerudo"
-      ],
-      "routeNumber": 86,
-      "collectionTotal": 100,
-      "catalogueNumber": 27,
-      "collectionNumber": 86
-    },
-    {
-      "id": "gs-028",
-      "type": "gs",
-      "number": 28,
-      "name": "Rock arch",
-      "region": "Gerudo Valley",
-      "sublocation": "Rock arch",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Longshot"
-      ],
-      "suggestedStage": "adult-gerudo",
-      "instructions": "At night look under the rock arch south of the tent; Longshot the spider overhead.",
-      "sourceIds": [
-        "c-vgc-gerudo"
-      ],
-      "verification": "remake-source",
-      "section": "r27",
-      "sources": [
-        "c-vgc-gerudo"
-      ],
-      "routeNumber": 87,
-      "collectionTotal": 100,
-      "catalogueNumber": 28,
-      "collectionNumber": 87
-    },
-    {
-      "id": "hp-032",
-      "type": "hp",
-      "number": 32,
-      "name": "Highest rooftop chest",
-      "region": "Gerudo Fortress",
-      "sublocation": "Highest rooftop chest",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Scarecrow's Song",
-        "Hookshot"
-      ],
-      "suggestedStage": "post-spirit-gerudo",
-      "instructions": "Reach the fortress's uppermost rooftop. Summon Pierre across the gap, Hookshot to his ledge, and open the large chest.",
-      "sourceIds": [
-        "c-nl-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r27",
-      "sources": [
-        "c-nl-hp"
-      ],
-      "routeNumber": 32,
-      "collectionTotal": 36,
-      "catalogueNumber": 32,
-      "collectionNumber": 32
-    },
-    {
-      "id": "gs-091",
-      "type": "gs",
-      "number": 91,
-      "name": "High east wall",
-      "region": "Gerudo Fortress",
-      "sublocation": "High east wall",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Longshot"
-      ],
-      "suggestedStage": "adult-gerudo",
-      "instructions": "At night climb the fortress exterior rooftops. Face the high eastern wall and Longshot its gold spider.",
-      "sourceIds": [
-        "c-nl-gs"
-      ],
-      "verification": "remake-source",
-      "section": "r27",
-      "sources": [
-        "c-nl-gs"
-      ],
-      "routeNumber": 88,
-      "collectionTotal": 100,
-      "catalogueNumber": 91,
-      "collectionNumber": 88
-    },
-    {
-      "id": "gs-090",
-      "type": "gs",
-      "number": 90,
-      "name": "Archery far target",
-      "region": "Gerudo Fortress",
-      "sublocation": "Archery far target",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Gerudo Token",
-        "Longshot"
-      ],
-      "suggestedStage": "gerudo-archery",
-      "instructions": "At night walk to the archery range's far target; inspect its rear and Longshot the gold spider.",
-      "sourceIds": [
-        "c-nl-gs"
-      ],
-      "verification": "remake-source",
-      "section": "r27",
-      "sources": [
-        "c-nl-gs"
-      ],
-      "routeNumber": 89,
-      "collectionTotal": 100,
-      "catalogueNumber": 90,
-      "collectionNumber": 89
-    },
-    {
-      "id": "requiem-spirit",
-      "type": "song",
-      "name": "Requiem of Spirit",
-      "instructions": "Approach Spirit Temple and meet Sheik for Requiem of Spirit. Enter the lobby and inspect its age-specific passages. You need a child for the left crawlspace: use Prelude of Light, replace Master Sword, then return by Requiem.",
-      "route": "r28",
-      "sources": [
-        "nl-desert",
-        "nl-spirit",
-        "qf-fairies",
-        "completion-checklist",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r28",
-      "region": "Evil Desert Colossus",
-      "age": "Adult",
-      "time": "Any; night for tree token",
-      "requires": []
-    },
-    {
-      "id": "nayru-love",
-      "type": "item",
-      "name": "Nayru’s Love",
-      "instructions": "At Evil Desert Colossus bomb the north wall crack between the trees, play Zelda’s Lullaby and pay 300 rupees for Nayru’s Love. Use Song of Storms at the dry oasis to restore its fairy pool.",
-      "route": "r28",
-      "sources": [
-        "nl-desert",
-        "nl-spirit",
-        "qf-fairies",
-        "completion-checklist",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r28",
-      "region": "Evil Desert Colossus",
-      "age": "Adult",
-      "time": "Any; night for tree token",
-      "requires": []
-    },
-    {
-      "id": "colossus-oasis",
-      "type": "activity",
-      "name": "Colossus fairy oasis restored",
-      "instructions": "At Evil Desert Colossus bomb the north wall crack between the trees, play Zelda’s Lullaby and pay 300 rupees for Nayru’s Love. Use Song of Storms at the dry oasis to restore its fairy pool.",
-      "route": "r28",
-      "sources": [
-        "nl-desert",
-        "nl-spirit",
-        "qf-fairies",
-        "completion-checklist",
-        "zsr-remake"
-      ],
-      "core": false,
-      "section": "r28",
-      "region": "Evil Desert Colossus",
-      "age": "Adult",
-      "time": "Any; night for tree token",
-      "requires": [],
-      "optional": true
-    },
-    {
-      "id": "purple-leever",
-      "type": "hall",
-      "name": "Purple Leever defeated",
-      "instructions": "Before leaving, defeat enough green Leevers in this region to make the large purple Leever appear, and defeat it for the Hall statue. Do not count merely seeing it as a kill.",
-      "route": "r28",
-      "sources": [
-        "nl-desert",
-        "nl-spirit",
-        "qf-fairies",
-        "completion-checklist",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r28",
-      "region": "Evil Desert Colossus",
-      "age": "Adult",
-      "time": "Any; night for tree token",
-      "requires": []
-    },
-    {
-      "id": "gs-092",
-      "type": "gs",
-      "number": 92,
-      "name": "Shelter basement",
-      "region": "Mirage Desert",
-      "sublocation": "Shelter basement",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Gerudo Token",
-        "Longshot"
-      ],
-      "suggestedStage": "wasteland",
-      "instructions": "Follow the desert flags to the stone shelter. Descend its ladder and retrieve the spider on the basement wall.",
-      "sourceIds": [
-        "c-nl-gs"
-      ],
-      "verification": "remake-source",
-      "section": "r28",
-      "sources": [
-        "c-nl-gs"
-      ],
-      "routeNumber": 90,
-      "collectionTotal": 100,
-      "catalogueNumber": 92,
-      "collectionNumber": 90
-    },
-    {
-      "id": "gs-095",
-      "type": "gs",
-      "number": 95,
-      "name": "Northern bird cliff",
-      "region": "Desert Colossus",
-      "sublocation": "Northern bird cliff",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Longshot"
-      ],
-      "suggestedStage": "wasteland",
-      "instructions": "At night inspect the northern cliff near the temple entrance where birds circle; Longshot the gold spider on the wall.",
-      "sourceIds": [
-        "c-vgc-gerudo"
-      ],
-      "verification": "remake-source",
-      "section": "r28",
-      "sources": [
-        "c-vgc-gerudo"
-      ],
-      "routeNumber": 91,
-      "collectionTotal": 100,
-      "catalogueNumber": 95,
-      "collectionNumber": 91
-    },
-    {
-      "id": "silver-gauntlets",
-      "type": "upgrade",
-      "name": "Silver Gauntlets",
-      "instructions": "Unlock the upper stairs; take the high token before the Iron Knuckle door. Bait the axe swing, move away, then counter; pillars drop healing hearts when broken. Take Silver Gauntlets outside, watch Nabooru’s capture, and return to adulthood via Prelude of Light.",
-      "route": "r29",
-      "sources": [
-        "nl-spirit",
-        "zc-spirit",
-        "raider-spirit",
-        "qf-beans",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r29",
-      "region": "Spirit Temple",
-      "age": "Child",
-      "time": "Any; night for exterior token",
-      "requires": []
-    },
-    {
-      "id": "beans-remote",
-      "type": "quest",
-      "name": "Crater and Colossus beans planted",
-      "instructions": "Before the temple, warp with Bolero of Fire as a child, flush the crater soil token with a bug and plant a bean beside the warp pad. Warp out promptly; do not extend the heat damage by wandering. Warp to the Colossus, flush its entrance soil token and plant the last bean. Enter Spirit Temple, talk to Nabooru and crawl left. Clear Keese and Armos, then take northwest: stun Stalfos and Green Bubble, Boomerang the switch round the wall to make a bridge, and open its rupee chest.",
-      "route": "r29",
-      "sources": [
-        "nl-spirit",
-        "zc-spirit",
-        "raider-spirit",
-        "qf-beans",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r29",
-      "region": "Spirit Temple",
-      "age": "Child",
-      "time": "Any; night for exterior token",
-      "requires": []
-    },
-    {
-      "id": "gs-048",
-      "type": "gs",
-      "number": 48,
-      "name": "Warp-pad soil",
-      "region": "Death Mountain Crater",
-      "sublocation": "Warp-pad soil",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Bolero of Fire",
-        "Bottled Bug"
-      ],
-      "suggestedStage": "child-crater",
-      "instructions": "Warp into the crater as a child. Release a bug into the soil next to the pad; kill the spider and warp away promptly.",
-      "sourceIds": [
-        "c-vgc-crater"
-      ],
-      "verification": "remake-source",
-      "section": "r29",
-      "sources": [
-        "c-vgc-crater"
-      ],
-      "routeNumber": 92,
-      "collectionTotal": 100,
-      "catalogueNumber": 48,
-      "collectionNumber": 92
-    },
-    {
-      "id": "gs-093",
-      "type": "gs",
-      "number": 93,
-      "name": "Temple entrance soil",
-      "region": "Desert Colossus",
-      "sublocation": "Temple entrance soil",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Requiem of Spirit",
-        "Bottled Bug"
-      ],
-      "suggestedStage": "spirit-child",
-      "instructions": "Warp here as a child; release a bug into the soil beside Spirit Temple's steps and kill the spider.",
-      "sourceIds": [
-        "c-vgc-gerudo"
-      ],
-      "verification": "remake-source",
-      "section": "r29",
-      "sources": [
-        "c-vgc-gerudo"
-      ],
-      "routeNumber": 93,
-      "collectionTotal": 100,
-      "catalogueNumber": 93,
-      "collectionNumber": 93
-    },
-    {
-      "id": "gs-096",
-      "type": "gs",
-      "number": 96,
-      "name": "Child grating room",
-      "region": "Spirit Temple",
-      "sublocation": "Child grating room",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Boomerang"
-      ],
-      "suggestedStage": "spirit-child",
-      "instructions": "Crawl into the child wing and take the right-hand door. Boomerang the spider on the room's high grating.",
-      "sourceIds": [
-        "c-vgc-spirit"
-      ],
-      "verification": "remake-source",
-      "section": "r29",
-      "sources": [
-        "c-vgc-spirit"
-      ],
-      "routeNumber": 94,
-      "collectionTotal": 100,
-      "catalogueNumber": 96,
-      "collectionNumber": 94
-    },
-    {
-      "id": "gs-097",
-      "type": "gs",
-      "number": 97,
-      "name": "Statue ground-floor rear",
-      "region": "Spirit Temple",
-      "sublocation": "Statue ground-floor rear",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Boomerang"
-      ],
-      "suggestedStage": "spirit-child",
-      "instructions": "In the giant-statue chamber, go to the northeast ground-floor corner behind its right side. Collect the gold spider hidden there.",
-      "sourceIds": [
-        "c-vgc-spirit"
-      ],
-      "verification": "remake-source",
-      "section": "r29",
-      "sources": [
-        "c-vgc-spirit"
-      ],
-      "routeNumber": 95,
-      "collectionTotal": 100,
-      "catalogueNumber": 97,
-      "collectionNumber": 95
-    },
-    {
-      "id": "gs-098",
-      "type": "gs",
-      "number": 98,
-      "name": "Child Iron Knuckle hallway",
-      "region": "Spirit Temple",
-      "sublocation": "Child Iron Knuckle hallway",
-      "age": "Child",
-      "time": "Any",
-      "requires": [
-        "Boomerang"
-      ],
-      "suggestedStage": "spirit-child",
-      "instructions": "After the sunlight/block puzzle, enter the hallway before Iron Knuckle. Turn around and Boomerang the spider above the door.",
-      "sourceIds": [
-        "c-vgc-spirit"
-      ],
-      "verification": "remake-source",
-      "section": "r29",
-      "sources": [
-        "c-vgc-spirit"
-      ],
-      "routeNumber": 96,
-      "collectionTotal": 100,
-      "catalogueNumber": 98,
-      "collectionNumber": 96
-    },
-    {
-      "id": "mirror-shield",
-      "type": "equipment",
-      "name": "Mirror Shield",
-      "instructions": "Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.",
-      "route": "r30",
-      "sources": [
-        "nl-spirit",
-        "zc-spirit",
-        "raider-spirit",
-        "qf-spirit",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r30",
-      "region": "Spirit Temple",
-      "age": "Adult",
-      "time": "Any",
-      "requires": []
-    },
-    {
-      "id": "map-spirit",
-      "type": "dungeon-map",
-      "name": "Spirit Temple Map",
-      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
-      "route": "r30",
-      "sources": [
-        "nl-spirit",
-        "zc-spirit",
-        "raider-spirit",
-        "qf-spirit",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r30",
-      "region": "Spirit Temple",
-      "age": "Adult",
-      "time": "Any",
-      "requires": []
-    },
-    {
-      "id": "compass-spirit",
-      "type": "compass",
-      "name": "Spirit Temple Compass",
-      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
-      "route": "r30",
-      "sources": [
-        "nl-spirit",
-        "zc-spirit",
-        "raider-spirit",
-        "qf-spirit",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r30",
-      "region": "Spirit Temple",
-      "age": "Adult",
-      "time": "Any",
-      "requires": []
-    },
-    {
-      "id": "boss-key-spirit",
-      "type": "key",
-      "name": "Spirit Temple Boss Key",
-      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like. Reflect the Armos room’s sunlight onto its wall sun for the next key. Unlock the Anubis room’s other door. Hookshot high onto both sliding climb walls; clear their enemies. Play Lullaby at 4F’s Triforce. In Boss Key room clear slugs, strike the fake corner door, shoot its revealed eye, Hookshot the new platform and jump to the switch. Backtrack and climb the side wall to the mirror-chain room. Hit its switch, enter the mirror caverns, reflect light at the first sun for the Bomb chest, bomb the next cracked wall and turn the mirrors toward each other and the large ceiling mirror. Reflect that light at the wall sun to lower the platform, then at the statue forehead to reveal the boss route. Defeat Nabooru’s Iron Knuckle and proceed.",
-      "route": "r30",
-      "sources": [
-        "nl-spirit",
-        "zc-spirit",
-        "raider-spirit",
-        "qf-spirit",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r30",
-      "region": "Spirit Temple",
-      "age": "Adult",
-      "time": "Any",
-      "requires": []
-    },
-    {
-      "id": "hc-08",
-      "type": "boss",
-      "name": "Twinrova Heart Container",
-      "instructions": "After Twinrova, finish the other remote bean flight: warp with Bolero of Fire and ride the crater bean planted in r29 to its high Heart Piece, then continue to the fortress for Proving Grounds. This is the adult return intentionally postponed from r19. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.",
-      "route": "r30",
-      "sources": [
-        "nl-spirit",
-        "zc-spirit",
-        "raider-spirit",
-        "qf-spirit",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r30",
-      "region": "Spirit Temple",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [],
-      "routeNumber": 8,
-      "collectionTotal": 8,
-      "catalogueNumber": 8,
-      "collectionNumber": 8
-    },
-    {
-      "id": "spirit-medallion",
-      "type": "story",
-      "name": "Spirit Medallion",
-      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like.",
-      "route": "r30",
-      "sources": [
-        "nl-spirit",
-        "zc-spirit",
-        "raider-spirit",
-        "qf-spirit",
-        "zsr-remake"
-      ],
-      "core": true,
-      "section": "r30",
-      "region": "Spirit Temple",
-      "age": "Adult",
-      "time": "Any",
-      "requires": []
-    },
-    {
-      "id": "chests-spirit",
-      "type": "chest",
-      "name": "Spirit Temple chest sweep",
-      "instructions": "Ride the new Colossus bean for its high Heart Piece and night token. Enter Spirit Temple and move the right giant block. Bomb Beamos and shoot the ceiling switch. Northwest, defeat Wolfos and play Lullaby on the Triforce for Compass. Northeast, gather five Silver Crystals among boulders; remove the Time Block for the last, taking the left-alcove token before the block moves. Take the key beyond the Like Like. Unlock the middle way and climb. Lens the invisible Floormaster; rotate the mirror to all four suns for the two small chests, enemy and exit. In the statue hall play Lullaby on the hand for its opposite-hand key; light the base torches for Map and hammer the northeast switch to open the entrance shortcut. Use Scarecrow Song for the high northwest token. Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield. Backtrack and climb the side wall to the mirror-chain room. Hit its switch, enter the mirror caverns, reflect light at the first sun for the Bomb chest, bomb the next cracked wall and turn the mirrors toward each other and the large ceiling mirror. Reflect that light at the wall sun to lower the platform, then at the statue forehead to reveal the boss route. Defeat Nabooru’s Iron Knuckle and proceed.",
-      "route": "r30",
-      "sources": [
-        "nl-spirit",
-        "zc-spirit",
-        "raider-spirit",
-        "qf-spirit",
-        "zsr-remake"
-      ],
-      "core": false,
-      "section": "r30",
-      "region": "Spirit Temple",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [],
-      "optional": true
-    },
-    {
-      "id": "grotto-36",
-      "type": "optional",
-      "category": "Grotto visits",
-      "number": 36,
-      "name": "Northern silver-pillar encounter",
-      "region": "Desert Colossus",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Silver Gauntlets"
-      ],
-      "section": "r30",
-      "instructions": "Northeast of Spirit Temple, inspect the heavy pillar at the northern cliff's foot. Lift it and descend. The reported enemy-clear challenge rewards a purple-rupee chest; its enemy lineup is not independently verified.",
-      "sourceIds": [
-        "g-quest-list"
-      ],
-      "verification": "unconfirmed-remake",
-      "note": "Single catalogue-level report; exact fight and its reward are unverified. This record does not establish a complete official grotto count.",
-      "sources": [
-        "g-quest-list"
-      ]
-    },
-    {
-      "id": "hp-034",
-      "type": "hp",
-      "number": 34,
-      "name": "Bean-route stone arch",
-      "region": "Desert Colossus",
-      "sublocation": "Bean-route stone arch",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Planted Colossus bean",
-        "Requiem of Spirit"
-      ],
-      "suggestedStage": "spirit-adult",
-      "instructions": "Ride the bean planted outside Spirit Temple as a child. Near the route's end, jump onto the stone arch holding the heart piece.",
-      "sourceIds": [
-        "c-nl-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r30",
-      "sources": [
-        "c-nl-hp"
-      ],
-      "routeNumber": 33,
-      "collectionTotal": 36,
-      "catalogueNumber": 34,
-      "collectionNumber": 33
-    },
-    {
-      "id": "gs-094",
-      "type": "gs",
-      "number": 94,
-      "name": "Bean-route rock",
-      "region": "Desert Colossus",
-      "sublocation": "Bean-route rock",
-      "age": "Adult",
-      "time": "Night",
-      "requires": [
-        "Planted Colossus bean"
-      ],
-      "suggestedStage": "spirit-adult",
-      "instructions": "Ride the temple-entrance bean at night; step onto the large rock along its route and kill the spider.",
-      "sourceIds": [
-        "c-vgc-gerudo"
-      ],
-      "verification": "remake-source",
-      "section": "r30",
-      "sources": [
-        "c-vgc-gerudo"
-      ],
-      "routeNumber": 97,
-      "collectionTotal": 100,
-      "catalogueNumber": 94,
-      "collectionNumber": 97
-    },
-    {
-      "id": "gs-099",
-      "type": "gs",
-      "number": 99,
-      "name": "Adult boulder-room Time Block",
-      "region": "Spirit Temple",
-      "sublocation": "Adult boulder-room Time Block",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Song of Time",
-        "Silver Gauntlets",
-        "Longshot"
-      ],
-      "suggestedStage": "spirit-adult",
-      "instructions": "In the rolling-boulder silver-rupee room, remove the blue alcove block with Song of Time; retrieve the gold spider behind it.",
-      "sourceIds": [
-        "c-vgc-spirit"
-      ],
-      "verification": "remake-source",
-      "section": "r30",
-      "sources": [
-        "c-vgc-spirit"
-      ],
-      "routeNumber": 98,
-      "collectionTotal": 100,
-      "catalogueNumber": 99,
-      "collectionNumber": 98
-    },
-    {
-      "id": "gs-100",
-      "type": "gs",
-      "number": 100,
-      "name": "Statue Scarecrow balcony",
-      "region": "Spirit Temple",
-      "sublocation": "Statue Scarecrow balcony",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Scarecrow's Song",
-        "Longshot",
-        "Silver Gauntlets"
-      ],
-      "suggestedStage": "spirit-adult",
-      "instructions": "From the statue hall's high northwest ledge, summon Pierre above the statue's left side. Longshot across to the final spider.",
-      "sourceIds": [
-        "c-vgc-spirit"
-      ],
-      "verification": "remake-source",
-      "section": "r30",
-      "sources": [
-        "c-vgc-spirit"
-      ],
       "routeNumber": 99,
       "collectionTotal": 100,
-      "catalogueNumber": 100,
+      "catalogueNumber": 61,
       "collectionNumber": 99
-    },
-    {
-      "id": "hp-026",
-      "type": "hp",
-      "number": 26,
-      "name": "Bean-route high rock",
-      "region": "Death Mountain Crater",
-      "sublocation": "Bean-route high rock",
-      "age": "Adult",
-      "time": "Any",
-      "requires": [
-        "Planted Crater bean",
-        "Goron Tunic"
-      ],
-      "suggestedStage": "post-fire",
-      "instructions": "Warp in as a child and plant a bean by the Fire Temple pad. Return as adult; ride it and jump onto the tall central rock.",
-      "sourceIds": [
-        "c-link-hp"
-      ],
-      "verification": "remake-source",
-      "section": "r30",
-      "sources": [
-        "c-link-hp"
-      ],
-      "routeNumber": 34,
-      "collectionTotal": 36,
-      "catalogueNumber": 26,
-      "collectionNumber": 34
     },
     {
       "id": "ice-arrows",

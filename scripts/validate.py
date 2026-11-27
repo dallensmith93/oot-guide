@@ -54,10 +54,13 @@ def check():
     for o in os: assert o['section'] in sids,o['id']
     # Important known age/order dependencies, asserted independently of totals.
     pos={s['id']:i for i,s in enumerate(ss)}
+    assert pos['r30'] < pos['r25'] < pos['r31'], 'Spirit must precede Shadow, with Proving Grounds after Hover Boots'
+    assert all(pos[sid] < pos['r25'] for sid in ('r15','r18','r21')), 'Shadow must be the final main temple'
     acquisition={
         'Bombs':'r07','Boomerang':'r11','Hookshot':'r14','Longshot':'r21',
         'Bottled Bug':'r04','Lenses of Truth':'r16','Lens of Truth':'r16',
         'Megaton Hammer':'r18','Silver Gauntlets':'r29','Golden Gauntlets':'r37',
+        'Hover Boots':'r25','Shadow Medallion':'r25',
         'Iron Boots':'r20','Goron Tunic':'r18','Golden Scale':'r22',
         'Bolero of Fire':'r18','Requiem of Spirit':'r28',
         'Song of Storms':'r14','Din\'s Fire':'r08',

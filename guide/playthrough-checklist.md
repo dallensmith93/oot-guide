@@ -712,11 +712,109 @@ Estimated playtime: 20-40 minutes. Ten Big Poes, riding between spawn points, bo
 
 Expected: 75/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 hearts.
 
-# Episode 16: Shadow Temple and regional cleanup
+# Episode 16: Gerudo Fortress and the desert
 
-Estimated playtime: 35-55 minutes. Full Shadow Temple plus the adult regional cleanup circuit. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+Estimated playtime: 25-40 minutes. Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
-## 25. Shadow Temple: illusions, ferry and Bongo Bongo
+## 25. Gerudo Fortress: free every carpenter
+
+- [ ] gerudo-pass — Gerudo Pass
+
+- [ ] carpenters-four — All four carpenters rescued
+
+- [ ] grotto-33 — Tent-side Storms cave
+
+- [ ] grotto-35 — Central-building pot cave
+
+- [ ] gs-027 — Tent rear wall
+
+- [ ] gs-028 — Rock arch
+
+- [ ] hp-032 — Highest rooftop chest
+
+- [ ] gs-091 — High east wall
+
+- [ ] gs-090 — Archery far target
+
+Expected: 79/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 hearts.
+
+## 26. Mirage Desert and Evil Desert Colossus
+
+- [ ] requiem-spirit — Requiem of Spirit
+
+- [ ] nayru-love — Nayru’s Love
+
+- [ ] colossus-oasis — Colossus fairy oasis restored
+
+- [ ] purple-leever — Purple Leever defeated
+
+- [ ] gs-092 — Shelter basement
+
+- [ ] gs-095 — Northern bird cliff
+
+Expected: 81/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 hearts.
+
+# Episode 17: Child Spirit Temple
+
+Estimated playtime: 20-30 minutes. Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
+## 27. Child Spirit Temple and the two remote beans
+
+- [ ] silver-gauntlets — Silver Gauntlets
+
+- [ ] beans-remote — Crater and Colossus beans planted
+
+- [ ] gs-048 — Warp-pad soil
+
+- [ ] gs-093 — Temple entrance soil
+
+- [ ] gs-096 — Child grating room
+
+- [ ] gs-097 — Statue ground-floor rear
+
+- [ ] gs-098 — Child Iron Knuckle hallway
+
+Expected: 86/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 hearts.
+
+# Episode 18: Adult Spirit Temple
+
+Estimated playtime: 30-45 minutes. Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
+## 28. Adult Spirit Temple: Mirror Shield and Twinrova
+
+- [ ] mirror-shield — Mirror Shield
+
+- [ ] map-spirit — Spirit Temple Map
+
+- [ ] compass-spirit — Spirit Temple Compass
+
+- [ ] boss-key-spirit — Spirit Temple Boss Key
+
+- [ ] hc-08 — Twinrova Heart Container
+
+- [ ] spirit-medallion — Spirit Medallion
+
+- [ ] chests-spirit — Spirit Temple chest sweep
+
+- [ ] grotto-36 — Northern silver-pillar encounter
+
+- [ ] hp-034 — Bean-route stone arch
+
+- [ ] gs-094 — Bean-route rock
+
+- [ ] gs-099 — Adult boulder-room Time Block
+
+- [ ] gs-100 — Statue Scarecrow balcony
+
+- [ ] hp-026 — Bean-route high rock
+
+Expected: 89/100 Skulltulas · 33/36 heart pieces · 7/8 boss containers · 18 hearts.
+
+# Episode 19: Shadow Temple and regional cleanup
+
+Estimated playtime: 35-55 minutes. The final main temple, Bongo Bongo and the adult regional cleanup circuit; Spirit Temple is already complete. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
+
+## 29. Shadow Temple: illusions, ferry and Bongo Bongo
 
 - [ ] nocturne-shadow — Nocturne of Shadow
 
@@ -746,9 +844,9 @@ Estimated playtime: 35-55 minutes. Full Shadow Temple plus the adult regional cl
 
 - [ ] gs-085 — Western skull-pot room
 
-Expected: 80/100 Skulltulas · 30/36 heart pieces · 7/8 boss containers · 17 hearts.
+Expected: 94/100 Skulltulas · 33/36 heart pieces · 8/8 boss containers · 19 hearts.
 
-## 26. Adult regional circuit: Longshot, Hammer and beans
+## 30. Adult regional circuit: Longshot, Hammer and beans
 
 - [ ] adult-mainland-sweep — Adult mainland circuit completed
 
@@ -765,104 +863,6 @@ Expected: 80/100 Skulltulas · 30/36 heart pieces · 7/8 boss containers · 17 h
 - [ ] gs-019 — Cliff beside Impa's roof
 
 - [ ] gs-061 — Ruined building wall
-
-Expected: 85/100 Skulltulas · 31/36 heart pieces · 7/8 boss containers · 17 hearts.
-
-# Episode 17: Gerudo Fortress and the desert
-
-Estimated playtime: 25-40 minutes. Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
-
-## 27. Gerudo Fortress: free every carpenter
-
-- [ ] gerudo-pass — Gerudo Pass
-
-- [ ] carpenters-four — All four carpenters rescued
-
-- [ ] grotto-33 — Tent-side Storms cave
-
-- [ ] grotto-35 — Central-building pot cave
-
-- [ ] gs-027 — Tent rear wall
-
-- [ ] gs-028 — Rock arch
-
-- [ ] hp-032 — Highest rooftop chest
-
-- [ ] gs-091 — High east wall
-
-- [ ] gs-090 — Archery far target
-
-Expected: 89/100 Skulltulas · 32/36 heart pieces · 7/8 boss containers · 18 hearts.
-
-## 28. Mirage Desert and Evil Desert Colossus
-
-- [ ] requiem-spirit — Requiem of Spirit
-
-- [ ] nayru-love — Nayru’s Love
-
-- [ ] colossus-oasis — Colossus fairy oasis restored
-
-- [ ] purple-leever — Purple Leever defeated
-
-- [ ] gs-092 — Shelter basement
-
-- [ ] gs-095 — Northern bird cliff
-
-Expected: 91/100 Skulltulas · 32/36 heart pieces · 7/8 boss containers · 18 hearts.
-
-# Episode 18: Child Spirit Temple
-
-Estimated playtime: 20-30 minutes. Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
-
-## 29. Child Spirit Temple and the two remote beans
-
-- [ ] silver-gauntlets — Silver Gauntlets
-
-- [ ] beans-remote — Crater and Colossus beans planted
-
-- [ ] gs-048 — Warp-pad soil
-
-- [ ] gs-093 — Temple entrance soil
-
-- [ ] gs-096 — Child grating room
-
-- [ ] gs-097 — Statue ground-floor rear
-
-- [ ] gs-098 — Child Iron Knuckle hallway
-
-Expected: 96/100 Skulltulas · 32/36 heart pieces · 7/8 boss containers · 18 hearts.
-
-# Episode 19: Adult Spirit Temple
-
-Estimated playtime: 30-45 minutes. Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
-
-## 30. Adult Spirit Temple: Mirror Shield and Twinrova
-
-- [ ] mirror-shield — Mirror Shield
-
-- [ ] map-spirit — Spirit Temple Map
-
-- [ ] compass-spirit — Spirit Temple Compass
-
-- [ ] boss-key-spirit — Spirit Temple Boss Key
-
-- [ ] hc-08 — Twinrova Heart Container
-
-- [ ] spirit-medallion — Spirit Medallion
-
-- [ ] chests-spirit — Spirit Temple chest sweep
-
-- [ ] grotto-36 — Northern silver-pillar encounter
-
-- [ ] hp-034 — Bean-route stone arch
-
-- [ ] gs-094 — Bean-route rock
-
-- [ ] gs-099 — Adult boulder-room Time Block
-
-- [ ] gs-100 — Statue Scarecrow balcony
-
-- [ ] hp-026 — Bean-route high rock
 
 Expected: 99/100 Skulltulas · 34/36 heart pieces · 8/8 boss containers · 19 hearts.
 

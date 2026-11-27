@@ -385,126 +385,126 @@ Original stable IDs are retained across route changes.
   - Requires: Bombs, Child grotto cleared. First bomb this marsh grotto and kill its ordinary spider as a child. Return as an adult; break the crate for the gold spider.
   - [Route r24](walkthrough.md#r24). [VGC: Hyrule Field Skulltulas](https://www.videogameschronicle.com/guide/all-hyrule-field-gold-skulltulas-in-zelda-ocarina-of-time-switch-2/)
 
-- [ ] **Gold Skulltula #76 of 100 - gs-086 — Invisible-scythe side room** (Shadow Temple; Adult; Any)
+- [ ] **Gold Skulltula #76 of 100 - gs-027 — Tent rear wall** (Gerudo Valley; Adult; Night)
+  - Where: Gerudo Valley - Tent rear wall.
+  - Requires: Longshot. Cross the broken bridge; at night check the rock wall behind the carpenters' tent and Longshot its spider.
+  - [Route r27](walkthrough.md#r27). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #77 of 100 - gs-028 — Rock arch** (Gerudo Valley; Adult; Night)
+  - Where: Gerudo Valley - Rock arch.
+  - Requires: Longshot. At night look under the rock arch south of the tent; Longshot the spider overhead.
+  - [Route r27](walkthrough.md#r27). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #78 of 100 - gs-091 — High east wall** (Gerudo Fortress; Adult; Night)
+  - Where: Gerudo Fortress - High east wall.
+  - Requires: Longshot. At night climb the fortress exterior rooftops. Face the high eastern wall and Longshot its gold spider.
+  - [Route r27](walkthrough.md#r27). [Nintendo Life: all remake Gold Skulltulas](https://www.nintendolife.com/guides/zelda-ocarina-of-time-gold-skulltula-locations-rewards-switch-2)
+
+- [ ] **Gold Skulltula #79 of 100 - gs-090 — Archery far target** (Gerudo Fortress; Adult; Night)
+  - Where: Gerudo Fortress - Archery far target.
+  - Requires: Gerudo Token, Longshot. At night walk to the archery range's far target; inspect its rear and Longshot the gold spider.
+  - [Route r27](walkthrough.md#r27). [Nintendo Life: all remake Gold Skulltulas](https://www.nintendolife.com/guides/zelda-ocarina-of-time-gold-skulltula-locations-rewards-switch-2)
+
+- [ ] **Gold Skulltula #80 of 100 - gs-092 — Shelter basement** (Mirage Desert; Adult; Any)
+  - Where: Mirage Desert - Shelter basement.
+  - Requires: Gerudo Token, Longshot. Follow the desert flags to the stone shelter. Descend its ladder and retrieve the spider on the basement wall.
+  - [Route r28](walkthrough.md#r28). [Nintendo Life: all remake Gold Skulltulas](https://www.nintendolife.com/guides/zelda-ocarina-of-time-gold-skulltula-locations-rewards-switch-2)
+
+- [ ] **Gold Skulltula #81 of 100 - gs-095 — Northern bird cliff** (Desert Colossus; Adult; Night)
+  - Where: Desert Colossus - Northern bird cliff.
+  - Requires: Longshot. At night inspect the northern cliff near the temple entrance where birds circle; Longshot the gold spider on the wall.
+  - [Route r28](walkthrough.md#r28). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #82 of 100 - gs-048 — Warp-pad soil** (Death Mountain Crater; Child; Any)
+  - Where: Death Mountain Crater - Warp-pad soil.
+  - Requires: Bolero of Fire, Bottled Bug. Warp into the crater as a child. Release a bug into the soil next to the pad; kill the spider and warp away promptly.
+  - [Route r29](walkthrough.md#r29). [VGC: Crater Skulltulas](https://www.videogameschronicle.com/guide/all-death-mountain-crater-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #83 of 100 - gs-093 — Temple entrance soil** (Desert Colossus; Child; Any)
+  - Where: Desert Colossus - Temple entrance soil.
+  - Requires: Requiem of Spirit, Bottled Bug. Warp here as a child; release a bug into the soil beside Spirit Temple's steps and kill the spider.
+  - [Route r29](walkthrough.md#r29). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #84 of 100 - gs-096 — Child grating room** (Spirit Temple; Child; Any)
+  - Where: Spirit Temple - Child grating room.
+  - Requires: Boomerang. Crawl into the child wing and take the right-hand door. Boomerang the spider on the room's high grating.
+  - [Route r29](walkthrough.md#r29). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #85 of 100 - gs-097 — Statue ground-floor rear** (Spirit Temple; Child; Any)
+  - Where: Spirit Temple - Statue ground-floor rear.
+  - Requires: Boomerang. In the giant-statue chamber, go to the northeast ground-floor corner behind its right side. Collect the gold spider hidden there.
+  - [Route r29](walkthrough.md#r29). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #86 of 100 - gs-098 — Child Iron Knuckle hallway** (Spirit Temple; Child; Any)
+  - Where: Spirit Temple - Child Iron Knuckle hallway.
+  - Requires: Boomerang. After the sunlight/block puzzle, enter the hallway before Iron Knuckle. Turn around and Boomerang the spider above the door.
+  - [Route r29](walkthrough.md#r29). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #87 of 100 - gs-094 — Bean-route rock** (Desert Colossus; Adult; Night)
+  - Where: Desert Colossus - Bean-route rock.
+  - Requires: Planted Colossus bean. Ride the temple-entrance bean at night; step onto the large rock along its route and kill the spider.
+  - [Route r30](walkthrough.md#r30). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #88 of 100 - gs-099 — Adult boulder-room Time Block** (Spirit Temple; Adult; Any)
+  - Where: Spirit Temple - Adult boulder-room Time Block.
+  - Requires: Song of Time, Silver Gauntlets, Longshot. In the rolling-boulder silver-rupee room, remove the blue alcove block with Song of Time; retrieve the gold spider behind it.
+  - [Route r30](walkthrough.md#r30). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #89 of 100 - gs-100 — Statue Scarecrow balcony** (Spirit Temple; Adult; Any)
+  - Where: Spirit Temple - Statue Scarecrow balcony.
+  - Requires: Scarecrow's Song, Longshot, Silver Gauntlets. From the statue hall's high northwest ledge, summon Pierre above the statue's left side. Longshot across to the final spider.
+  - [Route r30](walkthrough.md#r30). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
+
+- [ ] **Gold Skulltula #90 of 100 - gs-086 — Invisible-scythe side room** (Shadow Temple; Adult; Any)
   - Where: Shadow Temple - Invisible-scythe side room.
   - Requires: Lenses of Truth, Longshot. On B3 follow the invisible-scythe route southeast. Defeat the Like Like and Keese to unlock the side room; collect its spider.
   - [Route r25](walkthrough.md#r25). [VGC: Shadow Temple Skulltulas](https://www.videogameschronicle.com/guide/all-shadow-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
 
-- [ ] **Gold Skulltula #77 of 100 - gs-088 — Falling spike tops** (Shadow Temple; Adult; Any)
+- [ ] **Gold Skulltula #91 of 100 - gs-088 — Falling spike tops** (Shadow Temple; Adult; Any)
   - Where: Shadow Temple - Falling spike tops.
   - Requires: Lenses of Truth, Longshot. Reveal and push the block under the falling spikes. Climb it, circle the upper ledge, and collect the spider atop the traps.
   - [Route r25](walkthrough.md#r25). [VGC: Shadow Temple Skulltulas](https://www.videogameschronicle.com/guide/all-shadow-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
 
-- [ ] **Gold Skulltula #78 of 100 - gs-087 — Fan corridor gap** (Shadow Temple; Adult; Any)
+- [ ] **Gold Skulltula #92 of 100 - gs-087 — Fan corridor gap** (Shadow Temple; Adult; Any)
   - Where: Shadow Temple - Fan corridor gap.
   - Requires: Longshot. In the eastern B3 fan corridor, Hookshot over the gap, then turn around and aim below the platforms for the spider.
   - [Route r25](walkthrough.md#r25). [VGC: Shadow Temple Skulltulas](https://www.videogameschronicle.com/guide/all-shadow-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
 
-- [ ] **Gold Skulltula #79 of 100 - gs-089 — Boat-side Scarecrow ledge** (Shadow Temple; Adult; Any)
+- [ ] **Gold Skulltula #93 of 100 - gs-089 — Boat-side Scarecrow ledge** (Shadow Temple; Adult; Any)
   - Where: Shadow Temple - Boat-side Scarecrow ledge.
   - Requires: Scarecrow's Song, Longshot. Before boarding the ship, move the block on the left to open the shortcut. Summon Pierre and Longshot up to the spider.
   - [Route r25](walkthrough.md#r25). [VGC: Shadow Temple Skulltulas](https://www.videogameschronicle.com/guide/all-shadow-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
 
-- [ ] **Gold Skulltula #80 of 100 - gs-085 — Western skull-pot room** (Shadow Temple; Adult; Any)
+- [ ] **Gold Skulltula #94 of 100 - gs-085 — Western skull-pot room** (Shadow Temple; Adult; Any)
   - Where: Shadow Temple - Western skull-pot room.
   - Requires: Bombs, Longshot. In the far-west room with three skull pots, throw bombs into all three. Collect the gold spider exposed when they break.
   - Verification note: Nintendo Life calls this an octagonal-room floor token; VGC and RPG Site specify breaking all three skull pots. Follow the latter two and inspect the floor afterward.
   - [Route r25](walkthrough.md#r25). [VGC: Shadow Temple Skulltulas](https://www.videogameschronicle.com/guide/all-shadow-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
 
-- [ ] **Gold Skulltula #81 of 100 - gs-053 — Frozen waterfall ledge** (Zora's Domain; Adult; Night)
+- [ ] **Gold Skulltula #95 of 100 - gs-053 — Frozen waterfall ledge** (Zora's Domain; Adult; Night)
   - Where: Zora's Domain - Frozen waterfall ledge.
   - Requires: Hookshot. Stand on the former diving-game ledge near King Zora; face the wall above the frozen waterfall and Hookshot its spider.
   - [Route r26](walkthrough.md#r26). [VGC: Zora region Skulltulas](https://www.videogameschronicle.com/guide/all-zora-river-domain-and-fountain-gold-skulltulas-in-zelda-ocarina-of-time-switch-2/)
 
-- [ ] **Gold Skulltula #82 of 100 - gs-044 — Scarecrow corridor ledge** (Dodongo's Cavern; Adult; Any)
+- [ ] **Gold Skulltula #96 of 100 - gs-044 — Scarecrow corridor ledge** (Dodongo's Cavern; Adult; Any)
   - Where: Dodongo's Cavern - Scarecrow corridor ledge.
   - Requires: Scarecrow's Song, Hookshot. Return to the southeast Baby Dodongo corridor. At the high balcony's summon swirl, play Scarecrow's Song and Hookshot up.
   - [Route r26](walkthrough.md#r26). [VGC: Dodongo Cavern Skulltulas](https://www.videogameschronicle.com/guide/all-dodongos-cavern-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
 
-- [ ] **Gold Skulltula #83 of 100 - gs-035 — Bean clearing ledge** (Lost Woods; Adult; Night)
+- [ ] **Gold Skulltula #97 of 100 - gs-035 — Bean clearing ledge** (Lost Woods; Adult; Night)
   - Where: Lost Woods - Bean clearing ledge.
   - Requires: Planted Lost Woods bean. Return to the right-left-right-left-left clearing at night. Ride its previously planted bean to the high ledge spider.
   - [Route r26](walkthrough.md#r26). [VGC: Kokiri Forest, Lost Woods and Sacred Grove Skulltulas](https://www.videogameschronicle.com/guide/all-kokiri-forest-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
 
-- [ ] **Gold Skulltula #84 of 100 - gs-019 — Cliff beside Impa's roof** (Kakariko Village; Adult; Night)
+- [ ] **Gold Skulltula #98 of 100 - gs-019 — Cliff beside Impa's roof** (Kakariko Village; Adult; Night)
   - Where: Kakariko Village - Cliff beside Impa's roof.
   - Requires: Hookshot. Hookshot the vines left of Impa's house, jump onto its roof, then Hookshot the spider on the adjoining cliff.
   - [Route r26](walkthrough.md#r26). [Nintendo Life: all remake Gold Skulltulas](https://www.nintendolife.com/guides/zelda-ocarina-of-time-gold-skulltula-locations-rewards-switch-2)
 
-- [ ] **Gold Skulltula #85 of 100 - gs-061 — Ruined building wall** (Ganon's Castle Exterior; Adult; Night)
+- [ ] **Gold Skulltula #99 of 100 - gs-061 — Ruined building wall** (Ganon's Castle Exterior; Adult; Night)
   - Where: Ganon's Castle Exterior - Ruined building wall.
   - Requires: Hookshot. At night enter the former castle grounds. Take the right-hand path; face back toward the ruined building and Hookshot its spider.
   - [Route r26](walkthrough.md#r26). [VGC: Castle Skulltulas](https://www.videogameschronicle.com/guide/all-hyrule-castle-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #86 of 100 - gs-027 — Tent rear wall** (Gerudo Valley; Adult; Night)
-  - Where: Gerudo Valley - Tent rear wall.
-  - Requires: Longshot. Cross the broken bridge; at night check the rock wall behind the carpenters' tent and Longshot its spider.
-  - [Route r27](walkthrough.md#r27). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #87 of 100 - gs-028 — Rock arch** (Gerudo Valley; Adult; Night)
-  - Where: Gerudo Valley - Rock arch.
-  - Requires: Longshot. At night look under the rock arch south of the tent; Longshot the spider overhead.
-  - [Route r27](walkthrough.md#r27). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #88 of 100 - gs-091 — High east wall** (Gerudo Fortress; Adult; Night)
-  - Where: Gerudo Fortress - High east wall.
-  - Requires: Longshot. At night climb the fortress exterior rooftops. Face the high eastern wall and Longshot its gold spider.
-  - [Route r27](walkthrough.md#r27). [Nintendo Life: all remake Gold Skulltulas](https://www.nintendolife.com/guides/zelda-ocarina-of-time-gold-skulltula-locations-rewards-switch-2)
-
-- [ ] **Gold Skulltula #89 of 100 - gs-090 — Archery far target** (Gerudo Fortress; Adult; Night)
-  - Where: Gerudo Fortress - Archery far target.
-  - Requires: Gerudo Token, Longshot. At night walk to the archery range's far target; inspect its rear and Longshot the gold spider.
-  - [Route r27](walkthrough.md#r27). [Nintendo Life: all remake Gold Skulltulas](https://www.nintendolife.com/guides/zelda-ocarina-of-time-gold-skulltula-locations-rewards-switch-2)
-
-- [ ] **Gold Skulltula #90 of 100 - gs-092 — Shelter basement** (Mirage Desert; Adult; Any)
-  - Where: Mirage Desert - Shelter basement.
-  - Requires: Gerudo Token, Longshot. Follow the desert flags to the stone shelter. Descend its ladder and retrieve the spider on the basement wall.
-  - [Route r28](walkthrough.md#r28). [Nintendo Life: all remake Gold Skulltulas](https://www.nintendolife.com/guides/zelda-ocarina-of-time-gold-skulltula-locations-rewards-switch-2)
-
-- [ ] **Gold Skulltula #91 of 100 - gs-095 — Northern bird cliff** (Desert Colossus; Adult; Night)
-  - Where: Desert Colossus - Northern bird cliff.
-  - Requires: Longshot. At night inspect the northern cliff near the temple entrance where birds circle; Longshot the gold spider on the wall.
-  - [Route r28](walkthrough.md#r28). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #92 of 100 - gs-048 — Warp-pad soil** (Death Mountain Crater; Child; Any)
-  - Where: Death Mountain Crater - Warp-pad soil.
-  - Requires: Bolero of Fire, Bottled Bug. Warp into the crater as a child. Release a bug into the soil next to the pad; kill the spider and warp away promptly.
-  - [Route r29](walkthrough.md#r29). [VGC: Crater Skulltulas](https://www.videogameschronicle.com/guide/all-death-mountain-crater-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #93 of 100 - gs-093 — Temple entrance soil** (Desert Colossus; Child; Any)
-  - Where: Desert Colossus - Temple entrance soil.
-  - Requires: Requiem of Spirit, Bottled Bug. Warp here as a child; release a bug into the soil beside Spirit Temple's steps and kill the spider.
-  - [Route r29](walkthrough.md#r29). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #94 of 100 - gs-096 — Child grating room** (Spirit Temple; Child; Any)
-  - Where: Spirit Temple - Child grating room.
-  - Requires: Boomerang. Crawl into the child wing and take the right-hand door. Boomerang the spider on the room's high grating.
-  - [Route r29](walkthrough.md#r29). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #95 of 100 - gs-097 — Statue ground-floor rear** (Spirit Temple; Child; Any)
-  - Where: Spirit Temple - Statue ground-floor rear.
-  - Requires: Boomerang. In the giant-statue chamber, go to the northeast ground-floor corner behind its right side. Collect the gold spider hidden there.
-  - [Route r29](walkthrough.md#r29). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #96 of 100 - gs-098 — Child Iron Knuckle hallway** (Spirit Temple; Child; Any)
-  - Where: Spirit Temple - Child Iron Knuckle hallway.
-  - Requires: Boomerang. After the sunlight/block puzzle, enter the hallway before Iron Knuckle. Turn around and Boomerang the spider above the door.
-  - [Route r29](walkthrough.md#r29). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #97 of 100 - gs-094 — Bean-route rock** (Desert Colossus; Adult; Night)
-  - Where: Desert Colossus - Bean-route rock.
-  - Requires: Planted Colossus bean. Ride the temple-entrance bean at night; step onto the large rock along its route and kill the spider.
-  - [Route r30](walkthrough.md#r30). [VGC: Gerudo region Skulltulas](https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #98 of 100 - gs-099 — Adult boulder-room Time Block** (Spirit Temple; Adult; Any)
-  - Where: Spirit Temple - Adult boulder-room Time Block.
-  - Requires: Song of Time, Silver Gauntlets, Longshot. In the rolling-boulder silver-rupee room, remove the blue alcove block with Song of Time; retrieve the gold spider behind it.
-  - [Route r30](walkthrough.md#r30). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
-
-- [ ] **Gold Skulltula #99 of 100 - gs-100 — Statue Scarecrow balcony** (Spirit Temple; Adult; Any)
-  - Where: Spirit Temple - Statue Scarecrow balcony.
-  - Requires: Scarecrow's Song, Longshot, Silver Gauntlets. From the statue hall's high northwest ledge, summon Pierre above the statue's left side. Longshot across to the final spider.
-  - [Route r30](walkthrough.md#r30). [VGC: Spirit Temple Skulltulas](https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/)
 
 - [ ] **Gold Skulltula #100 of 100 - gs-056 — Silver-boulder cave** (Zora's Fountain; Adult; Night)
   - Where: Zora's Fountain - Silver-boulder cave.
@@ -665,25 +665,25 @@ Original stable IDs are retained across route changes.
   - Requires: Golden Scale. With Golden Scale, dive to the bottom of the laboratory tank without Iron Boots. Surface and speak to the scientist for the piece.
   - [Route r22](walkthrough.md#r22). [VGC: all remake Heart Pieces](https://www.videogameschronicle.com/guide/zelda-oot-remake-all-piece-of-heart-locations/)
 
-- [ ] **Piece of Heart #31 of 36 - hp-010 — Bean-raised platform** (Graveyard; Adult; Any)
-  - Where: Graveyard - Bean-raised platform.
-  - Requires: Planted Graveyard bean. Ride the bean planted on the graveyard's west side in childhood. Step onto the raised stone platform and collect the piece.
-  - [Route r26](walkthrough.md#r26). [QuestFern: all remake Heart Pieces](https://questfern.com/oot/guides/heart-pieces/)
-
-- [ ] **Piece of Heart #32 of 36 - hp-032 — Highest rooftop chest** (Gerudo Fortress; Adult; Any)
+- [ ] **Piece of Heart #31 of 36 - hp-032 — Highest rooftop chest** (Gerudo Fortress; Adult; Any)
   - Where: Gerudo Fortress - Highest rooftop chest.
   - Requires: Scarecrow's Song, Hookshot. Reach the fortress's uppermost rooftop. Summon Pierre across the gap, Hookshot to his ledge, and open the large chest.
   - [Route r27](walkthrough.md#r27). [Nintendo Life: all remake Heart Pieces](https://www.nintendolife.com/guides/zelda-ocarina-of-time-heart-piece-locations-switch-2)
 
-- [ ] **Piece of Heart #33 of 36 - hp-034 — Bean-route stone arch** (Desert Colossus; Adult; Any)
+- [ ] **Piece of Heart #32 of 36 - hp-034 — Bean-route stone arch** (Desert Colossus; Adult; Any)
   - Where: Desert Colossus - Bean-route stone arch.
   - Requires: Planted Colossus bean, Requiem of Spirit. Ride the bean planted outside Spirit Temple as a child. Near the route's end, jump onto the stone arch holding the heart piece.
   - [Route r30](walkthrough.md#r30). [Nintendo Life: all remake Heart Pieces](https://www.nintendolife.com/guides/zelda-ocarina-of-time-heart-piece-locations-switch-2)
 
-- [ ] **Piece of Heart #34 of 36 - hp-026 — Bean-route high rock** (Death Mountain Crater; Adult; Any)
+- [ ] **Piece of Heart #33 of 36 - hp-026 — Bean-route high rock** (Death Mountain Crater; Adult; Any)
   - Where: Death Mountain Crater - Bean-route high rock.
   - Requires: Planted Crater bean, Goron Tunic. Warp in as a child and plant a bean by the Fire Temple pad. Return as adult; ride it and jump onto the tall central rock.
   - [Route r30](walkthrough.md#r30). [Link Guide: all remake Heart Pieces](https://link-guide.app/en/ocarina-of-time/heart-pieces/)
+
+- [ ] **Piece of Heart #34 of 36 - hp-010 — Bean-raised platform** (Graveyard; Adult; Any)
+  - Where: Graveyard - Bean-raised platform.
+  - Requires: Planted Graveyard bean. Ride the bean planted on the graveyard's west side in childhood. Step onto the raised stone platform and collect the piece.
+  - [Route r26](walkthrough.md#r26). [QuestFern: all remake Heart Pieces](https://questfern.com/oot/guides/heart-pieces/)
 
 - [ ] **Piece of Heart #35 of 36 - hp-033 — Horseback archery prize** (Gerudo Fortress; Adult; Day)
   - Where: Gerudo Fortress - Horseback archery prize.
@@ -728,15 +728,15 @@ Original stable IDs are retained across route changes.
   - Requires: No additional item. Use Din’s Fire for reliable Dark Link damage, or bait an attack and counter once he commits. Against Morpha stay on the outer rim with room to sidestep; Longshot the nucleus from a tentacle and slash it on land. Avoid standing on the small central islands where a grab leaves little escape space. Collect the Heart Container before the warp.
   - [Route r21](walkthrough.md#r21). [Nintendo Life — Water](https://www.nintendolife.com/guides/zelda-ocarina-of-time-water-temple-walkthrough-switch-2) · [ZeldaCentral remake — Water](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/water-temple/) · [Raider King — Water](https://raiderking.com/ocarina-of-time-remake-water-temple-walkthrough/) · [Lilly Hyrule — remake Water Temple](https://lillyhyrule.com/zelda-walkthroughs-guides/ocarina-of-time-remake/ocarina-of-time-remake-water-temple/) · [ZeldaSpeedRuns — remake differences](https://www.zsr.gg/oot2026/general/remake-changes)
 
-- [ ] **Boss Heart Container #7 of 8 - hc-07 — Bongo Bongo Heart Container** (Shadow Temple; Adult; Any)
-  - Where: Shadow Temple - Bongo Bongo Heart Container.
-  - Requires: No additional item. Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Unlock to the ferry. Move the block beneath the ladder to create the shortcut; use Scarecrow Song from the deck for the high token. Play Zelda’s Lullaby on the ferry Triforce, defeat both Stalfos and jump off at its destination. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.
-  - [Route r25](walkthrough.md#r25). [Nintendo Life — Shadow](https://www.nintendolife.com/guides/zelda-ocarina-of-time-shadow-temple-walkthrough-switch-2) · [ZeldaCentral remake — Shadow](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/shadow-temple/) · [QuestFern remake — Shadow](https://questfern.com/oot/guides/shadow-temple-walkthrough/)
-
-- [ ] **Boss Heart Container #8 of 8 - hc-08 — Twinrova Heart Container** (Spirit Temple; Adult; Any)
+- [ ] **Boss Heart Container #7 of 8 - hc-08 — Twinrova Heart Container** (Spirit Temple; Adult; Any)
   - Where: Spirit Temple - Twinrova Heart Container.
   - Requires: No additional item. After Twinrova, finish the other remote bean flight: warp with Bolero of Fire and ride the crater bean planted in r29 to its high Heart Piece, then continue to the fortress for Proving Grounds. This is the adult return intentionally postponed from r19. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.
   - [Route r30](walkthrough.md#r30). [Nintendo Life — Spirit](https://www.nintendolife.com/guides/zelda-ocarina-of-time-spirit-temple-walkthrough-twinrova-switch-2) · [ZeldaCentral remake — Spirit](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/spirit-temple/) · [Raider King — Spirit](https://raiderking.com/ocarina-of-time-remake-spirit-temple-walkthrough/) · [QuestFern remake — Spirit](https://questfern.com/oot/guides/spirit-temple-walkthrough/) · [ZeldaSpeedRuns — remake differences](https://www.zsr.gg/oot2026/general/remake-changes)
+
+- [ ] **Boss Heart Container #8 of 8 - hc-07 — Bongo Bongo Heart Container** (Shadow Temple; Adult; Any)
+  - Where: Shadow Temple - Bongo Bongo Heart Container.
+  - Requires: No additional item. Enter Kakariko for the burning-village scene and learn Nocturne of Shadow. Warp to the Graveyard ledge, reveal the invisible torch ring with Lenses of Truth and cast Din’s Fire at its centre. Longshot over the opening gap. Follow the left false-wall route, keeping right through the first illusion maze, and defeat the enemies for Map. Continue west through the next false corridors; defeat Dead Hand for Hover Boots and return across the collapsed passage. Point the bird statue at the Lens-visible true skull. Hover across its tongue gate. In the Beamos room take the southern false wall and clear Gibdos for Compass; north, collect all five blade-room Silver Crystals for a key. Bomb the east doorway and spend the key. Cross the guillotines and defeat Stalfos. Take the invisible-platform east side room: clear enemies and open both rupee chests, including the invisible one, and collect its token. Return west via moving platforms; gather the cavern’s five Silver Crystals to open the spike-ceiling room. Pull the Lens-hidden block beneath both falling spike panels. Climb across their tops for a key and token, opening the side chests too. Return north over the invisible moving platform and unlock. Lens the floor spikes, defeat the Gibdos and gather five Silver Crystals using hidden Hookshot targets. In the skull room throw a bomb into the giant skull for a key; clear the Keese. Unlock the high exit. Wear Iron Boots against the fans, collect the pit token, then Longshot over. In the end ReDead room take the invisible Seed chest. Return and use the last fan with Hover Boots to cross into the invisible side passage; clear enemies for a key and open the opposite rupee chest. Unlock to the ferry. Move the block beneath the ladder to create the shortcut; use Scarecrow Song from the deck for the high token. Play Zelda’s Lullaby on the ferry Triforce, defeat both Stalfos and jump off at its destination. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss. Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.
+  - [Route r25](walkthrough.md#r25). [Nintendo Life — Shadow](https://www.nintendolife.com/guides/zelda-ocarina-of-time-shadow-temple-walkthrough-switch-2) · [ZeldaCentral remake — Shadow](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/shadow-temple/) · [QuestFern remake — Shadow](https://questfern.com/oot/guides/shadow-temple-walkthrough/)
 
 ## Additional activities
 
@@ -1010,18 +1010,6 @@ Original stable IDs are retained across route changes.
   - Verification note: Source-listed location; exhaustive Thought total remains disputed.
   - [Route r21](walkthrough.md#r21). [GameClubz: 15 source-listed Fairy Thoughts](https://www.gameclubz.com/zelda-ocarina-of-time-remake-fairy-thoughts/)
 
-- [ ] **thought-13 — Shadow: barred cells** (Shadow Temple; Adult; Any)
-  - Where: Shadow Temple - Shadow: barred cells.
-  - Requires: No additional item. Inspect cracked wall by prison bars.
-  - Verification note: Source-listed location; exhaustive Thought total remains disputed.
-  - [Route r25](walkthrough.md#r25). [GameClubz: 15 source-listed Fairy Thoughts](https://www.gameclubz.com/zelda-ocarina-of-time-remake-fairy-thoughts/)
-
-- [ ] **grotto-07 — West moat Tektite pool** (Hyrule Field; Adult; Any)
-  - Where: Hyrule Field - West moat Tektite pool.
-  - Requires: Song of Storms, Iron Boots. West of Castle Town, cross the little river to the grass along the north moat bank. Play Storms at its leafy marker. Defeat the Blue Tektite; sink with Iron Boots to break the rupee crates.
-  - Verification note: Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.
-  - [Route r26](walkthrough.md#r26). [Nexzy: West moat Tektite pool](https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-hf-tektite)
-
 - [ ] **grotto-33 — Tent-side Storms cave** (Gerudo Valley; Adult; Any)
   - Where: Gerudo Valley - Tent-side Storms cave.
   - Requires: Song of Storms, Lenses of Truth. Behind the carpenters' tent, play Storms at the leafy marker. Below, open the visible green-rupee chest; use the Lenses to reveal the red-rupee chest between the right-hand pots.
@@ -1039,6 +1027,18 @@ Original stable IDs are retained across route changes.
   - Requires: Silver Gauntlets. Northeast of Spirit Temple, inspect the heavy pillar at the northern cliff's foot. Lift it and descend. The reported enemy-clear challenge rewards a purple-rupee chest; its enemy lineup is not independently verified.
   - Verification note: Single catalogue-level report; exact fight and its reward are unverified. This record does not establish a complete official grotto count.
   - [Route r30](walkthrough.md#r30). [QuestFern: 36 reported remake grottos](https://questfern.com/oot/guides/secret-grottos/)
+
+- [ ] **thought-13 — Shadow: barred cells** (Shadow Temple; Adult; Any)
+  - Where: Shadow Temple - Shadow: barred cells.
+  - Requires: No additional item. Inspect cracked wall by prison bars.
+  - Verification note: Source-listed location; exhaustive Thought total remains disputed.
+  - [Route r25](walkthrough.md#r25). [GameClubz: 15 source-listed Fairy Thoughts](https://www.gameclubz.com/zelda-ocarina-of-time-remake-fairy-thoughts/)
+
+- [ ] **grotto-07 — West moat Tektite pool** (Hyrule Field; Adult; Any)
+  - Where: Hyrule Field - West moat Tektite pool.
+  - Requires: Song of Storms, Iron Boots. West of Castle Town, cross the little river to the grass along the north moat bank. Play Storms at its leafy marker. Defeat the Blue Tektite; sink with Iron Boots to break the rupee crates.
+  - Verification note: Optional visit only; any heart piece, token or permanent reward here has its own core objective and is not counted twice.
+  - [Route r26](walkthrough.md#r26). [Nexzy: West moat Tektite pool](https://www.nexzyapp.com/games/zelda-ocarina-of-time-remake/grotto/grotto-hf-tektite)
 
 - [ ] **grotto-34 — East-bank silver-pillar pool** (Gerudo Valley; Adult; Any)
   - Where: Gerudo Valley - East-bank silver-pillar pool.
