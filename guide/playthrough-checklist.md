@@ -2,7 +2,7 @@
 
 Full directions and evidence are in [walkthrough.md](walkthrough.md).
 
-# Episode 01: The 100% Quest Begins Inside a Dying Tree
+# Episode 01: One Sword, One Shield... Let's Save Hyrule
 
 Estimated playtime: 20-30 minutes. Includes starting equipment, the full Deku Tree sweep and Gohma. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 

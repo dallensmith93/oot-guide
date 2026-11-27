@@ -22,7 +22,7 @@ Main-route objectives use the base game alone. ZELDA NOTES needs a compatible sm
 
 Planning estimate: 40–60 hours for an efficient normal-player completion attempt, allowing puzzle reading and minigame retries; 60–80 hours for a first-time player or extensive Hall practice. These are editorial estimates, not timings measured for this route. App master medals and exhaustive optional dialogue can extend that substantially. Expert speedrun targets are a separate activity.
 
-# Episode 01: The 100% Quest Begins Inside a Dying Tree
+# Episode 01: One Sword, One Shield... Let's Save Hyrule
 
 Estimated playtime: 20-30 minutes. Includes starting equipment, the full Deku Tree sweep and Gohma. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 

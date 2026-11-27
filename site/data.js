@@ -4881,7 +4881,7 @@ window.GUIDE = {
   "episodes": [
     {
       "id": "ep01",
-      "title": "The 100% Quest Begins Inside a Dying Tree",
+      "title": "One Sword, One Shield... Let's Save Hyrule",
       "sections": [
         "r01",
         "r02"
