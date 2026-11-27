@@ -2,5 +2,20 @@
   "asset": "site/sacred-forest.webp",
   "tool": "Built-in image_gen.imagegen",
   "purpose": "Decorative cinematic homepage background; encoded as WebP for delivery.",
-  "prompt": "Create a premium cinematic wide landscape background image for an Ocarina of Time playthrough companion website. No text, no lettering, no UI, no border. Painterly high-end fantasy environment, sophisticated and atmospheric rather than cartoon or low-poly. A weathered legendary silver sword with ornate deep blue hilt embedded in an ancient moss-covered stone pedestal on the RIGHT THIRD of the frame in a sacred forest clearing; golden late-afternoon sunlight shafts through towering emerald trees, soft volumetric mist, tiny floating golden motes, delicate ferns, ancient ruined archway in far right background. Deep dark forest shadows on the LEFT HALF with minimal detail to provide negative space for cream-colored website headline. Muted deep emerald, near-black pine green, warm champagne gold. Beautiful tactile brushwork, editorial art direction, realistic scale, breathtaking depth, rich natural light. Landscape 1536x1024 or wider. Composition must leave left 50 percent dark, sword entirely within right 45 percent. Save generated image for website use."
+  "prompt": "Create a premium cinematic wide landscape background image for an Ocarina of Time playthrough companion website. No text, no lettering, no UI, no border. Painterly high-end fantasy environment, sophisticated and atmospheric rather than cartoon or low-poly. A weathered legendary silver sword with ornate deep blue hilt embedded in an ancient moss-covered stone pedestal on the RIGHT THIRD of the frame in a sacred forest clearing; golden late-afternoon sunlight shafts through towering emerald trees, soft volumetric mist, tiny floating golden motes, delicate ferns, ancient ruined archway in far right background. Deep dark forest shadows on the LEFT HALF with minimal detail to provide negative space for cream-colored website headline. Muted deep emerald, near-black pine green, warm champagne gold. Beautiful tactile brushwork, editorial art direction, realistic scale, breathtaking depth, rich natural light. Landscape 1536x1024 or wider. Composition must leave left 50 percent dark, sword entirely within right 45 percent. Save generated image for website use.",
+  "pageHeaders": {
+    "files": [
+      "site/art/forest.webp",
+      "site/art/castle.webp",
+      "site/art/volcano.webp",
+      "site/art/lake.webp",
+      "site/art/shadow.webp",
+      "site/art/desert.webp",
+      "site/art/fountain.webp",
+      "site/art/gear.webp",
+      "site/art/fortress.webp"
+    ],
+    "tool": "Built-in image_gen.imagegen",
+    "prompt": "Create one landscape 3-column by 3-row contact sheet of NINE equally sized rectangular fantasy environment paintings, nine perfectly flush tiles with NO borders or text. Consistent luxurious painterly emerald, amber and midnight jewel-tone Ocarina of Time adventure game concept art. Each tile a wide establishing shot with main landmark on right and dark left, no text, no characters. Top row: enchanted ancient forest tree village; Hyrule castle gardens at dawn; fiery volcano cavern with glowing lava. Middle row: blue lake with submerged ruined temple; a haunted purple underground ferry; sunlit sandstone desert colossus. Bottom row: golden fairy fountain in glowing grotto; antique adventurer equipment and ocarina on workbench; looming dark castle with red sky. Render wide 3:2 contact sheet. Perfect regular grid aligned at one third and two thirds horizontal and vertical. Entire nine scenes visible."
+  }
 }

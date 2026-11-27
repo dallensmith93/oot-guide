@@ -359,6 +359,16 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r03",
       "start": "Great Deku Tree: Great Deku Tree",
+      "bossPlans": [
+        {
+          "name": "Queen Gohma",
+          "moves": [
+            "Keep the Slingshot ready and face her eye. Shoot as soon as it opens and turns red.",
+            "Close the gap while she is down and slash the eye until she starts to rise.",
+            "Follow her up the wall with your aim. A ceiling stun drops her back into sword range before the eggs hatch."
+          ]
+        }
+      ],
       "number": 2,
       "objectiveIds": [
         "slingshot",
@@ -887,6 +897,16 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r08",
       "start": "Dodongo Cavern: Dodongo Cavern",
+      "bossPlans": [
+        {
+          "name": "King Dodongo",
+          "moves": [
+            "Have a bomb ready and stand in front of his mouth. Throw it as he takes a breath.",
+            "Move to his head while the bomb goes off. Slash until he starts to roll.",
+            "Wait beside the inner lava edge for the roll to pass, then turn to meet his next inhale with another bomb."
+          ]
+        }
+      ],
       "number": 7,
       "objectiveIds": [
         "bomb-bag",
@@ -1325,6 +1345,16 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r12",
       "start": "Lord Jabu-Jabu’s Belly: Lord Jabu-Jabu’s Belly",
+      "bossPlans": [
+        {
+          "name": "Barinade",
+          "moves": [
+            "Strafe around the body while aiming the Boomerang at each ceiling tether. Keep moving through the electric shots.",
+            "Stun the body when there is a gap in the jellyfish ring. Pick off the uncharged jellyfish with the Boomerang.",
+            "With the ring gone, stun the base again and rush in with your sword. Back out as the electricity returns and repeat."
+          ]
+        }
+      ],
       "number": 11,
       "objectiveIds": [
         "boomerang",
@@ -2008,6 +2038,16 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r16",
       "start": "Forest Temple: Forest Temple",
+      "bossPlans": [
+        {
+          "name": "Phantom Ganon",
+          "moves": [
+            "Stand near the rim with your bow drawn. Watch for the horse crossing the surface of a painting and release as it emerges.",
+            "Once the rider dismounts, face him with your sword ready. Swing as the energy ball reaches you and keep returning it until he falls.",
+            "Run straight to his landing spot and slash until he rises. Step sideways if he lowers his spear to charge."
+          ]
+        }
+      ],
       "number": 15,
       "objectiveIds": [
         "minuet-forest",
@@ -2493,6 +2533,16 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r19",
       "start": "Fire Temple: Fire Temple",
+      "bossPlans": [
+        {
+          "name": "Volvagia",
+          "moves": [
+            "Wait beside a steaming hole with the Hammer ready. Let the head emerge before swinging so a false eruption cannot waste your hit.",
+            "Hammer the exposed head, then immediately slash the stunned face with your sword.",
+            "When rocks fall, keep running out of their shadows. Get back beside the holes before the dragon resurfaces."
+          ]
+        }
+      ],
       "number": 18,
       "objectiveIds": [
         "quiver-gallery",
@@ -2874,6 +2924,16 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r22",
       "start": "Water Temple: Water Temple",
+      "bossPlans": [
+        {
+          "name": "Morpha",
+          "moves": [
+            "Start on the outer rim with the Longshot equipped. Keep the nucleus in view and leave yourself room to sidestep.",
+            "As the nucleus travels up a tentacle, hook it onto dry ground. Step in and slash while it is stranded.",
+            "Ready the Longshot as it retreats. If a tentacle reaches you first, sidestep the grab and line up the next pull."
+          ]
+        }
+      ],
       "number": 21,
       "objectiveIds": [
         "longshot",
@@ -3657,6 +3717,16 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r25",
       "start": "Spirit Temple: Adult Spirit Temple",
+      "bossPlans": [
+        {
+          "name": "Twinrova",
+          "moves": [
+            "Raise the Mirror Shield into one witch's beam and turn the reflection toward her sister while the beam lasts.",
+            "After they fuse, catch three shots of a single element on the shield. Sidestep every shot of the other colour to preserve the charge.",
+            "Keep the shield pointed at Twinrova for the discharge. Cross to her platform the instant she drops and slash through the stun."
+          ]
+        }
+      ],
       "number": 28,
       "objectiveIds": [
         "mirror-shield",
@@ -3829,6 +3899,16 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r26",
       "start": "Shadow Temple: Shadow Temple",
+      "bossPlans": [
+        {
+          "name": "Bongo Bongo",
+          "moves": [
+            "Equip the bow and Lenses of Truth. Dodge the first hand attack and shoot the hand when its purple cover drops. Do the same to the other hand.",
+            "Switch on the Lenses as the hands go down. Aim between them and shoot the revealed eye before it reaches you.",
+            "Move right up to the fallen eye and slash. When the body pulls away, switch the Lenses off to save magic for the next opening."
+          ]
+        }
+      ],
       "number": 29,
       "objectiveIds": [
         "nocturne-shadow",
@@ -4688,7 +4768,7 @@ window.GUIDE = {
         "Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending.",
         "Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range.",
         "Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon.",
-        "With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow.",
+        "Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword. Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening. When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish.",
         "Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position."
       ],
       "details": [
@@ -4731,7 +4811,7 @@ window.GUIDE = {
           "id": "ganon-defeated",
           "type": "story",
           "name": "Ganon defeated and ending watched",
-          "instructions": "Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.",
+          "instructions": "Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword. Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening. When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.",
           "route": "r40",
           "sources": [
             "nl-castle-final",
@@ -4749,6 +4829,24 @@ window.GUIDE = {
       "dungeon": true,
       "next": "r41",
       "start": "Ganondorf’s Castle: Tower, Ganondorf, escape and Ganon",
+      "bossPlans": [
+        {
+          "name": "Ganondorf",
+          "moves": [
+            "Keep Light Arrows equipped. Stand on solid outer flooring and swing once as each returning orb reaches you.",
+            "When an orb hits Ganondorf, immediately land a Light Arrow. Close in and slash while he is grounded.",
+            "When the floor breaks, use the Longshot on the climbable surface below him to get back into sword range before he rises."
+          ]
+        },
+        {
+          "name": "Ganon",
+          "moves": [
+            "Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword.",
+            "Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening.",
+            "When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish."
+          ]
+        }
+      ],
       "number": 40,
       "objectiveIds": [
         "boss-key-final",
@@ -13556,7 +13654,7 @@ window.GUIDE = {
       "id": "ganon-defeated",
       "type": "story",
       "name": "Ganon defeated and ending watched",
-      "instructions": "Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.",
+      "instructions": "Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword. Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening. When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.",
       "route": "r40",
       "sources": [
         "nl-castle-final",

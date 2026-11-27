@@ -128,6 +128,13 @@ def export(g):
     def collectible_label(o):
         names={'gs':'Gold Skulltula','hp':'Piece of Heart','boss':'Boss Heart Container','bottle':'Bottle'}
         return f"{names.get(o['type'],o['type'])} #{o['collectionNumber']} of {o['collectionTotal']} - " if o.get('collectionTotal') else ''
+    def boss_markdown(section):
+        lines = []
+        for boss in section.get('bossPlans', []):
+            lines.append(f"### {boss['name']} quick strategy\n")
+            lines.extend(f"{i}. {move}\n" for i, move in enumerate(boss['moves'], 1))
+        return lines
+
     def timing(ep):
         d=ep['durationMinutes']
         return f"Estimated playtime: {d['min']}-{d['max']} minutes. {ep['durationNote']} Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.\n"
@@ -154,6 +161,7 @@ def export(g):
         full += [f"> **Before proceeding:** {w}\n" for w in s.get('warnings',[])]
         full += [f'{i}. {step}\n' for i,step in enumerate(s.get('steps',[]),1)]
         full += [f"### {d['title']}\n\n{d['text']}\n" for d in s.get('details',[])]
+        full.extend(boss_markdown(s))
         full+=['### Visit checklist\n']+[card(o) for o in os]
         e=s['expected'];totals=f"Expected: {e['gs']}/100 Skulltulas · {e['hp']}/36 heart pieces · {e['boss']}/8 boss containers · {e['hearts']} hearts."
         full += [totals+'\n',f"Next: {s['next']}\n",citations(s.get('sources',s.get('sourceIds',[])))+'\n']
@@ -174,12 +182,13 @@ def export(g):
             s=next(x for x in g['sections'] if x['id']==sid)
             episode_lines.append(f"### [{s['title']}](walkthrough.md#{sid})\n")
             episode_lines.extend(f'{i}. {step}\n' for i,step in enumerate(s['steps'],1))
+            episode_lines.extend(boss_markdown(s))
             episode_lines.extend(card(o) for o in g['objectives'] if o['section']==sid)
         e=ep['expected']
         episode_lines.append(f"Expected finish: {e['gs']}/100 tokens, {e['hp']}/36 heart pieces, {e['boss']}/8 boss containers, {e['hearts']} hearts.\n")
     (out/'episodes.md').write_text('\n'.join(episode_lines),encoding='utf-8')
     h=html.escape
-    printable=['<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Print walkthrough — The Hero’s Ledger</title><style>body{font:16px/1.6 system-ui;max-width:900px;margin:2rem auto;padding:1rem;color:#162e24}h1,h2{line-height:1.2}h2{border-bottom:2px solid #b99238;padding-bottom:.6rem}h3{margin-bottom:.2rem}a{color:#285c42}li{margin-bottom:.5rem}.warning{border-left:4px solid #b99238;padding:.5rem 1rem}section{margin-bottom:3rem}@media print{.tools{display:none}section{break-before:page}h2,h3{break-after:avoid}a{color:inherit}body{max-width:none;margin:0;padding:0;font-size:11pt}}</style><body><div class="tools"><a href="./index.html#route">Back to companion</a> · Use your browser’s Print command</div><h1>The Hero’s Ledger</h1><p>Complete published route · Switch 2 remake · Research '+h(g['meta']['researchDate'])+' · Target '+h(g['meta']['gameVersion'])+'</p>']
+    printable=['<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Print walkthrough — The Hero’s Ledger</title><style>body{font:16px/1.6 system-ui;max-width:900px;margin:2rem auto;padding:1rem;color:#162e24}h1,h2{line-height:1.2}h2{border-bottom:2px solid #b99238;padding-bottom:.6rem}h3{margin-bottom:.2rem}a{color:#285c42}li{margin-bottom:.5rem}.warning{border-left:4px solid #b99238;padding:.5rem 1rem}section{margin-bottom:3rem}@media print{.tools{display:none}section{break-before:page}h2,h3{break-after:avoid}a{color:inherit}body{max-width:none;margin:0;padding:0;font-size:11pt}}</style><body><div class="tools"><a href="./index.html#route">Back to companion</a> · Use your browser’s Print command</div><img class="tools" src="./art/castle.webp" alt="" style="width:100%;height:160px;object-fit:cover"><h1>The Hero’s Ledger</h1><p>Complete published route · Switch 2 remake · Research '+h(g['meta']['researchDate'])+' · Target '+h(g['meta']['gameVersion'])+'</p>']
     printable += ['<p>'+h(x)+'</p>' for x in g['meta'].get('limitations',[])]
     for s in g['sections']:
         ep=next(e for e in g['episodes'] if s['id'] in e['sections'])
@@ -190,6 +199,9 @@ def export(g):
         printable += ['<p class="warning"><b>Before proceeding: </b>'+h(w)+'</p>' for w in s.get('warnings',[])]
         printable += ['<ol>']+['<li>'+h(x)+'</li>' for x in s.get('steps',[])]+['</ol>']
         printable += ['<h3>'+h(d['title'])+'</h3><p>'+h(d['text'])+'</p>' for d in s.get('details',[])]
+        for boss in s.get('bossPlans', []):
+            printable.append('<h3>'+h(boss['name'])+' quick strategy</h3><ol>'+
+                ''.join('<li>'+h(move)+'</li>' for move in boss['moves'])+'</ol>')
         printable += ['<h3>Visit checklist</h3><ul>']
         for o in g['objectives']:
             if o['section']!=s['id']: continue

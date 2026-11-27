@@ -48,6 +48,14 @@ Estimated playtime: 20-30 minutes. Includes starting equipment, the full Deku Tr
 
 5. Crawl back to the upper basement ledge, push the block down, fetch torch fire and burn the floor web. Reflect the three Scrubs middle, right, left. Enter Gohma’s door.
 
+### Queen Gohma quick strategy
+
+1. Keep the Slingshot ready and face her eye. Shoot as soon as it opens and turns red.
+
+2. Close the gap while she is down and slash the eye until she starts to rise.
+
+3. Follow her up the wall with your aim. A ceiling stun drops her back into sword range before the eggs hatch.
+
 - [ ] **slingshot — Fairy Slingshot** (Great Deku Tree; Child; Any)
   - Where: Great Deku Tree - Fairy Slingshot.
   - Requires: No additional item. Climb the central ramp: open the Map chest beside the vine wall. Shield-reflect the Scrub’s seed in the upper door. Cross the collapsing platform and climb to the Slingshot chest; open the small side-vine chest. Shoot the switch above the exit to lower the escape platform. Target her eye. Fire the Slingshot when the eye changes colour, then strike repeatedly with the sword while she is stunned. Shoot the exposed eye again on the ceiling to interrupt egg laying. Collect the Heart Container before taking the blue warp.
@@ -384,6 +392,14 @@ Estimated playtime: 25-40 minutes. Full Dodongo Cavern route, boss, summit fount
 
 5. Inside the mouth, follow the side corridor round; push the block through the loop and drop it onto the central switch. Open the small chest before bombing the boss-floor crack. Leave the higher Scarecrow-dependent token to r26.
 
+### King Dodongo quick strategy
+
+1. Have a bomb ready and stand in front of his mouth. Throw it as he takes a breath.
+
+2. Move to his head while the bomb goes off. Slash until he starts to roll.
+
+3. Wait beside the inner lava edge for the roll to pass, then turn to meet his next inhale with another bomb.
+
 - [ ] **bomb-bag — Bomb Bag: 20 bombs** (Dodongo Cavern; Child; Any)
   - Where: Dodongo Cavern - Bomb Bag: 20 bombs.
   - Requires: No additional item. Cross to the Bomb Bag chest. Use the bridge switch to create the main-room shortcut. Bomb the side wall here for the optional chest before dropping bombs into both giant skull eye sockets to open its mouth.
@@ -677,6 +693,14 @@ Estimated playtime: 20-30 minutes. Full Jabu-Jabu clear with Ruto, all four toke
 3. Drop through the newly clear northwest floor hole; collect both ledge/passage tokens. Throw Ruto onto the stone platform. Stun Bigocto, circle behind and stun its rear again before sword attacks; repeat until the lift rises.
 
 4. Boomerang the wobbling platforms, carry a block to the weight switch, then climb the last vines for the final token and throw the Boomerang around the obstacle into the ceiling switch. Proceed to Barinade.
+
+### Barinade quick strategy
+
+1. Strafe around the body while aiming the Boomerang at each ceiling tether. Keep moving through the electric shots.
+
+2. Stun the body when there is a gap in the jellyfish ring. Pick off the uncharged jellyfish with the Boomerang.
+
+3. With the ring gone, stun the base again and rush in with your sword. Back out as the electricity returns and repeat.
 
 - [ ] **boomerang — Boomerang** (Lord Jabu-Jabu’s Belly; Child; Any)
   - Where: Lord Jabu-Jabu’s Belly - Boomerang.
@@ -1082,6 +1106,14 @@ Estimated playtime: 30-45 minutes. Forest approach, all four Poes, dungeon colle
 
 7. Ride the central lift. Take the basement token side room, rotate clockwise for the arrow chest and torch switch, then align torch and frozen eye; shoot through the flame to expose the boss passage.
 
+### Phantom Ganon quick strategy
+
+1. Stand near the rim with your bow drawn. Watch for the horse crossing the surface of a painting and release as it emerges.
+
+2. Once the rider dismounts, face him with your sword ready. Swing as the energy ball reaches you and keep returning it until he falls.
+
+3. Run straight to his landing spot and slash until he rises. Step sideways if he lowers his spear to charge.
+
 - [ ] **minuet-forest — Minuet of Forest** (Forest Temple; Adult; Any)
   - Where: Forest Temple - Minuet of Forest.
   - Requires: No additional item. Play Saria’s Song for Mido in the Lost Woods. Pass the meadow Moblins from behind or stun with Hookshot; sidestep the large club strikes. Learn Minuet of Forest from Sheik and Hookshot to the entrance.
@@ -1358,6 +1390,14 @@ Estimated playtime: 35-55 minutes. Adult shooting reward, full Fire Temple, Volv
 
 8. Return to the first room and hammer away the ground-level east blocks. Spend the remaining key; clear slugs, tiles, Like Like and the token behind hammer blocks. Defeat the second Flare Dancer, open its rupee chest and hammer the last Goron switch for Boss Key. Cross the lowered pillar to Volvagia.
 
+### Volvagia quick strategy
+
+1. Wait beside a steaming hole with the Hammer ready. Let the head emerge before swinging so a false eruption cannot waste your hit.
+
+2. Hammer the exposed head, then immediately slash the stunned face with your sword.
+
+3. When rocks fall, keep running out of their shadows. Get back beside the holes before the dragon resurfaces.
+
 - [ ] **quiver-gallery — Bigger Quiver: 40 arrows** (Fire Temple; Adult; Any)
   - Where: Fire Temple - Kakariko Village: adult Shooting Gallery.
   - Requires: No additional item. Before entering Fire Temple, visit Kakariko's Shooting Gallery as an adult with the Fairy Bow. Hit all ten targets using the fifteen provided arrows. Claim the Bigger Quiver and check that capacity is now 40 arrows.
@@ -1619,6 +1659,14 @@ Estimated playtime: 30-45 minutes. Planned water-level route, all five tokens, D
 8. Reset to low using blue, then middle using green. Get the central pillar’s high token with Longshot now. At 2F north shoot the eye and Longshot through the gate. Use the ceiling target and underwater loop to approach the block twice: first pull, then circle back and push it aside to reach key 4.
 
 9. At 1F north unlock the deep route. Cross the current room; bomb the cracked walls to pull its block onto the submerged switch. Cross the three water lids, wait for a boulder, then enter the waterfall corridor for the last token and Boss Key. Return to hub, follow pink to raise 3F, Longshot north and use Iron Boots on the spike-ramp approach.
+
+### Morpha quick strategy
+
+1. Start on the outer rim with the Longshot equipped. Keep the nucleus in view and leave yourself room to sidestep.
+
+2. As the nucleus travels up a tentacle, hook it onto dry ground. Step in and slash while it is stranded.
+
+3. Ready the Longshot as it retreats. If a tentacle reaches you first, sidestep the grab and line up the next pull.
 
 - [ ] **longshot — Longshot** (Water Temple; Adult; Any)
   - Where: Water Temple - Longshot.
@@ -2014,6 +2062,14 @@ Estimated playtime: 30-45 minutes. Adult Spirit Temple, Mirror Shield, Twinrova 
 
 6. After Twinrova, finish the other remote bean flight: warp with Bolero of Fire and ride the crater bean planted in r29 to its high Heart Piece, then head to Kakariko for Shadow Temple, the final main temple of this route. This is the adult return intentionally postponed from r19.
 
+### Twinrova quick strategy
+
+1. Raise the Mirror Shield into one witch's beam and turn the reflection toward her sister while the beam lasts.
+
+2. After they fuse, catch three shots of a single element on the shield. Sidestep every shot of the other colour to preserve the charge.
+
+3. Keep the shield pointed at Twinrova for the discharge. Cross to her platform the instant she drops and slash through the stun.
+
 - [ ] **mirror-shield — Mirror Shield** (Spirit Temple; Adult; Any)
   - Where: Spirit Temple - Mirror Shield.
   - Requires: No additional item. Unlock southeast 3F. Burn all Anubis and destroy Beamos. Lure an Armos onto the floor switch for the south door; Lens both stairway rupee chests, beat Iron Knuckle and stand on the outside switch for Mirror Shield. Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.
@@ -2103,6 +2159,14 @@ Estimated playtime: 35-55 minutes. The final main temple, Bongo Bongo and the ad
 7. Unlock to the ferry. Move the block beneath the ladder to create the shortcut; use Scarecrow Song from the deck for the high token. Play Zelda’s Lullaby on the ferry Triforce, defeat both Stalfos and jump off at its destination.
 
 8. Burn the web and Lens the wall maze: south invisible Floormaster yields a key; west bomb the spinning skulls for token; north burn closing spike walls with Din’s Fire, defeat Gibdos and open Boss Key plus magic chests. Back at the dock bomb the left tower to bridge the crevice. Lens and Hover across the final platforms to the boss.
+
+### Bongo Bongo quick strategy
+
+1. Equip the bow and Lenses of Truth. Dodge the first hand attack and shoot the hand when its purple cover drops. Do the same to the other hand.
+
+2. Switch on the Lenses as the hands go down. Aim between them and shoot the revealed eye before it reaches you.
+
+3. Move right up to the fallen eye and slash. When the body pulls away, switch the Lenses off to save magic for the next opening.
 
 - [ ] **nocturne-shadow — Nocturne of Shadow** (Shadow Temple; Adult; Any)
   - Where: Shadow Temple - Nocturne of Shadow.
@@ -2517,9 +2581,25 @@ Estimated playtime: 35-50 minutes. Remaining five barriers, tower battles, both 
 
 4. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon.
 
-5. With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow.
+5. Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword. Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening. When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish.
 
 6. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.
+
+### Ganondorf quick strategy
+
+1. Keep Light Arrows equipped. Stand on solid outer flooring and swing once as each returning orb reaches you.
+
+2. When an orb hits Ganondorf, immediately land a Light Arrow. Close in and slash while he is grounded.
+
+3. When the floor breaks, use the Longshot on the climbable surface below him to get back into sword range before he rises.
+
+### Ganon quick strategy
+
+1. Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword.
+
+2. Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening.
+
+3. When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish.
 
 - [ ] **boss-key-final — Ganondorf’s Castle Boss Key** (Ganondorf’s Castle; Adult; Any)
   - Where: Ganondorf’s Castle - Ganondorf’s Castle Boss Key.
@@ -2533,7 +2613,7 @@ Estimated playtime: 35-50 minutes. Remaining five barriers, tower battles, both 
 
 - [ ] **ganon-defeated — Ganon defeated and ending watched** (Ganondorf’s Castle; Adult; Any)
   - Where: Ganondorf’s Castle - Ganon defeated and ending watched.
-  - Requires: No additional item. Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.
+  - Requires: No additional item. Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword. Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening. When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.
   - [Route r40](walkthrough.md#r40). [Nintendo Life — Castle Final](https://www.nintendolife.com/guides/zelda-ocarina-of-time-inside-ganondorfs-castle-walkthrough-final-dungeon-last-boss-switch-2) · [ZeldaCentral remake — Final](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ganondorf-and-ganon/) · [QuestFern remake — Castle](https://questfern.com/oot/guides/ganons-castle-walkthrough/)
 
 Expected finish: 100/100 tokens, 36/36 heart pieces, 8/8 boss containers, 20 hearts.

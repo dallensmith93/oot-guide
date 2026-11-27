@@ -252,3 +252,24 @@ body.dark .journal-notes .panel { box-shadow: none; }
   .episode-card .route-completion { position: static; }
   .journal-notes .panel { padding: 12px 0; }
 }
+.illustrated-heading {
+  padding: clamp(24px, 4vw, 56px);
+  min-height: 205px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background: linear-gradient(90deg, #091d19f7, #091d19dc 48%, #091d1940), var(--heading-art) center 52% / cover;
+  border-radius: 12px;
+  color: #fff7e6;
+}
+.illustrated-heading .eyebrow { color: #edd29a; }
+.illustrated-heading .intro { color: #f2f1e7; max-width: 56ch; }
+.illustrated-heading h1 { max-width: 20ch; }
+.boss-plan { padding: clamp(16px, 3vw, 28px); margin: 22px 0 12px; background: var(--panel); border: 1px solid var(--line); border-left: 3px solid var(--gold); border-radius: 8px; }
+.boss-plan h3 { display: flex; align-items: baseline; flex-wrap: wrap; gap: 12px; font: 1.55rem Georgia, serif; }
+.boss-plan small { color: var(--gold); font: 600 .76rem system-ui; }
+.boss-plan ol { padding-left: 1.5em; max-width: 78ch; margin-bottom: 0; }
+.boss-plan li { padding-left: .3em; margin-top: .5em; }
+.boss-plan li::marker { font-weight: bold; color: var(--gold); }
+@media (max-width: 600px) { .illustrated-heading { padding-top: 76px; background-position: center, 72% center; } }
+@media print { .illustrated-heading { display: block; min-height: 0; padding: 0; background: none; color: black; } .illustrated-heading .intro,.illustrated-heading .eyebrow { color: #333; } .boss-plan { break-inside: avoid; } }

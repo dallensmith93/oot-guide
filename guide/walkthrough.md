@@ -94,6 +94,14 @@ Prerequisites: Kokiri Sword, Deku Shield.
 
 Target her eye. Fire the Slingshot when the eye changes colour, then strike repeatedly with the sword while she is stunned. Shoot the exposed eye again on the ceiling to interrupt egg laying. Collect the Heart Container before taking the blue warp.
 
+### Queen Gohma quick strategy
+
+1. Keep the Slingshot ready and face her eye. Shoot as soon as it opens and turns red.
+
+2. Close the gap while she is down and slash the eye until she starts to rise.
+
+3. Follow her up the wall with your aim. A ceiling stun drops her back into sword range before the eggs hatch.
+
 ### Visit checklist
 
 - [ ] **slingshot — Fairy Slingshot** (Great Deku Tree; Child; Any)
@@ -516,6 +524,14 @@ Prerequisites: Goron’s Bracelet, Deku Shield, Fairy Slingshot, Deku Sticks.
 
 When he inhales, throw a bomb into his mouth and strike his lowered head. When he rolls, stand close to the inner lava edge without entering it, let him pass and repeat. Collect the Heart Container and warp.
 
+### King Dodongo quick strategy
+
+1. Have a bomb ready and stand in front of his mouth. Throw it as he takes a breath.
+
+2. Move to his head while the bomb goes off. Slash until he starts to roll.
+
+3. Wait beside the inner lava edge for the roll to pass, then turn to meet his next inhale with another bomb.
+
 ### Visit checklist
 
 - [ ] **bomb-bag — Bomb Bag: 20 bombs** (Dodongo Cavern; Child; Any)
@@ -871,6 +887,14 @@ Prerequisites: Small fish, Fairy Slingshot, Bottle.
 ### Barinade
 
 Keep moving while targeting and severing its ceiling attachments with the Boomerang. Destroy the surrounding jellyfish during their unpowered openings. Stun the exposed base with the Boomerang, then close in for sword damage; retreat before it electrifies again. Pick up the Heart Container before the warp.
+
+### Barinade quick strategy
+
+1. Strafe around the body while aiming the Boomerang at each ceiling tether. Keep moving through the electric shots.
+
+2. Stun the body when there is a gap in the jellyfish ring. Pick off the uncharged jellyfish with the Boomerang.
+
+3. With the ring gone, stun the base again and rush in with your sword. Back out as the electricity returns and repeat.
 
 ### Visit checklist
 
@@ -1338,6 +1362,14 @@ Prerequisites: Hookshot, Song of Time, Scarecrow Song.
 
 Stand near the edge and watch several paintings. Shoot the rider that actually emerges; fakes turn away at the picture surface. In phase two volley his energy ball with timed sword swings, then attack him while grounded. Sidestep his glowing charge. Collect the Heart Container and warp.
 
+### Phantom Ganon quick strategy
+
+1. Stand near the rim with your bow drawn. Watch for the horse crossing the surface of a painting and release as it emerges.
+
+2. Once the rider dismounts, face him with your sword ready. Swing as the energy ball reaches you and keep returning it until he falls.
+
+3. Run straight to his landing spot and slash until he rises. Step sideways if he lowers his spear to charge.
+
 ### Visit checklist
 
 - [ ] **minuet-forest — Minuet of Forest** (Forest Temple; Adult; Any)
@@ -1662,6 +1694,14 @@ Prerequisites: Fairy Bow, Hookshot, Scarecrow Song, Bombs.
 
 When its real head emerges, hit with Hammer to remove the armour and immediately follow with sword strikes. Keep moving during high boulder attacks and avoid the shadows. Later emergence feints end at the third hole. Arrows can damage low flybys. Take the Heart Container and warp.
 
+### Volvagia quick strategy
+
+1. Wait beside a steaming hole with the Hammer ready. Let the head emerge before swinging so a false eruption cannot waste your hit.
+
+2. Hammer the exposed head, then immediately slash the stunned face with your sword.
+
+3. When rocks fall, keep running out of their shadows. Get back beside the holes before the dragon resurfaces.
+
 ### Visit checklist
 
 - [ ] **quiver-gallery — Bigger Quiver: 40 arrows** (Fire Temple; Adult; Any)
@@ -1969,6 +2009,14 @@ Prerequisites: Iron Boots, Zora Tunic, Fairy Bow, Hookshot, Bombs, Zelda’s Lul
 ### Dark Link and Morpha
 
 Use Din’s Fire for reliable Dark Link damage, or bait an attack and counter once he commits. Against Morpha stay on the outer rim with room to sidestep; Longshot the nucleus from a tentacle and slash it on land. Avoid standing on the small central islands where a grab leaves little escape space. Collect the Heart Container before the warp.
+
+### Morpha quick strategy
+
+1. Start on the outer rim with the Longshot equipped. Keep the nucleus in view and leave yourself room to sidestep.
+
+2. As the nucleus travels up a tentacle, hook it onto dry ground. Step in and slash while it is stranded.
+
+3. Ready the Longshot as it retreats. If a tentacle reaches you first, sidestep the grab and line up the next pull.
 
 ### Visit checklist
 
@@ -2474,6 +2522,14 @@ Prerequisites: Silver Gauntlets, Longshot, Fairy Bow, Megaton Hammer.
 
 Reflect one witch’s element beam into the other witch. When they fuse, absorb three projectiles of the same element with Mirror Shield; avoid the opposite element so the charge survives. Aim the released shield blast at Twinrova, cross and slash while she is stunned. Repeat, then take the Heart Container and warp.
 
+### Twinrova quick strategy
+
+1. Raise the Mirror Shield into one witch's beam and turn the reflection toward her sister while the beam lasts.
+
+2. After they fuse, catch three shots of a single element on the shield. Sidestep every shot of the other colour to preserve the charge.
+
+3. Keep the shield pointed at Twinrova for the discharge. Cross to her platform the instant she drops and slash through the stun.
+
 ### Visit checklist
 
 - [ ] **mirror-shield — Mirror Shield** (Spirit Temple; Adult; Any)
@@ -2583,6 +2639,14 @@ Prerequisites: Forest, Fire and Water Medallions, Lenses of Truth, Din’s Fire,
 ### Bongo Bongo’s changed opening
 
 Dodge the hands while their purple protection is active. After an attack exposes a hand, shoot it; when the boss reveals its opening, use Lenses of Truth to see the central red eye and shoot before its charge connects. Slash the stunned body, then repeat. The old advice to shoot protected hands immediately does not describe the remake’s full cycle.
+
+### Bongo Bongo quick strategy
+
+1. Equip the bow and Lenses of Truth. Dodge the first hand attack and shoot the hand when its purple cover drops. Do the same to the other hand.
+
+2. Switch on the Lenses as the hands go down. Aim between them and shoot the revealed eye before it reaches you.
+
+3. Move right up to the fallen eye and slash. When the body pulls away, switch the Lenses off to save magic for the next opening.
 
 ### Visit checklist
 
@@ -3155,13 +3219,29 @@ Prerequisites: All six barriers, Light Arrows, Master Sword, Magic and healing.
 
 4. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon.
 
-5. With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow.
+5. Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword. Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening. When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish.
 
 6. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.
 
 ### Save-behaviour limitation
 
 The inspected remake walkthrough verifies the finale door sequence but does not establish every autosave/checkpoint or clear-file flag. Keep the manual pre-boss save; the guide does not recommend reset/save exploits or promise a postgame overwrite location.
+
+### Ganondorf quick strategy
+
+1. Keep Light Arrows equipped. Stand on solid outer flooring and swing once as each returning orb reaches you.
+
+2. When an orb hits Ganondorf, immediately land a Light Arrow. Close in and slash while he is grounded.
+
+3. When the floor breaks, use the Longshot on the climbable surface below him to get back into sword range before he rises.
+
+### Ganon quick strategy
+
+1. Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword.
+
+2. Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening.
+
+3. When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish.
 
 ### Visit checklist
 
@@ -3177,7 +3257,7 @@ The inspected remake walkthrough verifies the finale door sequence but does not 
 
 - [ ] **ganon-defeated — Ganon defeated and ending watched** (Ganondorf’s Castle; Adult; Any)
   - Where: Ganondorf’s Castle - Ganon defeated and ending watched.
-  - Requires: No additional item. Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. With Master Sword temporarily knocked away, bait Ganon’s attack until the weapon lodges, circle behind and strike the tail with Hammer or Biggoron Sword. Once the barrier drops recover Master Sword; use tail openings again and deliver the prompted final blow. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.
+  - Requires: No additional item. Before the boss door, make a manual save. This begins the finale sequence; perform unresolved overworld checks first if you want them finished before the ending. Against Ganondorf remain on the outer floor, volley his energy ball with sword swings until it hits, then shoot Light Arrow and close in for sword damage. Later he forces you onto an outer corner: dodge the other projectiles, win the next volley, stun with Light Arrow and Hookshot the climbable wall beneath him to reach melee range. Follow Zelda closely down the collapsing tower. Defeat the Stalfos on the escape route; let Zelda stun the ReDeads near the end. Exit for Ganon. Bait a blade swing and circle to his tail as it sticks. Break the tail crystal with the Hammer or Biggoron Sword. Recover the Master Sword, strike the exposed glowing weak points and keep moving through the lightning. Save arrows and magic for the last opening. When Zelda exposes the forehead eye, hit it with Light Arrows until Ganon staggers. Move to his face and use the Master Sword for the finish. Watch the ending and return to your saved adventure for r41. Do not assume the ending creates an explorable child-era postgame or preserves the final scene as your current world position.
   - [Route r40](walkthrough.md#r40). [Nintendo Life — Castle Final](https://www.nintendolife.com/guides/zelda-ocarina-of-time-inside-ganondorfs-castle-walkthrough-final-dungeon-last-boss-switch-2) · [ZeldaCentral remake — Final](https://zeldacentral.com/games/ocarina-of-time-remake/walkthrough/ganondorf-and-ganon/) · [QuestFern remake — Castle](https://questfern.com/oot/guides/ganons-castle-walkthrough/)
 
 Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 hearts.
