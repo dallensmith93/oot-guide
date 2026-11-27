@@ -4881,7 +4881,7 @@ window.GUIDE = {
   "episodes": [
     {
       "id": "ep01",
-      "title": "A hero in the forest",
+      "title": "The 100% Quest Begins Inside a Dying Tree",
       "sections": [
         "r01",
         "r02"
@@ -4901,7 +4901,7 @@ window.GUIDE = {
     },
     {
       "id": "ep02",
-      "title": "The princess and the forest song",
+      "title": "Sneaking Into Hyrule Castle Changes Everything",
       "sections": [
         "r03",
         "r04"
@@ -4921,7 +4921,7 @@ window.GUIDE = {
     },
     {
       "id": "ep03",
-      "title": "Village secrets and the Gorons",
+      "title": "Kakariko Is Hiding More Than You Think",
       "sections": [
         "r05",
         "r06"
@@ -4941,7 +4941,7 @@ window.GUIDE = {
     },
     {
       "id": "ep04",
-      "title": "Dodongo Cavern and the summit",
+      "title": "Bombs, Dodongos and a Trip Up Death Mountain",
       "sections": [
         "r07",
         "r08"
@@ -4961,7 +4961,7 @@ window.GUIDE = {
     },
     {
       "id": "ep05",
-      "title": "Ranch games and Zora waters",
+      "title": "Hyrule Has a Minigame Problem... and I Need Every Prize",
       "sections": [
         "r09",
         "r10"
@@ -4981,7 +4981,7 @@ window.GUIDE = {
     },
     {
       "id": "ep06",
-      "title": "Inside Jabu-Jabu",
+      "title": "Swallowed by Jabu-Jabu, Stuck With Ruto",
       "sections": [
         "r11"
       ],
@@ -5000,7 +5000,7 @@ window.GUIDE = {
     },
     {
       "id": "ep07",
-      "title": "Masks and the Door of Time",
+      "title": "One Last Childhood Adventure Before Everything Changes",
       "sections": [
         "r12",
         "r13"
@@ -5020,7 +5020,7 @@ window.GUIDE = {
     },
     {
       "id": "ep08",
-      "title": "Seven years later",
+      "title": "Seven Years Later... What Happened to Hyrule?",
       "sections": [
         "r14"
       ],
@@ -5039,7 +5039,7 @@ window.GUIDE = {
     },
     {
       "id": "ep09",
-      "title": "The Forest Temple",
+      "title": "The Forest Temple Is Haunted by More Than Ghosts",
       "sections": [
         "r15"
       ],
@@ -5058,7 +5058,7 @@ window.GUIDE = {
     },
     {
       "id": "ep10",
-      "title": "Back to childhood",
+      "title": "Back to Childhood, Straight Into the Well of Nightmares",
       "sections": [
         "r16",
         "r17"
@@ -5078,7 +5078,7 @@ window.GUIDE = {
     },
     {
       "id": "ep11",
-      "title": "Fire Temple and crater rewards",
+      "title": "The Fire Temple Has a Dragon Problem",
       "sections": [
         "r18",
         "r19"
@@ -5098,7 +5098,7 @@ window.GUIDE = {
     },
     {
       "id": "ep12",
-      "title": "The frozen domain",
+      "title": "Zora's Domain Froze. The Answer Is in the Ice Cavern.",
       "sections": [
         "r20"
       ],
@@ -5117,7 +5117,7 @@ window.GUIDE = {
     },
     {
       "id": "ep13",
-      "title": "The Water Temple",
+      "title": "The Water Temple Has a Reputation. Let's Find Out Why.",
       "sections": [
         "r21"
       ],
@@ -5136,7 +5136,7 @@ window.GUIDE = {
     },
     {
       "id": "ep14",
-      "title": "Lake rewards and Biggoron's Sword",
+      "title": "How Far Will I Go for Biggoron's Sword?",
       "sections": [
         "r22",
         "r23"
@@ -5156,7 +5156,7 @@ window.GUIDE = {
     },
     {
       "id": "ep15",
-      "title": "The Big Poe hunt",
+      "title": "Ten Ghosts, One Horse, a Whole Lot of Bottles",
       "sections": [
         "r24"
       ],
@@ -5175,7 +5175,7 @@ window.GUIDE = {
     },
     {
       "id": "ep17",
-      "title": "Gerudo Fortress and the desert",
+      "title": "Breaking Into Gerudo Fortress, Then Chasing a Ghost",
       "sections": [
         "r27",
         "r28"
@@ -5195,7 +5195,7 @@ window.GUIDE = {
     },
     {
       "id": "ep18",
-      "title": "Child Spirit Temple",
+      "title": "The Spirit Temple Needs a Hero Half My Size",
       "sections": [
         "r29"
       ],
@@ -5214,7 +5214,7 @@ window.GUIDE = {
     },
     {
       "id": "ep19",
-      "title": "Adult Spirit Temple",
+      "title": "Twinrova Brought Fire and Ice. I Brought a Mirror.",
       "sections": [
         "r30"
       ],
@@ -5233,7 +5233,7 @@ window.GUIDE = {
     },
     {
       "id": "ep16",
-      "title": "Shadow Temple and regional cleanup",
+      "title": "I Saved the Shadow Temple for Last... Here We Go",
       "sections": [
         "r25",
         "r26"
@@ -5253,7 +5253,7 @@ window.GUIDE = {
     },
     {
       "id": "ep20",
-      "title": "The Gerudo Proving Grounds",
+      "title": "Nine Keys Stand Between Me and the Ice Arrows",
       "sections": [
         "r31"
       ],
@@ -5272,7 +5272,7 @@ window.GUIDE = {
     },
     {
       "id": "ep21",
-      "title": "Horseback challenges",
+      "title": "Epona Carries This 100% Run",
       "sections": [
         "r32"
       ],
@@ -5291,7 +5291,7 @@ window.GUIDE = {
     },
     {
       "id": "ep22",
-      "title": "The completion audit",
+      "title": "100 Skulltulas Later... What Am I Still Missing?",
       "sections": [
         "r33",
         "r34",
@@ -5312,7 +5312,7 @@ window.GUIDE = {
     },
     {
       "id": "ep23",
-      "title": "Light Arrows and Golden Gauntlets",
+      "title": "Light Arrows, Golden Gauntlets... Time to Storm the Castle",
       "sections": [
         "r36",
         "r37",
@@ -5333,7 +5333,7 @@ window.GUIDE = {
     },
     {
       "id": "ep24",
-      "title": "The final barriers and Ganon",
+      "title": "Every Temple Led Here: The Final Fight With Ganon",
       "sections": [
         "r39",
         "r40"
@@ -5353,7 +5353,7 @@ window.GUIDE = {
     },
     {
       "id": "ep25",
-      "title": "Hall of Fallen Foes and postgame records",
+      "title": "I Beat Ganon. Now Every Boss Wants a Rematch.",
       "sections": [
         "r41"
       ],

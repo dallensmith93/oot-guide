@@ -2,7 +2,7 @@
 
 Full directions and evidence are in [walkthrough.md](walkthrough.md).
 
-# Episode 01: A hero in the forest
+# Episode 01: The 100% Quest Begins Inside a Dying Tree
 
 Estimated playtime: 20-30 minutes. Includes starting equipment, the full Deku Tree sweep and Gohma. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -42,7 +42,7 @@ Expected: 0/100 Skulltulas · 0/36 heart pieces · 0/8 boss containers · 3 hear
 
 Expected: 4/100 Skulltulas · 0/36 heart pieces · 1/8 boss containers · 4 hearts.
 
-# Episode 02: The princess and the forest song
+# Episode 02: Sneaking Into Hyrule Castle Changes Everything
 
 Estimated playtime: 20-35 minutes. Castle stealth, story dialogue, Lost Woods games and soil tokens; memory-game retries can add time. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -92,7 +92,7 @@ Expected: 7/100 Skulltulas · 1/36 heart pieces · 1/8 boss containers · 4 hear
 
 Expected: 11/100 Skulltulas · 3/36 heart pieces · 1/8 boss containers · 4 hearts.
 
-# Episode 03: Village secrets and the Gorons
+# Episode 03: Kakariko Is Hiding More Than You Think
 
 Estimated playtime: 25-40 minutes. Cucco gathering, village night tokens, grave digging and the Goron City visit; digging luck varies. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -146,7 +146,7 @@ Expected: 17/100 Skulltulas · 6/36 heart pieces · 1/8 boss containers · 5 hea
 
 Expected: 17/100 Skulltulas · 7/36 heart pieces · 1/8 boss containers · 5 hearts.
 
-# Episode 04: Dodongo Cavern and the summit
+# Episode 04: Bombs, Dodongos and a Trip Up Death Mountain
 
 Estimated playtime: 25-40 minutes. Full Dodongo Cavern route, boss, summit fountain and mountain pickups. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -198,7 +198,7 @@ Expected: 21/100 Skulltulas · 7/36 heart pieces · 2/8 boss containers · 6 hea
 
 Expected: 25/100 Skulltulas · 9/36 heart pieces · 2/8 boss containers · 7 hearts.
 
-# Episode 05: Ranch games and Zora waters
+# Episode 05: Hyrule Has a Minigame Problem... and I Need Every Prize
 
 Estimated playtime: 30-45 minutes. Ranch games, shooting, bowling, river traversal and diving; allow extra time for perfect scores. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -262,7 +262,7 @@ Expected: 26/100 Skulltulas · 11/36 heart pieces · 2/8 boss containers · 7 he
 
 Expected: 30/100 Skulltulas · 14/36 heart pieces · 2/8 boss containers · 8 hearts.
 
-# Episode 06: Inside Jabu-Jabu
+# Episode 06: Swallowed by Jabu-Jabu, Stuck With Ruto
 
 Estimated playtime: 20-30 minutes. Full Jabu-Jabu clear with Ruto, all four tokens and Barinade. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -288,7 +288,7 @@ Estimated playtime: 20-30 minutes. Full Jabu-Jabu clear with Ruto, all four toke
 
 Expected: 34/100 Skulltulas · 14/36 heart pieces · 3/8 boss containers · 9 hearts.
 
-# Episode 07: Masks and the Door of Time
+# Episode 07: One Last Childhood Adventure Before Everything Changes
 
 Estimated playtime: 35-55 minutes. Long child cleanup circuit, mask trades, upgrades, fishing and the Door of Time scenes. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -384,7 +384,7 @@ Expected: 43/100 Skulltulas · 17/36 heart pieces · 3/8 boss containers · 10 h
 
 Expected: 43/100 Skulltulas · 17/36 heart pieces · 3/8 boss containers · 10 hearts.
 
-# Episode 08: Seven years later
+# Episode 08: Seven Years Later... What Happened to Hyrule?
 
 Estimated playtime: 20-30 minutes. Epona races, adult readings, Hookshot race, windmill and Scarecrow Song setup. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -416,7 +416,7 @@ Estimated playtime: 20-30 minutes. Epona races, adult readings, Hookshot race, w
 
 Expected: 43/100 Skulltulas · 19/36 heart pieces · 3/8 boss containers · 10 hearts.
 
-# Episode 09: The Forest Temple
+# Episode 09: The Forest Temple Is Haunted by More Than Ghosts
 
 Estimated playtime: 30-45 minutes. Forest approach, all four Poes, dungeon collectibles and Phantom Ganon. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -460,7 +460,7 @@ Estimated playtime: 30-45 minutes. Forest approach, all four Poes, dungeon colle
 
 Expected: 50/100 Skulltulas · 19/36 heart pieces · 4/8 boss containers · 11 hearts.
 
-# Episode 10: Back to childhood
+# Episode 10: Back to Childhood, Straight Into the Well of Nightmares
 
 Estimated playtime: 30-45 minutes. Bottom of the Well plus child field rewards, frogs, chest game and remaining bean planting. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -520,7 +520,7 @@ Expected: 53/100 Skulltulas · 19/36 heart pieces · 4/8 boss containers · 11 h
 
 Expected: 54/100 Skulltulas · 24/36 heart pieces · 4/8 boss containers · 13 hearts.
 
-# Episode 11: Fire Temple and crater rewards
+# Episode 11: The Fire Temple Has a Dragon Problem
 
 Estimated playtime: 35-55 minutes. Adult shooting reward, full Fire Temple, Volvagia and mountain cleanup. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -584,7 +584,7 @@ Expected: 59/100 Skulltulas · 24/36 heart pieces · 5/8 boss containers · 14 h
 
 Expected: 62/100 Skulltulas · 26/36 heart pieces · 5/8 boss containers · 14 hearts.
 
-# Episode 12: The frozen domain
+# Episode 12: Zora's Domain Froze. The Answer Is in the Ice Cavern.
 
 Estimated playtime: 20-35 minutes. Zora region traversal, Ice Cavern sweep, Blue Fire errands and underwater rewards. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -620,7 +620,7 @@ Estimated playtime: 20-35 minutes. Zora region traversal, Ice Cavern sweep, Blue
 
 Expected: 67/100 Skulltulas · 28/36 heart pieces · 5/8 boss containers · 15 hearts.
 
-# Episode 13: The Water Temple
+# Episode 13: The Water Temple Has a Reputation. Let's Find Out Why.
 
 Estimated playtime: 30-45 minutes. Planned water-level route, all five tokens, Dark Link and Morpha; puzzle backtracking can extend this. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -654,7 +654,7 @@ Estimated playtime: 30-45 minutes. Planned water-level route, all five tokens, D
 
 Expected: 72/100 Skulltulas · 28/36 heart pieces · 6/8 boss containers · 16 hearts.
 
-# Episode 14: Lake rewards and Biggoron's Sword
+# Episode 14: How Far Will I Go for Biggoron's Sword?
 
 Estimated playtime: 30-45 minutes. Lake rewards, adult fishing and the entire Biggoron delivery chain; fishing is the main variable. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -698,7 +698,7 @@ Expected: 74/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 h
 
 Expected: 74/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 hearts.
 
-# Episode 15: The Big Poe hunt
+# Episode 15: Ten Ghosts, One Horse, a Whole Lot of Bottles
 
 Estimated playtime: 20-40 minutes. Ten Big Poes, riding between spawn points, bottle turn-ins and retries. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -712,7 +712,7 @@ Estimated playtime: 20-40 minutes. Ten Big Poes, riding between spawn points, bo
 
 Expected: 75/100 Skulltulas · 30/36 heart pieces · 6/8 boss containers · 16 hearts.
 
-# Episode 16: Gerudo Fortress and the desert
+# Episode 16: Breaking Into Gerudo Fortress, Then Chasing a Ghost
 
 Estimated playtime: 25-40 minutes. Four carpenter rescues, fortress and valley collectibles, desert crossing and Colossus setup. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -754,7 +754,7 @@ Expected: 79/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 h
 
 Expected: 81/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 hearts.
 
-# Episode 17: Child Spirit Temple
+# Episode 17: The Spirit Temple Needs a Hero Half My Size
 
 Estimated playtime: 20-30 minutes. Two remote child bean stops, child Spirit Temple collectibles and Silver Gauntlets. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -776,7 +776,7 @@ Estimated playtime: 20-30 minutes. Two remote child bean stops, child Spirit Tem
 
 Expected: 86/100 Skulltulas · 31/36 heart pieces · 6/8 boss containers · 16 hearts.
 
-# Episode 18: Adult Spirit Temple
+# Episode 18: Twinrova Brought Fire and Ice. I Brought a Mirror.
 
 Estimated playtime: 30-45 minutes. Adult Spirit Temple, Mirror Shield, Twinrova and the delayed crater bean reward. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -810,7 +810,7 @@ Estimated playtime: 30-45 minutes. Adult Spirit Temple, Mirror Shield, Twinrova 
 
 Expected: 89/100 Skulltulas · 33/36 heart pieces · 7/8 boss containers · 18 hearts.
 
-# Episode 19: Shadow Temple and regional cleanup
+# Episode 19: I Saved the Shadow Temple for Last... Here We Go
 
 Estimated playtime: 35-55 minutes. The final main temple, Bongo Bongo and the adult regional cleanup circuit; Spirit Temple is already complete. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -866,7 +866,7 @@ Expected: 94/100 Skulltulas · 33/36 heart pieces · 8/8 boss containers · 19 h
 
 Expected: 99/100 Skulltulas · 34/36 heart pieces · 8/8 boss containers · 19 hearts.
 
-# Episode 20: The Gerudo Proving Grounds
+# Episode 20: Nine Keys Stand Between Me and the Ice Arrows
 
 Estimated playtime: 20-35 minutes. All nine keys, Ice Arrows and the complete Proving Grounds chest sweep. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -880,7 +880,7 @@ Estimated playtime: 20-35 minutes. All nine keys, Ice Arrows and the complete Pr
 
 Expected: 99/100 Skulltulas · 34/36 heart pieces · 8/8 boss containers · 19 hearts.
 
-# Episode 21: Horseback challenges
+# Episode 21: Epona Carries This 100% Run
 
 Estimated playtime: 15-30 minutes. Both horseback archery prizes, Malon race and cow verification; retries can extend this. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -896,7 +896,7 @@ Estimated playtime: 15-30 minutes. Both horseback archery prizes, Malon race and
 
 Expected: 99/100 Skulltulas · 35/36 heart pieces · 8/8 boss containers · 19 hearts.
 
-# Episode 22: The completion audit
+# Episode 22: 100 Skulltulas Later... What Am I Still Missing?
 
 Estimated playtime: 15-45 minutes. Assumes earlier episode pickups are checked. Missing dungeon chests and remote rewards determine the length. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -930,7 +930,7 @@ Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 
 
 Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 hearts.
 
-# Episode 23: Light Arrows and Golden Gauntlets
+# Episode 23: Light Arrows, Golden Gauntlets... Time to Storm the Castle
 
 Estimated playtime: 15-25 minutes. Story scenes, Shadow Barrier, Golden Gauntlets and the final Great Fairy detour. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -958,7 +958,7 @@ Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 
 
 Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 hearts.
 
-# Episode 24: The final barriers and Ganon
+# Episode 24: Every Temple Led Here: The Final Fight With Ganon
 
 Estimated playtime: 35-50 minutes. Remaining five barriers, tower battles, both final bosses, escape and ending scenes. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
@@ -988,7 +988,7 @@ Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 
 
 Expected: 100/100 Skulltulas · 36/36 heart pieces · 8/8 boss containers · 20 hearts.
 
-# Episode 25: Hall of Fallen Foes and postgame records
+# Episode 25: I Beat Ganon. Now Every Boss Wants a Rematch.
 
 Estimated playtime: 60-150 minutes. Optional Hall audit, individual rematches and all three gauntlets. Assumes most statues are already earned; split across sessions if needed. Experienced-player estimate based on your 9-15-hour OG/3DS 100% pace, including listed pickups. Unfamiliar remake changes, reading, commentary and breaks add time. This is gameplay/recording time, not edited video length.
 
