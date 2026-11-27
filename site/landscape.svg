@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" fill="none">
+<defs><linearGradient id="sky" x2="0" y2="720" gradientUnits="userSpaceOnUse"><stop stop-color="#0b2828"/><stop offset=".65" stop-color="#406958"/><stop offset="1" stop-color="#aeab75"/></linearGradient><radialGradient id="glow"><stop stop-color="#eedcad" stop-opacity=".34"/><stop offset="1" stop-color="#eedcad" stop-opacity="0"/></radialGradient><linearGradient id="blade" x2="1" y2="1"><stop stop-color="#f1e5c2"/><stop offset="1" stop-color="#729a8f"/></linearGradient></defs>
+<path fill="url(#sky)" d="M0 0h1200v720H0z"/><circle cx="880" cy="220" r="260" fill="url(#glow)"/><circle cx="880" cy="220" r="64" stroke="#e2d3a2" stroke-opacity=".3"/><circle cx="880" cy="220" r="49" stroke="#e2d3a2" stroke-opacity=".2"/><path d="m880 186 29 51h-58z" stroke="#e6d9ad" stroke-opacity=".65"/>
+<g fill="#c0b980" opacity=".5"><circle cx="670" cy="98" r="1.4"/><circle cx="1010" cy="120" r="2"/><circle cx="1090" cy="270" r="1"/><circle cx="740" cy="305" r="1.5"/><circle cx="940" cy="65" r="1"/><circle cx="510" cy="160" r="1.2"/></g>
+<path d="m270 490 165-180 100 111 143-196 168 216 125-141 229 210v210H0V560z" fill="#37594d"/><path d="m678 225-58 145 58-36 62 51z" fill="#97a28b" opacity=".3"/>
+<path d="m0 535 190-92 168 83 204-70 158 45 164-96 156 71 160-21v265H0z" fill="#24483c"/><path d="M0 626c190-172 335-39 489-87s221-39 368 2 251-70 343-10v189H0z" fill="#173e33"/>
+<path d="M1200 571c-180-22-216 49-295 73s-201 26-254 76h549z" fill="#47745b"/><path d="M1200 614c-205-16-241 65-350 106h350z" fill="#92a67a" opacity=".27"/>
+<g fill="#102f29"><path d="m1050 340-46 137h26l-51 110h142l-49-110h25z"/><path d="M1044 535h13v94h-13z"/><path d="m1142 281-59 173h35l-64 140h178l-61-140h32z"/><path d="M1134 554h17v106h-17z"/></g>
+<path d="m760 625 45-33 55 12 28 40-21 22H746z" fill="#66806a"/><path d="m760 625 50-17 50-4-55-12z" fill="#8a9a7e"/>
+<path d="m813 470 10 4-1 140-6 13-6-14z" fill="url(#blade)"/><path d="m794 469 22-9 24 10-2 8-21-6-21 5z" fill="#c9ae69"/><path d="m811 439 12 1-2 23h-8z" fill="#18373c"/><path d="m811 434 13 1-1 7-12-1z" fill="#c9ae69"/>
+<g stroke="#97b28c" stroke-opacity=".35"><path d="m708 694 5-30 8 30m197-11 3-23 6 22m-238-9-7-24m236 54 9-28"/></g>
+</svg>
